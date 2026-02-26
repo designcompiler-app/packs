@@ -1,1 +1,150 @@
-{"meta":{"id":"neutral-surfaces","name":"Neutral Surfaces","description":"10-level surface hierarchy for light and dark modes — from background to highest elevation. Includes on-surface text colors for each level. Pairs with any brand palette.","source":"Design Compiler","sourceUrl":"https://stylefuse.io","version":"1.0","license":"CC0","licenseUrl":"https://creativecommons.org/publicdomain/zero/1.0/","tokenCount":30,"categories":["color"],"preview":["#FFFFFF","#F8FAFC","#F1F5F9","#E2E8F0","#0F172A","#1E293B","#334155","#475569"]},"data":{"color":{"$type":"color","light":{"$description":"Light mode surface hierarchy — background to highest elevation","surface0":{"$value":"#F1F5F9","$description":"Sunken / page background"},"surface1":{"$value":"#F8FAFC","$description":"Default background"},"surface2":{"$value":"#FFFFFF","$description":"Card / raised surface"},"surface3":{"$value":"#FFFFFF","$description":"Modal / dialog"},"surface4":{"$value":"#FFFFFF","$description":"Popover / dropdown"},"onSurface":{"$value":"#0F172A","$description":"Primary text on surfaces"},"onSurfaceSecondary":{"$value":"#475569","$description":"Secondary text on surfaces"},"onSurfaceTertiary":{"$value":"#94A3B8","$description":"Tertiary/muted text on surfaces"},"divider":{"$value":"#E2E8F0","$description":"Divider between surface levels"},"scrim":{"$value":"#0F172A80","$description":"Overlay scrim behind modals"}},"dark":{"$description":"Dark mode surface hierarchy — deepest to highest elevation","surface0":{"$value":"#020617","$description":"Sunken / page background"},"surface1":{"$value":"#0F172A","$description":"Default background"},"surface2":{"$value":"#1E293B","$description":"Card / raised surface"},"surface3":{"$value":"#334155","$description":"Modal / dialog"},"surface4":{"$value":"#475569","$description":"Popover / dropdown"},"onSurface":{"$value":"#F1F5F9","$description":"Primary text on surfaces"},"onSurfaceSecondary":{"$value":"#94A3B8","$description":"Secondary text on surfaces"},"onSurfaceTertiary":{"$value":"#64748B","$description":"Tertiary/muted text on surfaces"},"divider":{"$value":"#334155","$description":"Divider between surface levels"},"scrim":{"$value":"#00000080","$description":"Overlay scrim behind modals"}},"neutral":{"50":{"$value":"#FAFAFA"},"100":{"$value":"#F5F5F5"},"200":{"$value":"#E5E5E5"},"300":{"$value":"#D4D4D4"},"400":{"$value":"#A3A3A3"},"500":{"$value":"#737373"},"600":{"$value":"#525252"},"700":{"$value":"#404040"},"800":{"$value":"#262626"},"900":{"$value":"#171717"},"$description":"Brand-neutral gray scale usable with any palette"}}}}
+{
+  "meta": {
+    "id": "neutral-surfaces",
+    "name": "Neutral Surfaces",
+    "description": "10-level surface hierarchy for light and dark modes — from background to highest elevation. Includes on-surface text colors for each level. Pairs with any brand palette.",
+    "source": "Design Compiler",
+    "sourceUrl": "https://stylefuse.io",
+    "version": "1.0",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "tokenCount": 30,
+    "categories": [
+      "color"
+    ],
+    "preview": [
+      "#FFFFFF",
+      "#F8FAFC",
+      "#F1F5F9",
+      "#E2E8F0",
+      "#0F172A",
+      "#1E293B",
+      "#334155",
+      "#475569"
+    ]
+  },
+  "data": {
+    "color": {
+      "$type": "color",
+      "light": {
+        "$description": "Light mode surface hierarchy — background to highest elevation",
+        "surface0": {
+          "$value": "#F1F5F9",
+          "$description": "Sunken / page background"
+        },
+        "surface1": {
+          "$value": "#F8FAFC",
+          "$description": "Default background"
+        },
+        "surface2": {
+          "$value": "#FFFFFF",
+          "$description": "Card / raised surface"
+        },
+        "surface3": {
+          "$value": "#FFFFFF",
+          "$description": "Modal / dialog"
+        },
+        "surface4": {
+          "$value": "#FFFFFF",
+          "$description": "Popover / dropdown"
+        },
+        "onSurface": {
+          "$value": "#0F172A",
+          "$description": "Primary text on surfaces"
+        },
+        "onSurfaceSecondary": {
+          "$value": "#475569",
+          "$description": "Secondary text on surfaces"
+        },
+        "onSurfaceTertiary": {
+          "$value": "#94A3B8",
+          "$description": "Tertiary/muted text on surfaces"
+        },
+        "divider": {
+          "$value": "#E2E8F0",
+          "$description": "Divider between surface levels"
+        },
+        "scrim": {
+          "$value": "#0F172A80",
+          "$description": "Overlay scrim behind modals"
+        }
+      },
+      "dark": {
+        "$description": "Dark mode surface hierarchy — deepest to highest elevation",
+        "surface0": {
+          "$value": "#020617",
+          "$description": "Sunken / page background"
+        },
+        "surface1": {
+          "$value": "#0F172A",
+          "$description": "Default background"
+        },
+        "surface2": {
+          "$value": "#1E293B",
+          "$description": "Card / raised surface"
+        },
+        "surface3": {
+          "$value": "#334155",
+          "$description": "Modal / dialog"
+        },
+        "surface4": {
+          "$value": "#475569",
+          "$description": "Popover / dropdown"
+        },
+        "onSurface": {
+          "$value": "#F1F5F9",
+          "$description": "Primary text on surfaces"
+        },
+        "onSurfaceSecondary": {
+          "$value": "#94A3B8",
+          "$description": "Secondary text on surfaces"
+        },
+        "onSurfaceTertiary": {
+          "$value": "#64748B",
+          "$description": "Tertiary/muted text on surfaces"
+        },
+        "divider": {
+          "$value": "#334155",
+          "$description": "Divider between surface levels"
+        },
+        "scrim": {
+          "$value": "#00000080",
+          "$description": "Overlay scrim behind modals"
+        }
+      },
+      "neutral": {
+        "50": {
+          "$value": "#FAFAFA"
+        },
+        "100": {
+          "$value": "#F5F5F5"
+        },
+        "200": {
+          "$value": "#E5E5E5"
+        },
+        "300": {
+          "$value": "#D4D4D4"
+        },
+        "400": {
+          "$value": "#A3A3A3"
+        },
+        "500": {
+          "$value": "#737373"
+        },
+        "600": {
+          "$value": "#525252"
+        },
+        "700": {
+          "$value": "#404040"
+        },
+        "800": {
+          "$value": "#262626"
+        },
+        "900": {
+          "$value": "#171717"
+        },
+        "$description": "Brand-neutral gray scale usable with any palette"
+      }
+    }
+  }
+}

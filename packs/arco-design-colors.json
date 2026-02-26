@@ -1,1 +1,196 @@
-{"meta":{"id":"arco-design-colors","name":"Arco Design Colors","description":"ByteDance Arco Design functional color palette — 5 color families (blue, green, orange, red, gray) each with a 10-step gradient scale from lightest to darkest, generated via the @arco-design/color algorithm.","source":"Arco Design","sourceUrl":"https://arco.design","version":"2.0","license":"MIT","licenseUrl":"https://github.com/arco-design/arco-design/blob/main/LICENSE","tokenCount":50,"categories":["color"],"preview":["#165dff","#00b42a","#ff7d00","#f53f3f","#f7f8fa","#4e5969","#0e42d2","#86909c"]},"data":{"color":{"$type":"color","blue":{"1":{"$value":"#e8f3ff"},"2":{"$value":"#bedaff"},"3":{"$value":"#94bfff"},"4":{"$value":"#6aa1ff"},"5":{"$value":"#4080ff"},"6":{"$value":"#165dff"},"7":{"$value":"#0e42d2"},"8":{"$value":"#072ca6"},"9":{"$value":"#031a79"},"10":{"$value":"#000d4d"},"$description":"Arco Blue — primary brand color scale, 10 steps from lightest to darkest"},"green":{"1":{"$value":"#e8ffea"},"2":{"$value":"#aff0b5"},"3":{"$value":"#7be188"},"4":{"$value":"#4cd263"},"5":{"$value":"#23c343"},"6":{"$value":"#00b42a"},"7":{"$value":"#009a29"},"8":{"$value":"#008026"},"9":{"$value":"#006622"},"10":{"$value":"#004d1c"},"$description":"Arco Green — success and positive state color scale"},"orange":{"1":{"$value":"#fff7e8"},"2":{"$value":"#ffe4ba"},"3":{"$value":"#ffcf8b"},"4":{"$value":"#ffb65d"},"5":{"$value":"#ff9a2e"},"6":{"$value":"#ff7d00"},"7":{"$value":"#d25f00"},"8":{"$value":"#a64500"},"9":{"$value":"#792e00"},"10":{"$value":"#4d1b00"},"$description":"Arco Orange — warning state color scale"},"red":{"1":{"$value":"#ffece8"},"2":{"$value":"#fdcdc5"},"3":{"$value":"#fbaca3"},"4":{"$value":"#f98981"},"5":{"$value":"#f76560"},"6":{"$value":"#f53f3f"},"7":{"$value":"#cb272d"},"8":{"$value":"#a1151e"},"9":{"$value":"#770813"},"10":{"$value":"#4d000a"},"$description":"Arco Red — danger and error state color scale"},"gray":{"1":{"$value":"#f7f8fa"},"2":{"$value":"#f2f3f5"},"3":{"$value":"#e5e6eb"},"4":{"$value":"#c9cdd4"},"5":{"$value":"#a9aeb8"},"6":{"$value":"#86909c"},"7":{"$value":"#6b7785"},"8":{"$value":"#4e5969"},"9":{"$value":"#272e3b"},"10":{"$value":"#1d2129"},"$description":"Arco Gray — neutral color scale for text, borders, and backgrounds"}}}}
+{
+  "meta": {
+    "id": "arco-design-colors",
+    "name": "Arco Design Colors",
+    "description": "ByteDance Arco Design functional color palette — 5 color families (blue, green, orange, red, gray) each with a 10-step gradient scale from lightest to darkest, generated via the @arco-design/color algorithm.",
+    "source": "Arco Design",
+    "sourceUrl": "https://arco.design",
+    "version": "2.0",
+    "license": "MIT",
+    "licenseUrl": "https://github.com/arco-design/arco-design/blob/main/LICENSE",
+    "tokenCount": 50,
+    "categories": [
+      "color"
+    ],
+    "preview": [
+      "#165dff",
+      "#00b42a",
+      "#ff7d00",
+      "#f53f3f",
+      "#f7f8fa",
+      "#4e5969",
+      "#0e42d2",
+      "#86909c"
+    ]
+  },
+  "data": {
+    "color": {
+      "$type": "color",
+      "blue": {
+        "1": {
+          "$value": "#e8f3ff"
+        },
+        "2": {
+          "$value": "#bedaff"
+        },
+        "3": {
+          "$value": "#94bfff"
+        },
+        "4": {
+          "$value": "#6aa1ff"
+        },
+        "5": {
+          "$value": "#4080ff"
+        },
+        "6": {
+          "$value": "#165dff"
+        },
+        "7": {
+          "$value": "#0e42d2"
+        },
+        "8": {
+          "$value": "#072ca6"
+        },
+        "9": {
+          "$value": "#031a79"
+        },
+        "10": {
+          "$value": "#000d4d"
+        },
+        "$description": "Arco Blue — primary brand color scale, 10 steps from lightest to darkest"
+      },
+      "green": {
+        "1": {
+          "$value": "#e8ffea"
+        },
+        "2": {
+          "$value": "#aff0b5"
+        },
+        "3": {
+          "$value": "#7be188"
+        },
+        "4": {
+          "$value": "#4cd263"
+        },
+        "5": {
+          "$value": "#23c343"
+        },
+        "6": {
+          "$value": "#00b42a"
+        },
+        "7": {
+          "$value": "#009a29"
+        },
+        "8": {
+          "$value": "#008026"
+        },
+        "9": {
+          "$value": "#006622"
+        },
+        "10": {
+          "$value": "#004d1c"
+        },
+        "$description": "Arco Green — success and positive state color scale"
+      },
+      "orange": {
+        "1": {
+          "$value": "#fff7e8"
+        },
+        "2": {
+          "$value": "#ffe4ba"
+        },
+        "3": {
+          "$value": "#ffcf8b"
+        },
+        "4": {
+          "$value": "#ffb65d"
+        },
+        "5": {
+          "$value": "#ff9a2e"
+        },
+        "6": {
+          "$value": "#ff7d00"
+        },
+        "7": {
+          "$value": "#d25f00"
+        },
+        "8": {
+          "$value": "#a64500"
+        },
+        "9": {
+          "$value": "#792e00"
+        },
+        "10": {
+          "$value": "#4d1b00"
+        },
+        "$description": "Arco Orange — warning state color scale"
+      },
+      "red": {
+        "1": {
+          "$value": "#ffece8"
+        },
+        "2": {
+          "$value": "#fdcdc5"
+        },
+        "3": {
+          "$value": "#fbaca3"
+        },
+        "4": {
+          "$value": "#f98981"
+        },
+        "5": {
+          "$value": "#f76560"
+        },
+        "6": {
+          "$value": "#f53f3f"
+        },
+        "7": {
+          "$value": "#cb272d"
+        },
+        "8": {
+          "$value": "#a1151e"
+        },
+        "9": {
+          "$value": "#770813"
+        },
+        "10": {
+          "$value": "#4d000a"
+        },
+        "$description": "Arco Red — danger and error state color scale"
+      },
+      "gray": {
+        "1": {
+          "$value": "#f7f8fa"
+        },
+        "2": {
+          "$value": "#f2f3f5"
+        },
+        "3": {
+          "$value": "#e5e6eb"
+        },
+        "4": {
+          "$value": "#c9cdd4"
+        },
+        "5": {
+          "$value": "#a9aeb8"
+        },
+        "6": {
+          "$value": "#86909c"
+        },
+        "7": {
+          "$value": "#6b7785"
+        },
+        "8": {
+          "$value": "#4e5969"
+        },
+        "9": {
+          "$value": "#272e3b"
+        },
+        "10": {
+          "$value": "#1d2129"
+        },
+        "$description": "Arco Gray — neutral color scale for text, borders, and backgrounds"
+      }
+    }
+  }
+}

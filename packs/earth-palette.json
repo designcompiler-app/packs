@@ -1,1 +1,103 @@
-{"meta":{"id":"earth-palette","name":"Earth Palette","description":"Warm, organic earth tones drawn from clay, soil, stone, and foliage","source":"StyleFuse","sourceUrl":"https://github.com/blksrfc/stylefuse","version":"1.0","license":"MIT","licenseUrl":"https://github.com/blksrfc/stylefuse/blob/main/LICENSE","tokenCount":20,"categories":["color"],"preview":["#c2704f","#a0522d","#6f4e37","#d2b48c","#708090","#b2ac88","#808000","#4f7942"]},"data":{"color":{"$type":"color","clay":{"$description":"Warm reddish-brown tones inspired by natural clay and terracotta","terracotta":{"$value":"#c2704f"},"sienna":{"$value":"#a0522d"},"adobe":{"$value":"#bd6b3e"},"rust":{"$value":"#b7410e"},"brick":{"$value":"#cb4154"}},"soil":{"$description":"Deep brown tones drawn from rich earth and dark wood","coffee":{"$value":"#6f4e37"},"walnut":{"$value":"#5b3a29"},"umber":{"$value":"#635147"},"peat":{"$value":"#766856"},"loam":{"$value":"#8b7355"}},"stone":{"$description":"Neutral mineral tones from natural stone and rock formations","sandstone":{"$value":"#d2b48c"},"limestone":{"$value":"#dcd0c0"},"slate":{"$value":"#708090"},"granite":{"$value":"#808080"},"chalk":{"$value":"#f5f5dc"}},"foliage":{"$description":"Muted green tones inspired by natural plant life and vegetation","sage":{"$value":"#b2ac88"},"olive":{"$value":"#808000"},"moss":{"$value":"#8a9a5b"},"fern":{"$value":"#4f7942"},"hunter":{"$value":"#355e3b"}}}}}
+{
+  "meta": {
+    "id": "earth-palette",
+    "name": "Earth Palette",
+    "description": "Warm, organic earth tones drawn from clay, soil, stone, and foliage",
+    "source": "StyleFuse",
+    "sourceUrl": "https://github.com/blksrfc/stylefuse",
+    "version": "1.0",
+    "license": "MIT",
+    "licenseUrl": "https://github.com/blksrfc/stylefuse/blob/main/LICENSE",
+    "tokenCount": 20,
+    "categories": [
+      "color"
+    ],
+    "preview": [
+      "#c2704f",
+      "#a0522d",
+      "#6f4e37",
+      "#d2b48c",
+      "#708090",
+      "#b2ac88",
+      "#808000",
+      "#4f7942"
+    ]
+  },
+  "data": {
+    "color": {
+      "$type": "color",
+      "clay": {
+        "$description": "Warm reddish-brown tones inspired by natural clay and terracotta",
+        "terracotta": {
+          "$value": "#c2704f"
+        },
+        "sienna": {
+          "$value": "#a0522d"
+        },
+        "adobe": {
+          "$value": "#bd6b3e"
+        },
+        "rust": {
+          "$value": "#b7410e"
+        },
+        "brick": {
+          "$value": "#cb4154"
+        }
+      },
+      "soil": {
+        "$description": "Deep brown tones drawn from rich earth and dark wood",
+        "coffee": {
+          "$value": "#6f4e37"
+        },
+        "walnut": {
+          "$value": "#5b3a29"
+        },
+        "umber": {
+          "$value": "#635147"
+        },
+        "peat": {
+          "$value": "#766856"
+        },
+        "loam": {
+          "$value": "#8b7355"
+        }
+      },
+      "stone": {
+        "$description": "Neutral mineral tones from natural stone and rock formations",
+        "sandstone": {
+          "$value": "#d2b48c"
+        },
+        "limestone": {
+          "$value": "#dcd0c0"
+        },
+        "slate": {
+          "$value": "#708090"
+        },
+        "granite": {
+          "$value": "#808080"
+        },
+        "chalk": {
+          "$value": "#f5f5dc"
+        }
+      },
+      "foliage": {
+        "$description": "Muted green tones inspired by natural plant life and vegetation",
+        "sage": {
+          "$value": "#b2ac88"
+        },
+        "olive": {
+          "$value": "#808000"
+        },
+        "moss": {
+          "$value": "#8a9a5b"
+        },
+        "fern": {
+          "$value": "#4f7942"
+        },
+        "hunter": {
+          "$value": "#355e3b"
+        }
+      }
+    }
+  }
+}

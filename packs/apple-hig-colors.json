@@ -1,1 +1,145 @@
-{"meta":{"id":"apple-hig-colors","name":"Apple HIG Colors","description":"iOS and macOS system colors from Apple Human Interface Guidelines — 12 vibrant system colors and 6 gray levels, each with light and dark variants. sRGB baseline values; iOS 26 Liquid Glass adjustments are dynamic and not yet published. 36 tokens total.","source":"Apple HIG","sourceUrl":"https://developer.apple.com/design/human-interface-guidelines/color","version":"2025","license":"Reference","licenseUrl":"https://developer.apple.com/terms/","tokenCount":36,"categories":["color"],"preview":["#007AFF","#FF3B30","#34C759","#FF9500","#AF52DE","#5856D6","#FF2D55","#FFCC00"]},"data":{"color":{"$type":"color","light":{"$description":"Apple system colors — light mode (iOS/macOS)","systemRed":{"$value":"#FF3B30"},"systemOrange":{"$value":"#FF9500"},"systemYellow":{"$value":"#FFCC00"},"systemGreen":{"$value":"#34C759"},"systemMint":{"$value":"#00C7BE"},"systemTeal":{"$value":"#30B0C7"},"systemCyan":{"$value":"#32ADE6"},"systemBlue":{"$value":"#007AFF"},"systemIndigo":{"$value":"#5856D6"},"systemPurple":{"$value":"#AF52DE"},"systemPink":{"$value":"#FF2D55"},"systemBrown":{"$value":"#A2845E"},"systemGray":{"$value":"#8E8E93"},"systemGray2":{"$value":"#AEAEB2"},"systemGray3":{"$value":"#C7C7CC"},"systemGray4":{"$value":"#D1D1D6"},"systemGray5":{"$value":"#E5E5EA"},"systemGray6":{"$value":"#F2F2F7"}},"dark":{"$description":"Apple system colors — dark mode (iOS/macOS)","systemRed":{"$value":"#FF453A"},"systemOrange":{"$value":"#FF9F0A"},"systemYellow":{"$value":"#FFD60A"},"systemGreen":{"$value":"#30D158"},"systemMint":{"$value":"#63E6E2"},"systemTeal":{"$value":"#40CBE0"},"systemCyan":{"$value":"#64D2FF"},"systemBlue":{"$value":"#0A84FF"},"systemIndigo":{"$value":"#5E5CE6"},"systemPurple":{"$value":"#BF5AF2"},"systemPink":{"$value":"#FF375F"},"systemBrown":{"$value":"#AC8E68"},"systemGray":{"$value":"#8E8E93"},"systemGray2":{"$value":"#636366"},"systemGray3":{"$value":"#48484A"},"systemGray4":{"$value":"#3A3A3C"},"systemGray5":{"$value":"#2C2C2E"},"systemGray6":{"$value":"#1C1C1E"}}}}}
+{
+  "meta": {
+    "id": "apple-hig-colors",
+    "name": "Apple HIG Colors",
+    "description": "iOS and macOS system colors from Apple Human Interface Guidelines — 12 vibrant system colors and 6 gray levels, each with light and dark variants. sRGB baseline values; iOS 26 Liquid Glass adjustments are dynamic and not yet published. 36 tokens total.",
+    "source": "Apple HIG",
+    "sourceUrl": "https://developer.apple.com/design/human-interface-guidelines/color",
+    "version": "2025",
+    "license": "Reference",
+    "licenseUrl": "https://developer.apple.com/terms/",
+    "tokenCount": 36,
+    "categories": [
+      "color"
+    ],
+    "preview": [
+      "#007AFF",
+      "#FF3B30",
+      "#34C759",
+      "#FF9500",
+      "#AF52DE",
+      "#5856D6",
+      "#FF2D55",
+      "#FFCC00"
+    ]
+  },
+  "data": {
+    "color": {
+      "$type": "color",
+      "light": {
+        "$description": "Apple system colors — light mode (iOS/macOS)",
+        "systemRed": {
+          "$value": "#FF3B30"
+        },
+        "systemOrange": {
+          "$value": "#FF9500"
+        },
+        "systemYellow": {
+          "$value": "#FFCC00"
+        },
+        "systemGreen": {
+          "$value": "#34C759"
+        },
+        "systemMint": {
+          "$value": "#00C7BE"
+        },
+        "systemTeal": {
+          "$value": "#30B0C7"
+        },
+        "systemCyan": {
+          "$value": "#32ADE6"
+        },
+        "systemBlue": {
+          "$value": "#007AFF"
+        },
+        "systemIndigo": {
+          "$value": "#5856D6"
+        },
+        "systemPurple": {
+          "$value": "#AF52DE"
+        },
+        "systemPink": {
+          "$value": "#FF2D55"
+        },
+        "systemBrown": {
+          "$value": "#A2845E"
+        },
+        "systemGray": {
+          "$value": "#8E8E93"
+        },
+        "systemGray2": {
+          "$value": "#AEAEB2"
+        },
+        "systemGray3": {
+          "$value": "#C7C7CC"
+        },
+        "systemGray4": {
+          "$value": "#D1D1D6"
+        },
+        "systemGray5": {
+          "$value": "#E5E5EA"
+        },
+        "systemGray6": {
+          "$value": "#F2F2F7"
+        }
+      },
+      "dark": {
+        "$description": "Apple system colors — dark mode (iOS/macOS)",
+        "systemRed": {
+          "$value": "#FF453A"
+        },
+        "systemOrange": {
+          "$value": "#FF9F0A"
+        },
+        "systemYellow": {
+          "$value": "#FFD60A"
+        },
+        "systemGreen": {
+          "$value": "#30D158"
+        },
+        "systemMint": {
+          "$value": "#63E6E2"
+        },
+        "systemTeal": {
+          "$value": "#40CBE0"
+        },
+        "systemCyan": {
+          "$value": "#64D2FF"
+        },
+        "systemBlue": {
+          "$value": "#0A84FF"
+        },
+        "systemIndigo": {
+          "$value": "#5E5CE6"
+        },
+        "systemPurple": {
+          "$value": "#BF5AF2"
+        },
+        "systemPink": {
+          "$value": "#FF375F"
+        },
+        "systemBrown": {
+          "$value": "#AC8E68"
+        },
+        "systemGray": {
+          "$value": "#8E8E93"
+        },
+        "systemGray2": {
+          "$value": "#636366"
+        },
+        "systemGray3": {
+          "$value": "#48484A"
+        },
+        "systemGray4": {
+          "$value": "#3A3A3C"
+        },
+        "systemGray5": {
+          "$value": "#2C2C2E"
+        },
+        "systemGray6": {
+          "$value": "#1C1C1E"
+        }
+      }
+    }
+  }
+}

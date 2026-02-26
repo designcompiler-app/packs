@@ -1,1 +1,89 @@
-{"meta":{"id":"opacity-scale","name":"Opacity Scale","description":"Semantic opacity tokens — 10-step numeric scale plus presets for disabled states, hover overlays, scrims, watermarks, and loading states. Consistent transparency system.","source":"Design Compiler","sourceUrl":"https://stylefuse.io","version":"1.0","license":"CC0","licenseUrl":"https://creativecommons.org/publicdomain/zero/1.0/","tokenCount":18,"categories":["dimension"],"preview":[]},"data":{"scale":{"0":{"$value":0},"5":{"$value":0.05},"10":{"$value":0.1},"20":{"$value":0.2},"30":{"$value":0.3},"40":{"$value":0.4},"50":{"$value":0.5},"60":{"$value":0.6},"80":{"$value":0.8},"100":{"$value":1},"$type":"number","$description":"10-step opacity scale from invisible to fully opaque"},"semantic":{"$type":"number","$description":"Semantic opacity presets for common UI patterns","disabled":{"$value":0.38,"$description":"Disabled elements"},"hover":{"$value":0.08,"$description":"Hover overlay"},"pressed":{"$value":0.12,"$description":"Press/active overlay"},"focus":{"$value":0.12,"$description":"Focus ring overlay"},"scrim":{"$value":0.5,"$description":"Modal backdrop scrim"},"overlay":{"$value":0.72,"$description":"Heavy overlay"},"watermark":{"$value":0.08,"$description":"Watermark and background decoration"},"loading":{"$value":0.6,"$description":"Loading skeleton pulse opacity"}}}}
+{
+  "meta": {
+    "id": "opacity-scale",
+    "name": "Opacity Scale",
+    "description": "Semantic opacity tokens — 10-step numeric scale plus presets for disabled states, hover overlays, scrims, watermarks, and loading states. Consistent transparency system.",
+    "source": "Design Compiler",
+    "sourceUrl": "https://stylefuse.io",
+    "version": "1.0",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "tokenCount": 18,
+    "categories": [
+      "dimension"
+    ],
+    "preview": []
+  },
+  "data": {
+    "scale": {
+      "0": {
+        "$value": 0
+      },
+      "5": {
+        "$value": 0.05
+      },
+      "10": {
+        "$value": 0.1
+      },
+      "20": {
+        "$value": 0.2
+      },
+      "30": {
+        "$value": 0.3
+      },
+      "40": {
+        "$value": 0.4
+      },
+      "50": {
+        "$value": 0.5
+      },
+      "60": {
+        "$value": 0.6
+      },
+      "80": {
+        "$value": 0.8
+      },
+      "100": {
+        "$value": 1
+      },
+      "$type": "number",
+      "$description": "10-step opacity scale from invisible to fully opaque"
+    },
+    "semantic": {
+      "$type": "number",
+      "$description": "Semantic opacity presets for common UI patterns",
+      "disabled": {
+        "$value": 0.38,
+        "$description": "Disabled elements"
+      },
+      "hover": {
+        "$value": 0.08,
+        "$description": "Hover overlay"
+      },
+      "pressed": {
+        "$value": 0.12,
+        "$description": "Press/active overlay"
+      },
+      "focus": {
+        "$value": 0.12,
+        "$description": "Focus ring overlay"
+      },
+      "scrim": {
+        "$value": 0.5,
+        "$description": "Modal backdrop scrim"
+      },
+      "overlay": {
+        "$value": 0.72,
+        "$description": "Heavy overlay"
+      },
+      "watermark": {
+        "$value": 0.08,
+        "$description": "Watermark and background decoration"
+      },
+      "loading": {
+        "$value": 0.6,
+        "$description": "Loading skeleton pulse opacity"
+      }
+    }
+  }
+}

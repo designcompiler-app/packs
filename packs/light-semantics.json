@@ -1,1 +1,212 @@
-{"meta":{"id":"light-semantics","name":"Light Mode Semantics","description":"Complete semantic color system for light themes — primary, secondary, surface, and state roles with hover, pressed, disabled, and focus variants. Primary and state colors target WCAG AA contrast.","source":"Design Compiler","sourceUrl":"https://stylefuse.io","version":"1.0","license":"CC0","licenseUrl":"https://creativecommons.org/publicdomain/zero/1.0/","tokenCount":40,"categories":["color"],"preview":["#2563EB","#7C3AED","#059669","#DC2626","#FFFFFF","#0F172A","#F1F5F9","#E2E8F0"]},"data":{"color":{"$type":"color","primary":{"$description":"Primary action and brand color with interactive states","default":{"$value":"#2563EB","$description":"Resting state"},"hover":{"$value":"#1D4ED8","$description":"Mouse hover"},"pressed":{"$value":"#1E40AF","$description":"Active/pressed"},"disabled":{"$value":"#93C5FD","$description":"Unavailable state"},"focus":{"$value":"#2563EB","$description":"Keyboard focus ring"},"onPrimary":{"$value":"#FFFFFF","$description":"Text/icon on primary"}},"secondary":{"$description":"Secondary action color with interactive states","default":{"$value":"#7C3AED","$description":"Resting state"},"hover":{"$value":"#6D28D9","$description":"Mouse hover"},"pressed":{"$value":"#5B21B6","$description":"Active/pressed"},"disabled":{"$value":"#C4B5FD","$description":"Unavailable state"},"onSecondary":{"$value":"#FFFFFF","$description":"Text/icon on secondary"}},"surface":{"$description":"Surface and background hierarchy","background":{"$value":"#FFFFFF","$description":"Page background"},"raised":{"$value":"#FFFFFF","$description":"Cards, elevated panels"},"overlay":{"$value":"#F8FAFC","$description":"Dropdown, popover fill"},"sunken":{"$value":"#F1F5F9","$description":"Recessed areas, inputs"},"disabled":{"$value":"#F1F5F9","$description":"Disabled element background"}},"text":{"$description":"Text color hierarchy","primary":{"$value":"#0F172A","$description":"Headings, body copy"},"secondary":{"$value":"#475569","$description":"Descriptions, labels"},"tertiary":{"$value":"#94A3B8","$description":"Placeholders, captions"},"disabled":{"$value":"#CBD5E1","$description":"Unavailable text"},"inverse":{"$value":"#FFFFFF","$description":"Text on dark backgrounds"},"link":{"$value":"#2563EB","$description":"Hyperlink text"},"linkHover":{"$value":"#1D4ED8","$description":"Hyperlink on hover"}},"border":{"$description":"Border and divider colors","default":{"$value":"#E2E8F0","$description":"Default card/input border"},"strong":{"$value":"#CBD5E1","$description":"Emphasized borders"},"focus":{"$value":"#2563EB","$description":"Focus ring border"},"error":{"$value":"#DC2626","$description":"Validation error border"},"disabled":{"$value":"#F1F5F9","$description":"Disabled element border"}},"state":{"$description":"Semantic state colors for feedback","success":{"$value":"#059669","$description":"Success icon/text"},"successBg":{"$value":"#ECFDF5","$description":"Success banner fill"},"warning":{"$value":"#D97706","$description":"Warning icon/text"},"warningBg":{"$value":"#FFFBEB","$description":"Warning banner fill"},"error":{"$value":"#DC2626","$description":"Error icon/text"},"errorBg":{"$value":"#FEF2F2","$description":"Error banner fill"},"info":{"$value":"#2563EB","$description":"Info icon/text"},"infoBg":{"$value":"#EFF6FF","$description":"Info banner fill"}},"interactive":{"$description":"Generic interactive element states","hover":{"$value":"#F1F5F9","$description":"Row/item hover fill"},"pressed":{"$value":"#E2E8F0","$description":"Row/item active fill"},"selected":{"$value":"#EFF6FF","$description":"Selected item fill"},"selectedStrong":{"$value":"#DBEAFE","$description":"Strongly selected fill"}}}}}
+{
+  "meta": {
+    "id": "light-semantics",
+    "name": "Light Mode Semantics",
+    "description": "Complete semantic color system for light themes — primary, secondary, surface, and state roles with hover, pressed, disabled, and focus variants. Primary and state colors target WCAG AA contrast.",
+    "source": "Design Compiler",
+    "sourceUrl": "https://stylefuse.io",
+    "version": "1.0",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "tokenCount": 40,
+    "categories": [
+      "color"
+    ],
+    "preview": [
+      "#2563EB",
+      "#7C3AED",
+      "#059669",
+      "#DC2626",
+      "#FFFFFF",
+      "#0F172A",
+      "#F1F5F9",
+      "#E2E8F0"
+    ]
+  },
+  "data": {
+    "color": {
+      "$type": "color",
+      "primary": {
+        "$description": "Primary action and brand color with interactive states",
+        "default": {
+          "$value": "#2563EB",
+          "$description": "Resting state"
+        },
+        "hover": {
+          "$value": "#1D4ED8",
+          "$description": "Mouse hover"
+        },
+        "pressed": {
+          "$value": "#1E40AF",
+          "$description": "Active/pressed"
+        },
+        "disabled": {
+          "$value": "#93C5FD",
+          "$description": "Unavailable state"
+        },
+        "focus": {
+          "$value": "#2563EB",
+          "$description": "Keyboard focus ring"
+        },
+        "onPrimary": {
+          "$value": "#FFFFFF",
+          "$description": "Text/icon on primary"
+        }
+      },
+      "secondary": {
+        "$description": "Secondary action color with interactive states",
+        "default": {
+          "$value": "#7C3AED",
+          "$description": "Resting state"
+        },
+        "hover": {
+          "$value": "#6D28D9",
+          "$description": "Mouse hover"
+        },
+        "pressed": {
+          "$value": "#5B21B6",
+          "$description": "Active/pressed"
+        },
+        "disabled": {
+          "$value": "#C4B5FD",
+          "$description": "Unavailable state"
+        },
+        "onSecondary": {
+          "$value": "#FFFFFF",
+          "$description": "Text/icon on secondary"
+        }
+      },
+      "surface": {
+        "$description": "Surface and background hierarchy",
+        "background": {
+          "$value": "#FFFFFF",
+          "$description": "Page background"
+        },
+        "raised": {
+          "$value": "#FFFFFF",
+          "$description": "Cards, elevated panels"
+        },
+        "overlay": {
+          "$value": "#F8FAFC",
+          "$description": "Dropdown, popover fill"
+        },
+        "sunken": {
+          "$value": "#F1F5F9",
+          "$description": "Recessed areas, inputs"
+        },
+        "disabled": {
+          "$value": "#F1F5F9",
+          "$description": "Disabled element background"
+        }
+      },
+      "text": {
+        "$description": "Text color hierarchy",
+        "primary": {
+          "$value": "#0F172A",
+          "$description": "Headings, body copy"
+        },
+        "secondary": {
+          "$value": "#475569",
+          "$description": "Descriptions, labels"
+        },
+        "tertiary": {
+          "$value": "#94A3B8",
+          "$description": "Placeholders, captions"
+        },
+        "disabled": {
+          "$value": "#CBD5E1",
+          "$description": "Unavailable text"
+        },
+        "inverse": {
+          "$value": "#FFFFFF",
+          "$description": "Text on dark backgrounds"
+        },
+        "link": {
+          "$value": "#2563EB",
+          "$description": "Hyperlink text"
+        },
+        "linkHover": {
+          "$value": "#1D4ED8",
+          "$description": "Hyperlink on hover"
+        }
+      },
+      "border": {
+        "$description": "Border and divider colors",
+        "default": {
+          "$value": "#E2E8F0",
+          "$description": "Default card/input border"
+        },
+        "strong": {
+          "$value": "#CBD5E1",
+          "$description": "Emphasized borders"
+        },
+        "focus": {
+          "$value": "#2563EB",
+          "$description": "Focus ring border"
+        },
+        "error": {
+          "$value": "#DC2626",
+          "$description": "Validation error border"
+        },
+        "disabled": {
+          "$value": "#F1F5F9",
+          "$description": "Disabled element border"
+        }
+      },
+      "state": {
+        "$description": "Semantic state colors for feedback",
+        "success": {
+          "$value": "#059669",
+          "$description": "Success icon/text"
+        },
+        "successBg": {
+          "$value": "#ECFDF5",
+          "$description": "Success banner fill"
+        },
+        "warning": {
+          "$value": "#D97706",
+          "$description": "Warning icon/text"
+        },
+        "warningBg": {
+          "$value": "#FFFBEB",
+          "$description": "Warning banner fill"
+        },
+        "error": {
+          "$value": "#DC2626",
+          "$description": "Error icon/text"
+        },
+        "errorBg": {
+          "$value": "#FEF2F2",
+          "$description": "Error banner fill"
+        },
+        "info": {
+          "$value": "#2563EB",
+          "$description": "Info icon/text"
+        },
+        "infoBg": {
+          "$value": "#EFF6FF",
+          "$description": "Info banner fill"
+        }
+      },
+      "interactive": {
+        "$description": "Generic interactive element states",
+        "hover": {
+          "$value": "#F1F5F9",
+          "$description": "Row/item hover fill"
+        },
+        "pressed": {
+          "$value": "#E2E8F0",
+          "$description": "Row/item active fill"
+        },
+        "selected": {
+          "$value": "#EFF6FF",
+          "$description": "Selected item fill"
+        },
+        "selectedStrong": {
+          "$value": "#DBEAFE",
+          "$description": "Strongly selected fill"
+        }
+      }
+    }
+  }
+}

@@ -1,1 +1,103 @@
-{"meta":{"id":"rounded-system","name":"Rounded System","description":"Comprehensive border radius scale — 10-step base scale from sharp (0) to full pill (9999px) plus semantic presets for buttons, cards, inputs, badges, avatars, and modals.","source":"Design Compiler","sourceUrl":"https://stylefuse.io","version":"1.0","license":"CC0","licenseUrl":"https://creativecommons.org/publicdomain/zero/1.0/","tokenCount":19,"categories":["dimension"],"preview":[]},"data":{"scale":{"$type":"dimension","$description":"Base radius scale from sharp to full round","none":{"$value":"0px","$description":"Sharp corners, no rounding"},"xs":{"$value":"2px","$description":"Barely rounded, subtle softening"},"sm":{"$value":"4px","$description":"Slightly rounded, checkboxes"},"md":{"$value":"6px","$description":"Moderate rounding, chips"},"default":{"$value":"8px","$description":"Standard rounding, buttons"},"lg":{"$value":"12px","$description":"Noticeable rounding, cards"},"xl":{"$value":"16px","$description":"Large rounding, panels"},"2xl":{"$value":"24px","$description":"Very round, hero elements"},"3xl":{"$value":"32px","$description":"Extreme rounding, blobs"},"full":{"$value":"9999px","$description":"Full pill/circle shape"}},"component":{"$type":"dimension","$description":"Semantic radius presets for common UI components","button":{"$value":"8px","$description":"Default button corners"},"buttonSm":{"$value":"6px","$description":"Compact button corners"},"buttonLg":{"$value":"12px","$description":"Large button corners"},"card":{"$value":"12px","$description":"Card/panel corners"},"input":{"$value":"8px","$description":"Text input corners"},"badge":{"$value":"9999px","$description":"Notification badge (pill)"},"avatar":{"$value":"9999px","$description":"Avatar circle"},"modal":{"$value":"16px","$description":"Dialog/modal corners"},"tooltip":{"$value":"6px","$description":"Tooltip corners"}}}}
+{
+  "meta": {
+    "id": "rounded-system",
+    "name": "Rounded System",
+    "description": "Comprehensive border radius scale — 10-step base scale from sharp (0) to full pill (9999px) plus semantic presets for buttons, cards, inputs, badges, avatars, and modals.",
+    "source": "Design Compiler",
+    "sourceUrl": "https://stylefuse.io",
+    "version": "1.0",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "tokenCount": 19,
+    "categories": [
+      "dimension"
+    ],
+    "preview": []
+  },
+  "data": {
+    "scale": {
+      "$type": "dimension",
+      "$description": "Base radius scale from sharp to full round",
+      "none": {
+        "$value": "0px",
+        "$description": "Sharp corners, no rounding"
+      },
+      "xs": {
+        "$value": "2px",
+        "$description": "Barely rounded, subtle softening"
+      },
+      "sm": {
+        "$value": "4px",
+        "$description": "Slightly rounded, checkboxes"
+      },
+      "md": {
+        "$value": "6px",
+        "$description": "Moderate rounding, chips"
+      },
+      "default": {
+        "$value": "8px",
+        "$description": "Standard rounding, buttons"
+      },
+      "lg": {
+        "$value": "12px",
+        "$description": "Noticeable rounding, cards"
+      },
+      "xl": {
+        "$value": "16px",
+        "$description": "Large rounding, panels"
+      },
+      "2xl": {
+        "$value": "24px",
+        "$description": "Very round, hero elements"
+      },
+      "3xl": {
+        "$value": "32px",
+        "$description": "Extreme rounding, blobs"
+      },
+      "full": {
+        "$value": "9999px",
+        "$description": "Full pill/circle shape"
+      }
+    },
+    "component": {
+      "$type": "dimension",
+      "$description": "Semantic radius presets for common UI components",
+      "button": {
+        "$value": "8px",
+        "$description": "Default button corners"
+      },
+      "buttonSm": {
+        "$value": "6px",
+        "$description": "Compact button corners"
+      },
+      "buttonLg": {
+        "$value": "12px",
+        "$description": "Large button corners"
+      },
+      "card": {
+        "$value": "12px",
+        "$description": "Card/panel corners"
+      },
+      "input": {
+        "$value": "8px",
+        "$description": "Text input corners"
+      },
+      "badge": {
+        "$value": "9999px",
+        "$description": "Notification badge (pill)"
+      },
+      "avatar": {
+        "$value": "9999px",
+        "$description": "Avatar circle"
+      },
+      "modal": {
+        "$value": "16px",
+        "$description": "Dialog/modal corners"
+      },
+      "tooltip": {
+        "$value": "6px",
+        "$description": "Tooltip corners"
+      }
+    }
+  }
+}

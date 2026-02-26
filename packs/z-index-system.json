@@ -1,1 +1,63 @@
-{"meta":{"id":"z-index-system","name":"Z-Index System","description":"Named z-index layers for consistent stacking — base, dropdown, sticky, overlay, modal, popover, toast, and tooltip. Prevents z-index conflicts with clear semantic layers.","source":"Design Compiler","sourceUrl":"https://stylefuse.io","version":"1.0","license":"CC0","licenseUrl":"https://creativecommons.org/publicdomain/zero/1.0/","tokenCount":10,"categories":["dimension"],"preview":[]},"data":{"layer":{"$type":"number","$description":"Named z-index layers from lowest to highest","hide":{"$value":-1,"$description":"Hidden below base layer"},"base":{"$value":0,"$description":"Default stacking context"},"dropdown":{"$value":100,"$description":"Dropdown menus, select popovers"},"sticky":{"$value":200,"$description":"Sticky headers, fixed sidebars"},"overlay":{"$value":300,"$description":"Backdrop overlays, scrims"},"modal":{"$value":400,"$description":"Modal dialogs, drawers"},"popover":{"$value":500,"$description":"Popovers, date pickers on top of modals"},"toast":{"$value":600,"$description":"Toast notifications, snackbars"},"tooltip":{"$value":700,"$description":"Tooltips — always on top of content"},"max":{"$value":9999,"$description":"Escape hatch for critical system UI"}}}}
+{
+  "meta": {
+    "id": "z-index-system",
+    "name": "Z-Index System",
+    "description": "Named z-index layers for consistent stacking — base, dropdown, sticky, overlay, modal, popover, toast, and tooltip. Prevents z-index conflicts with clear semantic layers.",
+    "source": "Design Compiler",
+    "sourceUrl": "https://stylefuse.io",
+    "version": "1.0",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "tokenCount": 10,
+    "categories": [
+      "dimension"
+    ],
+    "preview": []
+  },
+  "data": {
+    "layer": {
+      "$type": "number",
+      "$description": "Named z-index layers from lowest to highest",
+      "hide": {
+        "$value": -1,
+        "$description": "Hidden below base layer"
+      },
+      "base": {
+        "$value": 0,
+        "$description": "Default stacking context"
+      },
+      "dropdown": {
+        "$value": 100,
+        "$description": "Dropdown menus, select popovers"
+      },
+      "sticky": {
+        "$value": 200,
+        "$description": "Sticky headers, fixed sidebars"
+      },
+      "overlay": {
+        "$value": 300,
+        "$description": "Backdrop overlays, scrims"
+      },
+      "modal": {
+        "$value": 400,
+        "$description": "Modal dialogs, drawers"
+      },
+      "popover": {
+        "$value": 500,
+        "$description": "Popovers, date pickers on top of modals"
+      },
+      "toast": {
+        "$value": 600,
+        "$description": "Toast notifications, snackbars"
+      },
+      "tooltip": {
+        "$value": 700,
+        "$description": "Tooltips — always on top of content"
+      },
+      "max": {
+        "$value": 9999,
+        "$description": "Escape hatch for critical system UI"
+      }
+    }
+  }
+}

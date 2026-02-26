@@ -1,1 +1,111 @@
-{"meta":{"id":"material-motion","name":"Material Motion","description":"Material Design 3 motion tokens — standard and emphasized easing curves plus duration tokens for short, medium, long, and extra-long transitions. Based on the M3 motion spec.","source":"Material Design","sourceUrl":"https://m3.material.io/styles/motion/overview","version":"3.0","license":"Apache-2.0","licenseUrl":"https://github.com/material-components/material-web/blob/main/LICENSE","tokenCount":16,"categories":["motion"],"preview":[]},"data":{"duration":{"$type":"duration","$description":"Material Design 3 duration tokens","short1":{"$value":"50ms","$description":"Micro-interactions: ripple, toggle"},"short2":{"$value":"100ms","$description":"Small transitions: icon change, chip select"},"short3":{"$value":"150ms","$description":"Standard short: button press, selection"},"short4":{"$value":"200ms","$description":"Quick feedback: tooltip, snackbar appear"},"medium1":{"$value":"250ms","$description":"Standard transition: menu open, card expand"},"medium2":{"$value":"300ms","$description":"Standard medium: drawer, tab switch"},"medium3":{"$value":"350ms","$description":"Content transition: page cross-fade"},"medium4":{"$value":"400ms","$description":"Complex transition: modal enter"},"long1":{"$value":"450ms","$description":"Entrance: bottom sheet, dialog"},"long2":{"$value":"500ms","$description":"Long entrance: full-screen transition"},"long3":{"$value":"550ms","$description":"Complex entrance: multi-step reveal"},"long4":{"$value":"600ms","$description":"Extra-long: initial page load sequence"}},"easing":{"$type":"cubicBezier","$description":"Material Design 3 easing curves","standard":{"$value":[0.2,0,0,1],"$description":"Standard easing — most transitions"},"standardAccelerate":{"$value":[0.3,0,1,1],"$description":"Exit transitions"},"standardDecelerate":{"$value":[0,0,0,1],"$description":"Enter transitions"},"emphasized":{"$value":[0.2,0,0,1],"$description":"Emphasized easing — prominent transitions"}}}}
+{
+  "meta": {
+    "id": "material-motion",
+    "name": "Material Motion",
+    "description": "Material Design 3 motion tokens — standard and emphasized easing curves plus duration tokens for short, medium, long, and extra-long transitions. Based on the M3 motion spec.",
+    "source": "Material Design",
+    "sourceUrl": "https://m3.material.io/styles/motion/overview",
+    "version": "3.0",
+    "license": "Apache-2.0",
+    "licenseUrl": "https://github.com/material-components/material-web/blob/main/LICENSE",
+    "tokenCount": 16,
+    "categories": [
+      "motion"
+    ],
+    "preview": []
+  },
+  "data": {
+    "duration": {
+      "$type": "duration",
+      "$description": "Material Design 3 duration tokens",
+      "short1": {
+        "$value": "50ms",
+        "$description": "Micro-interactions: ripple, toggle"
+      },
+      "short2": {
+        "$value": "100ms",
+        "$description": "Small transitions: icon change, chip select"
+      },
+      "short3": {
+        "$value": "150ms",
+        "$description": "Standard short: button press, selection"
+      },
+      "short4": {
+        "$value": "200ms",
+        "$description": "Quick feedback: tooltip, snackbar appear"
+      },
+      "medium1": {
+        "$value": "250ms",
+        "$description": "Standard transition: menu open, card expand"
+      },
+      "medium2": {
+        "$value": "300ms",
+        "$description": "Standard medium: drawer, tab switch"
+      },
+      "medium3": {
+        "$value": "350ms",
+        "$description": "Content transition: page cross-fade"
+      },
+      "medium4": {
+        "$value": "400ms",
+        "$description": "Complex transition: modal enter"
+      },
+      "long1": {
+        "$value": "450ms",
+        "$description": "Entrance: bottom sheet, dialog"
+      },
+      "long2": {
+        "$value": "500ms",
+        "$description": "Long entrance: full-screen transition"
+      },
+      "long3": {
+        "$value": "550ms",
+        "$description": "Complex entrance: multi-step reveal"
+      },
+      "long4": {
+        "$value": "600ms",
+        "$description": "Extra-long: initial page load sequence"
+      }
+    },
+    "easing": {
+      "$type": "cubicBezier",
+      "$description": "Material Design 3 easing curves",
+      "standard": {
+        "$value": [
+          0.2,
+          0,
+          0,
+          1
+        ],
+        "$description": "Standard easing — most transitions"
+      },
+      "standardAccelerate": {
+        "$value": [
+          0.3,
+          0,
+          1,
+          1
+        ],
+        "$description": "Exit transitions"
+      },
+      "standardDecelerate": {
+        "$value": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "$description": "Enter transitions"
+      },
+      "emphasized": {
+        "$value": [
+          0.2,
+          0,
+          0,
+          1
+        ],
+        "$description": "Emphasized easing — prominent transitions"
+      }
+    }
+  }
+}

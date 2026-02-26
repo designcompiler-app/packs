@@ -1,1 +1,135 @@
-{"meta":{"id":"ibm-type-scale","name":"IBM Carbon Type Scale","description":"Typography tokens from IBM Carbon Design System v11. Includes productive type set with font sizes, weights, line heights, and letter spacing for caption through heading-07.","source":"IBM Carbon","sourceUrl":"https://carbondesignsystem.com","version":"11.0","license":"Apache-2.0","licenseUrl":"https://github.com/carbon-design-system/carbon/blob/main/LICENSE","tokenCount":33,"categories":["typography","dimension"],"preview":[]},"data":{"fontSize":{"$type":"dimension","$description":"Carbon type scale font sizes","caption":{"$value":"0.75rem"},"bodyCompact01":{"$value":"0.875rem"},"bodyLong01":{"$value":"0.875rem"},"bodyCompact02":{"$value":"1rem"},"bodyLong02":{"$value":"1rem"},"heading01":{"$value":"0.875rem"},"heading02":{"$value":"1rem"},"heading03":{"$value":"1.25rem"},"heading04":{"$value":"1.75rem"},"heading05":{"$value":"2rem"},"heading06":{"$value":"2.625rem"},"heading07":{"$value":"3.375rem"}},"fontWeight":{"$type":"number","$description":"Carbon font weight tokens","light":{"$value":300},"regular":{"$value":400},"semibold":{"$value":600}},"lineHeight":{"$type":"number","$description":"Carbon line height values as unitless ratios","caption":{"$value":1.34},"bodyCompact01":{"$value":1.29},"bodyLong01":{"$value":1.43},"bodyCompact02":{"$value":1.375},"bodyLong02":{"$value":1.5},"heading01":{"$value":1.29},"heading02":{"$value":1.375},"heading03":{"$value":1.4},"heading04":{"$value":1.29},"heading05":{"$value":1.25}},"letterSpacing":{"$type":"dimension","$description":"Carbon letter spacing values","caption":{"$value":"0.32px"},"bodyCompact01":{"$value":"0.16px"},"bodyLong01":{"$value":"0.16px"},"bodyCompact02":{"$value":"0px"},"bodyLong02":{"$value":"0px"},"heading01":{"$value":"0.16px"},"heading02":{"$value":"0px"},"heading03":{"$value":"0px"}}}}
+{
+  "meta": {
+    "id": "ibm-type-scale",
+    "name": "IBM Carbon Type Scale",
+    "description": "Typography tokens from IBM Carbon Design System v11. Includes productive type set with font sizes, weights, line heights, and letter spacing for caption through heading-07.",
+    "source": "IBM Carbon",
+    "sourceUrl": "https://carbondesignsystem.com",
+    "version": "11.0",
+    "license": "Apache-2.0",
+    "licenseUrl": "https://github.com/carbon-design-system/carbon/blob/main/LICENSE",
+    "tokenCount": 33,
+    "categories": [
+      "typography",
+      "dimension"
+    ],
+    "preview": []
+  },
+  "data": {
+    "fontSize": {
+      "$type": "dimension",
+      "$description": "Carbon type scale font sizes",
+      "caption": {
+        "$value": "0.75rem"
+      },
+      "bodyCompact01": {
+        "$value": "0.875rem"
+      },
+      "bodyLong01": {
+        "$value": "0.875rem"
+      },
+      "bodyCompact02": {
+        "$value": "1rem"
+      },
+      "bodyLong02": {
+        "$value": "1rem"
+      },
+      "heading01": {
+        "$value": "0.875rem"
+      },
+      "heading02": {
+        "$value": "1rem"
+      },
+      "heading03": {
+        "$value": "1.25rem"
+      },
+      "heading04": {
+        "$value": "1.75rem"
+      },
+      "heading05": {
+        "$value": "2rem"
+      },
+      "heading06": {
+        "$value": "2.625rem"
+      },
+      "heading07": {
+        "$value": "3.375rem"
+      }
+    },
+    "fontWeight": {
+      "$type": "number",
+      "$description": "Carbon font weight tokens",
+      "light": {
+        "$value": 300
+      },
+      "regular": {
+        "$value": 400
+      },
+      "semibold": {
+        "$value": 600
+      }
+    },
+    "lineHeight": {
+      "$type": "number",
+      "$description": "Carbon line height values as unitless ratios",
+      "caption": {
+        "$value": 1.34
+      },
+      "bodyCompact01": {
+        "$value": 1.29
+      },
+      "bodyLong01": {
+        "$value": 1.43
+      },
+      "bodyCompact02": {
+        "$value": 1.375
+      },
+      "bodyLong02": {
+        "$value": 1.5
+      },
+      "heading01": {
+        "$value": 1.29
+      },
+      "heading02": {
+        "$value": 1.375
+      },
+      "heading03": {
+        "$value": 1.4
+      },
+      "heading04": {
+        "$value": 1.29
+      },
+      "heading05": {
+        "$value": 1.25
+      }
+    },
+    "letterSpacing": {
+      "$type": "dimension",
+      "$description": "Carbon letter spacing values",
+      "caption": {
+        "$value": "0.32px"
+      },
+      "bodyCompact01": {
+        "$value": "0.16px"
+      },
+      "bodyLong01": {
+        "$value": "0.16px"
+      },
+      "bodyCompact02": {
+        "$value": "0px"
+      },
+      "bodyLong02": {
+        "$value": "0px"
+      },
+      "heading01": {
+        "$value": "0.16px"
+      },
+      "heading02": {
+        "$value": "0px"
+      },
+      "heading03": {
+        "$value": "0px"
+      }
+    }
+  }
+}

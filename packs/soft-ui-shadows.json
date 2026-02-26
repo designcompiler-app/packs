@@ -1,1 +1,127 @@
-{"meta":{"id":"soft-ui-shadows","name":"Soft UI Shadows","description":"Neumorphism-inspired shadow system — convex (raised), concave (pressed), and flat states with paired light/dark shadows. Perfect for soft, tactile UI designs.","source":"Design Compiler","sourceUrl":"https://stylefuse.io","version":"1.0","license":"CC0","licenseUrl":"https://creativecommons.org/publicdomain/zero/1.0/","tokenCount":10,"categories":["shadow"],"preview":[]},"data":{"light":{"$type":"shadow","$description":"Soft UI shadows for light backgrounds (base: #E0E5EC)","convexOuter":{"$value":{"offsetX":"6px","offsetY":"6px","blur":"12px","spread":"0px","color":"#A3B1C6"},"$description":"Bottom-right shadow for raised elements"},"convexHighlight":{"$value":{"offsetX":"-6px","offsetY":"-6px","blur":"12px","spread":"0px","color":"#FFFFFF"},"$description":"Top-left highlight for raised elements"},"concaveOuter":{"$value":{"offsetX":"-3px","offsetY":"-3px","blur":"6px","spread":"0px","color":"#FFFFFF"},"$description":"Bottom-right shadow for pressed elements"},"concaveInner":{"$value":{"offsetX":"3px","offsetY":"3px","blur":"6px","spread":"0px","color":"#A3B1C6"},"$description":"Top-left shadow for pressed (inset) elements"},"subtle":{"$value":{"offsetX":"3px","offsetY":"3px","blur":"6px","spread":"0px","color":"#B8C4D6"},"$description":"Subtle shadow for flat interactive elements"}},"dark":{"$type":"shadow","$description":"Soft UI shadows for dark backgrounds (base: #2D3748)","convexOuter":{"$value":{"offsetX":"6px","offsetY":"6px","blur":"12px","spread":"0px","color":"#1A202C"},"$description":"Bottom-right shadow for raised elements"},"convexHighlight":{"$value":{"offsetX":"-6px","offsetY":"-6px","blur":"12px","spread":"0px","color":"#4A5568"},"$description":"Top-left highlight for raised elements"},"concaveOuter":{"$value":{"offsetX":"-3px","offsetY":"-3px","blur":"6px","spread":"0px","color":"#4A5568"},"$description":"Bottom-right shadow for pressed elements"},"concaveInner":{"$value":{"offsetX":"3px","offsetY":"3px","blur":"6px","spread":"0px","color":"#1A202C"},"$description":"Top-left shadow for pressed (inset) elements"},"subtle":{"$value":{"offsetX":"3px","offsetY":"3px","blur":"6px","spread":"0px","color":"#1A202C"},"$description":"Subtle shadow for flat interactive elements"}}}}
+{
+  "meta": {
+    "id": "soft-ui-shadows",
+    "name": "Soft UI Shadows",
+    "description": "Neumorphism-inspired shadow system — convex (raised), concave (pressed), and flat states with paired light/dark shadows. Perfect for soft, tactile UI designs.",
+    "source": "Design Compiler",
+    "sourceUrl": "https://stylefuse.io",
+    "version": "1.0",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "tokenCount": 10,
+    "categories": [
+      "shadow"
+    ],
+    "preview": []
+  },
+  "data": {
+    "light": {
+      "$type": "shadow",
+      "$description": "Soft UI shadows for light backgrounds (base: #E0E5EC)",
+      "convexOuter": {
+        "$value": {
+          "offsetX": "6px",
+          "offsetY": "6px",
+          "blur": "12px",
+          "spread": "0px",
+          "color": "#A3B1C6"
+        },
+        "$description": "Bottom-right shadow for raised elements"
+      },
+      "convexHighlight": {
+        "$value": {
+          "offsetX": "-6px",
+          "offsetY": "-6px",
+          "blur": "12px",
+          "spread": "0px",
+          "color": "#FFFFFF"
+        },
+        "$description": "Top-left highlight for raised elements"
+      },
+      "concaveOuter": {
+        "$value": {
+          "offsetX": "-3px",
+          "offsetY": "-3px",
+          "blur": "6px",
+          "spread": "0px",
+          "color": "#FFFFFF"
+        },
+        "$description": "Bottom-right shadow for pressed elements"
+      },
+      "concaveInner": {
+        "$value": {
+          "offsetX": "3px",
+          "offsetY": "3px",
+          "blur": "6px",
+          "spread": "0px",
+          "color": "#A3B1C6"
+        },
+        "$description": "Top-left shadow for pressed (inset) elements"
+      },
+      "subtle": {
+        "$value": {
+          "offsetX": "3px",
+          "offsetY": "3px",
+          "blur": "6px",
+          "spread": "0px",
+          "color": "#B8C4D6"
+        },
+        "$description": "Subtle shadow for flat interactive elements"
+      }
+    },
+    "dark": {
+      "$type": "shadow",
+      "$description": "Soft UI shadows for dark backgrounds (base: #2D3748)",
+      "convexOuter": {
+        "$value": {
+          "offsetX": "6px",
+          "offsetY": "6px",
+          "blur": "12px",
+          "spread": "0px",
+          "color": "#1A202C"
+        },
+        "$description": "Bottom-right shadow for raised elements"
+      },
+      "convexHighlight": {
+        "$value": {
+          "offsetX": "-6px",
+          "offsetY": "-6px",
+          "blur": "12px",
+          "spread": "0px",
+          "color": "#4A5568"
+        },
+        "$description": "Top-left highlight for raised elements"
+      },
+      "concaveOuter": {
+        "$value": {
+          "offsetX": "-3px",
+          "offsetY": "-3px",
+          "blur": "6px",
+          "spread": "0px",
+          "color": "#4A5568"
+        },
+        "$description": "Bottom-right shadow for pressed elements"
+      },
+      "concaveInner": {
+        "$value": {
+          "offsetX": "3px",
+          "offsetY": "3px",
+          "blur": "6px",
+          "spread": "0px",
+          "color": "#1A202C"
+        },
+        "$description": "Top-left shadow for pressed (inset) elements"
+      },
+      "subtle": {
+        "$value": {
+          "offsetX": "3px",
+          "offsetY": "3px",
+          "blur": "6px",
+          "spread": "0px",
+          "color": "#1A202C"
+        },
+        "$description": "Subtle shadow for flat interactive elements"
+      }
+    }
+  }
+}

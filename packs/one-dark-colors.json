@@ -1,1 +1,76 @@
-{"meta":{"id":"one-dark-colors","name":"One Dark Colors","description":"Atom One Dark — the iconic dark theme from the Atom editor. Includes background, foreground, 6 syntax accent colors, and editor UI colors for gutter, selection, cursor, and guides.","source":"One Dark","sourceUrl":"https://github.com/atom/one-dark-syntax","version":"1.0","license":"MIT","licenseUrl":"https://github.com/atom/one-dark-syntax/blob/master/LICENSE.md","tokenCount":13,"categories":["color"],"preview":["#282c34","#abb2bf","#e06c75","#98c379","#e5c07b","#61afef","#c678dd","#56b6c2"]},"data":{"color":{"$type":"color","ui":{"$description":"One Dark UI — background, foreground, and editor chrome colors","bg":{"$value":"#282c34"},"fg":{"$value":"#abb2bf"},"comment":{"$value":"#5c6370"},"gutter":{"$value":"#4b5263"},"selection":{"$value":"#3e4451"},"cursor":{"$value":"#528bff"},"guides":{"$value":"#3b4048"}},"syntax":{"$description":"One Dark Syntax — 6 accent colors used for code highlighting","red":{"$value":"#e06c75"},"green":{"$value":"#98c379"},"yellow":{"$value":"#e5c07b"},"blue":{"$value":"#61afef"},"magenta":{"$value":"#c678dd"},"cyan":{"$value":"#56b6c2"}}}}}
+{
+  "meta": {
+    "id": "one-dark-colors",
+    "name": "One Dark Colors",
+    "description": "Atom One Dark — the iconic dark theme from the Atom editor. Includes background, foreground, 6 syntax accent colors, and editor UI colors for gutter, selection, cursor, and guides.",
+    "source": "One Dark",
+    "sourceUrl": "https://github.com/atom/one-dark-syntax",
+    "version": "1.0",
+    "license": "MIT",
+    "licenseUrl": "https://github.com/atom/one-dark-syntax/blob/master/LICENSE.md",
+    "tokenCount": 13,
+    "categories": [
+      "color"
+    ],
+    "preview": [
+      "#282c34",
+      "#abb2bf",
+      "#e06c75",
+      "#98c379",
+      "#e5c07b",
+      "#61afef",
+      "#c678dd",
+      "#56b6c2"
+    ]
+  },
+  "data": {
+    "color": {
+      "$type": "color",
+      "ui": {
+        "$description": "One Dark UI — background, foreground, and editor chrome colors",
+        "bg": {
+          "$value": "#282c34"
+        },
+        "fg": {
+          "$value": "#abb2bf"
+        },
+        "comment": {
+          "$value": "#5c6370"
+        },
+        "gutter": {
+          "$value": "#4b5263"
+        },
+        "selection": {
+          "$value": "#3e4451"
+        },
+        "cursor": {
+          "$value": "#528bff"
+        },
+        "guides": {
+          "$value": "#3b4048"
+        }
+      },
+      "syntax": {
+        "$description": "One Dark Syntax — 6 accent colors used for code highlighting",
+        "red": {
+          "$value": "#e06c75"
+        },
+        "green": {
+          "$value": "#98c379"
+        },
+        "yellow": {
+          "$value": "#e5c07b"
+        },
+        "blue": {
+          "$value": "#61afef"
+        },
+        "magenta": {
+          "$value": "#c678dd"
+        },
+        "cyan": {
+          "$value": "#56b6c2"
+        }
+      }
+    }
+  }
+}

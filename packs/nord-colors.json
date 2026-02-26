@@ -1,1 +1,91 @@
-{"meta":{"id":"nord-colors","name":"Nord Colors","description":"The Nord color palette — 16 carefully chosen arctic colors across 4 palettes: Polar Night (dark backgrounds), Snow Storm (light text/surfaces), Frost (primary accents), and Aurora (status/accent colors).","source":"Nord","sourceUrl":"https://www.nordtheme.com","version":"0.2.0","license":"MIT","licenseUrl":"https://github.com/nordtheme/nord/blob/develop/LICENSE","tokenCount":16,"categories":["color"],"preview":["#2e3440","#88c0d0","#81a1c1","#5e81ac","#bf616a","#a3be8c","#ebcb8b","#b48ead"]},"data":{"color":{"$type":"color","polarNight":{"$description":"Nord Polar Night — dark base and background colors","nord0":{"$value":"#2e3440"},"nord1":{"$value":"#3b4252"},"nord2":{"$value":"#434c5e"},"nord3":{"$value":"#4c566a"}},"snowStorm":{"$description":"Nord Snow Storm — light foreground and surface colors","nord4":{"$value":"#d8dee9"},"nord5":{"$value":"#e5e9f0"},"nord6":{"$value":"#eceff4"}},"frost":{"$description":"Nord Frost — primary accent and UI element colors","nord7":{"$value":"#8fbcbb"},"nord8":{"$value":"#88c0d0"},"nord9":{"$value":"#81a1c1"},"nord10":{"$value":"#5e81ac"}},"aurora":{"$description":"Nord Aurora — vivid status and accent colors","nord11":{"$value":"#bf616a"},"nord12":{"$value":"#d08770"},"nord13":{"$value":"#ebcb8b"},"nord14":{"$value":"#a3be8c"},"nord15":{"$value":"#b48ead"}}}}}
+{
+  "meta": {
+    "id": "nord-colors",
+    "name": "Nord Colors",
+    "description": "The Nord color palette — 16 carefully chosen arctic colors across 4 palettes: Polar Night (dark backgrounds), Snow Storm (light text/surfaces), Frost (primary accents), and Aurora (status/accent colors).",
+    "source": "Nord",
+    "sourceUrl": "https://www.nordtheme.com",
+    "version": "0.2.0",
+    "license": "MIT",
+    "licenseUrl": "https://github.com/nordtheme/nord/blob/develop/LICENSE",
+    "tokenCount": 16,
+    "categories": [
+      "color"
+    ],
+    "preview": [
+      "#2e3440",
+      "#88c0d0",
+      "#81a1c1",
+      "#5e81ac",
+      "#bf616a",
+      "#a3be8c",
+      "#ebcb8b",
+      "#b48ead"
+    ]
+  },
+  "data": {
+    "color": {
+      "$type": "color",
+      "polarNight": {
+        "$description": "Nord Polar Night — dark base and background colors",
+        "nord0": {
+          "$value": "#2e3440"
+        },
+        "nord1": {
+          "$value": "#3b4252"
+        },
+        "nord2": {
+          "$value": "#434c5e"
+        },
+        "nord3": {
+          "$value": "#4c566a"
+        }
+      },
+      "snowStorm": {
+        "$description": "Nord Snow Storm — light foreground and surface colors",
+        "nord4": {
+          "$value": "#d8dee9"
+        },
+        "nord5": {
+          "$value": "#e5e9f0"
+        },
+        "nord6": {
+          "$value": "#eceff4"
+        }
+      },
+      "frost": {
+        "$description": "Nord Frost — primary accent and UI element colors",
+        "nord7": {
+          "$value": "#8fbcbb"
+        },
+        "nord8": {
+          "$value": "#88c0d0"
+        },
+        "nord9": {
+          "$value": "#81a1c1"
+        },
+        "nord10": {
+          "$value": "#5e81ac"
+        }
+      },
+      "aurora": {
+        "$description": "Nord Aurora — vivid status and accent colors",
+        "nord11": {
+          "$value": "#bf616a"
+        },
+        "nord12": {
+          "$value": "#d08770"
+        },
+        "nord13": {
+          "$value": "#ebcb8b"
+        },
+        "nord14": {
+          "$value": "#a3be8c"
+        },
+        "nord15": {
+          "$value": "#b48ead"
+        }
+      }
+    }
+  }
+}

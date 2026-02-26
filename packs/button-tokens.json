@@ -1,1 +1,224 @@
-{"meta":{"id":"button-tokens","name":"Button Tokens","description":"Complete button component tokens — 3 sizes (sm, md, lg) with padding, radius, and font size for each. Includes primary, secondary, outline, ghost, and destructive color variants with hover and disabled states.","source":"Design Compiler","sourceUrl":"https://stylefuse.io","version":"1.0","license":"CC0","licenseUrl":"https://creativecommons.org/publicdomain/zero/1.0/","tokenCount":37,"categories":["color","dimension"],"preview":["#2563EB","#1D4ED8","#6B7280","#DC2626","#FFFFFF","#F3F4F6","#E5E7EB","#111827"]},"data":{"size":{"sm":{"$description":"Small button — compact actions, inline buttons","height":{"$type":"dimension","$value":"32px","$description":"Total button height"},"paddingX":{"$type":"dimension","$value":"12px","$description":"Left/right content padding"},"paddingY":{"$type":"dimension","$value":"6px","$description":"Top/bottom content padding"},"fontSize":{"$type":"dimension","$value":"0.8125rem","$description":"Label text size"},"borderRadius":{"$type":"dimension","$value":"6px","$description":"Corner rounding"},"gap":{"$type":"dimension","$value":"6px","$description":"Space between icon and label"}},"md":{"$description":"Medium button — default size for most actions","height":{"$type":"dimension","$value":"40px","$description":"Total button height"},"paddingX":{"$type":"dimension","$value":"16px","$description":"Left/right content padding"},"paddingY":{"$type":"dimension","$value":"8px","$description":"Top/bottom content padding"},"fontSize":{"$type":"dimension","$value":"0.875rem","$description":"Label text size"},"borderRadius":{"$type":"dimension","$value":"8px","$description":"Corner rounding"},"gap":{"$type":"dimension","$value":"8px","$description":"Space between icon and label"}},"lg":{"$description":"Large button — prominent CTAs and hero actions","height":{"$type":"dimension","$value":"48px","$description":"Total button height"},"paddingX":{"$type":"dimension","$value":"24px","$description":"Left/right content padding"},"paddingY":{"$type":"dimension","$value":"12px","$description":"Top/bottom content padding"},"fontSize":{"$type":"dimension","$value":"1rem","$description":"Label text size"},"borderRadius":{"$type":"dimension","$value":"10px","$description":"Corner rounding"},"gap":{"$type":"dimension","$value":"10px","$description":"Space between icon and label"}}},"color":{"$type":"color","primary":{"$description":"Primary button — main call-to-action","bg":{"$value":"#2563EB","$description":"Fill color"},"fg":{"$value":"#FFFFFF","$description":"Label text color"},"hover":{"$value":"#1D4ED8","$description":"Fill on hover"},"disabled":{"$value":"#93C5FD","$description":"Fill when disabled"}},"secondary":{"$description":"Secondary button — less prominent actions","bg":{"$value":"#F3F4F6","$description":"Fill color"},"fg":{"$value":"#111827","$description":"Label text color"},"hover":{"$value":"#E5E7EB","$description":"Fill on hover"},"disabled":{"$value":"#F9FAFB","$description":"Fill when disabled"}},"outline":{"$description":"Outline button — bordered, transparent background","bg":{"$value":"#FFFFFF00","$description":"Transparent fill"},"fg":{"$value":"#374151","$description":"Label text color"},"border":{"$value":"#D1D5DB","$description":"Border stroke color"},"hover":{"$value":"#F9FAFB","$description":"Fill on hover"}},"ghost":{"$description":"Ghost button — no background, minimal style","bg":{"$value":"#FFFFFF00","$description":"Transparent fill"},"fg":{"$value":"#374151","$description":"Label text color"},"hover":{"$value":"#F3F4F6","$description":"Fill on hover"}},"destructive":{"$description":"Destructive button — delete, remove, danger actions","bg":{"$value":"#DC2626","$description":"Danger fill color"},"fg":{"$value":"#FFFFFF","$description":"Label text color"},"hover":{"$value":"#B91C1C","$description":"Fill on hover"},"disabled":{"$value":"#FCA5A5","$description":"Fill when disabled"}}}}}
+{
+  "meta": {
+    "id": "button-tokens",
+    "name": "Button Tokens",
+    "description": "Complete button component tokens — 3 sizes (sm, md, lg) with padding, radius, and font size for each. Includes primary, secondary, outline, ghost, and destructive color variants with hover and disabled states.",
+    "source": "Design Compiler",
+    "sourceUrl": "https://stylefuse.io",
+    "version": "1.0",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "tokenCount": 37,
+    "categories": [
+      "color",
+      "dimension"
+    ],
+    "preview": [
+      "#2563EB",
+      "#1D4ED8",
+      "#6B7280",
+      "#DC2626",
+      "#FFFFFF",
+      "#F3F4F6",
+      "#E5E7EB",
+      "#111827"
+    ]
+  },
+  "data": {
+    "size": {
+      "sm": {
+        "$description": "Small button — compact actions, inline buttons",
+        "height": {
+          "$type": "dimension",
+          "$value": "32px",
+          "$description": "Total button height"
+        },
+        "paddingX": {
+          "$type": "dimension",
+          "$value": "12px",
+          "$description": "Left/right content padding"
+        },
+        "paddingY": {
+          "$type": "dimension",
+          "$value": "6px",
+          "$description": "Top/bottom content padding"
+        },
+        "fontSize": {
+          "$type": "dimension",
+          "$value": "0.8125rem",
+          "$description": "Label text size"
+        },
+        "borderRadius": {
+          "$type": "dimension",
+          "$value": "6px",
+          "$description": "Corner rounding"
+        },
+        "gap": {
+          "$type": "dimension",
+          "$value": "6px",
+          "$description": "Space between icon and label"
+        }
+      },
+      "md": {
+        "$description": "Medium button — default size for most actions",
+        "height": {
+          "$type": "dimension",
+          "$value": "40px",
+          "$description": "Total button height"
+        },
+        "paddingX": {
+          "$type": "dimension",
+          "$value": "16px",
+          "$description": "Left/right content padding"
+        },
+        "paddingY": {
+          "$type": "dimension",
+          "$value": "8px",
+          "$description": "Top/bottom content padding"
+        },
+        "fontSize": {
+          "$type": "dimension",
+          "$value": "0.875rem",
+          "$description": "Label text size"
+        },
+        "borderRadius": {
+          "$type": "dimension",
+          "$value": "8px",
+          "$description": "Corner rounding"
+        },
+        "gap": {
+          "$type": "dimension",
+          "$value": "8px",
+          "$description": "Space between icon and label"
+        }
+      },
+      "lg": {
+        "$description": "Large button — prominent CTAs and hero actions",
+        "height": {
+          "$type": "dimension",
+          "$value": "48px",
+          "$description": "Total button height"
+        },
+        "paddingX": {
+          "$type": "dimension",
+          "$value": "24px",
+          "$description": "Left/right content padding"
+        },
+        "paddingY": {
+          "$type": "dimension",
+          "$value": "12px",
+          "$description": "Top/bottom content padding"
+        },
+        "fontSize": {
+          "$type": "dimension",
+          "$value": "1rem",
+          "$description": "Label text size"
+        },
+        "borderRadius": {
+          "$type": "dimension",
+          "$value": "10px",
+          "$description": "Corner rounding"
+        },
+        "gap": {
+          "$type": "dimension",
+          "$value": "10px",
+          "$description": "Space between icon and label"
+        }
+      }
+    },
+    "color": {
+      "$type": "color",
+      "primary": {
+        "$description": "Primary button — main call-to-action",
+        "bg": {
+          "$value": "#2563EB",
+          "$description": "Fill color"
+        },
+        "fg": {
+          "$value": "#FFFFFF",
+          "$description": "Label text color"
+        },
+        "hover": {
+          "$value": "#1D4ED8",
+          "$description": "Fill on hover"
+        },
+        "disabled": {
+          "$value": "#93C5FD",
+          "$description": "Fill when disabled"
+        }
+      },
+      "secondary": {
+        "$description": "Secondary button — less prominent actions",
+        "bg": {
+          "$value": "#F3F4F6",
+          "$description": "Fill color"
+        },
+        "fg": {
+          "$value": "#111827",
+          "$description": "Label text color"
+        },
+        "hover": {
+          "$value": "#E5E7EB",
+          "$description": "Fill on hover"
+        },
+        "disabled": {
+          "$value": "#F9FAFB",
+          "$description": "Fill when disabled"
+        }
+      },
+      "outline": {
+        "$description": "Outline button — bordered, transparent background",
+        "bg": {
+          "$value": "#FFFFFF00",
+          "$description": "Transparent fill"
+        },
+        "fg": {
+          "$value": "#374151",
+          "$description": "Label text color"
+        },
+        "border": {
+          "$value": "#D1D5DB",
+          "$description": "Border stroke color"
+        },
+        "hover": {
+          "$value": "#F9FAFB",
+          "$description": "Fill on hover"
+        }
+      },
+      "ghost": {
+        "$description": "Ghost button — no background, minimal style",
+        "bg": {
+          "$value": "#FFFFFF00",
+          "$description": "Transparent fill"
+        },
+        "fg": {
+          "$value": "#374151",
+          "$description": "Label text color"
+        },
+        "hover": {
+          "$value": "#F3F4F6",
+          "$description": "Fill on hover"
+        }
+      },
+      "destructive": {
+        "$description": "Destructive button — delete, remove, danger actions",
+        "bg": {
+          "$value": "#DC2626",
+          "$description": "Danger fill color"
+        },
+        "fg": {
+          "$value": "#FFFFFF",
+          "$description": "Label text color"
+        },
+        "hover": {
+          "$value": "#B91C1C",
+          "$description": "Fill on hover"
+        },
+        "disabled": {
+          "$value": "#FCA5A5",
+          "$description": "Fill when disabled"
+        }
+      }
+    }
+  }
+}

@@ -1,1 +1,170 @@
-{"meta":{"id":"card-tokens","name":"Card Tokens","description":"Card component tokens — 3 elevation levels (flat, raised, floating) with padding, radius, shadow, and surface colors. Includes header, body, and footer spacing for consistent card layouts.","source":"Design Compiler","sourceUrl":"https://stylefuse.io","version":"1.0","license":"CC0","licenseUrl":"https://creativecommons.org/publicdomain/zero/1.0/","tokenCount":24,"categories":["color","dimension","shadow"],"preview":["#FFFFFF","#F9FAFB","#111827","#6B7280","#E5E7EB","#3B82F6","#F3F4F6","#D1D5DB"]},"data":{"padding":{"$type":"dimension","$description":"Card content padding by density","compact":{"$value":"12px","$description":"Dense data tables, list items"},"default":{"$value":"16px","$description":"Standard card content"},"spacious":{"$value":"24px","$description":"Hero cards, marketing blocks"}},"gap":{"$type":"dimension","$description":"Spacing between card sections (header, body, footer)","header":{"$value":"12px","$description":"Below card header"},"body":{"$value":"16px","$description":"Between body paragraphs"},"footer":{"$value":"12px","$description":"Above card footer"},"section":{"$value":"16px","$description":"Between content sections"}},"borderRadius":{"$type":"dimension","$description":"Card corner radius by elevation","flat":{"$value":"8px","$description":"Flush with surface"},"raised":{"$value":"12px","$description":"Elevated cards"},"floating":{"$value":"16px","$description":"Overlays, popovers"}},"shadow":{"$type":"shadow","$description":"Card elevation shadows","flat":{"$value":{"offsetX":"0px","offsetY":"0px","blur":"0px","spread":"0px","color":"#00000000"},"$description":"No shadow, relies on border"},"raised":{"$value":{"offsetX":"0px","offsetY":"1px","blur":"3px","spread":"0px","color":"#0000001a"},"$description":"Subtle lift off surface"},"floating":{"$value":{"offsetX":"0px","offsetY":"8px","blur":"24px","spread":"-4px","color":"#00000020"},"$description":"Detached from surface"},"hover":{"$value":{"offsetX":"0px","offsetY":"12px","blur":"32px","spread":"-4px","color":"#00000026"},"$description":"Lift on hover interaction"}},"color":{"$type":"color","$description":"Card surface and text colors","surface":{"$value":"#FFFFFF","$description":"Default card background"},"surfaceHover":{"$value":"#F9FAFB","$description":"Background on hover"},"surfaceMuted":{"$value":"#F3F4F6","$description":"Muted/secondary card"},"border":{"$value":"#E5E7EB","$description":"Default card border"},"borderHover":{"$value":"#D1D5DB","$description":"Border on hover"},"title":{"$value":"#111827","$description":"Card heading text"},"body":{"$value":"#374151","$description":"Card body text"},"caption":{"$value":"#6B7280","$description":"Meta text, timestamps"},"accent":{"$value":"#3B82F6","$description":"Links, highlighted values"},"divider":{"$value":"#F3F4F6","$description":"Section divider line"}}}}
+{
+  "meta": {
+    "id": "card-tokens",
+    "name": "Card Tokens",
+    "description": "Card component tokens — 3 elevation levels (flat, raised, floating) with padding, radius, shadow, and surface colors. Includes header, body, and footer spacing for consistent card layouts.",
+    "source": "Design Compiler",
+    "sourceUrl": "https://stylefuse.io",
+    "version": "1.0",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "tokenCount": 24,
+    "categories": [
+      "color",
+      "dimension",
+      "shadow"
+    ],
+    "preview": [
+      "#FFFFFF",
+      "#F9FAFB",
+      "#111827",
+      "#6B7280",
+      "#E5E7EB",
+      "#3B82F6",
+      "#F3F4F6",
+      "#D1D5DB"
+    ]
+  },
+  "data": {
+    "padding": {
+      "$type": "dimension",
+      "$description": "Card content padding by density",
+      "compact": {
+        "$value": "12px",
+        "$description": "Dense data tables, list items"
+      },
+      "default": {
+        "$value": "16px",
+        "$description": "Standard card content"
+      },
+      "spacious": {
+        "$value": "24px",
+        "$description": "Hero cards, marketing blocks"
+      }
+    },
+    "gap": {
+      "$type": "dimension",
+      "$description": "Spacing between card sections (header, body, footer)",
+      "header": {
+        "$value": "12px",
+        "$description": "Below card header"
+      },
+      "body": {
+        "$value": "16px",
+        "$description": "Between body paragraphs"
+      },
+      "footer": {
+        "$value": "12px",
+        "$description": "Above card footer"
+      },
+      "section": {
+        "$value": "16px",
+        "$description": "Between content sections"
+      }
+    },
+    "borderRadius": {
+      "$type": "dimension",
+      "$description": "Card corner radius by elevation",
+      "flat": {
+        "$value": "8px",
+        "$description": "Flush with surface"
+      },
+      "raised": {
+        "$value": "12px",
+        "$description": "Elevated cards"
+      },
+      "floating": {
+        "$value": "16px",
+        "$description": "Overlays, popovers"
+      }
+    },
+    "shadow": {
+      "$type": "shadow",
+      "$description": "Card elevation shadows",
+      "flat": {
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "blur": "0px",
+          "spread": "0px",
+          "color": "#00000000"
+        },
+        "$description": "No shadow, relies on border"
+      },
+      "raised": {
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "3px",
+          "spread": "0px",
+          "color": "#0000001a"
+        },
+        "$description": "Subtle lift off surface"
+      },
+      "floating": {
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "8px",
+          "blur": "24px",
+          "spread": "-4px",
+          "color": "#00000020"
+        },
+        "$description": "Detached from surface"
+      },
+      "hover": {
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "12px",
+          "blur": "32px",
+          "spread": "-4px",
+          "color": "#00000026"
+        },
+        "$description": "Lift on hover interaction"
+      }
+    },
+    "color": {
+      "$type": "color",
+      "$description": "Card surface and text colors",
+      "surface": {
+        "$value": "#FFFFFF",
+        "$description": "Default card background"
+      },
+      "surfaceHover": {
+        "$value": "#F9FAFB",
+        "$description": "Background on hover"
+      },
+      "surfaceMuted": {
+        "$value": "#F3F4F6",
+        "$description": "Muted/secondary card"
+      },
+      "border": {
+        "$value": "#E5E7EB",
+        "$description": "Default card border"
+      },
+      "borderHover": {
+        "$value": "#D1D5DB",
+        "$description": "Border on hover"
+      },
+      "title": {
+        "$value": "#111827",
+        "$description": "Card heading text"
+      },
+      "body": {
+        "$value": "#374151",
+        "$description": "Card body text"
+      },
+      "caption": {
+        "$value": "#6B7280",
+        "$description": "Meta text, timestamps"
+      },
+      "accent": {
+        "$value": "#3B82F6",
+        "$description": "Links, highlighted values"
+      },
+      "divider": {
+        "$value": "#F3F4F6",
+        "$description": "Section divider line"
+      }
+    }
+  }
+}

@@ -1,1 +1,537 @@
-{"meta":{"id":"radix-colors","name":"Radix UI Colors","description":"Accessible 12-step color scales from Radix UI. Each step has a specific use case — from subtle backgrounds (1–2) through component backgrounds (3–5), borders (6–8), solid colors (9–10), to text (11–12).","source":"Radix UI","sourceUrl":"https://www.radix-ui.com/colors","version":"3.0","license":"MIT","licenseUrl":"https://github.com/radix-ui/themes/blob/main/LICENSE","tokenCount":156,"categories":["color"],"preview":["#e54d2e","#e5484d","#ab4aba","#3e63dd","#12a594","#46a758","#f76b15"]},"data":{"color":{"$type":"color","tomato":{"1":{"$value":"#fffcfc"},"2":{"$value":"#fff8f7"},"3":{"$value":"#feebe7"},"4":{"$value":"#ffdcd3"},"5":{"$value":"#ffcdc2"},"6":{"$value":"#fdbdaf"},"7":{"$value":"#f5a898"},"8":{"$value":"#ec8e7b"},"9":{"$value":"#e54d2e"},"10":{"$value":"#dd4425"},"11":{"$value":"#d13415"},"12":{"$value":"#5c271f"},"$description":"Warm red for errors and destructive actions"},"red":{"1":{"$value":"#fffcfc"},"2":{"$value":"#fff7f7"},"3":{"$value":"#feebec"},"4":{"$value":"#ffdbdc"},"5":{"$value":"#ffcdce"},"6":{"$value":"#fdbdbe"},"7":{"$value":"#f4a9aa"},"8":{"$value":"#eb8e90"},"9":{"$value":"#e5484d"},"10":{"$value":"#dc3e42"},"11":{"$value":"#ce2c31"},"12":{"$value":"#641723"},"$description":"Bright red for alerts and badges"},"crimson":{"1":{"$value":"#fffcfd"},"2":{"$value":"#fef7f9"},"3":{"$value":"#ffe9f0"},"4":{"$value":"#fedce7"},"5":{"$value":"#facedd"},"6":{"$value":"#f3bed1"},"7":{"$value":"#eaacc3"},"8":{"$value":"#e093b2"},"9":{"$value":"#e93d82"},"10":{"$value":"#df3478"},"11":{"$value":"#cb1d63"},"12":{"$value":"#621639"},"$description":"Deep crimson for bold accents"},"pink":{"1":{"$value":"#fffcfe"},"2":{"$value":"#fef7fb"},"3":{"$value":"#fee9f5"},"4":{"$value":"#fbdcef"},"5":{"$value":"#f6cee7"},"6":{"$value":"#efbfdd"},"7":{"$value":"#e7acd0"},"8":{"$value":"#dd93c2"},"9":{"$value":"#d6409f"},"10":{"$value":"#cf3897"},"11":{"$value":"#c2298a"},"12":{"$value":"#651249"},"$description":"Playful pink"},"plum":{"1":{"$value":"#fefcff"},"2":{"$value":"#fdf7fd"},"3":{"$value":"#fbebfb"},"4":{"$value":"#f7def8"},"5":{"$value":"#f2d1f3"},"6":{"$value":"#e9c2ec"},"7":{"$value":"#deade3"},"8":{"$value":"#cf91d8"},"9":{"$value":"#ab4aba"},"10":{"$value":"#a144af"},"11":{"$value":"#953ea3"},"12":{"$value":"#53195d"},"$description":"Rich plum purple"},"purple":{"1":{"$value":"#fefcfe"},"2":{"$value":"#fbf7fe"},"3":{"$value":"#f7edfe"},"4":{"$value":"#f2e2fc"},"5":{"$value":"#ead5f9"},"6":{"$value":"#e0c4f4"},"7":{"$value":"#d1afec"},"8":{"$value":"#be93e4"},"9":{"$value":"#8e4ec6"},"10":{"$value":"#8347b9"},"11":{"$value":"#8145b5"},"12":{"$value":"#402060"},"$description":"Classic purple"},"violet":{"1":{"$value":"#fdfcfe"},"2":{"$value":"#faf8ff"},"3":{"$value":"#f4f0fe"},"4":{"$value":"#ebe4ff"},"5":{"$value":"#e1d9ff"},"6":{"$value":"#d4cafe"},"7":{"$value":"#c2b5f5"},"8":{"$value":"#aa99ec"},"9":{"$value":"#6e56cf"},"10":{"$value":"#654dc4"},"11":{"$value":"#6550b9"},"12":{"$value":"#2f265f"},"$description":"Soft violet"},"indigo":{"1":{"$value":"#fdfdfe"},"2":{"$value":"#f7f9ff"},"3":{"$value":"#edf2fe"},"4":{"$value":"#e1e9ff"},"5":{"$value":"#d2deff"},"6":{"$value":"#c1d0ff"},"7":{"$value":"#abbdf9"},"8":{"$value":"#8da4ef"},"9":{"$value":"#3e63dd"},"10":{"$value":"#3358d4"},"11":{"$value":"#3a5bc7"},"12":{"$value":"#1f2d5c"},"$description":"Deep indigo blue"},"blue":{"1":{"$value":"#fbfdff"},"2":{"$value":"#f4faff"},"3":{"$value":"#e6f4fe"},"4":{"$value":"#d5efff"},"5":{"$value":"#c2e5ff"},"6":{"$value":"#acd8fc"},"7":{"$value":"#8ec8f6"},"8":{"$value":"#5eb1ef"},"9":{"$value":"#0090ff"},"10":{"$value":"#0588f0"},"11":{"$value":"#0d74ce"},"12":{"$value":"#113264"},"$description":"Primary blue for interactive elements"},"cyan":{"1":{"$value":"#fafdfe"},"2":{"$value":"#f2fafb"},"3":{"$value":"#def8f8"},"4":{"$value":"#caf3f2"},"5":{"$value":"#b5eceb"},"6":{"$value":"#9de2e1"},"7":{"$value":"#84d6d4"},"8":{"$value":"#53c7c3"},"9":{"$value":"#00a2c7"},"10":{"$value":"#0797b9"},"11":{"$value":"#107d95"},"12":{"$value":"#0d3c48"},"$description":"Vibrant cyan"},"teal":{"1":{"$value":"#fafefd"},"2":{"$value":"#f3fbf9"},"3":{"$value":"#e0f8f3"},"4":{"$value":"#ccf3ea"},"5":{"$value":"#b8eae0"},"6":{"$value":"#a1ded2"},"7":{"$value":"#83cdc1"},"8":{"$value":"#53b9ab"},"9":{"$value":"#12a594"},"10":{"$value":"#0d9b8a"},"11":{"$value":"#008573"},"12":{"$value":"#0d3d38"},"$description":"Balanced teal"},"green":{"1":{"$value":"#fbfefc"},"2":{"$value":"#f4fbf6"},"3":{"$value":"#e6f6eb"},"4":{"$value":"#d6f1df"},"5":{"$value":"#c4e8d1"},"6":{"$value":"#adddc0"},"7":{"$value":"#8eceaa"},"8":{"$value":"#5bb98b"},"9":{"$value":"#30a46c"},"10":{"$value":"#2b9a66"},"11":{"$value":"#218358"},"12":{"$value":"#193b2d"},"$description":"Natural green for success states"},"grass":{"1":{"$value":"#fbfefb"},"2":{"$value":"#f5fbf5"},"3":{"$value":"#e9f6e9"},"4":{"$value":"#daf1db"},"5":{"$value":"#c9e8ca"},"6":{"$value":"#b2ddb5"},"7":{"$value":"#94ce9a"},"8":{"$value":"#65ba74"},"9":{"$value":"#46a758"},"10":{"$value":"#3e9b4f"},"11":{"$value":"#2a7e3b"},"12":{"$value":"#203c25"},"$description":"Bright grass green"}}}}
+{
+  "meta": {
+    "id": "radix-colors",
+    "name": "Radix UI Colors",
+    "description": "Accessible 12-step color scales from Radix UI. Each step has a specific use case — from subtle backgrounds (1–2) through component backgrounds (3–5), borders (6–8), solid colors (9–10), to text (11–12).",
+    "source": "Radix UI",
+    "sourceUrl": "https://www.radix-ui.com/colors",
+    "version": "3.0",
+    "license": "MIT",
+    "licenseUrl": "https://github.com/radix-ui/themes/blob/main/LICENSE",
+    "tokenCount": 156,
+    "categories": [
+      "color"
+    ],
+    "preview": [
+      "#e54d2e",
+      "#e5484d",
+      "#ab4aba",
+      "#3e63dd",
+      "#12a594",
+      "#46a758",
+      "#f76b15"
+    ]
+  },
+  "data": {
+    "color": {
+      "$type": "color",
+      "tomato": {
+        "1": {
+          "$value": "#fffcfc"
+        },
+        "2": {
+          "$value": "#fff8f7"
+        },
+        "3": {
+          "$value": "#feebe7"
+        },
+        "4": {
+          "$value": "#ffdcd3"
+        },
+        "5": {
+          "$value": "#ffcdc2"
+        },
+        "6": {
+          "$value": "#fdbdaf"
+        },
+        "7": {
+          "$value": "#f5a898"
+        },
+        "8": {
+          "$value": "#ec8e7b"
+        },
+        "9": {
+          "$value": "#e54d2e"
+        },
+        "10": {
+          "$value": "#dd4425"
+        },
+        "11": {
+          "$value": "#d13415"
+        },
+        "12": {
+          "$value": "#5c271f"
+        },
+        "$description": "Warm red for errors and destructive actions"
+      },
+      "red": {
+        "1": {
+          "$value": "#fffcfc"
+        },
+        "2": {
+          "$value": "#fff7f7"
+        },
+        "3": {
+          "$value": "#feebec"
+        },
+        "4": {
+          "$value": "#ffdbdc"
+        },
+        "5": {
+          "$value": "#ffcdce"
+        },
+        "6": {
+          "$value": "#fdbdbe"
+        },
+        "7": {
+          "$value": "#f4a9aa"
+        },
+        "8": {
+          "$value": "#eb8e90"
+        },
+        "9": {
+          "$value": "#e5484d"
+        },
+        "10": {
+          "$value": "#dc3e42"
+        },
+        "11": {
+          "$value": "#ce2c31"
+        },
+        "12": {
+          "$value": "#641723"
+        },
+        "$description": "Bright red for alerts and badges"
+      },
+      "crimson": {
+        "1": {
+          "$value": "#fffcfd"
+        },
+        "2": {
+          "$value": "#fef7f9"
+        },
+        "3": {
+          "$value": "#ffe9f0"
+        },
+        "4": {
+          "$value": "#fedce7"
+        },
+        "5": {
+          "$value": "#facedd"
+        },
+        "6": {
+          "$value": "#f3bed1"
+        },
+        "7": {
+          "$value": "#eaacc3"
+        },
+        "8": {
+          "$value": "#e093b2"
+        },
+        "9": {
+          "$value": "#e93d82"
+        },
+        "10": {
+          "$value": "#df3478"
+        },
+        "11": {
+          "$value": "#cb1d63"
+        },
+        "12": {
+          "$value": "#621639"
+        },
+        "$description": "Deep crimson for bold accents"
+      },
+      "pink": {
+        "1": {
+          "$value": "#fffcfe"
+        },
+        "2": {
+          "$value": "#fef7fb"
+        },
+        "3": {
+          "$value": "#fee9f5"
+        },
+        "4": {
+          "$value": "#fbdcef"
+        },
+        "5": {
+          "$value": "#f6cee7"
+        },
+        "6": {
+          "$value": "#efbfdd"
+        },
+        "7": {
+          "$value": "#e7acd0"
+        },
+        "8": {
+          "$value": "#dd93c2"
+        },
+        "9": {
+          "$value": "#d6409f"
+        },
+        "10": {
+          "$value": "#cf3897"
+        },
+        "11": {
+          "$value": "#c2298a"
+        },
+        "12": {
+          "$value": "#651249"
+        },
+        "$description": "Playful pink"
+      },
+      "plum": {
+        "1": {
+          "$value": "#fefcff"
+        },
+        "2": {
+          "$value": "#fdf7fd"
+        },
+        "3": {
+          "$value": "#fbebfb"
+        },
+        "4": {
+          "$value": "#f7def8"
+        },
+        "5": {
+          "$value": "#f2d1f3"
+        },
+        "6": {
+          "$value": "#e9c2ec"
+        },
+        "7": {
+          "$value": "#deade3"
+        },
+        "8": {
+          "$value": "#cf91d8"
+        },
+        "9": {
+          "$value": "#ab4aba"
+        },
+        "10": {
+          "$value": "#a144af"
+        },
+        "11": {
+          "$value": "#953ea3"
+        },
+        "12": {
+          "$value": "#53195d"
+        },
+        "$description": "Rich plum purple"
+      },
+      "purple": {
+        "1": {
+          "$value": "#fefcfe"
+        },
+        "2": {
+          "$value": "#fbf7fe"
+        },
+        "3": {
+          "$value": "#f7edfe"
+        },
+        "4": {
+          "$value": "#f2e2fc"
+        },
+        "5": {
+          "$value": "#ead5f9"
+        },
+        "6": {
+          "$value": "#e0c4f4"
+        },
+        "7": {
+          "$value": "#d1afec"
+        },
+        "8": {
+          "$value": "#be93e4"
+        },
+        "9": {
+          "$value": "#8e4ec6"
+        },
+        "10": {
+          "$value": "#8347b9"
+        },
+        "11": {
+          "$value": "#8145b5"
+        },
+        "12": {
+          "$value": "#402060"
+        },
+        "$description": "Classic purple"
+      },
+      "violet": {
+        "1": {
+          "$value": "#fdfcfe"
+        },
+        "2": {
+          "$value": "#faf8ff"
+        },
+        "3": {
+          "$value": "#f4f0fe"
+        },
+        "4": {
+          "$value": "#ebe4ff"
+        },
+        "5": {
+          "$value": "#e1d9ff"
+        },
+        "6": {
+          "$value": "#d4cafe"
+        },
+        "7": {
+          "$value": "#c2b5f5"
+        },
+        "8": {
+          "$value": "#aa99ec"
+        },
+        "9": {
+          "$value": "#6e56cf"
+        },
+        "10": {
+          "$value": "#654dc4"
+        },
+        "11": {
+          "$value": "#6550b9"
+        },
+        "12": {
+          "$value": "#2f265f"
+        },
+        "$description": "Soft violet"
+      },
+      "indigo": {
+        "1": {
+          "$value": "#fdfdfe"
+        },
+        "2": {
+          "$value": "#f7f9ff"
+        },
+        "3": {
+          "$value": "#edf2fe"
+        },
+        "4": {
+          "$value": "#e1e9ff"
+        },
+        "5": {
+          "$value": "#d2deff"
+        },
+        "6": {
+          "$value": "#c1d0ff"
+        },
+        "7": {
+          "$value": "#abbdf9"
+        },
+        "8": {
+          "$value": "#8da4ef"
+        },
+        "9": {
+          "$value": "#3e63dd"
+        },
+        "10": {
+          "$value": "#3358d4"
+        },
+        "11": {
+          "$value": "#3a5bc7"
+        },
+        "12": {
+          "$value": "#1f2d5c"
+        },
+        "$description": "Deep indigo blue"
+      },
+      "blue": {
+        "1": {
+          "$value": "#fbfdff"
+        },
+        "2": {
+          "$value": "#f4faff"
+        },
+        "3": {
+          "$value": "#e6f4fe"
+        },
+        "4": {
+          "$value": "#d5efff"
+        },
+        "5": {
+          "$value": "#c2e5ff"
+        },
+        "6": {
+          "$value": "#acd8fc"
+        },
+        "7": {
+          "$value": "#8ec8f6"
+        },
+        "8": {
+          "$value": "#5eb1ef"
+        },
+        "9": {
+          "$value": "#0090ff"
+        },
+        "10": {
+          "$value": "#0588f0"
+        },
+        "11": {
+          "$value": "#0d74ce"
+        },
+        "12": {
+          "$value": "#113264"
+        },
+        "$description": "Primary blue for interactive elements"
+      },
+      "cyan": {
+        "1": {
+          "$value": "#fafdfe"
+        },
+        "2": {
+          "$value": "#f2fafb"
+        },
+        "3": {
+          "$value": "#def8f8"
+        },
+        "4": {
+          "$value": "#caf3f2"
+        },
+        "5": {
+          "$value": "#b5eceb"
+        },
+        "6": {
+          "$value": "#9de2e1"
+        },
+        "7": {
+          "$value": "#84d6d4"
+        },
+        "8": {
+          "$value": "#53c7c3"
+        },
+        "9": {
+          "$value": "#00a2c7"
+        },
+        "10": {
+          "$value": "#0797b9"
+        },
+        "11": {
+          "$value": "#107d95"
+        },
+        "12": {
+          "$value": "#0d3c48"
+        },
+        "$description": "Vibrant cyan"
+      },
+      "teal": {
+        "1": {
+          "$value": "#fafefd"
+        },
+        "2": {
+          "$value": "#f3fbf9"
+        },
+        "3": {
+          "$value": "#e0f8f3"
+        },
+        "4": {
+          "$value": "#ccf3ea"
+        },
+        "5": {
+          "$value": "#b8eae0"
+        },
+        "6": {
+          "$value": "#a1ded2"
+        },
+        "7": {
+          "$value": "#83cdc1"
+        },
+        "8": {
+          "$value": "#53b9ab"
+        },
+        "9": {
+          "$value": "#12a594"
+        },
+        "10": {
+          "$value": "#0d9b8a"
+        },
+        "11": {
+          "$value": "#008573"
+        },
+        "12": {
+          "$value": "#0d3d38"
+        },
+        "$description": "Balanced teal"
+      },
+      "green": {
+        "1": {
+          "$value": "#fbfefc"
+        },
+        "2": {
+          "$value": "#f4fbf6"
+        },
+        "3": {
+          "$value": "#e6f6eb"
+        },
+        "4": {
+          "$value": "#d6f1df"
+        },
+        "5": {
+          "$value": "#c4e8d1"
+        },
+        "6": {
+          "$value": "#adddc0"
+        },
+        "7": {
+          "$value": "#8eceaa"
+        },
+        "8": {
+          "$value": "#5bb98b"
+        },
+        "9": {
+          "$value": "#30a46c"
+        },
+        "10": {
+          "$value": "#2b9a66"
+        },
+        "11": {
+          "$value": "#218358"
+        },
+        "12": {
+          "$value": "#193b2d"
+        },
+        "$description": "Natural green for success states"
+      },
+      "grass": {
+        "1": {
+          "$value": "#fbfefb"
+        },
+        "2": {
+          "$value": "#f5fbf5"
+        },
+        "3": {
+          "$value": "#e9f6e9"
+        },
+        "4": {
+          "$value": "#daf1db"
+        },
+        "5": {
+          "$value": "#c9e8ca"
+        },
+        "6": {
+          "$value": "#b2ddb5"
+        },
+        "7": {
+          "$value": "#94ce9a"
+        },
+        "8": {
+          "$value": "#65ba74"
+        },
+        "9": {
+          "$value": "#46a758"
+        },
+        "10": {
+          "$value": "#3e9b4f"
+        },
+        "11": {
+          "$value": "#2a7e3b"
+        },
+        "12": {
+          "$value": "#203c25"
+        },
+        "$description": "Bright grass green"
+      }
+    }
+  }
+}

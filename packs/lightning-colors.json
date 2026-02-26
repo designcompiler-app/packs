@@ -1,1 +1,544 @@
-{"meta":{"id":"lightning-colors","name":"Salesforce Lightning Colors","description":"Salesforce Lightning Design System (SLDS) color palette — 12 hue families (blue, cloud blue, green, teal, hot orange, orange, yellow, pink, red, purple, violet, indigo) with 12-step scales, plus a 14-step neutral. 158 tokens. Primitive values identical in SLDS 2.","source":"Salesforce SLDS","sourceUrl":"https://www.lightningdesignsystem.com","version":"2.25","license":"MIT","licenseUrl":"https://github.com/nicholasgalante1997/slds/blob/main/LICENSE","tokenCount":158,"categories":["color"],"preview":["#0176d3","#1b96ff","#ea001e","#2e844a","#9050e9","#e3066a","#a86403","#0b827c"]},"data":{"color":{"$type":"color","blue":{"10":{"$value":"#001639"},"15":{"$value":"#03234d"},"20":{"$value":"#032d60"},"30":{"$value":"#014486"},"40":{"$value":"#0b5cab"},"50":{"$value":"#0176d3"},"60":{"$value":"#1b96ff"},"65":{"$value":"#57a3fd"},"70":{"$value":"#78b0fd"},"80":{"$value":"#aacbff"},"90":{"$value":"#d8e6fe"},"95":{"$value":"#eef4ff"},"$description":"SLDS blue palette"},"cloudBlue":{"10":{"$value":"#001a28"},"15":{"$value":"#0a2636"},"20":{"$value":"#023248"},"30":{"$value":"#084968"},"40":{"$value":"#05628a"},"50":{"$value":"#107cad"},"60":{"$value":"#0d9dda"},"65":{"$value":"#08abed"},"70":{"$value":"#1ab9ff"},"80":{"$value":"#90d0fe"},"90":{"$value":"#cfe9fe"},"95":{"$value":"#eaf5fe"},"$description":"SLDS cloud blue palette"},"green":{"10":{"$value":"#071b12"},"15":{"$value":"#0c2912"},"20":{"$value":"#1c3326"},"30":{"$value":"#194e31"},"40":{"$value":"#396547"},"50":{"$value":"#2e844a"},"60":{"$value":"#3ba755"},"65":{"$value":"#41b658"},"70":{"$value":"#45c65a"},"80":{"$value":"#91db8b"},"90":{"$value":"#cdefc4"},"95":{"$value":"#ebf7e6"},"$description":"SLDS green palette"},"teal":{"10":{"$value":"#071b12"},"15":{"$value":"#072825"},"20":{"$value":"#023434"},"30":{"$value":"#024d4c"},"40":{"$value":"#056764"},"50":{"$value":"#0b827c"},"60":{"$value":"#06a59a"},"65":{"$value":"#03b4a7"},"70":{"$value":"#01c3b3"},"80":{"$value":"#04e1cb"},"90":{"$value":"#acf3e4"},"95":{"$value":"#def9f3"},"$description":"SLDS teal palette"},"hotOrange":{"10":{"$value":"#281202"},"15":{"$value":"#421604"},"20":{"$value":"#4a2413"},"30":{"$value":"#7e2600"},"40":{"$value":"#aa3001"},"50":{"$value":"#d83a00"},"60":{"$value":"#ff5d2d"},"65":{"$value":"#ff784f"},"70":{"$value":"#ff906e"},"80":{"$value":"#feb9a5"},"90":{"$value":"#ffded5"},"95":{"$value":"#fef1ed"},"$description":"SLDS hot orange palette"},"orange":{"10":{"$value":"#201600"},"15":{"$value":"#371e03"},"20":{"$value":"#3e2b02"},"30":{"$value":"#5f3e02"},"40":{"$value":"#825101"},"50":{"$value":"#a96404"},"60":{"$value":"#dd7a01"},"65":{"$value":"#f38303"},"70":{"$value":"#fe9339"},"80":{"$value":"#ffba90"},"90":{"$value":"#fedfd0"},"95":{"$value":"#fff1ea"},"$description":"SLDS orange palette"},"yellow":{"10":{"$value":"#281202"},"15":{"$value":"#2e2204"},"20":{"$value":"#4f2100"},"30":{"$value":"#6f3400"},"40":{"$value":"#8c4b02"},"50":{"$value":"#a86403"},"60":{"$value":"#ca8501"},"65":{"$value":"#d79304"},"70":{"$value":"#e4a201"},"80":{"$value":"#fcc003"},"90":{"$value":"#f9e3b6"},"95":{"$value":"#fbf3e0"},"$description":"SLDS yellow palette"},"pink":{"10":{"$value":"#370114"},"15":{"$value":"#4b0620"},"20":{"$value":"#61022a"},"30":{"$value":"#8a033e"},"40":{"$value":"#b60554"},"50":{"$value":"#e3066a"},"60":{"$value":"#ff538a"},"65":{"$value":"#fe7298"},"70":{"$value":"#fe8aa7"},"80":{"$value":"#fdb6c5"},"90":{"$value":"#fddde3"},"95":{"$value":"#fef0f3"},"$description":"SLDS pink palette"},"red":{"10":{"$value":"#300c01"},"15":{"$value":"#4a0c04"},"20":{"$value":"#640103"},"30":{"$value":"#8e030f"},"40":{"$value":"#ba0517"},"50":{"$value":"#ea001e"},"60":{"$value":"#fe5c4c"},"65":{"$value":"#fe7765"},"70":{"$value":"#fe8f7d"},"80":{"$value":"#feb8ab"},"90":{"$value":"#feded8"},"95":{"$value":"#fef1ee"},"$description":"SLDS red palette"},"purple":{"10":{"$value":"#240643"},"15":{"$value":"#300b60"},"20":{"$value":"#401075"},"30":{"$value":"#5a1ba9"},"40":{"$value":"#7526e3"},"50":{"$value":"#9050e9"},"60":{"$value":"#ad7bee"},"65":{"$value":"#b78def"},"70":{"$value":"#c29ef1"},"80":{"$value":"#d7bff2"},"90":{"$value":"#ece1f9"},"95":{"$value":"#f6f2fb"},"$description":"SLDS purple palette"},"violet":{"10":{"$value":"#2e0039"},"15":{"$value":"#3d0157"},"20":{"$value":"#481a54"},"30":{"$value":"#730394"},"40":{"$value":"#9602c7"},"50":{"$value":"#ba01ff"},"60":{"$value":"#cb65ff"},"65":{"$value":"#d17dfe"},"70":{"$value":"#d892fe"},"80":{"$value":"#e5b9fe"},"90":{"$value":"#f2defe"},"95":{"$value":"#f9f0ff"},"$description":"SLDS violet palette"},"indigo":{"10":{"$value":"#200647"},"15":{"$value":"#1f0974"},"20":{"$value":"#321d71"},"30":{"$value":"#2f2cb7"},"40":{"$value":"#3a49da"},"50":{"$value":"#5867e8"},"60":{"$value":"#7f8ced"},"65":{"$value":"#8e9bef"},"70":{"$value":"#9ea9f1"},"80":{"$value":"#bec7f6"},"90":{"$value":"#e0e5f8"},"95":{"$value":"#f1f3fb"},"$description":"SLDS indigo palette"},"neutral":{"0":{"$value":"#000000"},"10":{"$value":"#181818"},"15":{"$value":"#242424"},"20":{"$value":"#2e2e2e"},"30":{"$value":"#444444"},"40":{"$value":"#5c5c5c"},"50":{"$value":"#747474"},"60":{"$value":"#939393"},"65":{"$value":"#a0a0a0"},"70":{"$value":"#aeaeae"},"80":{"$value":"#c9c9c9"},"90":{"$value":"#e5e5e5"},"95":{"$value":"#f3f3f3"},"100":{"$value":"#ffffff"},"$description":"SLDS neutral palette"}}}}
+{
+  "meta": {
+    "id": "lightning-colors",
+    "name": "Salesforce Lightning Colors",
+    "description": "Salesforce Lightning Design System (SLDS) color palette — 12 hue families (blue, cloud blue, green, teal, hot orange, orange, yellow, pink, red, purple, violet, indigo) with 12-step scales, plus a 14-step neutral. 158 tokens. Primitive values identical in SLDS 2.",
+    "source": "Salesforce SLDS",
+    "sourceUrl": "https://www.lightningdesignsystem.com",
+    "version": "2.25",
+    "license": "MIT",
+    "licenseUrl": "https://github.com/nicholasgalante1997/slds/blob/main/LICENSE",
+    "tokenCount": 158,
+    "categories": [
+      "color"
+    ],
+    "preview": [
+      "#0176d3",
+      "#1b96ff",
+      "#ea001e",
+      "#2e844a",
+      "#9050e9",
+      "#e3066a",
+      "#a86403",
+      "#0b827c"
+    ]
+  },
+  "data": {
+    "color": {
+      "$type": "color",
+      "blue": {
+        "10": {
+          "$value": "#001639"
+        },
+        "15": {
+          "$value": "#03234d"
+        },
+        "20": {
+          "$value": "#032d60"
+        },
+        "30": {
+          "$value": "#014486"
+        },
+        "40": {
+          "$value": "#0b5cab"
+        },
+        "50": {
+          "$value": "#0176d3"
+        },
+        "60": {
+          "$value": "#1b96ff"
+        },
+        "65": {
+          "$value": "#57a3fd"
+        },
+        "70": {
+          "$value": "#78b0fd"
+        },
+        "80": {
+          "$value": "#aacbff"
+        },
+        "90": {
+          "$value": "#d8e6fe"
+        },
+        "95": {
+          "$value": "#eef4ff"
+        },
+        "$description": "SLDS blue palette"
+      },
+      "cloudBlue": {
+        "10": {
+          "$value": "#001a28"
+        },
+        "15": {
+          "$value": "#0a2636"
+        },
+        "20": {
+          "$value": "#023248"
+        },
+        "30": {
+          "$value": "#084968"
+        },
+        "40": {
+          "$value": "#05628a"
+        },
+        "50": {
+          "$value": "#107cad"
+        },
+        "60": {
+          "$value": "#0d9dda"
+        },
+        "65": {
+          "$value": "#08abed"
+        },
+        "70": {
+          "$value": "#1ab9ff"
+        },
+        "80": {
+          "$value": "#90d0fe"
+        },
+        "90": {
+          "$value": "#cfe9fe"
+        },
+        "95": {
+          "$value": "#eaf5fe"
+        },
+        "$description": "SLDS cloud blue palette"
+      },
+      "green": {
+        "10": {
+          "$value": "#071b12"
+        },
+        "15": {
+          "$value": "#0c2912"
+        },
+        "20": {
+          "$value": "#1c3326"
+        },
+        "30": {
+          "$value": "#194e31"
+        },
+        "40": {
+          "$value": "#396547"
+        },
+        "50": {
+          "$value": "#2e844a"
+        },
+        "60": {
+          "$value": "#3ba755"
+        },
+        "65": {
+          "$value": "#41b658"
+        },
+        "70": {
+          "$value": "#45c65a"
+        },
+        "80": {
+          "$value": "#91db8b"
+        },
+        "90": {
+          "$value": "#cdefc4"
+        },
+        "95": {
+          "$value": "#ebf7e6"
+        },
+        "$description": "SLDS green palette"
+      },
+      "teal": {
+        "10": {
+          "$value": "#071b12"
+        },
+        "15": {
+          "$value": "#072825"
+        },
+        "20": {
+          "$value": "#023434"
+        },
+        "30": {
+          "$value": "#024d4c"
+        },
+        "40": {
+          "$value": "#056764"
+        },
+        "50": {
+          "$value": "#0b827c"
+        },
+        "60": {
+          "$value": "#06a59a"
+        },
+        "65": {
+          "$value": "#03b4a7"
+        },
+        "70": {
+          "$value": "#01c3b3"
+        },
+        "80": {
+          "$value": "#04e1cb"
+        },
+        "90": {
+          "$value": "#acf3e4"
+        },
+        "95": {
+          "$value": "#def9f3"
+        },
+        "$description": "SLDS teal palette"
+      },
+      "hotOrange": {
+        "10": {
+          "$value": "#281202"
+        },
+        "15": {
+          "$value": "#421604"
+        },
+        "20": {
+          "$value": "#4a2413"
+        },
+        "30": {
+          "$value": "#7e2600"
+        },
+        "40": {
+          "$value": "#aa3001"
+        },
+        "50": {
+          "$value": "#d83a00"
+        },
+        "60": {
+          "$value": "#ff5d2d"
+        },
+        "65": {
+          "$value": "#ff784f"
+        },
+        "70": {
+          "$value": "#ff906e"
+        },
+        "80": {
+          "$value": "#feb9a5"
+        },
+        "90": {
+          "$value": "#ffded5"
+        },
+        "95": {
+          "$value": "#fef1ed"
+        },
+        "$description": "SLDS hot orange palette"
+      },
+      "orange": {
+        "10": {
+          "$value": "#201600"
+        },
+        "15": {
+          "$value": "#371e03"
+        },
+        "20": {
+          "$value": "#3e2b02"
+        },
+        "30": {
+          "$value": "#5f3e02"
+        },
+        "40": {
+          "$value": "#825101"
+        },
+        "50": {
+          "$value": "#a96404"
+        },
+        "60": {
+          "$value": "#dd7a01"
+        },
+        "65": {
+          "$value": "#f38303"
+        },
+        "70": {
+          "$value": "#fe9339"
+        },
+        "80": {
+          "$value": "#ffba90"
+        },
+        "90": {
+          "$value": "#fedfd0"
+        },
+        "95": {
+          "$value": "#fff1ea"
+        },
+        "$description": "SLDS orange palette"
+      },
+      "yellow": {
+        "10": {
+          "$value": "#281202"
+        },
+        "15": {
+          "$value": "#2e2204"
+        },
+        "20": {
+          "$value": "#4f2100"
+        },
+        "30": {
+          "$value": "#6f3400"
+        },
+        "40": {
+          "$value": "#8c4b02"
+        },
+        "50": {
+          "$value": "#a86403"
+        },
+        "60": {
+          "$value": "#ca8501"
+        },
+        "65": {
+          "$value": "#d79304"
+        },
+        "70": {
+          "$value": "#e4a201"
+        },
+        "80": {
+          "$value": "#fcc003"
+        },
+        "90": {
+          "$value": "#f9e3b6"
+        },
+        "95": {
+          "$value": "#fbf3e0"
+        },
+        "$description": "SLDS yellow palette"
+      },
+      "pink": {
+        "10": {
+          "$value": "#370114"
+        },
+        "15": {
+          "$value": "#4b0620"
+        },
+        "20": {
+          "$value": "#61022a"
+        },
+        "30": {
+          "$value": "#8a033e"
+        },
+        "40": {
+          "$value": "#b60554"
+        },
+        "50": {
+          "$value": "#e3066a"
+        },
+        "60": {
+          "$value": "#ff538a"
+        },
+        "65": {
+          "$value": "#fe7298"
+        },
+        "70": {
+          "$value": "#fe8aa7"
+        },
+        "80": {
+          "$value": "#fdb6c5"
+        },
+        "90": {
+          "$value": "#fddde3"
+        },
+        "95": {
+          "$value": "#fef0f3"
+        },
+        "$description": "SLDS pink palette"
+      },
+      "red": {
+        "10": {
+          "$value": "#300c01"
+        },
+        "15": {
+          "$value": "#4a0c04"
+        },
+        "20": {
+          "$value": "#640103"
+        },
+        "30": {
+          "$value": "#8e030f"
+        },
+        "40": {
+          "$value": "#ba0517"
+        },
+        "50": {
+          "$value": "#ea001e"
+        },
+        "60": {
+          "$value": "#fe5c4c"
+        },
+        "65": {
+          "$value": "#fe7765"
+        },
+        "70": {
+          "$value": "#fe8f7d"
+        },
+        "80": {
+          "$value": "#feb8ab"
+        },
+        "90": {
+          "$value": "#feded8"
+        },
+        "95": {
+          "$value": "#fef1ee"
+        },
+        "$description": "SLDS red palette"
+      },
+      "purple": {
+        "10": {
+          "$value": "#240643"
+        },
+        "15": {
+          "$value": "#300b60"
+        },
+        "20": {
+          "$value": "#401075"
+        },
+        "30": {
+          "$value": "#5a1ba9"
+        },
+        "40": {
+          "$value": "#7526e3"
+        },
+        "50": {
+          "$value": "#9050e9"
+        },
+        "60": {
+          "$value": "#ad7bee"
+        },
+        "65": {
+          "$value": "#b78def"
+        },
+        "70": {
+          "$value": "#c29ef1"
+        },
+        "80": {
+          "$value": "#d7bff2"
+        },
+        "90": {
+          "$value": "#ece1f9"
+        },
+        "95": {
+          "$value": "#f6f2fb"
+        },
+        "$description": "SLDS purple palette"
+      },
+      "violet": {
+        "10": {
+          "$value": "#2e0039"
+        },
+        "15": {
+          "$value": "#3d0157"
+        },
+        "20": {
+          "$value": "#481a54"
+        },
+        "30": {
+          "$value": "#730394"
+        },
+        "40": {
+          "$value": "#9602c7"
+        },
+        "50": {
+          "$value": "#ba01ff"
+        },
+        "60": {
+          "$value": "#cb65ff"
+        },
+        "65": {
+          "$value": "#d17dfe"
+        },
+        "70": {
+          "$value": "#d892fe"
+        },
+        "80": {
+          "$value": "#e5b9fe"
+        },
+        "90": {
+          "$value": "#f2defe"
+        },
+        "95": {
+          "$value": "#f9f0ff"
+        },
+        "$description": "SLDS violet palette"
+      },
+      "indigo": {
+        "10": {
+          "$value": "#200647"
+        },
+        "15": {
+          "$value": "#1f0974"
+        },
+        "20": {
+          "$value": "#321d71"
+        },
+        "30": {
+          "$value": "#2f2cb7"
+        },
+        "40": {
+          "$value": "#3a49da"
+        },
+        "50": {
+          "$value": "#5867e8"
+        },
+        "60": {
+          "$value": "#7f8ced"
+        },
+        "65": {
+          "$value": "#8e9bef"
+        },
+        "70": {
+          "$value": "#9ea9f1"
+        },
+        "80": {
+          "$value": "#bec7f6"
+        },
+        "90": {
+          "$value": "#e0e5f8"
+        },
+        "95": {
+          "$value": "#f1f3fb"
+        },
+        "$description": "SLDS indigo palette"
+      },
+      "neutral": {
+        "0": {
+          "$value": "#000000"
+        },
+        "10": {
+          "$value": "#181818"
+        },
+        "15": {
+          "$value": "#242424"
+        },
+        "20": {
+          "$value": "#2e2e2e"
+        },
+        "30": {
+          "$value": "#444444"
+        },
+        "40": {
+          "$value": "#5c5c5c"
+        },
+        "50": {
+          "$value": "#747474"
+        },
+        "60": {
+          "$value": "#939393"
+        },
+        "65": {
+          "$value": "#a0a0a0"
+        },
+        "70": {
+          "$value": "#aeaeae"
+        },
+        "80": {
+          "$value": "#c9c9c9"
+        },
+        "90": {
+          "$value": "#e5e5e5"
+        },
+        "95": {
+          "$value": "#f3f3f3"
+        },
+        "100": {
+          "$value": "#ffffff"
+        },
+        "$description": "SLDS neutral palette"
+      }
+    }
+  }
+}

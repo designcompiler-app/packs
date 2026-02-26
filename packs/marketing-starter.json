@@ -1,1 +1,327 @@
-{"meta":{"id":"marketing-starter","name":"Marketing Starter Kit","description":"Bold token set for marketing sites and landing pages — vibrant brand colors, dramatic type scale, generous spacing, and eye-catching shadows. Makes every landing page pop.","source":"Design Compiler","sourceUrl":"https://stylefuse.io","version":"1.0","license":"CC0","licenseUrl":"https://creativecommons.org/publicdomain/zero/1.0/","tokenCount":64,"categories":["color","dimension","typography","shadow"],"preview":["#7C3AED","#EC4899","#F97316","#14B8A6","#0F172A","#F8FAFC","#FDE68A","#818CF8"]},"data":{"color":{"$type":"color","brand":{"$description":"Vibrant brand colors for maximum visual impact","primary":{"$value":"#7C3AED","$description":"Hero headings, primary CTAs"},"primaryLight":{"$value":"#A78BFA","$description":"Hover states, accents"},"primaryDark":{"$value":"#5B21B6","$description":"Pressed states, emphasis"},"secondary":{"$value":"#EC4899","$description":"Feature highlights, badges"},"secondaryLight":{"$value":"#F9A8D4","$description":"Secondary hover states"},"secondaryDark":{"$value":"#BE185D","$description":"Secondary pressed states"},"accent":{"$value":"#F97316","$description":"Attention-grabbing elements"},"accentLight":{"$value":"#FDBA74","$description":"Accent hover, decorations"},"accentDark":{"$value":"#C2410C","$description":"Accent pressed states"}},"neutral":{"50":{"$value":"#F8FAFC"},"100":{"$value":"#F1F5F9"},"200":{"$value":"#E2E8F0"},"300":{"$value":"#CBD5E1"},"400":{"$value":"#94A3B8"},"500":{"$value":"#64748B"},"600":{"$value":"#475569"},"700":{"$value":"#334155"},"800":{"$value":"#1E293B"},"900":{"$value":"#0F172A"},"$description":"Slate neutral scale for text and backgrounds"},"highlight":{"$description":"Highlight and CTA colors for conversion elements","cta":{"$value":"#F97316","$description":"Primary call-to-action fill"},"ctaHover":{"$value":"#EA580C","$description":"CTA fill on hover"},"badge":{"$value":"#FDE68A","$description":"Pricing badge background"},"badgeText":{"$value":"#92400E","$description":"Pricing badge text"},"gradient1":{"$value":"#7C3AED","$description":"Gradient start color"},"gradient2":{"$value":"#EC4899","$description":"Gradient end color"}},"surface":{"$description":"Page surfaces and backgrounds","background":{"$value":"#FFFFFF","$description":"Page background"},"foreground":{"$value":"#0F172A","$description":"Primary body text"},"hero":{"$value":"#0F172A","$description":"Dark hero section background"},"heroForeground":{"$value":"#F8FAFC","$description":"Text on hero background"},"section":{"$value":"#F8FAFC","$description":"Alternating section background"},"sectionAlt":{"$value":"#F1F5F9","$description":"Secondary section background"}}},"fontSize":{"$type":"dimension","$description":"Dramatic type scale — larger sizes for hero sections","sm":{"$value":"0.875rem","$description":"Fine print, disclaimers"},"base":{"$value":"1.125rem","$description":"Body copy (larger for readability)"},"lg":{"$value":"1.25rem","$description":"Feature descriptions"},"xl":{"$value":"1.5rem","$description":"Section subtitles"},"2xl":{"$value":"2rem","$description":"Section headings"},"3xl":{"$value":"2.5rem","$description":"Major section titles"},"4xl":{"$value":"3rem","$description":"Page titles"},"5xl":{"$value":"4rem","$description":"Hero headings"},"6xl":{"$value":"5rem","$description":"Display headlines"}},"fontWeight":{"$type":"number","$description":"Font weights for marketing emphasis","normal":{"$value":400,"$description":"Body text"},"medium":{"$value":500,"$description":"Subheadings, links"},"bold":{"$value":700,"$description":"Section headings"},"extrabold":{"$value":800,"$description":"Hero headings"},"black":{"$value":900,"$description":"Display headlines"}},"spacing":{"4":{"$value":"16px"},"6":{"$value":"24px"},"8":{"$value":"32px"},"12":{"$value":"48px"},"16":{"$value":"64px"},"20":{"$value":"80px"},"24":{"$value":"96px"},"32":{"$value":"128px"},"40":{"$value":"160px"},"$type":"dimension","$description":"Generous spacing for breathing room on marketing pages"},"shadow":{"$type":"shadow","$description":"Dramatic shadows for cards and floating elements","soft":{"$value":{"offsetX":"0px","offsetY":"4px","blur":"14px","spread":"0px","color":"#0000000f"},"$description":"Subtle lift for testimonials"},"card":{"$value":{"offsetX":"0px","offsetY":"8px","blur":"24px","spread":"-4px","color":"#0000001a"},"$description":"Feature cards, pricing tiles"},"elevated":{"$value":{"offsetX":"0px","offsetY":"16px","blur":"40px","spread":"-8px","color":"#00000026"},"$description":"Floating CTAs, sticky nav"},"dramatic":{"$value":{"offsetX":"0px","offsetY":"24px","blur":"60px","spread":"-12px","color":"#00000033"},"$description":"Hero cards, modals"}},"borderRadius":{"$type":"dimension","$description":"Rounded corners for friendly marketing aesthetic","sm":{"$value":"0.5rem","$description":"Inputs, small buttons"},"default":{"$value":"0.75rem","$description":"Buttons, badges"},"lg":{"$value":"1rem","$description":"Cards, feature blocks"},"xl":{"$value":"1.5rem","$description":"Hero cards, images"},"2xl":{"$value":"2rem","$description":"Large feature panels"},"full":{"$value":"9999px","$description":"Pills, avatars"}}}}
+{
+  "meta": {
+    "id": "marketing-starter",
+    "name": "Marketing Starter Kit",
+    "description": "Bold token set for marketing sites and landing pages — vibrant brand colors, dramatic type scale, generous spacing, and eye-catching shadows. Makes every landing page pop.",
+    "source": "Design Compiler",
+    "sourceUrl": "https://stylefuse.io",
+    "version": "1.0",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "tokenCount": 64,
+    "categories": [
+      "color",
+      "dimension",
+      "typography",
+      "shadow"
+    ],
+    "preview": [
+      "#7C3AED",
+      "#EC4899",
+      "#F97316",
+      "#14B8A6",
+      "#0F172A",
+      "#F8FAFC",
+      "#FDE68A",
+      "#818CF8"
+    ]
+  },
+  "data": {
+    "color": {
+      "$type": "color",
+      "brand": {
+        "$description": "Vibrant brand colors for maximum visual impact",
+        "primary": {
+          "$value": "#7C3AED",
+          "$description": "Hero headings, primary CTAs"
+        },
+        "primaryLight": {
+          "$value": "#A78BFA",
+          "$description": "Hover states, accents"
+        },
+        "primaryDark": {
+          "$value": "#5B21B6",
+          "$description": "Pressed states, emphasis"
+        },
+        "secondary": {
+          "$value": "#EC4899",
+          "$description": "Feature highlights, badges"
+        },
+        "secondaryLight": {
+          "$value": "#F9A8D4",
+          "$description": "Secondary hover states"
+        },
+        "secondaryDark": {
+          "$value": "#BE185D",
+          "$description": "Secondary pressed states"
+        },
+        "accent": {
+          "$value": "#F97316",
+          "$description": "Attention-grabbing elements"
+        },
+        "accentLight": {
+          "$value": "#FDBA74",
+          "$description": "Accent hover, decorations"
+        },
+        "accentDark": {
+          "$value": "#C2410C",
+          "$description": "Accent pressed states"
+        }
+      },
+      "neutral": {
+        "50": {
+          "$value": "#F8FAFC"
+        },
+        "100": {
+          "$value": "#F1F5F9"
+        },
+        "200": {
+          "$value": "#E2E8F0"
+        },
+        "300": {
+          "$value": "#CBD5E1"
+        },
+        "400": {
+          "$value": "#94A3B8"
+        },
+        "500": {
+          "$value": "#64748B"
+        },
+        "600": {
+          "$value": "#475569"
+        },
+        "700": {
+          "$value": "#334155"
+        },
+        "800": {
+          "$value": "#1E293B"
+        },
+        "900": {
+          "$value": "#0F172A"
+        },
+        "$description": "Slate neutral scale for text and backgrounds"
+      },
+      "highlight": {
+        "$description": "Highlight and CTA colors for conversion elements",
+        "cta": {
+          "$value": "#F97316",
+          "$description": "Primary call-to-action fill"
+        },
+        "ctaHover": {
+          "$value": "#EA580C",
+          "$description": "CTA fill on hover"
+        },
+        "badge": {
+          "$value": "#FDE68A",
+          "$description": "Pricing badge background"
+        },
+        "badgeText": {
+          "$value": "#92400E",
+          "$description": "Pricing badge text"
+        },
+        "gradient1": {
+          "$value": "#7C3AED",
+          "$description": "Gradient start color"
+        },
+        "gradient2": {
+          "$value": "#EC4899",
+          "$description": "Gradient end color"
+        }
+      },
+      "surface": {
+        "$description": "Page surfaces and backgrounds",
+        "background": {
+          "$value": "#FFFFFF",
+          "$description": "Page background"
+        },
+        "foreground": {
+          "$value": "#0F172A",
+          "$description": "Primary body text"
+        },
+        "hero": {
+          "$value": "#0F172A",
+          "$description": "Dark hero section background"
+        },
+        "heroForeground": {
+          "$value": "#F8FAFC",
+          "$description": "Text on hero background"
+        },
+        "section": {
+          "$value": "#F8FAFC",
+          "$description": "Alternating section background"
+        },
+        "sectionAlt": {
+          "$value": "#F1F5F9",
+          "$description": "Secondary section background"
+        }
+      }
+    },
+    "fontSize": {
+      "$type": "dimension",
+      "$description": "Dramatic type scale — larger sizes for hero sections",
+      "sm": {
+        "$value": "0.875rem",
+        "$description": "Fine print, disclaimers"
+      },
+      "base": {
+        "$value": "1.125rem",
+        "$description": "Body copy (larger for readability)"
+      },
+      "lg": {
+        "$value": "1.25rem",
+        "$description": "Feature descriptions"
+      },
+      "xl": {
+        "$value": "1.5rem",
+        "$description": "Section subtitles"
+      },
+      "2xl": {
+        "$value": "2rem",
+        "$description": "Section headings"
+      },
+      "3xl": {
+        "$value": "2.5rem",
+        "$description": "Major section titles"
+      },
+      "4xl": {
+        "$value": "3rem",
+        "$description": "Page titles"
+      },
+      "5xl": {
+        "$value": "4rem",
+        "$description": "Hero headings"
+      },
+      "6xl": {
+        "$value": "5rem",
+        "$description": "Display headlines"
+      }
+    },
+    "fontWeight": {
+      "$type": "number",
+      "$description": "Font weights for marketing emphasis",
+      "normal": {
+        "$value": 400,
+        "$description": "Body text"
+      },
+      "medium": {
+        "$value": 500,
+        "$description": "Subheadings, links"
+      },
+      "bold": {
+        "$value": 700,
+        "$description": "Section headings"
+      },
+      "extrabold": {
+        "$value": 800,
+        "$description": "Hero headings"
+      },
+      "black": {
+        "$value": 900,
+        "$description": "Display headlines"
+      }
+    },
+    "spacing": {
+      "4": {
+        "$value": "16px"
+      },
+      "6": {
+        "$value": "24px"
+      },
+      "8": {
+        "$value": "32px"
+      },
+      "12": {
+        "$value": "48px"
+      },
+      "16": {
+        "$value": "64px"
+      },
+      "20": {
+        "$value": "80px"
+      },
+      "24": {
+        "$value": "96px"
+      },
+      "32": {
+        "$value": "128px"
+      },
+      "40": {
+        "$value": "160px"
+      },
+      "$type": "dimension",
+      "$description": "Generous spacing for breathing room on marketing pages"
+    },
+    "shadow": {
+      "$type": "shadow",
+      "$description": "Dramatic shadows for cards and floating elements",
+      "soft": {
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "4px",
+          "blur": "14px",
+          "spread": "0px",
+          "color": "#0000000f"
+        },
+        "$description": "Subtle lift for testimonials"
+      },
+      "card": {
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "8px",
+          "blur": "24px",
+          "spread": "-4px",
+          "color": "#0000001a"
+        },
+        "$description": "Feature cards, pricing tiles"
+      },
+      "elevated": {
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "16px",
+          "blur": "40px",
+          "spread": "-8px",
+          "color": "#00000026"
+        },
+        "$description": "Floating CTAs, sticky nav"
+      },
+      "dramatic": {
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "24px",
+          "blur": "60px",
+          "spread": "-12px",
+          "color": "#00000033"
+        },
+        "$description": "Hero cards, modals"
+      }
+    },
+    "borderRadius": {
+      "$type": "dimension",
+      "$description": "Rounded corners for friendly marketing aesthetic",
+      "sm": {
+        "$value": "0.5rem",
+        "$description": "Inputs, small buttons"
+      },
+      "default": {
+        "$value": "0.75rem",
+        "$description": "Buttons, badges"
+      },
+      "lg": {
+        "$value": "1rem",
+        "$description": "Cards, feature blocks"
+      },
+      "xl": {
+        "$value": "1.5rem",
+        "$description": "Hero cards, images"
+      },
+      "2xl": {
+        "$value": "2rem",
+        "$description": "Large feature panels"
+      },
+      "full": {
+        "$value": "9999px",
+        "$description": "Pills, avatars"
+      }
+    }
+  }
+}

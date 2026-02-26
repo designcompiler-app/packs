@@ -1,1 +1,160 @@
-{"meta":{"id":"base-web-colors","name":"Base Web Colors","description":"Uber Base Web primitive color tokens — primary blue, negative red, warning gold, and positive green scales (50-700), plus black/white and rating star colors. The foundation palette for Base Web React components.","source":"Base Web","sourceUrl":"https://baseweb.design","version":"14.0","license":"MIT","licenseUrl":"https://github.com/uber/baseweb/blob/main/LICENSE","tokenCount":37,"categories":["color"],"preview":["#276ef1","#de1135","#ffc043","#06c167","#000000","#eff4fe","#fff0ee","#eaf6ed"]},"data":{"color":{"$type":"color","base":{"$description":"Base Web black and white primitives","black":{"$value":"#000000"},"white":{"$value":"#ffffff"}},"primaryBlue":{"50":{"$value":"#eff4fe"},"100":{"$value":"#dee9fe"},"200":{"$value":"#cddeff"},"300":{"$value":"#a9c9ff"},"400":{"$value":"#6daafb"},"500":{"$value":"#068bee"},"600":{"$value":"#276ef1"},"700":{"$value":"#175bcc"},"$description":"Base Web primary blue scale — UI actions and interactive elements"},"negativeRed":{"50":{"$value":"#fff0ee"},"100":{"$value":"#ffe1de"},"200":{"$value":"#ffd2cd"},"300":{"$value":"#ffb2ab"},"400":{"$value":"#fc7f79"},"500":{"$value":"#f83446"},"600":{"$value":"#de1135"},"700":{"$value":"#bb032a"},"$description":"Base Web negative red scale — errors and destructive actions"},"warningGold":{"50":{"$value":"#fdf2dc"},"100":{"$value":"#fbe5b6"},"200":{"$value":"#ffd688"},"300":{"$value":"#f6bc2f"},"400":{"$value":"#d79900"},"500":{"$value":"#b97502"},"600":{"$value":"#9f6402"},"700":{"$value":"#845201"},"$description":"Base Web warning gold scale — caution and alert states"},"positiveGreen":{"50":{"$value":"#eaf6ed"},"100":{"$value":"#d3efda"},"200":{"$value":"#b1eac2"},"300":{"$value":"#7fd99a"},"400":{"$value":"#06c167"},"500":{"$value":"#009a51"},"600":{"$value":"#0e8345"},"700":{"$value":"#166c3b"},"$description":"Base Web positive green scale — success and confirmation states"},"rating":{"200":{"$value":"#ffe1a5"},"400":{"$value":"#ffc043"},"$description":"Base Web rating star colors — active and inactive states","star":{"$value":"#ffc043"}}}}}
+{
+  "meta": {
+    "id": "base-web-colors",
+    "name": "Base Web Colors",
+    "description": "Uber Base Web primitive color tokens — primary blue, negative red, warning gold, and positive green scales (50-700), plus black/white and rating star colors. The foundation palette for Base Web React components.",
+    "source": "Base Web",
+    "sourceUrl": "https://baseweb.design",
+    "version": "14.0",
+    "license": "MIT",
+    "licenseUrl": "https://github.com/uber/baseweb/blob/main/LICENSE",
+    "tokenCount": 37,
+    "categories": [
+      "color"
+    ],
+    "preview": [
+      "#276ef1",
+      "#de1135",
+      "#ffc043",
+      "#06c167",
+      "#000000",
+      "#eff4fe",
+      "#fff0ee",
+      "#eaf6ed"
+    ]
+  },
+  "data": {
+    "color": {
+      "$type": "color",
+      "base": {
+        "$description": "Base Web black and white primitives",
+        "black": {
+          "$value": "#000000"
+        },
+        "white": {
+          "$value": "#ffffff"
+        }
+      },
+      "primaryBlue": {
+        "50": {
+          "$value": "#eff4fe"
+        },
+        "100": {
+          "$value": "#dee9fe"
+        },
+        "200": {
+          "$value": "#cddeff"
+        },
+        "300": {
+          "$value": "#a9c9ff"
+        },
+        "400": {
+          "$value": "#6daafb"
+        },
+        "500": {
+          "$value": "#068bee"
+        },
+        "600": {
+          "$value": "#276ef1"
+        },
+        "700": {
+          "$value": "#175bcc"
+        },
+        "$description": "Base Web primary blue scale — UI actions and interactive elements"
+      },
+      "negativeRed": {
+        "50": {
+          "$value": "#fff0ee"
+        },
+        "100": {
+          "$value": "#ffe1de"
+        },
+        "200": {
+          "$value": "#ffd2cd"
+        },
+        "300": {
+          "$value": "#ffb2ab"
+        },
+        "400": {
+          "$value": "#fc7f79"
+        },
+        "500": {
+          "$value": "#f83446"
+        },
+        "600": {
+          "$value": "#de1135"
+        },
+        "700": {
+          "$value": "#bb032a"
+        },
+        "$description": "Base Web negative red scale — errors and destructive actions"
+      },
+      "warningGold": {
+        "50": {
+          "$value": "#fdf2dc"
+        },
+        "100": {
+          "$value": "#fbe5b6"
+        },
+        "200": {
+          "$value": "#ffd688"
+        },
+        "300": {
+          "$value": "#f6bc2f"
+        },
+        "400": {
+          "$value": "#d79900"
+        },
+        "500": {
+          "$value": "#b97502"
+        },
+        "600": {
+          "$value": "#9f6402"
+        },
+        "700": {
+          "$value": "#845201"
+        },
+        "$description": "Base Web warning gold scale — caution and alert states"
+      },
+      "positiveGreen": {
+        "50": {
+          "$value": "#eaf6ed"
+        },
+        "100": {
+          "$value": "#d3efda"
+        },
+        "200": {
+          "$value": "#b1eac2"
+        },
+        "300": {
+          "$value": "#7fd99a"
+        },
+        "400": {
+          "$value": "#06c167"
+        },
+        "500": {
+          "$value": "#009a51"
+        },
+        "600": {
+          "$value": "#0e8345"
+        },
+        "700": {
+          "$value": "#166c3b"
+        },
+        "$description": "Base Web positive green scale — success and confirmation states"
+      },
+      "rating": {
+        "200": {
+          "$value": "#ffe1a5"
+        },
+        "400": {
+          "$value": "#ffc043"
+        },
+        "$description": "Base Web rating star colors — active and inactive states",
+        "star": {
+          "$value": "#ffc043"
+        }
+      }
+    }
+  }
+}

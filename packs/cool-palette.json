@@ -1,1 +1,103 @@
-{"meta":{"id":"cool-palette","name":"Cool Palette","description":"Cool ocean and winter-inspired colors with icy blues, deep navy, and frosted tones","source":"StyleFuse","sourceUrl":"https://github.com/blksrfc/stylefuse","version":"1.0","license":"MIT","licenseUrl":"https://github.com/blksrfc/stylefuse/blob/main/LICENSE","tokenCount":20,"categories":["color"],"preview":["#93e9be","#7fffd4","#006994","#e8f4f8","#457b9d","#1d3557","#0f52ba","#4cc9f0"]},"data":{"color":{"$type":"color","ocean":{"$description":"Aquatic blues and greens ranging from shallow seafoam to deep abyss","seafoam":{"$value":"#93e9be"},"aquamarine":{"$value":"#7fffd4"},"tidal":{"$value":"#5f9ea0"},"deepSea":{"$value":"#006994"},"abyss":{"$value":"#00334e"}},"winter":{"$description":"Icy cool tones inspired by frost, glaciers, and winter nights","frost":{"$value":"#e8f4f8"},"ice":{"$value":"#d4f1f9"},"glacier":{"$value":"#a8dadc"},"steel":{"$value":"#457b9d"},"midnight":{"$value":"#1d3557"}},"coolNeutral":{"$description":"Blue-tinted neutrals for cool-themed backgrounds and surfaces","snow":{"$value":"#f8f9fa"},"cloud":{"$value":"#e9ecef"},"fog":{"$value":"#ced4da"},"ash":{"$value":"#adb5bd"},"charcoal":{"$value":"#495057"}},"accent":{"$description":"Vivid blue accent colors for interactive elements and emphasis","sapphire":{"$value":"#0f52ba"},"cobalt":{"$value":"#0047ab"},"cerulean":{"$value":"#007ba7"},"arctic":{"$value":"#4cc9f0"},"periwinkle":{"$value":"#7b88d1"}}}}}
+{
+  "meta": {
+    "id": "cool-palette",
+    "name": "Cool Palette",
+    "description": "Cool ocean and winter-inspired colors with icy blues, deep navy, and frosted tones",
+    "source": "StyleFuse",
+    "sourceUrl": "https://github.com/blksrfc/stylefuse",
+    "version": "1.0",
+    "license": "MIT",
+    "licenseUrl": "https://github.com/blksrfc/stylefuse/blob/main/LICENSE",
+    "tokenCount": 20,
+    "categories": [
+      "color"
+    ],
+    "preview": [
+      "#93e9be",
+      "#7fffd4",
+      "#006994",
+      "#e8f4f8",
+      "#457b9d",
+      "#1d3557",
+      "#0f52ba",
+      "#4cc9f0"
+    ]
+  },
+  "data": {
+    "color": {
+      "$type": "color",
+      "ocean": {
+        "$description": "Aquatic blues and greens ranging from shallow seafoam to deep abyss",
+        "seafoam": {
+          "$value": "#93e9be"
+        },
+        "aquamarine": {
+          "$value": "#7fffd4"
+        },
+        "tidal": {
+          "$value": "#5f9ea0"
+        },
+        "deepSea": {
+          "$value": "#006994"
+        },
+        "abyss": {
+          "$value": "#00334e"
+        }
+      },
+      "winter": {
+        "$description": "Icy cool tones inspired by frost, glaciers, and winter nights",
+        "frost": {
+          "$value": "#e8f4f8"
+        },
+        "ice": {
+          "$value": "#d4f1f9"
+        },
+        "glacier": {
+          "$value": "#a8dadc"
+        },
+        "steel": {
+          "$value": "#457b9d"
+        },
+        "midnight": {
+          "$value": "#1d3557"
+        }
+      },
+      "coolNeutral": {
+        "$description": "Blue-tinted neutrals for cool-themed backgrounds and surfaces",
+        "snow": {
+          "$value": "#f8f9fa"
+        },
+        "cloud": {
+          "$value": "#e9ecef"
+        },
+        "fog": {
+          "$value": "#ced4da"
+        },
+        "ash": {
+          "$value": "#adb5bd"
+        },
+        "charcoal": {
+          "$value": "#495057"
+        }
+      },
+      "accent": {
+        "$description": "Vivid blue accent colors for interactive elements and emphasis",
+        "sapphire": {
+          "$value": "#0f52ba"
+        },
+        "cobalt": {
+          "$value": "#0047ab"
+        },
+        "cerulean": {
+          "$value": "#007ba7"
+        },
+        "arctic": {
+          "$value": "#4cc9f0"
+        },
+        "periwinkle": {
+          "$value": "#7b88d1"
+        }
+      }
+    }
+  }
+}

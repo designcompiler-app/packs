@@ -1,1 +1,223 @@
-{"meta":{"id":"shadcn-colors","name":"Shadcn/ui Colors","description":"Default shadcn/ui v4 theme tokens (zinc base) — semantic color pairs for backgrounds, cards, popovers, primary, secondary, muted, accent, destructive, borders, charts, and sidebar. Light and dark modes. 62 tokens.","source":"shadcn/ui","sourceUrl":"https://ui.shadcn.com","version":"4.0","license":"MIT","licenseUrl":"https://github.com/shadcn-ui/ui/blob/main/LICENSE.md","tokenCount":62,"categories":["color"],"preview":["#18181b","#09090b","#f4f4f5","#71717b","#e7000b","#e4e4e7","#fafafa","#27272a"]},"data":{"color":{"$type":"color","light":{"$description":"Shadcn/ui default theme — light mode (zinc palette, v4 OKLCH-derived)","background":{"$value":"#ffffff"},"foreground":{"$value":"#09090b"},"card":{"$value":"#ffffff"},"cardForeground":{"$value":"#09090b"},"popover":{"$value":"#ffffff"},"popoverForeground":{"$value":"#09090b"},"primary":{"$value":"#18181b"},"primaryForeground":{"$value":"#fafafa"},"secondary":{"$value":"#f4f4f5"},"secondaryForeground":{"$value":"#18181b"},"muted":{"$value":"#f4f4f5"},"mutedForeground":{"$value":"#71717b"},"accent":{"$value":"#f4f4f5"},"accentForeground":{"$value":"#18181b"},"destructive":{"$value":"#e7000b"},"destructiveForeground":{"$value":"#fafafa"},"border":{"$value":"#e4e4e7"},"input":{"$value":"#e4e4e7"},"ring":{"$value":"#9f9fa9"},"chart1":{"$value":"#f54900"},"chart2":{"$value":"#009689"},"chart3":{"$value":"#104e64"},"chart4":{"$value":"#ffb900"},"chart5":{"$value":"#fe9a00"},"sidebarBackground":{"$value":"#fafafa"},"sidebarForeground":{"$value":"#09090b"},"sidebarPrimary":{"$value":"#18181b"},"sidebarPrimaryForeground":{"$value":"#fafafa"},"sidebarAccent":{"$value":"#f4f4f5"},"sidebarAccentForeground":{"$value":"#18181b"},"sidebarBorder":{"$value":"#e4e4e7"}},"dark":{"$description":"Shadcn/ui default theme — dark mode (zinc palette, v4 OKLCH-derived)","background":{"$value":"#09090b"},"foreground":{"$value":"#fafafa"},"card":{"$value":"#18181b"},"cardForeground":{"$value":"#fafafa"},"popover":{"$value":"#18181b"},"popoverForeground":{"$value":"#fafafa"},"primary":{"$value":"#e4e4e7"},"primaryForeground":{"$value":"#18181b"},"secondary":{"$value":"#27272a"},"secondaryForeground":{"$value":"#fafafa"},"muted":{"$value":"#27272a"},"mutedForeground":{"$value":"#9f9fa9"},"accent":{"$value":"#27272a"},"accentForeground":{"$value":"#fafafa"},"destructive":{"$value":"#ff6467"},"destructiveForeground":{"$value":"#fafafa"},"border":{"$value":"#27272a"},"input":{"$value":"#27272a"},"ring":{"$value":"#71717b"},"chart1":{"$value":"#1447e6"},"chart2":{"$value":"#00bc7d"},"chart3":{"$value":"#fe9a00"},"chart4":{"$value":"#ad46ff"},"chart5":{"$value":"#ff2056"},"sidebarBackground":{"$value":"#18181b"},"sidebarForeground":{"$value":"#fafafa"},"sidebarPrimary":{"$value":"#1447e6"},"sidebarPrimaryForeground":{"$value":"#fafafa"},"sidebarAccent":{"$value":"#27272a"},"sidebarAccentForeground":{"$value":"#fafafa"},"sidebarBorder":{"$value":"#27272a"}}}}}
+{
+  "meta": {
+    "id": "shadcn-colors",
+    "name": "Shadcn/ui Colors",
+    "description": "Default shadcn/ui v4 theme tokens (zinc base) — semantic color pairs for backgrounds, cards, popovers, primary, secondary, muted, accent, destructive, borders, charts, and sidebar. Light and dark modes. 62 tokens.",
+    "source": "shadcn/ui",
+    "sourceUrl": "https://ui.shadcn.com",
+    "version": "4.0",
+    "license": "MIT",
+    "licenseUrl": "https://github.com/shadcn-ui/ui/blob/main/LICENSE.md",
+    "tokenCount": 62,
+    "categories": [
+      "color"
+    ],
+    "preview": [
+      "#18181b",
+      "#09090b",
+      "#f4f4f5",
+      "#71717b",
+      "#e7000b",
+      "#e4e4e7",
+      "#fafafa",
+      "#27272a"
+    ]
+  },
+  "data": {
+    "color": {
+      "$type": "color",
+      "light": {
+        "$description": "Shadcn/ui default theme — light mode (zinc palette, v4 OKLCH-derived)",
+        "background": {
+          "$value": "#ffffff"
+        },
+        "foreground": {
+          "$value": "#09090b"
+        },
+        "card": {
+          "$value": "#ffffff"
+        },
+        "cardForeground": {
+          "$value": "#09090b"
+        },
+        "popover": {
+          "$value": "#ffffff"
+        },
+        "popoverForeground": {
+          "$value": "#09090b"
+        },
+        "primary": {
+          "$value": "#18181b"
+        },
+        "primaryForeground": {
+          "$value": "#fafafa"
+        },
+        "secondary": {
+          "$value": "#f4f4f5"
+        },
+        "secondaryForeground": {
+          "$value": "#18181b"
+        },
+        "muted": {
+          "$value": "#f4f4f5"
+        },
+        "mutedForeground": {
+          "$value": "#71717b"
+        },
+        "accent": {
+          "$value": "#f4f4f5"
+        },
+        "accentForeground": {
+          "$value": "#18181b"
+        },
+        "destructive": {
+          "$value": "#e7000b"
+        },
+        "destructiveForeground": {
+          "$value": "#fafafa"
+        },
+        "border": {
+          "$value": "#e4e4e7"
+        },
+        "input": {
+          "$value": "#e4e4e7"
+        },
+        "ring": {
+          "$value": "#9f9fa9"
+        },
+        "chart1": {
+          "$value": "#f54900"
+        },
+        "chart2": {
+          "$value": "#009689"
+        },
+        "chart3": {
+          "$value": "#104e64"
+        },
+        "chart4": {
+          "$value": "#ffb900"
+        },
+        "chart5": {
+          "$value": "#fe9a00"
+        },
+        "sidebarBackground": {
+          "$value": "#fafafa"
+        },
+        "sidebarForeground": {
+          "$value": "#09090b"
+        },
+        "sidebarPrimary": {
+          "$value": "#18181b"
+        },
+        "sidebarPrimaryForeground": {
+          "$value": "#fafafa"
+        },
+        "sidebarAccent": {
+          "$value": "#f4f4f5"
+        },
+        "sidebarAccentForeground": {
+          "$value": "#18181b"
+        },
+        "sidebarBorder": {
+          "$value": "#e4e4e7"
+        }
+      },
+      "dark": {
+        "$description": "Shadcn/ui default theme — dark mode (zinc palette, v4 OKLCH-derived)",
+        "background": {
+          "$value": "#09090b"
+        },
+        "foreground": {
+          "$value": "#fafafa"
+        },
+        "card": {
+          "$value": "#18181b"
+        },
+        "cardForeground": {
+          "$value": "#fafafa"
+        },
+        "popover": {
+          "$value": "#18181b"
+        },
+        "popoverForeground": {
+          "$value": "#fafafa"
+        },
+        "primary": {
+          "$value": "#e4e4e7"
+        },
+        "primaryForeground": {
+          "$value": "#18181b"
+        },
+        "secondary": {
+          "$value": "#27272a"
+        },
+        "secondaryForeground": {
+          "$value": "#fafafa"
+        },
+        "muted": {
+          "$value": "#27272a"
+        },
+        "mutedForeground": {
+          "$value": "#9f9fa9"
+        },
+        "accent": {
+          "$value": "#27272a"
+        },
+        "accentForeground": {
+          "$value": "#fafafa"
+        },
+        "destructive": {
+          "$value": "#ff6467"
+        },
+        "destructiveForeground": {
+          "$value": "#fafafa"
+        },
+        "border": {
+          "$value": "#27272a"
+        },
+        "input": {
+          "$value": "#27272a"
+        },
+        "ring": {
+          "$value": "#71717b"
+        },
+        "chart1": {
+          "$value": "#1447e6"
+        },
+        "chart2": {
+          "$value": "#00bc7d"
+        },
+        "chart3": {
+          "$value": "#fe9a00"
+        },
+        "chart4": {
+          "$value": "#ad46ff"
+        },
+        "chart5": {
+          "$value": "#ff2056"
+        },
+        "sidebarBackground": {
+          "$value": "#18181b"
+        },
+        "sidebarForeground": {
+          "$value": "#fafafa"
+        },
+        "sidebarPrimary": {
+          "$value": "#1447e6"
+        },
+        "sidebarPrimaryForeground": {
+          "$value": "#fafafa"
+        },
+        "sidebarAccent": {
+          "$value": "#27272a"
+        },
+        "sidebarAccentForeground": {
+          "$value": "#fafafa"
+        },
+        "sidebarBorder": {
+          "$value": "#27272a"
+        }
+      }
+    }
+  }
+}

@@ -1,1 +1,103 @@
-{"meta":{"id":"pastel-palette","name":"Pastel Palette","description":"Soft, muted pastels ideal for gentle UIs, cards, tags, and backgrounds","source":"StyleFuse","sourceUrl":"https://github.com/blksrfc/stylefuse","version":"1.0","license":"MIT","licenseUrl":"https://github.com/blksrfc/stylefuse/blob/main/LICENSE","tokenCount":21,"categories":["color"],"preview":["#ffc2d1","#ffcdb2","#b5ead7","#bde0fe","#c7ceea","#ffb5a7","#c1f0c1","#d8bfd8"]},"data":{"color":{"$type":"color","primary":{"$description":"Core pastel tones for primary UI surfaces and elements","rose":{"$value":"#ffc2d1"},"peach":{"$value":"#ffcdb2"},"cream":{"$value":"#ffe5b4"},"mint":{"$value":"#b5ead7"},"sky":{"$value":"#bde0fe"},"lavender":{"$value":"#c7ceea"},"lilac":{"$value":"#e2c2ff"},"powder":{"$value":"#cddafd"}},"accent":{"$description":"Secondary pastel tones for accents, tags, and highlights","coral":{"$value":"#ffb5a7"},"honeydew":{"$value":"#c1f0c1"},"periwinkle":{"$value":"#a2b9ee"},"mauve":{"$value":"#dba8c4"},"sage":{"$value":"#c2d4ab"},"apricot":{"$value":"#ffd7b5"},"thistle":{"$value":"#d8bfd8"},"ice":{"$value":"#d6f0ff"}},"neutral":{"$description":"Soft neutral tones for backgrounds and subtle separators","snowWhite":{"$value":"#fafafa"},"cloud":{"$value":"#f0f0f0"},"mist":{"$value":"#e8e8e8"},"silver":{"$value":"#d4d4d4"},"pearl":{"$value":"#f5f0eb"}}}}}
+{
+  "meta": {
+    "id": "pastel-palette",
+    "name": "Pastel Palette",
+    "description": "Soft, muted pastels ideal for gentle UIs, cards, tags, and backgrounds",
+    "source": "StyleFuse",
+    "sourceUrl": "https://github.com/blksrfc/stylefuse",
+    "version": "1.0",
+    "license": "MIT",
+    "licenseUrl": "https://github.com/blksrfc/stylefuse/blob/main/LICENSE",
+    "tokenCount": 21,
+    "categories": [
+      "color"
+    ],
+    "preview": [
+      "#ffc2d1",
+      "#ffcdb2",
+      "#b5ead7",
+      "#bde0fe",
+      "#c7ceea",
+      "#ffb5a7",
+      "#c1f0c1",
+      "#d8bfd8"
+    ]
+  },
+  "data": {
+    "color": {
+      "$type": "color",
+      "primary": {
+        "$description": "Core pastel tones for primary UI surfaces and elements",
+        "rose": {
+          "$value": "#ffc2d1"
+        },
+        "peach": {
+          "$value": "#ffcdb2"
+        },
+        "cream": {
+          "$value": "#ffe5b4"
+        },
+        "mint": {
+          "$value": "#b5ead7"
+        },
+        "sky": {
+          "$value": "#bde0fe"
+        },
+        "lavender": {
+          "$value": "#c7ceea"
+        },
+        "lilac": {
+          "$value": "#e2c2ff"
+        },
+        "powder": {
+          "$value": "#cddafd"
+        }
+      },
+      "accent": {
+        "$description": "Secondary pastel tones for accents, tags, and highlights",
+        "coral": {
+          "$value": "#ffb5a7"
+        },
+        "honeydew": {
+          "$value": "#c1f0c1"
+        },
+        "periwinkle": {
+          "$value": "#a2b9ee"
+        },
+        "mauve": {
+          "$value": "#dba8c4"
+        },
+        "sage": {
+          "$value": "#c2d4ab"
+        },
+        "apricot": {
+          "$value": "#ffd7b5"
+        },
+        "thistle": {
+          "$value": "#d8bfd8"
+        },
+        "ice": {
+          "$value": "#d6f0ff"
+        }
+      },
+      "neutral": {
+        "$description": "Soft neutral tones for backgrounds and subtle separators",
+        "snowWhite": {
+          "$value": "#fafafa"
+        },
+        "cloud": {
+          "$value": "#f0f0f0"
+        },
+        "mist": {
+          "$value": "#e8e8e8"
+        },
+        "silver": {
+          "$value": "#d4d4d4"
+        },
+        "pearl": {
+          "$value": "#f5f0eb"
+        }
+      }
+    }
+  }
+}

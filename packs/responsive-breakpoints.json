@@ -1,1 +1,87 @@
-{"meta":{"id":"responsive-breakpoints","name":"Responsive Breakpoints","description":"Standard responsive breakpoints — mobile-first min-widths (xs through 2xl), desktop-first max-widths, and container query widths. Foundation for adaptive layouts.","source":"Design Compiler","sourceUrl":"https://stylefuse.io","version":"1.0","license":"CC0","licenseUrl":"https://creativecommons.org/publicdomain/zero/1.0/","tokenCount":16,"categories":["dimension"],"preview":[]},"data":{"minWidth":{"$type":"dimension","$description":"Mobile-first breakpoints (min-width approach)","xs":{"$value":"475px","$description":"Large phones in landscape"},"sm":{"$value":"640px","$description":"Small tablets"},"md":{"$value":"768px","$description":"Tablets in portrait"},"lg":{"$value":"1024px","$description":"Tablets in landscape / small laptops"},"xl":{"$value":"1280px","$description":"Laptops and desktops"},"2xl":{"$value":"1536px","$description":"Large desktops and monitors"}},"maxWidth":{"$type":"dimension","$description":"Desktop-first breakpoints (max-width approach)","sm":{"$value":"639px"},"md":{"$value":"767px"},"lg":{"$value":"1023px"},"xl":{"$value":"1279px"}},"container":{"$type":"dimension","$description":"Max content widths for layout containers","sm":{"$value":"640px"},"md":{"$value":"768px"},"lg":{"$value":"1024px"},"xl":{"$value":"1280px"},"prose":{"$value":"65ch","$description":"Optimal reading width for body text"},"wide":{"$value":"1440px","$description":"Wide layout container"}}}}
+{
+  "meta": {
+    "id": "responsive-breakpoints",
+    "name": "Responsive Breakpoints",
+    "description": "Standard responsive breakpoints — mobile-first min-widths (xs through 2xl), desktop-first max-widths, and container query widths. Foundation for adaptive layouts.",
+    "source": "Design Compiler",
+    "sourceUrl": "https://stylefuse.io",
+    "version": "1.0",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "tokenCount": 16,
+    "categories": [
+      "dimension"
+    ],
+    "preview": []
+  },
+  "data": {
+    "minWidth": {
+      "$type": "dimension",
+      "$description": "Mobile-first breakpoints (min-width approach)",
+      "xs": {
+        "$value": "475px",
+        "$description": "Large phones in landscape"
+      },
+      "sm": {
+        "$value": "640px",
+        "$description": "Small tablets"
+      },
+      "md": {
+        "$value": "768px",
+        "$description": "Tablets in portrait"
+      },
+      "lg": {
+        "$value": "1024px",
+        "$description": "Tablets in landscape / small laptops"
+      },
+      "xl": {
+        "$value": "1280px",
+        "$description": "Laptops and desktops"
+      },
+      "2xl": {
+        "$value": "1536px",
+        "$description": "Large desktops and monitors"
+      }
+    },
+    "maxWidth": {
+      "$type": "dimension",
+      "$description": "Desktop-first breakpoints (max-width approach)",
+      "sm": {
+        "$value": "639px"
+      },
+      "md": {
+        "$value": "767px"
+      },
+      "lg": {
+        "$value": "1023px"
+      },
+      "xl": {
+        "$value": "1279px"
+      }
+    },
+    "container": {
+      "$type": "dimension",
+      "$description": "Max content widths for layout containers",
+      "sm": {
+        "$value": "640px"
+      },
+      "md": {
+        "$value": "768px"
+      },
+      "lg": {
+        "$value": "1024px"
+      },
+      "xl": {
+        "$value": "1280px"
+      },
+      "prose": {
+        "$value": "65ch",
+        "$description": "Optimal reading width for body text"
+      },
+      "wide": {
+        "$value": "1440px",
+        "$description": "Wide layout container"
+      }
+    }
+  }
+}

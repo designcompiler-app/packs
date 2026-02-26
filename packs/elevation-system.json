@@ -1,1 +1,147 @@
-{"meta":{"id":"elevation-system","name":"Elevation System","description":"Generic 6-level elevation system with light and dark mode shadows. From flat surfaces (level 0) to floating dialogs (level 5). Consistent depth hierarchy for any UI.","source":"Design Compiler","sourceUrl":"https://stylefuse.io","version":"1.0","license":"CC0","licenseUrl":"https://creativecommons.org/publicdomain/zero/1.0/","tokenCount":12,"categories":["shadow"],"preview":[]},"data":{"light":{"$type":"shadow","$description":"Light mode elevation shadows — subtle and natural","level0":{"$value":{"offsetX":"0px","offsetY":"0px","blur":"0px","spread":"0px","color":"#00000000"},"$description":"Flat — no elevation, inline with surface"},"level1":{"$value":{"offsetX":"0px","offsetY":"1px","blur":"2px","spread":"0px","color":"#0000000f"},"$description":"Raised — cards, tiles"},"level2":{"$value":{"offsetX":"0px","offsetY":"2px","blur":"6px","spread":"0px","color":"#00000014"},"$description":"Elevated — navigation bars, app bars"},"level3":{"$value":{"offsetX":"0px","offsetY":"6px","blur":"16px","spread":"-2px","color":"#0000001a"},"$description":"Floating — dropdowns, menus, popovers"},"level4":{"$value":{"offsetX":"0px","offsetY":"12px","blur":"28px","spread":"-4px","color":"#00000020"},"$description":"Overlay — modals, dialogs"},"level5":{"$value":{"offsetX":"0px","offsetY":"20px","blur":"44px","spread":"-8px","color":"#0000002b"},"$description":"Supreme — notifications, toasts, critical alerts"}},"dark":{"$type":"shadow","$description":"Dark mode elevation shadows — stronger to compensate for dark surfaces","level0":{"$value":{"offsetX":"0px","offsetY":"0px","blur":"0px","spread":"0px","color":"#00000000"},"$description":"Flat — no elevation"},"level1":{"$value":{"offsetX":"0px","offsetY":"1px","blur":"3px","spread":"0px","color":"#00000033"},"$description":"Raised — cards, tiles"},"level2":{"$value":{"offsetX":"0px","offsetY":"3px","blur":"8px","spread":"0px","color":"#0000003d"},"$description":"Elevated — navigation bars"},"level3":{"$value":{"offsetX":"0px","offsetY":"8px","blur":"20px","spread":"-2px","color":"#00000052"},"$description":"Floating — dropdowns, popovers"},"level4":{"$value":{"offsetX":"0px","offsetY":"14px","blur":"36px","spread":"-4px","color":"#00000066"},"$description":"Overlay — modals, dialogs"},"level5":{"$value":{"offsetX":"0px","offsetY":"24px","blur":"52px","spread":"-8px","color":"#0000007a"},"$description":"Supreme — critical overlays"}}}}
+{
+  "meta": {
+    "id": "elevation-system",
+    "name": "Elevation System",
+    "description": "Generic 6-level elevation system with light and dark mode shadows. From flat surfaces (level 0) to floating dialogs (level 5). Consistent depth hierarchy for any UI.",
+    "source": "Design Compiler",
+    "sourceUrl": "https://stylefuse.io",
+    "version": "1.0",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "tokenCount": 12,
+    "categories": [
+      "shadow"
+    ],
+    "preview": []
+  },
+  "data": {
+    "light": {
+      "$type": "shadow",
+      "$description": "Light mode elevation shadows — subtle and natural",
+      "level0": {
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "blur": "0px",
+          "spread": "0px",
+          "color": "#00000000"
+        },
+        "$description": "Flat — no elevation, inline with surface"
+      },
+      "level1": {
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "2px",
+          "spread": "0px",
+          "color": "#0000000f"
+        },
+        "$description": "Raised — cards, tiles"
+      },
+      "level2": {
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "2px",
+          "blur": "6px",
+          "spread": "0px",
+          "color": "#00000014"
+        },
+        "$description": "Elevated — navigation bars, app bars"
+      },
+      "level3": {
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "6px",
+          "blur": "16px",
+          "spread": "-2px",
+          "color": "#0000001a"
+        },
+        "$description": "Floating — dropdowns, menus, popovers"
+      },
+      "level4": {
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "12px",
+          "blur": "28px",
+          "spread": "-4px",
+          "color": "#00000020"
+        },
+        "$description": "Overlay — modals, dialogs"
+      },
+      "level5": {
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "20px",
+          "blur": "44px",
+          "spread": "-8px",
+          "color": "#0000002b"
+        },
+        "$description": "Supreme — notifications, toasts, critical alerts"
+      }
+    },
+    "dark": {
+      "$type": "shadow",
+      "$description": "Dark mode elevation shadows — stronger to compensate for dark surfaces",
+      "level0": {
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "blur": "0px",
+          "spread": "0px",
+          "color": "#00000000"
+        },
+        "$description": "Flat — no elevation"
+      },
+      "level1": {
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "3px",
+          "spread": "0px",
+          "color": "#00000033"
+        },
+        "$description": "Raised — cards, tiles"
+      },
+      "level2": {
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "3px",
+          "blur": "8px",
+          "spread": "0px",
+          "color": "#0000003d"
+        },
+        "$description": "Elevated — navigation bars"
+      },
+      "level3": {
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "8px",
+          "blur": "20px",
+          "spread": "-2px",
+          "color": "#00000052"
+        },
+        "$description": "Floating — dropdowns, popovers"
+      },
+      "level4": {
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "14px",
+          "blur": "36px",
+          "spread": "-4px",
+          "color": "#00000066"
+        },
+        "$description": "Overlay — modals, dialogs"
+      },
+      "level5": {
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "24px",
+          "blur": "52px",
+          "spread": "-8px",
+          "color": "#0000007a"
+        },
+        "$description": "Supreme — critical overlays"
+      }
+    }
+  }
+}

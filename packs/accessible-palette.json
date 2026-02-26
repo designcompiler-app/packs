@@ -1,1 +1,97 @@
-{"meta":{"id":"accessible-palette","name":"Accessible Palette","description":"Colors with 4.5:1 contrast against their designated background (white or black), meeting WCAG AA standards. Neutral colors meet 4.5:1 against both.","source":"StyleFuse","sourceUrl":"https://github.com/blksrfc/stylefuse","version":"1.0","license":"MIT","licenseUrl":"https://github.com/blksrfc/stylefuse/blob/main/LICENSE","tokenCount":19,"categories":["color"],"preview":["#0046a6","#007a41","#6bb3ff","#66d97e","#b31d28","#c4a0ff","#767676","#ff80b5"]},"data":{"color":{"$type":"color","onWhite":{"$description":"Colors safe for text and icons on white backgrounds (4.5:1+ contrast)","darkBlue":{"$value":"#0046a6"},"darkGreen":{"$value":"#007a41"},"darkRed":{"$value":"#b31d28"},"darkOrange":{"$value":"#a64600"},"darkPurple":{"$value":"#6d3ab5"},"darkTeal":{"$value":"#006e6e"},"darkGray":{"$value":"#595959"},"darkPink":{"$value":"#b31564"}},"onBlack":{"$description":"Colors safe for text and icons on black backgrounds (4.5:1+ contrast)","lightBlue":{"$value":"#6bb3ff"},"lightGreen":{"$value":"#66d97e"},"lightRed":{"$value":"#ff8087"},"lightOrange":{"$value":"#ffaa5e"},"lightPurple":{"$value":"#c4a0ff"},"lightTeal":{"$value":"#5eded6"},"lightGray":{"$value":"#a6a6a6"},"lightPink":{"$value":"#ff80b5"}},"neutral":{"$description":"Colors safe in both white and black background contexts","midBlue":{"$value":"#2e7dd1"},"midGreen":{"$value":"#3c9f5e"},"midGray":{"$value":"#767676"}}}}}
+{
+  "meta": {
+    "id": "accessible-palette",
+    "name": "Accessible Palette",
+    "description": "Colors with 4.5:1 contrast against their designated background (white or black), meeting WCAG AA standards. Neutral colors meet 4.5:1 against both.",
+    "source": "StyleFuse",
+    "sourceUrl": "https://github.com/blksrfc/stylefuse",
+    "version": "1.0",
+    "license": "MIT",
+    "licenseUrl": "https://github.com/blksrfc/stylefuse/blob/main/LICENSE",
+    "tokenCount": 19,
+    "categories": [
+      "color"
+    ],
+    "preview": [
+      "#0046a6",
+      "#007a41",
+      "#6bb3ff",
+      "#66d97e",
+      "#b31d28",
+      "#c4a0ff",
+      "#767676",
+      "#ff80b5"
+    ]
+  },
+  "data": {
+    "color": {
+      "$type": "color",
+      "onWhite": {
+        "$description": "Colors safe for text and icons on white backgrounds (4.5:1+ contrast)",
+        "darkBlue": {
+          "$value": "#0046a6"
+        },
+        "darkGreen": {
+          "$value": "#007a41"
+        },
+        "darkRed": {
+          "$value": "#b31d28"
+        },
+        "darkOrange": {
+          "$value": "#a64600"
+        },
+        "darkPurple": {
+          "$value": "#6d3ab5"
+        },
+        "darkTeal": {
+          "$value": "#006e6e"
+        },
+        "darkGray": {
+          "$value": "#595959"
+        },
+        "darkPink": {
+          "$value": "#b31564"
+        }
+      },
+      "onBlack": {
+        "$description": "Colors safe for text and icons on black backgrounds (4.5:1+ contrast)",
+        "lightBlue": {
+          "$value": "#6bb3ff"
+        },
+        "lightGreen": {
+          "$value": "#66d97e"
+        },
+        "lightRed": {
+          "$value": "#ff8087"
+        },
+        "lightOrange": {
+          "$value": "#ffaa5e"
+        },
+        "lightPurple": {
+          "$value": "#c4a0ff"
+        },
+        "lightTeal": {
+          "$value": "#5eded6"
+        },
+        "lightGray": {
+          "$value": "#a6a6a6"
+        },
+        "lightPink": {
+          "$value": "#ff80b5"
+        }
+      },
+      "neutral": {
+        "$description": "Colors safe in both white and black background contexts",
+        "midBlue": {
+          "$value": "#2e7dd1"
+        },
+        "midGreen": {
+          "$value": "#3c9f5e"
+        },
+        "midGray": {
+          "$value": "#767676"
+        }
+      }
+    }
+  }
+}

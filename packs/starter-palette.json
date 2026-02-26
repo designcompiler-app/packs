@@ -1,1 +1,157 @@
-{"meta":{"id":"starter-palette","name":"Starter Palette","description":"A production-ready starter palette for new projects — semantic theme colors, 10-step neutral scale, and state colors. WCAG AA compliant. Fork-friendly CC0 license.","source":"Design Compiler","sourceUrl":"https://stylefuse.io","version":"1.0","license":"CC0","licenseUrl":"https://creativecommons.org/publicdomain/zero/1.0/","tokenCount":38,"categories":["color"],"preview":["#2563eb","#7c3aed","#059669","#dc2626","#d97706","#64748b","#0f172a","#f8fafc"]},"data":{"color":{"$type":"color","brand":{"$description":"Core brand colors — adjust these to match your identity","primary":{"$value":"#2563eb"},"primaryLight":{"$value":"#60a5fa"},"primaryDark":{"$value":"#1d4ed8"},"secondary":{"$value":"#7c3aed"},"secondaryLight":{"$value":"#a78bfa"},"secondaryDark":{"$value":"#6d28d9"},"accent":{"$value":"#06b6d4"},"accentLight":{"$value":"#67e8f9"},"accentDark":{"$value":"#0891b2"}},"neutral":{"50":{"$value":"#f8fafc"},"100":{"$value":"#f1f5f9"},"200":{"$value":"#e2e8f0"},"300":{"$value":"#cbd5e1"},"400":{"$value":"#94a3b8"},"500":{"$value":"#64748b"},"600":{"$value":"#475569"},"700":{"$value":"#334155"},"800":{"$value":"#1e293b"},"900":{"$value":"#0f172a"},"$description":"Neutral gray scale from lightest to darkest"},"state":{"$description":"Semantic state colors for feedback and status","success":{"$value":"#059669"},"successLight":{"$value":"#d1fae5"},"successDark":{"$value":"#047857"},"warning":{"$value":"#d97706"},"warningLight":{"$value":"#fef3c7"},"warningDark":{"$value":"#b45309"},"error":{"$value":"#dc2626"},"errorLight":{"$value":"#fee2e2"},"errorDark":{"$value":"#b91c1c"},"info":{"$value":"#2563eb"},"infoLight":{"$value":"#dbeafe"},"infoDark":{"$value":"#1d4ed8"}},"surface":{"$description":"Background and surface colors for light theme","background":{"$value":"#ffffff"},"foreground":{"$value":"#0f172a"},"card":{"$value":"#ffffff"},"cardForeground":{"$value":"#0f172a"},"muted":{"$value":"#f1f5f9"},"mutedForeground":{"$value":"#64748b"},"border":{"$value":"#e2e8f0"}}}}}
+{
+  "meta": {
+    "id": "starter-palette",
+    "name": "Starter Palette",
+    "description": "A production-ready starter palette for new projects — semantic theme colors, 10-step neutral scale, and state colors. WCAG AA compliant. Fork-friendly CC0 license.",
+    "source": "Design Compiler",
+    "sourceUrl": "https://stylefuse.io",
+    "version": "1.0",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "tokenCount": 38,
+    "categories": [
+      "color"
+    ],
+    "preview": [
+      "#2563eb",
+      "#7c3aed",
+      "#059669",
+      "#dc2626",
+      "#d97706",
+      "#64748b",
+      "#0f172a",
+      "#f8fafc"
+    ]
+  },
+  "data": {
+    "color": {
+      "$type": "color",
+      "brand": {
+        "$description": "Core brand colors — adjust these to match your identity",
+        "primary": {
+          "$value": "#2563eb"
+        },
+        "primaryLight": {
+          "$value": "#60a5fa"
+        },
+        "primaryDark": {
+          "$value": "#1d4ed8"
+        },
+        "secondary": {
+          "$value": "#7c3aed"
+        },
+        "secondaryLight": {
+          "$value": "#a78bfa"
+        },
+        "secondaryDark": {
+          "$value": "#6d28d9"
+        },
+        "accent": {
+          "$value": "#06b6d4"
+        },
+        "accentLight": {
+          "$value": "#67e8f9"
+        },
+        "accentDark": {
+          "$value": "#0891b2"
+        }
+      },
+      "neutral": {
+        "50": {
+          "$value": "#f8fafc"
+        },
+        "100": {
+          "$value": "#f1f5f9"
+        },
+        "200": {
+          "$value": "#e2e8f0"
+        },
+        "300": {
+          "$value": "#cbd5e1"
+        },
+        "400": {
+          "$value": "#94a3b8"
+        },
+        "500": {
+          "$value": "#64748b"
+        },
+        "600": {
+          "$value": "#475569"
+        },
+        "700": {
+          "$value": "#334155"
+        },
+        "800": {
+          "$value": "#1e293b"
+        },
+        "900": {
+          "$value": "#0f172a"
+        },
+        "$description": "Neutral gray scale from lightest to darkest"
+      },
+      "state": {
+        "$description": "Semantic state colors for feedback and status",
+        "success": {
+          "$value": "#059669"
+        },
+        "successLight": {
+          "$value": "#d1fae5"
+        },
+        "successDark": {
+          "$value": "#047857"
+        },
+        "warning": {
+          "$value": "#d97706"
+        },
+        "warningLight": {
+          "$value": "#fef3c7"
+        },
+        "warningDark": {
+          "$value": "#b45309"
+        },
+        "error": {
+          "$value": "#dc2626"
+        },
+        "errorLight": {
+          "$value": "#fee2e2"
+        },
+        "errorDark": {
+          "$value": "#b91c1c"
+        },
+        "info": {
+          "$value": "#2563eb"
+        },
+        "infoLight": {
+          "$value": "#dbeafe"
+        },
+        "infoDark": {
+          "$value": "#1d4ed8"
+        }
+      },
+      "surface": {
+        "$description": "Background and surface colors for light theme",
+        "background": {
+          "$value": "#ffffff"
+        },
+        "foreground": {
+          "$value": "#0f172a"
+        },
+        "card": {
+          "$value": "#ffffff"
+        },
+        "cardForeground": {
+          "$value": "#0f172a"
+        },
+        "muted": {
+          "$value": "#f1f5f9"
+        },
+        "mutedForeground": {
+          "$value": "#64748b"
+        },
+        "border": {
+          "$value": "#e2e8f0"
+        }
+      }
+    }
+  }
+}
