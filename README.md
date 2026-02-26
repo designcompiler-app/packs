@@ -63,6 +63,39 @@ Each pack in `packs/<id>.json` follows this structure:
 3. **Caching**: Fetched packs are cached locally in Figma's `clientStorage` (LRU, 2MB budget)
 4. **Starter packs**: ~8 essential packs are bundled with the plugin for offline use
 
+
+## Expanded Packs
+
+In addition to the original packs, we provide **expanded versions** that extend each pack with a full standardized token set covering all 16 DTCG types.
+
+| Path | Description |
+|------|-------------|
+| `catalog-expanded.json` | Index of all expanded packs |
+| `packs-expanded/<id>-expanded.json` | Full DTCG coverage version of each pack |
+
+Each expanded pack includes:
+- **All original tokens** (preserved under the `original` namespace)
+- **Brand colors** derived from the original pack's palette
+- **Semantic colors** (success, warning, error, info)
+- **Neutral scale** (50–900, derived from the pack's palette)
+- **Spacing** (0–64px, 11 steps)
+- **Typography** (h1–h4, body, small, caption, code)
+- **Font families** (sans, serif, mono)
+- **Font weights** (light through bold)
+- **Shadows** (xs–xl elevations)
+- **Border radii** (none through full)
+- **Borders** (default, focus, subtle)
+- **Stroke styles** (solid, dashed, dotted)
+- **Durations** (instant through xslow)
+- **Easings** (5 cubic-bezier curves)
+- **Opacity** (transparent through opaque)
+- **Z-index** (hide through toast)
+- **Gradients** (brand, subtle)
+- **Transitions** (default, slow)
+- **Percentages** (quarter, third, half, full)
+
+~159 tokens per pack, all 16 DTCG types represented.
+
 ## Mirrors
 
 This registry is available on multiple platforms:
