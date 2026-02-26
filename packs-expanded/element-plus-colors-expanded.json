@@ -1,0 +1,826 @@
+{
+  "meta": {
+    "id": "element-plus-colors-expanded",
+    "name": "Element Plus Colors (Expanded)",
+    "description": "Element Plus default color system — 5 semantic color families (primary, success, warning, danger, info) each with light-3 through light-9 and dark-2 variants. The standard palette for Vue 3 enterprise applications. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "source": "Element Plus",
+    "version": "2.9",
+    "license": "MIT",
+    "categories": [
+      "color",
+      "typography",
+      "spacing",
+      "shadows",
+      "motion"
+    ],
+    "preview": [
+      "#409eff",
+      "#67c23a",
+      "#e6a23c",
+      "#f56c6c",
+      "#909399",
+      "#337ecc",
+      "#529b2e",
+      "#b88230"
+    ],
+    "basedOn": "element-plus-colors"
+  },
+  "data": {
+    "color": {
+      "brand": {
+        "primary": {
+          "$type": "color",
+          "$value": "#409eff"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "#e1f3d8"
+        },
+        "tertiary": {
+          "$type": "color",
+          "$value": "#f89898"
+        },
+        "accent": {
+          "$type": "color",
+          "$value": "#b1b3b8"
+        }
+      },
+      "semantic": {
+        "success": {
+          "$type": "color",
+          "$value": "#16A34A"
+        },
+        "warning": {
+          "$type": "color",
+          "$value": "#D97706"
+        },
+        "error": {
+          "$type": "color",
+          "$value": "#DC2626"
+        },
+        "info": {
+          "$type": "color",
+          "$value": "#2563EB"
+        }
+      },
+      "neutral": {
+        "50": {
+          "$type": "color",
+          "$value": "#DCECFF"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#C8D8EF"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#AABAD1"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#8C9CB3"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#6E7E95"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#64748B"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#506077"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#324259"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#14243B"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#00061D"
+        }
+      },
+      "surface": {
+        "background": {
+          "$type": "color",
+          "$value": "#FFFFFF"
+        },
+        "foreground": {
+          "$type": "color",
+          "$value": "#00061D"
+        },
+        "muted": {
+          "$type": "color",
+          "$value": "#DCECFF"
+        },
+        "overlay": {
+          "$type": "color",
+          "$value": "#00000080"
+        }
+      }
+    },
+    "spacing": {
+      "0": {
+        "$type": "dimension",
+        "$value": "0px"
+      },
+      "1": {
+        "$type": "dimension",
+        "$value": "4px"
+      },
+      "2": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "3": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "4": {
+        "$type": "dimension",
+        "$value": "16px"
+      },
+      "5": {
+        "$type": "dimension",
+        "$value": "20px"
+      },
+      "6": {
+        "$type": "dimension",
+        "$value": "24px"
+      },
+      "8": {
+        "$type": "dimension",
+        "$value": "32px"
+      },
+      "10": {
+        "$type": "dimension",
+        "$value": "40px"
+      },
+      "12": {
+        "$type": "dimension",
+        "$value": "48px"
+      },
+      "16": {
+        "$type": "dimension",
+        "$value": "64px"
+      }
+    },
+    "typography": {
+      "heading": {
+        "h1": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "2.25rem",
+            "fontWeight": 700,
+            "lineHeight": 1.25,
+            "letterSpacing": "-0.025em"
+          }
+        },
+        "h2": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.875rem",
+            "fontWeight": 700,
+            "lineHeight": 1.3,
+            "letterSpacing": "-0.02em"
+          }
+        },
+        "h3": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.5rem",
+            "fontWeight": 600,
+            "lineHeight": 1.333,
+            "letterSpacing": "-0.015em"
+          }
+        },
+        "h4": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.25rem",
+            "fontWeight": 600,
+            "lineHeight": 1.4,
+            "letterSpacing": "0em"
+          }
+        }
+      },
+      "body": {
+        "default": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0em"
+          }
+        },
+        "small": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "0.875rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0.01em"
+          }
+        },
+        "caption": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "0.75rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0.02em"
+          }
+        }
+      },
+      "code": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": [
+            "JetBrains Mono",
+            "Fira Code",
+            "monospace"
+          ],
+          "fontSize": "0.875rem",
+          "fontWeight": 400,
+          "lineHeight": 1.6,
+          "letterSpacing": "0em"
+        }
+      }
+    },
+    "fontFamily": {
+      "sans": {
+        "$type": "fontFamily",
+        "$value": [
+          "Inter",
+          "system-ui",
+          "sans-serif"
+        ]
+      },
+      "serif": {
+        "$type": "fontFamily",
+        "$value": [
+          "Georgia",
+          "Cambria",
+          "serif"
+        ]
+      },
+      "mono": {
+        "$type": "fontFamily",
+        "$value": [
+          "JetBrains Mono",
+          "Fira Code",
+          "monospace"
+        ]
+      }
+    },
+    "fontWeight": {
+      "light": {
+        "$type": "fontWeight",
+        "$value": 300
+      },
+      "regular": {
+        "$type": "fontWeight",
+        "$value": 400
+      },
+      "medium": {
+        "$type": "fontWeight",
+        "$value": 500
+      },
+      "semibold": {
+        "$type": "fontWeight",
+        "$value": 600
+      },
+      "bold": {
+        "$type": "fontWeight",
+        "$value": 700
+      }
+    },
+    "shadow": {
+      "xs": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "2px",
+          "spread": "0px",
+          "color": "#0000000d"
+        }
+      },
+      "sm": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "3px",
+          "spread": "0px",
+          "color": "#0000001a"
+        }
+      },
+      "md": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "4px",
+          "blur": "6px",
+          "spread": "-1px",
+          "color": "#0000001a"
+        }
+      },
+      "lg": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "10px",
+          "blur": "15px",
+          "spread": "-3px",
+          "color": "#0000001a"
+        }
+      },
+      "xl": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "20px",
+          "blur": "25px",
+          "spread": "-5px",
+          "color": "#0000001a"
+        }
+      }
+    },
+    "borderRadius": {
+      "none": {
+        "$type": "dimension",
+        "$value": "0px"
+      },
+      "sm": {
+        "$type": "dimension",
+        "$value": "4px"
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "full": {
+        "$type": "dimension",
+        "$value": "9999px"
+      }
+    },
+    "border": {
+      "default": {
+        "$type": "border",
+        "$value": {
+          "color": "#AABAD1",
+          "width": "1px",
+          "style": "solid"
+        }
+      },
+      "focus": {
+        "$type": "border",
+        "$value": {
+          "color": "#409eff",
+          "width": "2px",
+          "style": "solid"
+        }
+      },
+      "subtle": {
+        "$type": "border",
+        "$value": {
+          "color": "#C8D8EF",
+          "width": "1px",
+          "style": "solid"
+        }
+      }
+    },
+    "duration": {
+      "instant": {
+        "$type": "duration",
+        "$value": "0ms"
+      },
+      "fast": {
+        "$type": "duration",
+        "$value": "100ms"
+      },
+      "normal": {
+        "$type": "duration",
+        "$value": "200ms"
+      },
+      "slow": {
+        "$type": "duration",
+        "$value": "400ms"
+      },
+      "xslow": {
+        "$type": "duration",
+        "$value": "800ms"
+      }
+    },
+    "easing": {
+      "linear": {
+        "$type": "cubicBezier",
+        "$value": [
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "ease": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.25,
+          0.1,
+          0.25,
+          1
+        ]
+      },
+      "easeIn": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.42,
+          0,
+          1,
+          1
+        ]
+      },
+      "easeOut": {
+        "$type": "cubicBezier",
+        "$value": [
+          0,
+          0,
+          0.58,
+          1
+        ]
+      },
+      "easeInOut": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.42,
+          0,
+          0.58,
+          1
+        ]
+      }
+    },
+    "opacity": {
+      "transparent": {
+        "$type": "number",
+        "$value": 0
+      },
+      "subtle": {
+        "$type": "number",
+        "$value": 0.1
+      },
+      "muted": {
+        "$type": "number",
+        "$value": 0.38
+      },
+      "half": {
+        "$type": "number",
+        "$value": 0.5
+      },
+      "opaque": {
+        "$type": "number",
+        "$value": 1
+      }
+    },
+    "zIndex": {
+      "hide": {
+        "$type": "number",
+        "$value": -1
+      },
+      "base": {
+        "$type": "number",
+        "$value": 0
+      },
+      "dropdown": {
+        "$type": "number",
+        "$value": 1000
+      },
+      "sticky": {
+        "$type": "number",
+        "$value": 1100
+      },
+      "modal": {
+        "$type": "number",
+        "$value": 1300
+      },
+      "toast": {
+        "$type": "number",
+        "$value": 1500
+      }
+    },
+    "gradient": {
+      "brand": {
+        "$type": "gradient",
+        "$value": [
+          {
+            "color": "#409eff",
+            "position": 0
+          },
+          {
+            "color": "#e1f3d8",
+            "position": 1
+          }
+        ]
+      },
+      "subtle": {
+        "$type": "gradient",
+        "$value": [
+          {
+            "color": "#DCECFF",
+            "position": 0
+          },
+          {
+            "color": "#BECEE5",
+            "position": 1
+          }
+        ]
+      }
+    },
+    "transition": {
+      "default": {
+        "$type": "transition",
+        "$value": {
+          "duration": "200ms",
+          "delay": "0ms",
+          "timingFunction": [
+            0.25,
+            0.1,
+            0.25,
+            1
+          ]
+        }
+      },
+      "slow": {
+        "$type": "transition",
+        "$value": {
+          "duration": "400ms",
+          "delay": "0ms",
+          "timingFunction": [
+            0.42,
+            0,
+            0.58,
+            1
+          ]
+        }
+      }
+    },
+    "original": {
+      "color": {
+        "$type": "color",
+        "primary": {
+          "$description": "Element Plus primary blue scale — base with light and dark variants",
+          "base": {
+            "$value": "#409eff",
+            "$type": "color"
+          },
+          "light3": {
+            "$value": "#79bbff",
+            "$type": "color"
+          },
+          "light5": {
+            "$value": "#a0cfff",
+            "$type": "color"
+          },
+          "light7": {
+            "$value": "#c6e2ff",
+            "$type": "color"
+          },
+          "light8": {
+            "$value": "#d9ecff",
+            "$type": "color"
+          },
+          "light9": {
+            "$value": "#ecf5ff",
+            "$type": "color"
+          },
+          "dark2": {
+            "$value": "#337ecc",
+            "$type": "color"
+          }
+        },
+        "success": {
+          "$description": "Element Plus success green scale — base with light and dark variants",
+          "base": {
+            "$value": "#67c23a",
+            "$type": "color"
+          },
+          "light3": {
+            "$value": "#95d475",
+            "$type": "color"
+          },
+          "light5": {
+            "$value": "#b3e19d",
+            "$type": "color"
+          },
+          "light7": {
+            "$value": "#d1edc4",
+            "$type": "color"
+          },
+          "light8": {
+            "$value": "#e1f3d8",
+            "$type": "color"
+          },
+          "light9": {
+            "$value": "#f0f9eb",
+            "$type": "color"
+          },
+          "dark2": {
+            "$value": "#529b2e",
+            "$type": "color"
+          }
+        },
+        "warning": {
+          "$description": "Element Plus warning orange scale — base with light and dark variants",
+          "base": {
+            "$value": "#e6a23c",
+            "$type": "color"
+          },
+          "light3": {
+            "$value": "#eebe77",
+            "$type": "color"
+          },
+          "light5": {
+            "$value": "#f3d19e",
+            "$type": "color"
+          },
+          "light7": {
+            "$value": "#f8e3c5",
+            "$type": "color"
+          },
+          "light8": {
+            "$value": "#faecd8",
+            "$type": "color"
+          },
+          "light9": {
+            "$value": "#fdf6ec",
+            "$type": "color"
+          },
+          "dark2": {
+            "$value": "#b88230",
+            "$type": "color"
+          }
+        },
+        "danger": {
+          "$description": "Element Plus danger red scale — base with light and dark variants",
+          "base": {
+            "$value": "#f56c6c",
+            "$type": "color"
+          },
+          "light3": {
+            "$value": "#f89898",
+            "$type": "color"
+          },
+          "light5": {
+            "$value": "#fab6b6",
+            "$type": "color"
+          },
+          "light7": {
+            "$value": "#fcd3d3",
+            "$type": "color"
+          },
+          "light8": {
+            "$value": "#fde2e2",
+            "$type": "color"
+          },
+          "light9": {
+            "$value": "#fef0f0",
+            "$type": "color"
+          },
+          "dark2": {
+            "$value": "#c45656",
+            "$type": "color"
+          }
+        },
+        "info": {
+          "$description": "Element Plus info gray scale — base with light and dark variants",
+          "base": {
+            "$value": "#909399",
+            "$type": "color"
+          },
+          "light3": {
+            "$value": "#b1b3b8",
+            "$type": "color"
+          },
+          "light5": {
+            "$value": "#c8c9cc",
+            "$type": "color"
+          },
+          "light7": {
+            "$value": "#dedfe0",
+            "$type": "color"
+          },
+          "light8": {
+            "$value": "#e9e9eb",
+            "$type": "color"
+          },
+          "light9": {
+            "$value": "#f4f4f5",
+            "$type": "color"
+          },
+          "dark2": {
+            "$value": "#73767a",
+            "$type": "color"
+          }
+        },
+        "base": {
+          "$description": "Element Plus base black and white",
+          "white": {
+            "$value": "#ffffff",
+            "$type": "color"
+          },
+          "black": {
+            "$value": "#000000",
+            "$type": "color"
+          }
+        }
+      }
+    },
+    "fontStyle": {
+      "normal": {
+        "$type": "fontStyle",
+        "$value": "normal"
+      },
+      "italic": {
+        "$type": "fontStyle",
+        "$value": "italic"
+      }
+    },
+    "strokeStyle": {
+      "solid": {
+        "$type": "strokeStyle",
+        "$value": "solid"
+      },
+      "dashed": {
+        "$type": "strokeStyle",
+        "$value": "dashed"
+      },
+      "dotted": {
+        "$type": "strokeStyle",
+        "$value": "dotted"
+      }
+    },
+    "percentage": {
+      "quarter": {
+        "$type": "percentage",
+        "$value": 0.25
+      },
+      "third": {
+        "$type": "percentage",
+        "$value": 0.333
+      },
+      "half": {
+        "$type": "percentage",
+        "$value": 0.5
+      },
+      "full": {
+        "$type": "percentage",
+        "$value": 1
+      }
+    }
+  }
+}

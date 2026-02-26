@@ -1,0 +1,1019 @@
+{
+  "meta": {
+    "id": "marketing-starter-expanded",
+    "name": "Marketing Starter Kit (Expanded)",
+    "description": "Bold token set for marketing sites and landing pages — vibrant brand colors, dramatic type scale, generous spacing, and eye-catching shadows. Makes every landing page pop. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "source": "Design Compiler",
+    "version": "1.0",
+    "license": "CC0",
+    "categories": [
+      "color",
+      "dimension",
+      "typography",
+      "shadow",
+      "spacing",
+      "shadows",
+      "motion"
+    ],
+    "preview": [
+      "#7C3AED",
+      "#EC4899",
+      "#F97316",
+      "#14B8A6",
+      "#0F172A",
+      "#F8FAFC",
+      "#FDE68A",
+      "#818CF8"
+    ],
+    "basedOn": "marketing-starter"
+  },
+  "data": {
+    "color": {
+      "brand": {
+        "primary": {
+          "$type": "color",
+          "$value": "#7C3AED"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "#EC4899"
+        },
+        "tertiary": {
+          "$type": "color",
+          "$value": "#0F172A"
+        },
+        "accent": {
+          "$type": "color",
+          "$value": "#F97316"
+        }
+      },
+      "semantic": {
+        "success": {
+          "$type": "color",
+          "$value": "#16A34A"
+        },
+        "warning": {
+          "$type": "color",
+          "$value": "#D97706"
+        },
+        "error": {
+          "$type": "color",
+          "$value": "#DC2626"
+        },
+        "info": {
+          "$type": "color",
+          "$value": "#2563EB"
+        }
+      },
+      "neutral": {
+        "50": {
+          "$type": "color",
+          "$value": "#DCECFF"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#C8D8EF"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#AABAD1"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#8C9CB3"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#6E7E95"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#64748B"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#506077"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#324259"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#14243B"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#00061D"
+        }
+      },
+      "surface": {
+        "background": {
+          "$type": "color",
+          "$value": "#FFFFFF"
+        },
+        "foreground": {
+          "$type": "color",
+          "$value": "#00061D"
+        },
+        "muted": {
+          "$type": "color",
+          "$value": "#DCECFF"
+        },
+        "overlay": {
+          "$type": "color",
+          "$value": "#00000080"
+        }
+      }
+    },
+    "spacing": {
+      "0": {
+        "$type": "dimension",
+        "$value": "0px"
+      },
+      "1": {
+        "$type": "dimension",
+        "$value": "4px"
+      },
+      "2": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "3": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "4": {
+        "$type": "dimension",
+        "$value": "16px"
+      },
+      "5": {
+        "$type": "dimension",
+        "$value": "20px"
+      },
+      "6": {
+        "$type": "dimension",
+        "$value": "24px"
+      },
+      "8": {
+        "$type": "dimension",
+        "$value": "32px"
+      },
+      "10": {
+        "$type": "dimension",
+        "$value": "40px"
+      },
+      "12": {
+        "$type": "dimension",
+        "$value": "48px"
+      },
+      "16": {
+        "$type": "dimension",
+        "$value": "64px"
+      }
+    },
+    "typography": {
+      "heading": {
+        "h1": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "2.25rem",
+            "fontWeight": 700,
+            "lineHeight": 1.25,
+            "letterSpacing": "-0.025em"
+          }
+        },
+        "h2": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.875rem",
+            "fontWeight": 700,
+            "lineHeight": 1.3,
+            "letterSpacing": "-0.02em"
+          }
+        },
+        "h3": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.5rem",
+            "fontWeight": 600,
+            "lineHeight": 1.333,
+            "letterSpacing": "-0.015em"
+          }
+        },
+        "h4": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.25rem",
+            "fontWeight": 600,
+            "lineHeight": 1.4,
+            "letterSpacing": "0em"
+          }
+        }
+      },
+      "body": {
+        "default": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0em"
+          }
+        },
+        "small": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "0.875rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0.01em"
+          }
+        },
+        "caption": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "0.75rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0.02em"
+          }
+        }
+      },
+      "code": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": [
+            "JetBrains Mono",
+            "Fira Code",
+            "monospace"
+          ],
+          "fontSize": "0.875rem",
+          "fontWeight": 400,
+          "lineHeight": 1.6,
+          "letterSpacing": "0em"
+        }
+      }
+    },
+    "fontFamily": {
+      "sans": {
+        "$type": "fontFamily",
+        "$value": [
+          "Inter",
+          "system-ui",
+          "sans-serif"
+        ]
+      },
+      "serif": {
+        "$type": "fontFamily",
+        "$value": [
+          "Georgia",
+          "Cambria",
+          "serif"
+        ]
+      },
+      "mono": {
+        "$type": "fontFamily",
+        "$value": [
+          "JetBrains Mono",
+          "Fira Code",
+          "monospace"
+        ]
+      }
+    },
+    "fontWeight": {
+      "light": {
+        "$type": "fontWeight",
+        "$value": 300
+      },
+      "regular": {
+        "$type": "fontWeight",
+        "$value": 400
+      },
+      "medium": {
+        "$type": "fontWeight",
+        "$value": 500
+      },
+      "semibold": {
+        "$type": "fontWeight",
+        "$value": 600
+      },
+      "bold": {
+        "$type": "fontWeight",
+        "$value": 700
+      }
+    },
+    "shadow": {
+      "xs": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "2px",
+          "spread": "0px",
+          "color": "#0000000d"
+        }
+      },
+      "sm": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "3px",
+          "spread": "0px",
+          "color": "#0000001a"
+        }
+      },
+      "md": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "4px",
+          "blur": "6px",
+          "spread": "-1px",
+          "color": "#0000001a"
+        }
+      },
+      "lg": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "10px",
+          "blur": "15px",
+          "spread": "-3px",
+          "color": "#0000001a"
+        }
+      },
+      "xl": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "20px",
+          "blur": "25px",
+          "spread": "-5px",
+          "color": "#0000001a"
+        }
+      }
+    },
+    "borderRadius": {
+      "none": {
+        "$type": "dimension",
+        "$value": "0px"
+      },
+      "sm": {
+        "$type": "dimension",
+        "$value": "4px"
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "full": {
+        "$type": "dimension",
+        "$value": "9999px"
+      }
+    },
+    "border": {
+      "default": {
+        "$type": "border",
+        "$value": {
+          "color": "#AABAD1",
+          "width": "1px",
+          "style": "solid"
+        }
+      },
+      "focus": {
+        "$type": "border",
+        "$value": {
+          "color": "#7C3AED",
+          "width": "2px",
+          "style": "solid"
+        }
+      },
+      "subtle": {
+        "$type": "border",
+        "$value": {
+          "color": "#C8D8EF",
+          "width": "1px",
+          "style": "solid"
+        }
+      }
+    },
+    "duration": {
+      "instant": {
+        "$type": "duration",
+        "$value": "0ms"
+      },
+      "fast": {
+        "$type": "duration",
+        "$value": "100ms"
+      },
+      "normal": {
+        "$type": "duration",
+        "$value": "200ms"
+      },
+      "slow": {
+        "$type": "duration",
+        "$value": "400ms"
+      },
+      "xslow": {
+        "$type": "duration",
+        "$value": "800ms"
+      }
+    },
+    "easing": {
+      "linear": {
+        "$type": "cubicBezier",
+        "$value": [
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "ease": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.25,
+          0.1,
+          0.25,
+          1
+        ]
+      },
+      "easeIn": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.42,
+          0,
+          1,
+          1
+        ]
+      },
+      "easeOut": {
+        "$type": "cubicBezier",
+        "$value": [
+          0,
+          0,
+          0.58,
+          1
+        ]
+      },
+      "easeInOut": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.42,
+          0,
+          0.58,
+          1
+        ]
+      }
+    },
+    "opacity": {
+      "transparent": {
+        "$type": "number",
+        "$value": 0
+      },
+      "subtle": {
+        "$type": "number",
+        "$value": 0.1
+      },
+      "muted": {
+        "$type": "number",
+        "$value": 0.38
+      },
+      "half": {
+        "$type": "number",
+        "$value": 0.5
+      },
+      "opaque": {
+        "$type": "number",
+        "$value": 1
+      }
+    },
+    "zIndex": {
+      "hide": {
+        "$type": "number",
+        "$value": -1
+      },
+      "base": {
+        "$type": "number",
+        "$value": 0
+      },
+      "dropdown": {
+        "$type": "number",
+        "$value": 1000
+      },
+      "sticky": {
+        "$type": "number",
+        "$value": 1100
+      },
+      "modal": {
+        "$type": "number",
+        "$value": 1300
+      },
+      "toast": {
+        "$type": "number",
+        "$value": 1500
+      }
+    },
+    "gradient": {
+      "brand": {
+        "$type": "gradient",
+        "$value": [
+          {
+            "color": "#7C3AED",
+            "position": 0
+          },
+          {
+            "color": "#EC4899",
+            "position": 1
+          }
+        ]
+      },
+      "subtle": {
+        "$type": "gradient",
+        "$value": [
+          {
+            "color": "#DCECFF",
+            "position": 0
+          },
+          {
+            "color": "#BECEE5",
+            "position": 1
+          }
+        ]
+      }
+    },
+    "transition": {
+      "default": {
+        "$type": "transition",
+        "$value": {
+          "duration": "200ms",
+          "delay": "0ms",
+          "timingFunction": [
+            0.25,
+            0.1,
+            0.25,
+            1
+          ]
+        }
+      },
+      "slow": {
+        "$type": "transition",
+        "$value": {
+          "duration": "400ms",
+          "delay": "0ms",
+          "timingFunction": [
+            0.42,
+            0,
+            0.58,
+            1
+          ]
+        }
+      }
+    },
+    "original": {
+      "color": {
+        "$type": "color",
+        "brand": {
+          "$description": "Vibrant brand colors for maximum visual impact",
+          "primary": {
+            "$value": "#7C3AED",
+            "$description": "Hero headings, primary CTAs",
+            "$type": "color"
+          },
+          "primaryLight": {
+            "$value": "#A78BFA",
+            "$description": "Hover states, accents",
+            "$type": "color"
+          },
+          "primaryDark": {
+            "$value": "#5B21B6",
+            "$description": "Pressed states, emphasis",
+            "$type": "color"
+          },
+          "secondary": {
+            "$value": "#EC4899",
+            "$description": "Feature highlights, badges",
+            "$type": "color"
+          },
+          "secondaryLight": {
+            "$value": "#F9A8D4",
+            "$description": "Secondary hover states",
+            "$type": "color"
+          },
+          "secondaryDark": {
+            "$value": "#BE185D",
+            "$description": "Secondary pressed states",
+            "$type": "color"
+          },
+          "accent": {
+            "$value": "#F97316",
+            "$description": "Attention-grabbing elements",
+            "$type": "color"
+          },
+          "accentLight": {
+            "$value": "#FDBA74",
+            "$description": "Accent hover, decorations",
+            "$type": "color"
+          },
+          "accentDark": {
+            "$value": "#C2410C",
+            "$description": "Accent pressed states",
+            "$type": "color"
+          }
+        },
+        "neutral": {
+          "50": {
+            "$value": "#F8FAFC",
+            "$type": "color"
+          },
+          "100": {
+            "$value": "#F1F5F9",
+            "$type": "color"
+          },
+          "200": {
+            "$value": "#E2E8F0",
+            "$type": "color"
+          },
+          "300": {
+            "$value": "#CBD5E1",
+            "$type": "color"
+          },
+          "400": {
+            "$value": "#94A3B8",
+            "$type": "color"
+          },
+          "500": {
+            "$value": "#64748B",
+            "$type": "color"
+          },
+          "600": {
+            "$value": "#475569",
+            "$type": "color"
+          },
+          "700": {
+            "$value": "#334155",
+            "$type": "color"
+          },
+          "800": {
+            "$value": "#1E293B",
+            "$type": "color"
+          },
+          "900": {
+            "$value": "#0F172A",
+            "$type": "color"
+          },
+          "$description": "Slate neutral scale for text and backgrounds"
+        },
+        "highlight": {
+          "$description": "Highlight and CTA colors for conversion elements",
+          "cta": {
+            "$value": "#F97316",
+            "$description": "Primary call-to-action fill",
+            "$type": "color"
+          },
+          "ctaHover": {
+            "$value": "#EA580C",
+            "$description": "CTA fill on hover",
+            "$type": "color"
+          },
+          "badge": {
+            "$value": "#FDE68A",
+            "$description": "Pricing badge background",
+            "$type": "color"
+          },
+          "badgeText": {
+            "$value": "#92400E",
+            "$description": "Pricing badge text",
+            "$type": "color"
+          },
+          "gradient1": {
+            "$value": "#7C3AED",
+            "$description": "Gradient start color",
+            "$type": "color"
+          },
+          "gradient2": {
+            "$value": "#EC4899",
+            "$description": "Gradient end color",
+            "$type": "color"
+          }
+        },
+        "surface": {
+          "$description": "Page surfaces and backgrounds",
+          "background": {
+            "$value": "#FFFFFF",
+            "$description": "Page background",
+            "$type": "color"
+          },
+          "foreground": {
+            "$value": "#0F172A",
+            "$description": "Primary body text",
+            "$type": "color"
+          },
+          "hero": {
+            "$value": "#0F172A",
+            "$description": "Dark hero section background",
+            "$type": "color"
+          },
+          "heroForeground": {
+            "$value": "#F8FAFC",
+            "$description": "Text on hero background",
+            "$type": "color"
+          },
+          "section": {
+            "$value": "#F8FAFC",
+            "$description": "Alternating section background",
+            "$type": "color"
+          },
+          "sectionAlt": {
+            "$value": "#F1F5F9",
+            "$description": "Secondary section background",
+            "$type": "color"
+          }
+        }
+      },
+      "fontSize": {
+        "$type": "dimension",
+        "$description": "Dramatic type scale — larger sizes for hero sections",
+        "sm": {
+          "$value": "0.875rem",
+          "$description": "Fine print, disclaimers",
+          "$type": "dimension"
+        },
+        "base": {
+          "$value": "1.125rem",
+          "$description": "Body copy (larger for readability)",
+          "$type": "dimension"
+        },
+        "lg": {
+          "$value": "1.25rem",
+          "$description": "Feature descriptions",
+          "$type": "dimension"
+        },
+        "xl": {
+          "$value": "1.5rem",
+          "$description": "Section subtitles",
+          "$type": "dimension"
+        },
+        "2xl": {
+          "$value": "2rem",
+          "$description": "Section headings",
+          "$type": "dimension"
+        },
+        "3xl": {
+          "$value": "2.5rem",
+          "$description": "Major section titles",
+          "$type": "dimension"
+        },
+        "4xl": {
+          "$value": "3rem",
+          "$description": "Page titles",
+          "$type": "dimension"
+        },
+        "5xl": {
+          "$value": "4rem",
+          "$description": "Hero headings",
+          "$type": "dimension"
+        },
+        "6xl": {
+          "$value": "5rem",
+          "$description": "Display headlines",
+          "$type": "dimension"
+        }
+      },
+      "fontWeight": {
+        "$type": "number",
+        "$description": "Font weights for marketing emphasis",
+        "normal": {
+          "$value": 400,
+          "$description": "Body text",
+          "$type": "fontWeight"
+        },
+        "medium": {
+          "$value": 500,
+          "$description": "Subheadings, links",
+          "$type": "fontWeight"
+        },
+        "bold": {
+          "$value": 700,
+          "$description": "Section headings",
+          "$type": "fontWeight"
+        },
+        "extrabold": {
+          "$value": 800,
+          "$description": "Hero headings",
+          "$type": "fontWeight"
+        },
+        "black": {
+          "$value": 900,
+          "$description": "Display headlines",
+          "$type": "fontWeight"
+        }
+      },
+      "spacing": {
+        "4": {
+          "$value": "16px",
+          "$type": "dimension"
+        },
+        "6": {
+          "$value": "24px",
+          "$type": "dimension"
+        },
+        "8": {
+          "$value": "32px",
+          "$type": "dimension"
+        },
+        "12": {
+          "$value": "48px",
+          "$type": "dimension"
+        },
+        "16": {
+          "$value": "64px",
+          "$type": "dimension"
+        },
+        "20": {
+          "$value": "80px",
+          "$type": "dimension"
+        },
+        "24": {
+          "$value": "96px",
+          "$type": "dimension"
+        },
+        "32": {
+          "$value": "128px",
+          "$type": "dimension"
+        },
+        "40": {
+          "$value": "160px",
+          "$type": "dimension"
+        },
+        "$type": "dimension",
+        "$description": "Generous spacing for breathing room on marketing pages"
+      },
+      "shadow": {
+        "$type": "shadow",
+        "$description": "Dramatic shadows for cards and floating elements",
+        "soft": {
+          "$value": {
+            "offsetX": "0px",
+            "offsetY": "4px",
+            "blur": "14px",
+            "spread": "0px",
+            "color": "#0000000f"
+          },
+          "$description": "Subtle lift for testimonials",
+          "$type": "shadow"
+        },
+        "card": {
+          "$value": {
+            "offsetX": "0px",
+            "offsetY": "8px",
+            "blur": "24px",
+            "spread": "-4px",
+            "color": "#0000001a"
+          },
+          "$description": "Feature cards, pricing tiles",
+          "$type": "shadow"
+        },
+        "elevated": {
+          "$value": {
+            "offsetX": "0px",
+            "offsetY": "16px",
+            "blur": "40px",
+            "spread": "-8px",
+            "color": "#00000026"
+          },
+          "$description": "Floating CTAs, sticky nav",
+          "$type": "shadow"
+        },
+        "dramatic": {
+          "$value": {
+            "offsetX": "0px",
+            "offsetY": "24px",
+            "blur": "60px",
+            "spread": "-12px",
+            "color": "#00000033"
+          },
+          "$description": "Hero cards, modals",
+          "$type": "shadow"
+        }
+      },
+      "borderRadius": {
+        "$type": "dimension",
+        "$description": "Rounded corners for friendly marketing aesthetic",
+        "sm": {
+          "$value": "0.5rem",
+          "$description": "Inputs, small buttons",
+          "$type": "dimension"
+        },
+        "default": {
+          "$value": "0.75rem",
+          "$description": "Buttons, badges",
+          "$type": "dimension"
+        },
+        "lg": {
+          "$value": "1rem",
+          "$description": "Cards, feature blocks",
+          "$type": "dimension"
+        },
+        "xl": {
+          "$value": "1.5rem",
+          "$description": "Hero cards, images",
+          "$type": "dimension"
+        },
+        "2xl": {
+          "$value": "2rem",
+          "$description": "Large feature panels",
+          "$type": "dimension"
+        },
+        "full": {
+          "$value": "9999px",
+          "$description": "Pills, avatars",
+          "$type": "dimension"
+        }
+      }
+    },
+    "fontStyle": {
+      "normal": {
+        "$type": "fontStyle",
+        "$value": "normal"
+      },
+      "italic": {
+        "$type": "fontStyle",
+        "$value": "italic"
+      }
+    },
+    "strokeStyle": {
+      "solid": {
+        "$type": "strokeStyle",
+        "$value": "solid"
+      },
+      "dashed": {
+        "$type": "strokeStyle",
+        "$value": "dashed"
+      },
+      "dotted": {
+        "$type": "strokeStyle",
+        "$value": "dotted"
+      }
+    },
+    "percentage": {
+      "quarter": {
+        "$type": "percentage",
+        "$value": 0.25
+      },
+      "third": {
+        "$type": "percentage",
+        "$value": 0.333
+      },
+      "half": {
+        "$type": "percentage",
+        "$value": 0.5
+      },
+      "full": {
+        "$type": "percentage",
+        "$value": 1
+      }
+    }
+  }
+}

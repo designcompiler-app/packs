@@ -1,0 +1,1331 @@
+{
+  "meta": {
+    "id": "lightning-colors-expanded",
+    "name": "Salesforce Lightning Colors (Expanded)",
+    "description": "Salesforce Lightning Design System (SLDS) color palette — 12 hue families (blue, cloud blue, green, teal, hot orange, orange, yellow, pink, red, purple, violet, indigo) with 12-step scales, plus a 14-step neutral. 158 tokens. Primitive values identical in SLDS 2. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "source": "Salesforce SLDS",
+    "version": "2.25",
+    "license": "MIT",
+    "categories": [
+      "color",
+      "typography",
+      "spacing",
+      "shadows",
+      "motion"
+    ],
+    "preview": [
+      "#0176d3",
+      "#1b96ff",
+      "#ea001e",
+      "#2e844a",
+      "#9050e9",
+      "#e3066a",
+      "#a86403",
+      "#0b827c"
+    ],
+    "basedOn": "lightning-colors"
+  },
+  "data": {
+    "color": {
+      "brand": {
+        "primary": {
+          "$type": "color",
+          "$value": "#001639"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "#def9f3"
+        },
+        "tertiary": {
+          "$type": "color",
+          "$value": "#fddde3"
+        },
+        "accent": {
+          "$type": "color",
+          "$value": "#cb65ff"
+        }
+      },
+      "semantic": {
+        "success": {
+          "$type": "color",
+          "$value": "#16A34A"
+        },
+        "warning": {
+          "$type": "color",
+          "$value": "#D97706"
+        },
+        "error": {
+          "$type": "color",
+          "$value": "#DC2626"
+        },
+        "info": {
+          "$type": "color",
+          "$value": "#2563EB"
+        }
+      },
+      "neutral": {
+        "50": {
+          "$type": "color",
+          "$value": "#DCECFF"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#C8D8EF"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#AABAD1"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#8C9CB3"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#6E7E95"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#64748B"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#506077"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#324259"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#14243B"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#00061D"
+        }
+      },
+      "surface": {
+        "background": {
+          "$type": "color",
+          "$value": "#FFFFFF"
+        },
+        "foreground": {
+          "$type": "color",
+          "$value": "#00061D"
+        },
+        "muted": {
+          "$type": "color",
+          "$value": "#DCECFF"
+        },
+        "overlay": {
+          "$type": "color",
+          "$value": "#00000080"
+        }
+      }
+    },
+    "spacing": {
+      "0": {
+        "$type": "dimension",
+        "$value": "0px"
+      },
+      "1": {
+        "$type": "dimension",
+        "$value": "4px"
+      },
+      "2": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "3": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "4": {
+        "$type": "dimension",
+        "$value": "16px"
+      },
+      "5": {
+        "$type": "dimension",
+        "$value": "20px"
+      },
+      "6": {
+        "$type": "dimension",
+        "$value": "24px"
+      },
+      "8": {
+        "$type": "dimension",
+        "$value": "32px"
+      },
+      "10": {
+        "$type": "dimension",
+        "$value": "40px"
+      },
+      "12": {
+        "$type": "dimension",
+        "$value": "48px"
+      },
+      "16": {
+        "$type": "dimension",
+        "$value": "64px"
+      }
+    },
+    "typography": {
+      "heading": {
+        "h1": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "2.25rem",
+            "fontWeight": 700,
+            "lineHeight": 1.25,
+            "letterSpacing": "-0.025em"
+          }
+        },
+        "h2": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.875rem",
+            "fontWeight": 700,
+            "lineHeight": 1.3,
+            "letterSpacing": "-0.02em"
+          }
+        },
+        "h3": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.5rem",
+            "fontWeight": 600,
+            "lineHeight": 1.333,
+            "letterSpacing": "-0.015em"
+          }
+        },
+        "h4": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.25rem",
+            "fontWeight": 600,
+            "lineHeight": 1.4,
+            "letterSpacing": "0em"
+          }
+        }
+      },
+      "body": {
+        "default": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0em"
+          }
+        },
+        "small": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "0.875rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0.01em"
+          }
+        },
+        "caption": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "0.75rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0.02em"
+          }
+        }
+      },
+      "code": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": [
+            "JetBrains Mono",
+            "Fira Code",
+            "monospace"
+          ],
+          "fontSize": "0.875rem",
+          "fontWeight": 400,
+          "lineHeight": 1.6,
+          "letterSpacing": "0em"
+        }
+      }
+    },
+    "fontFamily": {
+      "sans": {
+        "$type": "fontFamily",
+        "$value": [
+          "Inter",
+          "system-ui",
+          "sans-serif"
+        ]
+      },
+      "serif": {
+        "$type": "fontFamily",
+        "$value": [
+          "Georgia",
+          "Cambria",
+          "serif"
+        ]
+      },
+      "mono": {
+        "$type": "fontFamily",
+        "$value": [
+          "JetBrains Mono",
+          "Fira Code",
+          "monospace"
+        ]
+      }
+    },
+    "fontWeight": {
+      "light": {
+        "$type": "fontWeight",
+        "$value": 300
+      },
+      "regular": {
+        "$type": "fontWeight",
+        "$value": 400
+      },
+      "medium": {
+        "$type": "fontWeight",
+        "$value": 500
+      },
+      "semibold": {
+        "$type": "fontWeight",
+        "$value": 600
+      },
+      "bold": {
+        "$type": "fontWeight",
+        "$value": 700
+      }
+    },
+    "shadow": {
+      "xs": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "2px",
+          "spread": "0px",
+          "color": "#0000000d"
+        }
+      },
+      "sm": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "3px",
+          "spread": "0px",
+          "color": "#0000001a"
+        }
+      },
+      "md": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "4px",
+          "blur": "6px",
+          "spread": "-1px",
+          "color": "#0000001a"
+        }
+      },
+      "lg": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "10px",
+          "blur": "15px",
+          "spread": "-3px",
+          "color": "#0000001a"
+        }
+      },
+      "xl": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "20px",
+          "blur": "25px",
+          "spread": "-5px",
+          "color": "#0000001a"
+        }
+      }
+    },
+    "borderRadius": {
+      "none": {
+        "$type": "dimension",
+        "$value": "0px"
+      },
+      "sm": {
+        "$type": "dimension",
+        "$value": "4px"
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "full": {
+        "$type": "dimension",
+        "$value": "9999px"
+      }
+    },
+    "border": {
+      "default": {
+        "$type": "border",
+        "$value": {
+          "color": "#AABAD1",
+          "width": "1px",
+          "style": "solid"
+        }
+      },
+      "focus": {
+        "$type": "border",
+        "$value": {
+          "color": "#001639",
+          "width": "2px",
+          "style": "solid"
+        }
+      },
+      "subtle": {
+        "$type": "border",
+        "$value": {
+          "color": "#C8D8EF",
+          "width": "1px",
+          "style": "solid"
+        }
+      }
+    },
+    "duration": {
+      "instant": {
+        "$type": "duration",
+        "$value": "0ms"
+      },
+      "fast": {
+        "$type": "duration",
+        "$value": "100ms"
+      },
+      "normal": {
+        "$type": "duration",
+        "$value": "200ms"
+      },
+      "slow": {
+        "$type": "duration",
+        "$value": "400ms"
+      },
+      "xslow": {
+        "$type": "duration",
+        "$value": "800ms"
+      }
+    },
+    "easing": {
+      "linear": {
+        "$type": "cubicBezier",
+        "$value": [
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "ease": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.25,
+          0.1,
+          0.25,
+          1
+        ]
+      },
+      "easeIn": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.42,
+          0,
+          1,
+          1
+        ]
+      },
+      "easeOut": {
+        "$type": "cubicBezier",
+        "$value": [
+          0,
+          0,
+          0.58,
+          1
+        ]
+      },
+      "easeInOut": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.42,
+          0,
+          0.58,
+          1
+        ]
+      }
+    },
+    "opacity": {
+      "transparent": {
+        "$type": "number",
+        "$value": 0
+      },
+      "subtle": {
+        "$type": "number",
+        "$value": 0.1
+      },
+      "muted": {
+        "$type": "number",
+        "$value": 0.38
+      },
+      "half": {
+        "$type": "number",
+        "$value": 0.5
+      },
+      "opaque": {
+        "$type": "number",
+        "$value": 1
+      }
+    },
+    "zIndex": {
+      "hide": {
+        "$type": "number",
+        "$value": -1
+      },
+      "base": {
+        "$type": "number",
+        "$value": 0
+      },
+      "dropdown": {
+        "$type": "number",
+        "$value": 1000
+      },
+      "sticky": {
+        "$type": "number",
+        "$value": 1100
+      },
+      "modal": {
+        "$type": "number",
+        "$value": 1300
+      },
+      "toast": {
+        "$type": "number",
+        "$value": 1500
+      }
+    },
+    "gradient": {
+      "brand": {
+        "$type": "gradient",
+        "$value": [
+          {
+            "color": "#001639",
+            "position": 0
+          },
+          {
+            "color": "#def9f3",
+            "position": 1
+          }
+        ]
+      },
+      "subtle": {
+        "$type": "gradient",
+        "$value": [
+          {
+            "color": "#DCECFF",
+            "position": 0
+          },
+          {
+            "color": "#BECEE5",
+            "position": 1
+          }
+        ]
+      }
+    },
+    "transition": {
+      "default": {
+        "$type": "transition",
+        "$value": {
+          "duration": "200ms",
+          "delay": "0ms",
+          "timingFunction": [
+            0.25,
+            0.1,
+            0.25,
+            1
+          ]
+        }
+      },
+      "slow": {
+        "$type": "transition",
+        "$value": {
+          "duration": "400ms",
+          "delay": "0ms",
+          "timingFunction": [
+            0.42,
+            0,
+            0.58,
+            1
+          ]
+        }
+      }
+    },
+    "original": {
+      "color": {
+        "$type": "color",
+        "blue": {
+          "10": {
+            "$value": "#001639",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#03234d",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#032d60",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#014486",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#0b5cab",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#0176d3",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#1b96ff",
+            "$type": "color"
+          },
+          "65": {
+            "$value": "#57a3fd",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#78b0fd",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#aacbff",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#d8e6fe",
+            "$type": "color"
+          },
+          "95": {
+            "$value": "#eef4ff",
+            "$type": "color"
+          },
+          "$description": "SLDS blue palette"
+        },
+        "cloudBlue": {
+          "10": {
+            "$value": "#001a28",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#0a2636",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#023248",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#084968",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#05628a",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#107cad",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#0d9dda",
+            "$type": "color"
+          },
+          "65": {
+            "$value": "#08abed",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#1ab9ff",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#90d0fe",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#cfe9fe",
+            "$type": "color"
+          },
+          "95": {
+            "$value": "#eaf5fe",
+            "$type": "color"
+          },
+          "$description": "SLDS cloud blue palette"
+        },
+        "green": {
+          "10": {
+            "$value": "#071b12",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#0c2912",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#1c3326",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#194e31",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#396547",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#2e844a",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#3ba755",
+            "$type": "color"
+          },
+          "65": {
+            "$value": "#41b658",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#45c65a",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#91db8b",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#cdefc4",
+            "$type": "color"
+          },
+          "95": {
+            "$value": "#ebf7e6",
+            "$type": "color"
+          },
+          "$description": "SLDS green palette"
+        },
+        "teal": {
+          "10": {
+            "$value": "#071b12",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#072825",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#023434",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#024d4c",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#056764",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#0b827c",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#06a59a",
+            "$type": "color"
+          },
+          "65": {
+            "$value": "#03b4a7",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#01c3b3",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#04e1cb",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#acf3e4",
+            "$type": "color"
+          },
+          "95": {
+            "$value": "#def9f3",
+            "$type": "color"
+          },
+          "$description": "SLDS teal palette"
+        },
+        "hotOrange": {
+          "10": {
+            "$value": "#281202",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#421604",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#4a2413",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#7e2600",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#aa3001",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#d83a00",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#ff5d2d",
+            "$type": "color"
+          },
+          "65": {
+            "$value": "#ff784f",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#ff906e",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#feb9a5",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#ffded5",
+            "$type": "color"
+          },
+          "95": {
+            "$value": "#fef1ed",
+            "$type": "color"
+          },
+          "$description": "SLDS hot orange palette"
+        },
+        "orange": {
+          "10": {
+            "$value": "#201600",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#371e03",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#3e2b02",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#5f3e02",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#825101",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#a96404",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#dd7a01",
+            "$type": "color"
+          },
+          "65": {
+            "$value": "#f38303",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#fe9339",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#ffba90",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#fedfd0",
+            "$type": "color"
+          },
+          "95": {
+            "$value": "#fff1ea",
+            "$type": "color"
+          },
+          "$description": "SLDS orange palette"
+        },
+        "yellow": {
+          "10": {
+            "$value": "#281202",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#2e2204",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#4f2100",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#6f3400",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#8c4b02",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#a86403",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#ca8501",
+            "$type": "color"
+          },
+          "65": {
+            "$value": "#d79304",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#e4a201",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#fcc003",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#f9e3b6",
+            "$type": "color"
+          },
+          "95": {
+            "$value": "#fbf3e0",
+            "$type": "color"
+          },
+          "$description": "SLDS yellow palette"
+        },
+        "pink": {
+          "10": {
+            "$value": "#370114",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#4b0620",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#61022a",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#8a033e",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#b60554",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#e3066a",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#ff538a",
+            "$type": "color"
+          },
+          "65": {
+            "$value": "#fe7298",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#fe8aa7",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#fdb6c5",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#fddde3",
+            "$type": "color"
+          },
+          "95": {
+            "$value": "#fef0f3",
+            "$type": "color"
+          },
+          "$description": "SLDS pink palette"
+        },
+        "red": {
+          "10": {
+            "$value": "#300c01",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#4a0c04",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#640103",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#8e030f",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#ba0517",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#ea001e",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#fe5c4c",
+            "$type": "color"
+          },
+          "65": {
+            "$value": "#fe7765",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#fe8f7d",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#feb8ab",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#feded8",
+            "$type": "color"
+          },
+          "95": {
+            "$value": "#fef1ee",
+            "$type": "color"
+          },
+          "$description": "SLDS red palette"
+        },
+        "purple": {
+          "10": {
+            "$value": "#240643",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#300b60",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#401075",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#5a1ba9",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#7526e3",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#9050e9",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#ad7bee",
+            "$type": "color"
+          },
+          "65": {
+            "$value": "#b78def",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#c29ef1",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#d7bff2",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#ece1f9",
+            "$type": "color"
+          },
+          "95": {
+            "$value": "#f6f2fb",
+            "$type": "color"
+          },
+          "$description": "SLDS purple palette"
+        },
+        "violet": {
+          "10": {
+            "$value": "#2e0039",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#3d0157",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#481a54",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#730394",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#9602c7",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#ba01ff",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#cb65ff",
+            "$type": "color"
+          },
+          "65": {
+            "$value": "#d17dfe",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#d892fe",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#e5b9fe",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#f2defe",
+            "$type": "color"
+          },
+          "95": {
+            "$value": "#f9f0ff",
+            "$type": "color"
+          },
+          "$description": "SLDS violet palette"
+        },
+        "indigo": {
+          "10": {
+            "$value": "#200647",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#1f0974",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#321d71",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#2f2cb7",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#3a49da",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#5867e8",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#7f8ced",
+            "$type": "color"
+          },
+          "65": {
+            "$value": "#8e9bef",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#9ea9f1",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#bec7f6",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#e0e5f8",
+            "$type": "color"
+          },
+          "95": {
+            "$value": "#f1f3fb",
+            "$type": "color"
+          },
+          "$description": "SLDS indigo palette"
+        },
+        "neutral": {
+          "0": {
+            "$value": "#000000",
+            "$type": "color"
+          },
+          "10": {
+            "$value": "#181818",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#242424",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#2e2e2e",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#444444",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#5c5c5c",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#747474",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#939393",
+            "$type": "color"
+          },
+          "65": {
+            "$value": "#a0a0a0",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#aeaeae",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#c9c9c9",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#e5e5e5",
+            "$type": "color"
+          },
+          "95": {
+            "$value": "#f3f3f3",
+            "$type": "color"
+          },
+          "100": {
+            "$value": "#ffffff",
+            "$type": "color"
+          },
+          "$description": "SLDS neutral palette"
+        }
+      }
+    },
+    "fontStyle": {
+      "normal": {
+        "$type": "fontStyle",
+        "$value": "normal"
+      },
+      "italic": {
+        "$type": "fontStyle",
+        "$value": "italic"
+      }
+    },
+    "strokeStyle": {
+      "solid": {
+        "$type": "strokeStyle",
+        "$value": "solid"
+      },
+      "dashed": {
+        "$type": "strokeStyle",
+        "$value": "dashed"
+      },
+      "dotted": {
+        "$type": "strokeStyle",
+        "$value": "dotted"
+      }
+    },
+    "percentage": {
+      "quarter": {
+        "$type": "percentage",
+        "$value": 0.25
+      },
+      "third": {
+        "$type": "percentage",
+        "$value": 0.333
+      },
+      "half": {
+        "$type": "percentage",
+        "$value": 0.5
+      },
+      "full": {
+        "$type": "percentage",
+        "$value": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,1170 @@
+{
+  "meta": {
+    "id": "atlassian-colors-expanded",
+    "name": "Atlassian Design Colors (Expanded)",
+    "description": "Atlassian Design System color palette — 9 hue families (red, orange, yellow, green, teal, blue, purple, magenta, lime) with 12 steps each, plus a 12-step neutral scale. 120 tokens from @atlaskit/tokens v6. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "source": "Atlassian",
+    "version": "6.1",
+    "license": "Apache-2.0",
+    "categories": [
+      "color",
+      "typography",
+      "spacing",
+      "shadows",
+      "motion"
+    ],
+    "preview": [
+      "#357DE8",
+      "#F15B50",
+      "#2ABB7F",
+      "#CF9F02",
+      "#AF59E1",
+      "#DA62AC",
+      "#2898BD",
+      "#82B536"
+    ],
+    "basedOn": "atlassian-colors"
+  },
+  "data": {
+    "color": {
+      "brand": {
+        "primary": {
+          "$type": "color",
+          "$value": "#F15B50"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "#DCFFF1"
+        },
+        "tertiary": {
+          "$type": "color",
+          "$value": "#F8EEFE"
+        },
+        "accent": {
+          "$type": "color",
+          "$value": "#EFFFD6"
+        }
+      },
+      "semantic": {
+        "success": {
+          "$type": "color",
+          "$value": "#16A34A"
+        },
+        "warning": {
+          "$type": "color",
+          "$value": "#D97706"
+        },
+        "error": {
+          "$type": "color",
+          "$value": "#DC2626"
+        },
+        "info": {
+          "$type": "color",
+          "$value": "#2563EB"
+        }
+      },
+      "neutral": {
+        "50": {
+          "$type": "color",
+          "$value": "#DCECFF"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#C8D8EF"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#AABAD1"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#8C9CB3"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#6E7E95"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#64748B"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#506077"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#324259"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#14243B"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#00061D"
+        }
+      },
+      "surface": {
+        "background": {
+          "$type": "color",
+          "$value": "#FFFFFF"
+        },
+        "foreground": {
+          "$type": "color",
+          "$value": "#00061D"
+        },
+        "muted": {
+          "$type": "color",
+          "$value": "#DCECFF"
+        },
+        "overlay": {
+          "$type": "color",
+          "$value": "#00000080"
+        }
+      }
+    },
+    "spacing": {
+      "0": {
+        "$type": "dimension",
+        "$value": "0px"
+      },
+      "1": {
+        "$type": "dimension",
+        "$value": "4px"
+      },
+      "2": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "3": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "4": {
+        "$type": "dimension",
+        "$value": "16px"
+      },
+      "5": {
+        "$type": "dimension",
+        "$value": "20px"
+      },
+      "6": {
+        "$type": "dimension",
+        "$value": "24px"
+      },
+      "8": {
+        "$type": "dimension",
+        "$value": "32px"
+      },
+      "10": {
+        "$type": "dimension",
+        "$value": "40px"
+      },
+      "12": {
+        "$type": "dimension",
+        "$value": "48px"
+      },
+      "16": {
+        "$type": "dimension",
+        "$value": "64px"
+      }
+    },
+    "typography": {
+      "heading": {
+        "h1": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "2.25rem",
+            "fontWeight": 700,
+            "lineHeight": 1.25,
+            "letterSpacing": "-0.025em"
+          }
+        },
+        "h2": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.875rem",
+            "fontWeight": 700,
+            "lineHeight": 1.3,
+            "letterSpacing": "-0.02em"
+          }
+        },
+        "h3": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.5rem",
+            "fontWeight": 600,
+            "lineHeight": 1.333,
+            "letterSpacing": "-0.015em"
+          }
+        },
+        "h4": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.25rem",
+            "fontWeight": 600,
+            "lineHeight": 1.4,
+            "letterSpacing": "0em"
+          }
+        }
+      },
+      "body": {
+        "default": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0em"
+          }
+        },
+        "small": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "0.875rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0.01em"
+          }
+        },
+        "caption": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "0.75rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0.02em"
+          }
+        }
+      },
+      "code": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": [
+            "JetBrains Mono",
+            "Fira Code",
+            "monospace"
+          ],
+          "fontSize": "0.875rem",
+          "fontWeight": 400,
+          "lineHeight": 1.6,
+          "letterSpacing": "0em"
+        }
+      }
+    },
+    "fontFamily": {
+      "sans": {
+        "$type": "fontFamily",
+        "$value": [
+          "Inter",
+          "system-ui",
+          "sans-serif"
+        ]
+      },
+      "serif": {
+        "$type": "fontFamily",
+        "$value": [
+          "Georgia",
+          "Cambria",
+          "serif"
+        ]
+      },
+      "mono": {
+        "$type": "fontFamily",
+        "$value": [
+          "JetBrains Mono",
+          "Fira Code",
+          "monospace"
+        ]
+      }
+    },
+    "fontWeight": {
+      "light": {
+        "$type": "fontWeight",
+        "$value": 300
+      },
+      "regular": {
+        "$type": "fontWeight",
+        "$value": 400
+      },
+      "medium": {
+        "$type": "fontWeight",
+        "$value": 500
+      },
+      "semibold": {
+        "$type": "fontWeight",
+        "$value": 600
+      },
+      "bold": {
+        "$type": "fontWeight",
+        "$value": 700
+      }
+    },
+    "shadow": {
+      "xs": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "2px",
+          "spread": "0px",
+          "color": "#0000000d"
+        }
+      },
+      "sm": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "3px",
+          "spread": "0px",
+          "color": "#0000001a"
+        }
+      },
+      "md": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "4px",
+          "blur": "6px",
+          "spread": "-1px",
+          "color": "#0000001a"
+        }
+      },
+      "lg": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "10px",
+          "blur": "15px",
+          "spread": "-3px",
+          "color": "#0000001a"
+        }
+      },
+      "xl": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "20px",
+          "blur": "25px",
+          "spread": "-5px",
+          "color": "#0000001a"
+        }
+      }
+    },
+    "borderRadius": {
+      "none": {
+        "$type": "dimension",
+        "$value": "0px"
+      },
+      "sm": {
+        "$type": "dimension",
+        "$value": "4px"
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "full": {
+        "$type": "dimension",
+        "$value": "9999px"
+      }
+    },
+    "border": {
+      "default": {
+        "$type": "border",
+        "$value": {
+          "color": "#AABAD1",
+          "width": "1px",
+          "style": "solid"
+        }
+      },
+      "focus": {
+        "$type": "border",
+        "$value": {
+          "color": "#F15B50",
+          "width": "2px",
+          "style": "solid"
+        }
+      },
+      "subtle": {
+        "$type": "border",
+        "$value": {
+          "color": "#C8D8EF",
+          "width": "1px",
+          "style": "solid"
+        }
+      }
+    },
+    "duration": {
+      "instant": {
+        "$type": "duration",
+        "$value": "0ms"
+      },
+      "fast": {
+        "$type": "duration",
+        "$value": "100ms"
+      },
+      "normal": {
+        "$type": "duration",
+        "$value": "200ms"
+      },
+      "slow": {
+        "$type": "duration",
+        "$value": "400ms"
+      },
+      "xslow": {
+        "$type": "duration",
+        "$value": "800ms"
+      }
+    },
+    "easing": {
+      "linear": {
+        "$type": "cubicBezier",
+        "$value": [
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "ease": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.25,
+          0.1,
+          0.25,
+          1
+        ]
+      },
+      "easeIn": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.42,
+          0,
+          1,
+          1
+        ]
+      },
+      "easeOut": {
+        "$type": "cubicBezier",
+        "$value": [
+          0,
+          0,
+          0.58,
+          1
+        ]
+      },
+      "easeInOut": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.42,
+          0,
+          0.58,
+          1
+        ]
+      }
+    },
+    "opacity": {
+      "transparent": {
+        "$type": "number",
+        "$value": 0
+      },
+      "subtle": {
+        "$type": "number",
+        "$value": 0.1
+      },
+      "muted": {
+        "$type": "number",
+        "$value": 0.38
+      },
+      "half": {
+        "$type": "number",
+        "$value": 0.5
+      },
+      "opaque": {
+        "$type": "number",
+        "$value": 1
+      }
+    },
+    "zIndex": {
+      "hide": {
+        "$type": "number",
+        "$value": -1
+      },
+      "base": {
+        "$type": "number",
+        "$value": 0
+      },
+      "dropdown": {
+        "$type": "number",
+        "$value": 1000
+      },
+      "sticky": {
+        "$type": "number",
+        "$value": 1100
+      },
+      "modal": {
+        "$type": "number",
+        "$value": 1300
+      },
+      "toast": {
+        "$type": "number",
+        "$value": 1500
+      }
+    },
+    "gradient": {
+      "brand": {
+        "$type": "gradient",
+        "$value": [
+          {
+            "color": "#F15B50",
+            "position": 0
+          },
+          {
+            "color": "#DCFFF1",
+            "position": 1
+          }
+        ]
+      },
+      "subtle": {
+        "$type": "gradient",
+        "$value": [
+          {
+            "color": "#DCECFF",
+            "position": 0
+          },
+          {
+            "color": "#BECEE5",
+            "position": 1
+          }
+        ]
+      }
+    },
+    "transition": {
+      "default": {
+        "$type": "transition",
+        "$value": {
+          "duration": "200ms",
+          "delay": "0ms",
+          "timingFunction": [
+            0.25,
+            0.1,
+            0.25,
+            1
+          ]
+        }
+      },
+      "slow": {
+        "$type": "transition",
+        "$value": {
+          "duration": "400ms",
+          "delay": "0ms",
+          "timingFunction": [
+            0.42,
+            0,
+            0.58,
+            1
+          ]
+        }
+      }
+    },
+    "original": {
+      "color": {
+        "$type": "color",
+        "red": {
+          "100": {
+            "$value": "#FFECEB",
+            "$type": "color"
+          },
+          "200": {
+            "$value": "#FFD5D2",
+            "$type": "color"
+          },
+          "250": {
+            "$value": "#FFB8B2",
+            "$type": "color"
+          },
+          "300": {
+            "$value": "#FD9891",
+            "$type": "color"
+          },
+          "400": {
+            "$value": "#F87168",
+            "$type": "color"
+          },
+          "500": {
+            "$value": "#F15B50",
+            "$type": "color"
+          },
+          "600": {
+            "$value": "#E2483D",
+            "$type": "color"
+          },
+          "700": {
+            "$value": "#C9372C",
+            "$type": "color"
+          },
+          "800": {
+            "$value": "#AE2E24",
+            "$type": "color"
+          },
+          "850": {
+            "$value": "#872821",
+            "$type": "color"
+          },
+          "900": {
+            "$value": "#5D1F1A",
+            "$type": "color"
+          },
+          "1000": {
+            "$value": "#42221F",
+            "$type": "color"
+          },
+          "$description": "Atlassian red palette"
+        },
+        "orange": {
+          "100": {
+            "$value": "#FFF5DB",
+            "$type": "color"
+          },
+          "200": {
+            "$value": "#FCE4A6",
+            "$type": "color"
+          },
+          "250": {
+            "$value": "#FBD779",
+            "$type": "color"
+          },
+          "300": {
+            "$value": "#FBC828",
+            "$type": "color"
+          },
+          "400": {
+            "$value": "#FCA700",
+            "$type": "color"
+          },
+          "500": {
+            "$value": "#F68909",
+            "$type": "color"
+          },
+          "600": {
+            "$value": "#E06C00",
+            "$type": "color"
+          },
+          "700": {
+            "$value": "#BD5B00",
+            "$type": "color"
+          },
+          "800": {
+            "$value": "#9E4C00",
+            "$type": "color"
+          },
+          "850": {
+            "$value": "#7A3B00",
+            "$type": "color"
+          },
+          "900": {
+            "$value": "#693200",
+            "$type": "color"
+          },
+          "1000": {
+            "$value": "#3A2C1F",
+            "$type": "color"
+          },
+          "$description": "Atlassian orange palette"
+        },
+        "yellow": {
+          "100": {
+            "$value": "#FEF7C8",
+            "$type": "color"
+          },
+          "200": {
+            "$value": "#F5E989",
+            "$type": "color"
+          },
+          "250": {
+            "$value": "#EFDD4E",
+            "$type": "color"
+          },
+          "300": {
+            "$value": "#EED12B",
+            "$type": "color"
+          },
+          "400": {
+            "$value": "#DDB30E",
+            "$type": "color"
+          },
+          "500": {
+            "$value": "#CF9F02",
+            "$type": "color"
+          },
+          "600": {
+            "$value": "#B38600",
+            "$type": "color"
+          },
+          "700": {
+            "$value": "#946F00",
+            "$type": "color"
+          },
+          "800": {
+            "$value": "#7F5F01",
+            "$type": "color"
+          },
+          "850": {
+            "$value": "#614A05",
+            "$type": "color"
+          },
+          "900": {
+            "$value": "#533F04",
+            "$type": "color"
+          },
+          "1000": {
+            "$value": "#332E1B",
+            "$type": "color"
+          },
+          "$description": "Atlassian yellow palette"
+        },
+        "green": {
+          "100": {
+            "$value": "#DCFFF1",
+            "$type": "color"
+          },
+          "200": {
+            "$value": "#BAF3DB",
+            "$type": "color"
+          },
+          "250": {
+            "$value": "#97EDC9",
+            "$type": "color"
+          },
+          "300": {
+            "$value": "#7EE2B8",
+            "$type": "color"
+          },
+          "400": {
+            "$value": "#4BCE97",
+            "$type": "color"
+          },
+          "500": {
+            "$value": "#2ABB7F",
+            "$type": "color"
+          },
+          "600": {
+            "$value": "#22A06B",
+            "$type": "color"
+          },
+          "700": {
+            "$value": "#1F845A",
+            "$type": "color"
+          },
+          "800": {
+            "$value": "#216E4E",
+            "$type": "color"
+          },
+          "850": {
+            "$value": "#19573D",
+            "$type": "color"
+          },
+          "900": {
+            "$value": "#164B35",
+            "$type": "color"
+          },
+          "1000": {
+            "$value": "#1C3329",
+            "$type": "color"
+          },
+          "$description": "Atlassian green palette"
+        },
+        "teal": {
+          "100": {
+            "$value": "#E7F9FF",
+            "$type": "color"
+          },
+          "200": {
+            "$value": "#C6EDFB",
+            "$type": "color"
+          },
+          "250": {
+            "$value": "#B1E4F7",
+            "$type": "color"
+          },
+          "300": {
+            "$value": "#9DD9EE",
+            "$type": "color"
+          },
+          "400": {
+            "$value": "#6CC3E0",
+            "$type": "color"
+          },
+          "500": {
+            "$value": "#42B2D7",
+            "$type": "color"
+          },
+          "600": {
+            "$value": "#2898BD",
+            "$type": "color"
+          },
+          "700": {
+            "$value": "#227D9B",
+            "$type": "color"
+          },
+          "800": {
+            "$value": "#206A83",
+            "$type": "color"
+          },
+          "850": {
+            "$value": "#1A5265",
+            "$type": "color"
+          },
+          "900": {
+            "$value": "#164555",
+            "$type": "color"
+          },
+          "1000": {
+            "$value": "#1E3137",
+            "$type": "color"
+          },
+          "$description": "Atlassian teal palette"
+        },
+        "blue": {
+          "100": {
+            "$value": "#E9F2FE",
+            "$type": "color"
+          },
+          "200": {
+            "$value": "#CFE1FD",
+            "$type": "color"
+          },
+          "250": {
+            "$value": "#ADCBFB",
+            "$type": "color"
+          },
+          "300": {
+            "$value": "#8FB8F6",
+            "$type": "color"
+          },
+          "400": {
+            "$value": "#669DF1",
+            "$type": "color"
+          },
+          "500": {
+            "$value": "#4688EC",
+            "$type": "color"
+          },
+          "600": {
+            "$value": "#357DE8",
+            "$type": "color"
+          },
+          "700": {
+            "$value": "#1868DB",
+            "$type": "color"
+          },
+          "800": {
+            "$value": "#1558BC",
+            "$type": "color"
+          },
+          "850": {
+            "$value": "#144794",
+            "$type": "color"
+          },
+          "900": {
+            "$value": "#123263",
+            "$type": "color"
+          },
+          "1000": {
+            "$value": "#1C2B42",
+            "$type": "color"
+          },
+          "$description": "Atlassian blue palette"
+        },
+        "purple": {
+          "100": {
+            "$value": "#F8EEFE",
+            "$type": "color"
+          },
+          "200": {
+            "$value": "#EED7FC",
+            "$type": "color"
+          },
+          "250": {
+            "$value": "#E3BDFA",
+            "$type": "color"
+          },
+          "300": {
+            "$value": "#D8A0F7",
+            "$type": "color"
+          },
+          "400": {
+            "$value": "#C97CF4",
+            "$type": "color"
+          },
+          "500": {
+            "$value": "#BF63F3",
+            "$type": "color"
+          },
+          "600": {
+            "$value": "#AF59E1",
+            "$type": "color"
+          },
+          "700": {
+            "$value": "#964AC0",
+            "$type": "color"
+          },
+          "800": {
+            "$value": "#803FA5",
+            "$type": "color"
+          },
+          "850": {
+            "$value": "#673286",
+            "$type": "color"
+          },
+          "900": {
+            "$value": "#48245D",
+            "$type": "color"
+          },
+          "1000": {
+            "$value": "#35243F",
+            "$type": "color"
+          },
+          "$description": "Atlassian purple palette"
+        },
+        "magenta": {
+          "100": {
+            "$value": "#FFECF8",
+            "$type": "color"
+          },
+          "200": {
+            "$value": "#FDD0EC",
+            "$type": "color"
+          },
+          "250": {
+            "$value": "#FCB6E1",
+            "$type": "color"
+          },
+          "300": {
+            "$value": "#F797D2",
+            "$type": "color"
+          },
+          "400": {
+            "$value": "#E774BB",
+            "$type": "color"
+          },
+          "500": {
+            "$value": "#DA62AC",
+            "$type": "color"
+          },
+          "600": {
+            "$value": "#CD519D",
+            "$type": "color"
+          },
+          "700": {
+            "$value": "#AE4787",
+            "$type": "color"
+          },
+          "800": {
+            "$value": "#943D73",
+            "$type": "color"
+          },
+          "850": {
+            "$value": "#77325B",
+            "$type": "color"
+          },
+          "900": {
+            "$value": "#50253F",
+            "$type": "color"
+          },
+          "1000": {
+            "$value": "#3D2232",
+            "$type": "color"
+          },
+          "$description": "Atlassian magenta palette"
+        },
+        "lime": {
+          "100": {
+            "$value": "#EFFFD6",
+            "$type": "color"
+          },
+          "200": {
+            "$value": "#D3F1A7",
+            "$type": "color"
+          },
+          "250": {
+            "$value": "#BDE97C",
+            "$type": "color"
+          },
+          "300": {
+            "$value": "#B3DF72",
+            "$type": "color"
+          },
+          "400": {
+            "$value": "#94C748",
+            "$type": "color"
+          },
+          "500": {
+            "$value": "#82B536",
+            "$type": "color"
+          },
+          "600": {
+            "$value": "#6A9A23",
+            "$type": "color"
+          },
+          "700": {
+            "$value": "#5B7F24",
+            "$type": "color"
+          },
+          "800": {
+            "$value": "#4C6B1F",
+            "$type": "color"
+          },
+          "850": {
+            "$value": "#3F5224",
+            "$type": "color"
+          },
+          "900": {
+            "$value": "#37471F",
+            "$type": "color"
+          },
+          "1000": {
+            "$value": "#28311B",
+            "$type": "color"
+          },
+          "$description": "Atlassian lime palette"
+        },
+        "neutral": {
+          "0": {
+            "$value": "#FFFFFF",
+            "$type": "color"
+          },
+          "100": {
+            "$value": "#F8F8F8",
+            "$type": "color"
+          },
+          "200": {
+            "$value": "#F0F1F2",
+            "$type": "color"
+          },
+          "300": {
+            "$value": "#DDDEE1",
+            "$type": "color"
+          },
+          "400": {
+            "$value": "#B7B9BE",
+            "$type": "color"
+          },
+          "500": {
+            "$value": "#8C8F97",
+            "$type": "color"
+          },
+          "600": {
+            "$value": "#7D818A",
+            "$type": "color"
+          },
+          "700": {
+            "$value": "#6B6E76",
+            "$type": "color"
+          },
+          "800": {
+            "$value": "#505258",
+            "$type": "color"
+          },
+          "900": {
+            "$value": "#3B3D42",
+            "$type": "color"
+          },
+          "1000": {
+            "$value": "#292A2E",
+            "$type": "color"
+          },
+          "1100": {
+            "$value": "#1E1F21",
+            "$type": "color"
+          },
+          "$description": "Atlassian neutral palette (light mode)"
+        }
+      }
+    },
+    "fontStyle": {
+      "normal": {
+        "$type": "fontStyle",
+        "$value": "normal"
+      },
+      "italic": {
+        "$type": "fontStyle",
+        "$value": "italic"
+      }
+    },
+    "strokeStyle": {
+      "solid": {
+        "$type": "strokeStyle",
+        "$value": "solid"
+      },
+      "dashed": {
+        "$type": "strokeStyle",
+        "$value": "dashed"
+      },
+      "dotted": {
+        "$type": "strokeStyle",
+        "$value": "dotted"
+      }
+    },
+    "percentage": {
+      "quarter": {
+        "$type": "percentage",
+        "$value": 0.25
+      },
+      "third": {
+        "$type": "percentage",
+        "$value": 0.333
+      },
+      "half": {
+        "$type": "percentage",
+        "$value": 0.5
+      },
+      "full": {
+        "$type": "percentage",
+        "$value": 1
+      }
+    }
+  }
+}

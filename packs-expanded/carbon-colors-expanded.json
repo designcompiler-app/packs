@@ -1,0 +1,1190 @@
+{
+  "meta": {
+    "id": "carbon-colors-expanded",
+    "name": "IBM Carbon Colors (Expanded)",
+    "description": "Complete color palette from IBM Carbon Design System v11 — 12 color families with 10 grades each (10–100). Enterprise-grade design tokens for data-rich interfaces. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "source": "IBM Carbon",
+    "version": "11.0",
+    "license": "Apache-2.0",
+    "categories": [
+      "color",
+      "typography",
+      "spacing",
+      "shadows",
+      "motion"
+    ],
+    "preview": [
+      "#0f62fe",
+      "#da1e28",
+      "#198038",
+      "#8a3ffc",
+      "#1192e8",
+      "#ee5396",
+      "#b28600",
+      "#009d9a"
+    ],
+    "basedOn": "carbon-colors"
+  },
+  "data": {
+    "color": {
+      "brand": {
+        "primary": {
+          "$type": "color",
+          "$value": "#fff1f1"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "#0043ce"
+        },
+        "tertiary": {
+          "$type": "color",
+          "$value": "#a2a9b0"
+        },
+        "accent": {
+          "$type": "color",
+          "$value": "#3c3838"
+        }
+      },
+      "semantic": {
+        "success": {
+          "$type": "color",
+          "$value": "#16A34A"
+        },
+        "warning": {
+          "$type": "color",
+          "$value": "#D97706"
+        },
+        "error": {
+          "$type": "color",
+          "$value": "#DC2626"
+        },
+        "info": {
+          "$type": "color",
+          "$value": "#2563EB"
+        }
+      },
+      "neutral": {
+        "50": {
+          "$type": "color",
+          "$value": "#DCECFF"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#C8D8EF"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#AABAD1"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#8C9CB3"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#6E7E95"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#64748B"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#506077"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#324259"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#14243B"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#00061D"
+        }
+      },
+      "surface": {
+        "background": {
+          "$type": "color",
+          "$value": "#FFFFFF"
+        },
+        "foreground": {
+          "$type": "color",
+          "$value": "#00061D"
+        },
+        "muted": {
+          "$type": "color",
+          "$value": "#DCECFF"
+        },
+        "overlay": {
+          "$type": "color",
+          "$value": "#00000080"
+        }
+      }
+    },
+    "spacing": {
+      "0": {
+        "$type": "dimension",
+        "$value": "0px"
+      },
+      "1": {
+        "$type": "dimension",
+        "$value": "4px"
+      },
+      "2": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "3": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "4": {
+        "$type": "dimension",
+        "$value": "16px"
+      },
+      "5": {
+        "$type": "dimension",
+        "$value": "20px"
+      },
+      "6": {
+        "$type": "dimension",
+        "$value": "24px"
+      },
+      "8": {
+        "$type": "dimension",
+        "$value": "32px"
+      },
+      "10": {
+        "$type": "dimension",
+        "$value": "40px"
+      },
+      "12": {
+        "$type": "dimension",
+        "$value": "48px"
+      },
+      "16": {
+        "$type": "dimension",
+        "$value": "64px"
+      }
+    },
+    "typography": {
+      "heading": {
+        "h1": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "2.25rem",
+            "fontWeight": 700,
+            "lineHeight": 1.25,
+            "letterSpacing": "-0.025em"
+          }
+        },
+        "h2": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.875rem",
+            "fontWeight": 700,
+            "lineHeight": 1.3,
+            "letterSpacing": "-0.02em"
+          }
+        },
+        "h3": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.5rem",
+            "fontWeight": 600,
+            "lineHeight": 1.333,
+            "letterSpacing": "-0.015em"
+          }
+        },
+        "h4": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.25rem",
+            "fontWeight": 600,
+            "lineHeight": 1.4,
+            "letterSpacing": "0em"
+          }
+        }
+      },
+      "body": {
+        "default": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0em"
+          }
+        },
+        "small": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "0.875rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0.01em"
+          }
+        },
+        "caption": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "0.75rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0.02em"
+          }
+        }
+      },
+      "code": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": [
+            "JetBrains Mono",
+            "Fira Code",
+            "monospace"
+          ],
+          "fontSize": "0.875rem",
+          "fontWeight": 400,
+          "lineHeight": 1.6,
+          "letterSpacing": "0em"
+        }
+      }
+    },
+    "fontFamily": {
+      "sans": {
+        "$type": "fontFamily",
+        "$value": [
+          "Inter",
+          "system-ui",
+          "sans-serif"
+        ]
+      },
+      "serif": {
+        "$type": "fontFamily",
+        "$value": [
+          "Georgia",
+          "Cambria",
+          "serif"
+        ]
+      },
+      "mono": {
+        "$type": "fontFamily",
+        "$value": [
+          "JetBrains Mono",
+          "Fira Code",
+          "monospace"
+        ]
+      }
+    },
+    "fontWeight": {
+      "light": {
+        "$type": "fontWeight",
+        "$value": 300
+      },
+      "regular": {
+        "$type": "fontWeight",
+        "$value": 400
+      },
+      "medium": {
+        "$type": "fontWeight",
+        "$value": 500
+      },
+      "semibold": {
+        "$type": "fontWeight",
+        "$value": 600
+      },
+      "bold": {
+        "$type": "fontWeight",
+        "$value": 700
+      }
+    },
+    "shadow": {
+      "xs": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "2px",
+          "spread": "0px",
+          "color": "#0000000d"
+        }
+      },
+      "sm": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "3px",
+          "spread": "0px",
+          "color": "#0000001a"
+        }
+      },
+      "md": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "4px",
+          "blur": "6px",
+          "spread": "-1px",
+          "color": "#0000001a"
+        }
+      },
+      "lg": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "10px",
+          "blur": "15px",
+          "spread": "-3px",
+          "color": "#0000001a"
+        }
+      },
+      "xl": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "20px",
+          "blur": "25px",
+          "spread": "-5px",
+          "color": "#0000001a"
+        }
+      }
+    },
+    "borderRadius": {
+      "none": {
+        "$type": "dimension",
+        "$value": "0px"
+      },
+      "sm": {
+        "$type": "dimension",
+        "$value": "4px"
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "full": {
+        "$type": "dimension",
+        "$value": "9999px"
+      }
+    },
+    "border": {
+      "default": {
+        "$type": "border",
+        "$value": {
+          "color": "#AABAD1",
+          "width": "1px",
+          "style": "solid"
+        }
+      },
+      "focus": {
+        "$type": "border",
+        "$value": {
+          "color": "#fff1f1",
+          "width": "2px",
+          "style": "solid"
+        }
+      },
+      "subtle": {
+        "$type": "border",
+        "$value": {
+          "color": "#C8D8EF",
+          "width": "1px",
+          "style": "solid"
+        }
+      }
+    },
+    "duration": {
+      "instant": {
+        "$type": "duration",
+        "$value": "0ms"
+      },
+      "fast": {
+        "$type": "duration",
+        "$value": "100ms"
+      },
+      "normal": {
+        "$type": "duration",
+        "$value": "200ms"
+      },
+      "slow": {
+        "$type": "duration",
+        "$value": "400ms"
+      },
+      "xslow": {
+        "$type": "duration",
+        "$value": "800ms"
+      }
+    },
+    "easing": {
+      "linear": {
+        "$type": "cubicBezier",
+        "$value": [
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "ease": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.25,
+          0.1,
+          0.25,
+          1
+        ]
+      },
+      "easeIn": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.42,
+          0,
+          1,
+          1
+        ]
+      },
+      "easeOut": {
+        "$type": "cubicBezier",
+        "$value": [
+          0,
+          0,
+          0.58,
+          1
+        ]
+      },
+      "easeInOut": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.42,
+          0,
+          0.58,
+          1
+        ]
+      }
+    },
+    "opacity": {
+      "transparent": {
+        "$type": "number",
+        "$value": 0
+      },
+      "subtle": {
+        "$type": "number",
+        "$value": 0.1
+      },
+      "muted": {
+        "$type": "number",
+        "$value": 0.38
+      },
+      "half": {
+        "$type": "number",
+        "$value": 0.5
+      },
+      "opaque": {
+        "$type": "number",
+        "$value": 1
+      }
+    },
+    "zIndex": {
+      "hide": {
+        "$type": "number",
+        "$value": -1
+      },
+      "base": {
+        "$type": "number",
+        "$value": 0
+      },
+      "dropdown": {
+        "$type": "number",
+        "$value": 1000
+      },
+      "sticky": {
+        "$type": "number",
+        "$value": 1100
+      },
+      "modal": {
+        "$type": "number",
+        "$value": 1300
+      },
+      "toast": {
+        "$type": "number",
+        "$value": 1500
+      }
+    },
+    "gradient": {
+      "brand": {
+        "$type": "gradient",
+        "$value": [
+          {
+            "color": "#fff1f1",
+            "position": 0
+          },
+          {
+            "color": "#0043ce",
+            "position": 1
+          }
+        ]
+      },
+      "subtle": {
+        "$type": "gradient",
+        "$value": [
+          {
+            "color": "#DCECFF",
+            "position": 0
+          },
+          {
+            "color": "#BECEE5",
+            "position": 1
+          }
+        ]
+      }
+    },
+    "transition": {
+      "default": {
+        "$type": "transition",
+        "$value": {
+          "duration": "200ms",
+          "delay": "0ms",
+          "timingFunction": [
+            0.25,
+            0.1,
+            0.25,
+            1
+          ]
+        }
+      },
+      "slow": {
+        "$type": "transition",
+        "$value": {
+          "duration": "400ms",
+          "delay": "0ms",
+          "timingFunction": [
+            0.42,
+            0,
+            0.58,
+            1
+          ]
+        }
+      }
+    },
+    "original": {
+      "color": {
+        "$type": "color",
+        "red": {
+          "10": {
+            "$value": "#fff1f1",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#ffd7d9",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#ffb3b8",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#ff8389",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#fa4d56",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#da1e28",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#a2191f",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#750e13",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#520408",
+            "$type": "color"
+          },
+          "100": {
+            "$value": "#2d0709",
+            "$type": "color"
+          },
+          "$description": "Carbon red"
+        },
+        "magenta": {
+          "10": {
+            "$value": "#fff0f7",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#ffd6e8",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#ffafd2",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#ff7eb6",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#ee5396",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#d02670",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#9f1853",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#740937",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#510224",
+            "$type": "color"
+          },
+          "100": {
+            "$value": "#2a0a18",
+            "$type": "color"
+          },
+          "$description": "Carbon magenta"
+        },
+        "purple": {
+          "10": {
+            "$value": "#f6f2ff",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#e8daff",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#d4bbff",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#be95ff",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#a56eff",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#8a3ffc",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#6929c4",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#491d8b",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#31135e",
+            "$type": "color"
+          },
+          "100": {
+            "$value": "#1c0f30",
+            "$type": "color"
+          },
+          "$description": "Carbon purple"
+        },
+        "blue": {
+          "10": {
+            "$value": "#edf5ff",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#d0e2ff",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#a6c8ff",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#78a9ff",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#4589ff",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#0f62fe",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#0043ce",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#002d9c",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#001d6c",
+            "$type": "color"
+          },
+          "100": {
+            "$value": "#001141",
+            "$type": "color"
+          },
+          "$description": "Carbon blue — primary interactive color"
+        },
+        "cyan": {
+          "10": {
+            "$value": "#e5f6ff",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#bae6ff",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#82cfff",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#33b1ff",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#1192e8",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#0072c3",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#00539a",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#003a6d",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#012749",
+            "$type": "color"
+          },
+          "100": {
+            "$value": "#061727",
+            "$type": "color"
+          },
+          "$description": "Carbon cyan"
+        },
+        "teal": {
+          "10": {
+            "$value": "#d9fbfb",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#9ef0f0",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#3ddbd9",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#08bdba",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#009d9a",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#007d79",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#005d5d",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#004144",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#022b30",
+            "$type": "color"
+          },
+          "100": {
+            "$value": "#081a1c",
+            "$type": "color"
+          },
+          "$description": "Carbon teal"
+        },
+        "green": {
+          "10": {
+            "$value": "#defbe6",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#a7f0ba",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#6fdc8c",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#42be65",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#24a148",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#198038",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#0e6027",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#044317",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#022d0d",
+            "$type": "color"
+          },
+          "100": {
+            "$value": "#071908",
+            "$type": "color"
+          },
+          "$description": "Carbon green — success color"
+        },
+        "coolGray": {
+          "10": {
+            "$value": "#f2f4f8",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#dde1e6",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#c1c7cd",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#a2a9b0",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#878d96",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#697077",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#4d5358",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#343a3f",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#21272a",
+            "$type": "color"
+          },
+          "100": {
+            "$value": "#121619",
+            "$type": "color"
+          },
+          "$description": "Carbon cool gray — blue undertone neutral"
+        },
+        "gray": {
+          "10": {
+            "$value": "#f4f4f4",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#e0e0e0",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#c6c6c6",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#a8a8a8",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#8d8d8d",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#6f6f6f",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#525252",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#393939",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#262626",
+            "$type": "color"
+          },
+          "100": {
+            "$value": "#161616",
+            "$type": "color"
+          },
+          "$description": "Carbon neutral gray"
+        },
+        "warmGray": {
+          "10": {
+            "$value": "#f7f3f2",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#e5e0df",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#cac5c4",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#ada8a8",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#8f8b8b",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#726e6e",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#565151",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#3c3838",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#272525",
+            "$type": "color"
+          },
+          "100": {
+            "$value": "#171414",
+            "$type": "color"
+          },
+          "$description": "Carbon warm gray — red undertone neutral"
+        },
+        "yellow": {
+          "10": {
+            "$value": "#fcf4d6",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#fddc69",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#f1c21b",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#d2a106",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#b28600",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#8e6a00",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#684e00",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#483700",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#302400",
+            "$type": "color"
+          },
+          "100": {
+            "$value": "#1c1500",
+            "$type": "color"
+          },
+          "$description": "Carbon yellow — warning color"
+        },
+        "orange": {
+          "10": {
+            "$value": "#fff2e8",
+            "$type": "color"
+          },
+          "20": {
+            "$value": "#ffd9be",
+            "$type": "color"
+          },
+          "30": {
+            "$value": "#ffb784",
+            "$type": "color"
+          },
+          "40": {
+            "$value": "#ff832b",
+            "$type": "color"
+          },
+          "50": {
+            "$value": "#eb6200",
+            "$type": "color"
+          },
+          "60": {
+            "$value": "#ba4e00",
+            "$type": "color"
+          },
+          "70": {
+            "$value": "#8a3800",
+            "$type": "color"
+          },
+          "80": {
+            "$value": "#5e2900",
+            "$type": "color"
+          },
+          "90": {
+            "$value": "#3e1a00",
+            "$type": "color"
+          },
+          "100": {
+            "$value": "#231000",
+            "$type": "color"
+          },
+          "$description": "Carbon orange"
+        },
+        "black": {
+          "100": {
+            "$value": "#000000",
+            "$type": "color"
+          },
+          "$description": "IBM black"
+        },
+        "white": {
+          "0": {
+            "$value": "#ffffff",
+            "$type": "color"
+          },
+          "$description": "IBM white"
+        }
+      }
+    },
+    "fontStyle": {
+      "normal": {
+        "$type": "fontStyle",
+        "$value": "normal"
+      },
+      "italic": {
+        "$type": "fontStyle",
+        "$value": "italic"
+      }
+    },
+    "strokeStyle": {
+      "solid": {
+        "$type": "strokeStyle",
+        "$value": "solid"
+      },
+      "dashed": {
+        "$type": "strokeStyle",
+        "$value": "dashed"
+      },
+      "dotted": {
+        "$type": "strokeStyle",
+        "$value": "dotted"
+      }
+    },
+    "percentage": {
+      "quarter": {
+        "$type": "percentage",
+        "$value": 0.25
+      },
+      "third": {
+        "$type": "percentage",
+        "$value": 0.333
+      },
+      "half": {
+        "$type": "percentage",
+        "$value": 0.5
+      },
+      "full": {
+        "$type": "percentage",
+        "$value": 1
+      }
+    }
+  }
+}

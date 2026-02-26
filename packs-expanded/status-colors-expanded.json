@@ -1,0 +1,852 @@
+{
+  "meta": {
+    "id": "status-colors-expanded",
+    "name": "Status Colors System (Expanded)",
+    "description": "Comprehensive status color system — success, warning, error, and info with 9 role-based variants each: base, background, foreground, border, icon, hover, pressed, subtle, and strong. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "source": "Design Compiler",
+    "version": "1.0",
+    "license": "CC0",
+    "categories": [
+      "color",
+      "typography",
+      "spacing",
+      "shadows",
+      "motion"
+    ],
+    "preview": [
+      "#059669",
+      "#D97706",
+      "#DC2626",
+      "#2563EB",
+      "#ECFDF5",
+      "#FFFBEB",
+      "#FEF2F2",
+      "#EFF6FF"
+    ],
+    "basedOn": "status-colors"
+  },
+  "data": {
+    "color": {
+      "brand": {
+        "primary": {
+          "$type": "color",
+          "$value": "#059669"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "#FFFBEB"
+        },
+        "tertiary": {
+          "$type": "color",
+          "$value": "#FECACA"
+        },
+        "accent": {
+          "$type": "color",
+          "$value": "#EFF6FF"
+        }
+      },
+      "semantic": {
+        "success": {
+          "$type": "color",
+          "$value": "#16A34A"
+        },
+        "warning": {
+          "$type": "color",
+          "$value": "#D97706"
+        },
+        "error": {
+          "$type": "color",
+          "$value": "#DC2626"
+        },
+        "info": {
+          "$type": "color",
+          "$value": "#2563EB"
+        }
+      },
+      "neutral": {
+        "50": {
+          "$type": "color",
+          "$value": "#DCECFF"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#C8D8EF"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#AABAD1"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#8C9CB3"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#6E7E95"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#64748B"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#506077"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#324259"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#14243B"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#00061D"
+        }
+      },
+      "surface": {
+        "background": {
+          "$type": "color",
+          "$value": "#FFFFFF"
+        },
+        "foreground": {
+          "$type": "color",
+          "$value": "#00061D"
+        },
+        "muted": {
+          "$type": "color",
+          "$value": "#DCECFF"
+        },
+        "overlay": {
+          "$type": "color",
+          "$value": "#00000080"
+        }
+      }
+    },
+    "spacing": {
+      "0": {
+        "$type": "dimension",
+        "$value": "0px"
+      },
+      "1": {
+        "$type": "dimension",
+        "$value": "4px"
+      },
+      "2": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "3": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "4": {
+        "$type": "dimension",
+        "$value": "16px"
+      },
+      "5": {
+        "$type": "dimension",
+        "$value": "20px"
+      },
+      "6": {
+        "$type": "dimension",
+        "$value": "24px"
+      },
+      "8": {
+        "$type": "dimension",
+        "$value": "32px"
+      },
+      "10": {
+        "$type": "dimension",
+        "$value": "40px"
+      },
+      "12": {
+        "$type": "dimension",
+        "$value": "48px"
+      },
+      "16": {
+        "$type": "dimension",
+        "$value": "64px"
+      }
+    },
+    "typography": {
+      "heading": {
+        "h1": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "2.25rem",
+            "fontWeight": 700,
+            "lineHeight": 1.25,
+            "letterSpacing": "-0.025em"
+          }
+        },
+        "h2": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.875rem",
+            "fontWeight": 700,
+            "lineHeight": 1.3,
+            "letterSpacing": "-0.02em"
+          }
+        },
+        "h3": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.5rem",
+            "fontWeight": 600,
+            "lineHeight": 1.333,
+            "letterSpacing": "-0.015em"
+          }
+        },
+        "h4": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.25rem",
+            "fontWeight": 600,
+            "lineHeight": 1.4,
+            "letterSpacing": "0em"
+          }
+        }
+      },
+      "body": {
+        "default": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0em"
+          }
+        },
+        "small": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "0.875rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0.01em"
+          }
+        },
+        "caption": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "0.75rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0.02em"
+          }
+        }
+      },
+      "code": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": [
+            "JetBrains Mono",
+            "Fira Code",
+            "monospace"
+          ],
+          "fontSize": "0.875rem",
+          "fontWeight": 400,
+          "lineHeight": 1.6,
+          "letterSpacing": "0em"
+        }
+      }
+    },
+    "fontFamily": {
+      "sans": {
+        "$type": "fontFamily",
+        "$value": [
+          "Inter",
+          "system-ui",
+          "sans-serif"
+        ]
+      },
+      "serif": {
+        "$type": "fontFamily",
+        "$value": [
+          "Georgia",
+          "Cambria",
+          "serif"
+        ]
+      },
+      "mono": {
+        "$type": "fontFamily",
+        "$value": [
+          "JetBrains Mono",
+          "Fira Code",
+          "monospace"
+        ]
+      }
+    },
+    "fontWeight": {
+      "light": {
+        "$type": "fontWeight",
+        "$value": 300
+      },
+      "regular": {
+        "$type": "fontWeight",
+        "$value": 400
+      },
+      "medium": {
+        "$type": "fontWeight",
+        "$value": 500
+      },
+      "semibold": {
+        "$type": "fontWeight",
+        "$value": 600
+      },
+      "bold": {
+        "$type": "fontWeight",
+        "$value": 700
+      }
+    },
+    "shadow": {
+      "xs": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "2px",
+          "spread": "0px",
+          "color": "#0000000d"
+        }
+      },
+      "sm": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "3px",
+          "spread": "0px",
+          "color": "#0000001a"
+        }
+      },
+      "md": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "4px",
+          "blur": "6px",
+          "spread": "-1px",
+          "color": "#0000001a"
+        }
+      },
+      "lg": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "10px",
+          "blur": "15px",
+          "spread": "-3px",
+          "color": "#0000001a"
+        }
+      },
+      "xl": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "20px",
+          "blur": "25px",
+          "spread": "-5px",
+          "color": "#0000001a"
+        }
+      }
+    },
+    "borderRadius": {
+      "none": {
+        "$type": "dimension",
+        "$value": "0px"
+      },
+      "sm": {
+        "$type": "dimension",
+        "$value": "4px"
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "full": {
+        "$type": "dimension",
+        "$value": "9999px"
+      }
+    },
+    "border": {
+      "default": {
+        "$type": "border",
+        "$value": {
+          "color": "#AABAD1",
+          "width": "1px",
+          "style": "solid"
+        }
+      },
+      "focus": {
+        "$type": "border",
+        "$value": {
+          "color": "#059669",
+          "width": "2px",
+          "style": "solid"
+        }
+      },
+      "subtle": {
+        "$type": "border",
+        "$value": {
+          "color": "#C8D8EF",
+          "width": "1px",
+          "style": "solid"
+        }
+      }
+    },
+    "duration": {
+      "instant": {
+        "$type": "duration",
+        "$value": "0ms"
+      },
+      "fast": {
+        "$type": "duration",
+        "$value": "100ms"
+      },
+      "normal": {
+        "$type": "duration",
+        "$value": "200ms"
+      },
+      "slow": {
+        "$type": "duration",
+        "$value": "400ms"
+      },
+      "xslow": {
+        "$type": "duration",
+        "$value": "800ms"
+      }
+    },
+    "easing": {
+      "linear": {
+        "$type": "cubicBezier",
+        "$value": [
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "ease": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.25,
+          0.1,
+          0.25,
+          1
+        ]
+      },
+      "easeIn": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.42,
+          0,
+          1,
+          1
+        ]
+      },
+      "easeOut": {
+        "$type": "cubicBezier",
+        "$value": [
+          0,
+          0,
+          0.58,
+          1
+        ]
+      },
+      "easeInOut": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.42,
+          0,
+          0.58,
+          1
+        ]
+      }
+    },
+    "opacity": {
+      "transparent": {
+        "$type": "number",
+        "$value": 0
+      },
+      "subtle": {
+        "$type": "number",
+        "$value": 0.1
+      },
+      "muted": {
+        "$type": "number",
+        "$value": 0.38
+      },
+      "half": {
+        "$type": "number",
+        "$value": 0.5
+      },
+      "opaque": {
+        "$type": "number",
+        "$value": 1
+      }
+    },
+    "zIndex": {
+      "hide": {
+        "$type": "number",
+        "$value": -1
+      },
+      "base": {
+        "$type": "number",
+        "$value": 0
+      },
+      "dropdown": {
+        "$type": "number",
+        "$value": 1000
+      },
+      "sticky": {
+        "$type": "number",
+        "$value": 1100
+      },
+      "modal": {
+        "$type": "number",
+        "$value": 1300
+      },
+      "toast": {
+        "$type": "number",
+        "$value": 1500
+      }
+    },
+    "gradient": {
+      "brand": {
+        "$type": "gradient",
+        "$value": [
+          {
+            "color": "#059669",
+            "position": 0
+          },
+          {
+            "color": "#FFFBEB",
+            "position": 1
+          }
+        ]
+      },
+      "subtle": {
+        "$type": "gradient",
+        "$value": [
+          {
+            "color": "#DCECFF",
+            "position": 0
+          },
+          {
+            "color": "#BECEE5",
+            "position": 1
+          }
+        ]
+      }
+    },
+    "transition": {
+      "default": {
+        "$type": "transition",
+        "$value": {
+          "duration": "200ms",
+          "delay": "0ms",
+          "timingFunction": [
+            0.25,
+            0.1,
+            0.25,
+            1
+          ]
+        }
+      },
+      "slow": {
+        "$type": "transition",
+        "$value": {
+          "duration": "400ms",
+          "delay": "0ms",
+          "timingFunction": [
+            0.42,
+            0,
+            0.58,
+            1
+          ]
+        }
+      }
+    },
+    "original": {
+      "color": {
+        "$type": "color",
+        "success": {
+          "$description": "Success status — confirmations, completions, positive outcomes",
+          "default": {
+            "$value": "#059669",
+            "$description": "Primary status color",
+            "$type": "color"
+          },
+          "bg": {
+            "$value": "#ECFDF5",
+            "$description": "Banner/alert background",
+            "$type": "color"
+          },
+          "fg": {
+            "$value": "#065F46",
+            "$description": "Text on light background",
+            "$type": "color"
+          },
+          "border": {
+            "$value": "#A7F3D0",
+            "$description": "Alert border stroke",
+            "$type": "color"
+          },
+          "icon": {
+            "$value": "#10B981",
+            "$description": "Status icon fill",
+            "$type": "color"
+          },
+          "hover": {
+            "$value": "#047857",
+            "$description": "Interactive hover state",
+            "$type": "color"
+          },
+          "pressed": {
+            "$value": "#065F46",
+            "$description": "Interactive pressed state",
+            "$type": "color"
+          },
+          "subtle": {
+            "$value": "#D1FAE5",
+            "$description": "Soft badge background",
+            "$type": "color"
+          },
+          "strong": {
+            "$value": "#064E3B",
+            "$description": "High-contrast text/icon",
+            "$type": "color"
+          }
+        },
+        "warning": {
+          "$description": "Warning status — cautions, pending actions, attention needed",
+          "default": {
+            "$value": "#D97706",
+            "$description": "Primary status color",
+            "$type": "color"
+          },
+          "bg": {
+            "$value": "#FFFBEB",
+            "$description": "Banner/alert background",
+            "$type": "color"
+          },
+          "fg": {
+            "$value": "#92400E",
+            "$description": "Text on light background",
+            "$type": "color"
+          },
+          "border": {
+            "$value": "#FDE68A",
+            "$description": "Alert border stroke",
+            "$type": "color"
+          },
+          "icon": {
+            "$value": "#F59E0B",
+            "$description": "Status icon fill",
+            "$type": "color"
+          },
+          "hover": {
+            "$value": "#B45309",
+            "$description": "Interactive hover state",
+            "$type": "color"
+          },
+          "pressed": {
+            "$value": "#92400E",
+            "$description": "Interactive pressed state",
+            "$type": "color"
+          },
+          "subtle": {
+            "$value": "#FEF3C7",
+            "$description": "Soft badge background",
+            "$type": "color"
+          },
+          "strong": {
+            "$value": "#78350F",
+            "$description": "High-contrast text/icon",
+            "$type": "color"
+          }
+        },
+        "error": {
+          "$description": "Error status — failures, destructive actions, validation errors",
+          "default": {
+            "$value": "#DC2626",
+            "$description": "Primary status color",
+            "$type": "color"
+          },
+          "bg": {
+            "$value": "#FEF2F2",
+            "$description": "Banner/alert background",
+            "$type": "color"
+          },
+          "fg": {
+            "$value": "#991B1B",
+            "$description": "Text on light background",
+            "$type": "color"
+          },
+          "border": {
+            "$value": "#FECACA",
+            "$description": "Alert border stroke",
+            "$type": "color"
+          },
+          "icon": {
+            "$value": "#EF4444",
+            "$description": "Status icon fill",
+            "$type": "color"
+          },
+          "hover": {
+            "$value": "#B91C1C",
+            "$description": "Interactive hover state",
+            "$type": "color"
+          },
+          "pressed": {
+            "$value": "#991B1B",
+            "$description": "Interactive pressed state",
+            "$type": "color"
+          },
+          "subtle": {
+            "$value": "#FEE2E2",
+            "$description": "Soft badge background",
+            "$type": "color"
+          },
+          "strong": {
+            "$value": "#7F1D1D",
+            "$description": "High-contrast text/icon",
+            "$type": "color"
+          }
+        },
+        "info": {
+          "$description": "Info status — informational messages, help, and guidance",
+          "default": {
+            "$value": "#2563EB",
+            "$description": "Primary status color",
+            "$type": "color"
+          },
+          "bg": {
+            "$value": "#EFF6FF",
+            "$description": "Banner/alert background",
+            "$type": "color"
+          },
+          "fg": {
+            "$value": "#1E40AF",
+            "$description": "Text on light background",
+            "$type": "color"
+          },
+          "border": {
+            "$value": "#BFDBFE",
+            "$description": "Alert border stroke",
+            "$type": "color"
+          },
+          "icon": {
+            "$value": "#3B82F6",
+            "$description": "Status icon fill",
+            "$type": "color"
+          },
+          "hover": {
+            "$value": "#1D4ED8",
+            "$description": "Interactive hover state",
+            "$type": "color"
+          },
+          "pressed": {
+            "$value": "#1E40AF",
+            "$description": "Interactive pressed state",
+            "$type": "color"
+          },
+          "subtle": {
+            "$value": "#DBEAFE",
+            "$description": "Soft badge background",
+            "$type": "color"
+          },
+          "strong": {
+            "$value": "#1E3A8A",
+            "$description": "High-contrast text/icon",
+            "$type": "color"
+          }
+        }
+      }
+    },
+    "fontStyle": {
+      "normal": {
+        "$type": "fontStyle",
+        "$value": "normal"
+      },
+      "italic": {
+        "$type": "fontStyle",
+        "$value": "italic"
+      }
+    },
+    "strokeStyle": {
+      "solid": {
+        "$type": "strokeStyle",
+        "$value": "solid"
+      },
+      "dashed": {
+        "$type": "strokeStyle",
+        "$value": "dashed"
+      },
+      "dotted": {
+        "$type": "strokeStyle",
+        "$value": "dotted"
+      }
+    },
+    "percentage": {
+      "quarter": {
+        "$type": "percentage",
+        "$value": 0.25
+      },
+      "third": {
+        "$type": "percentage",
+        "$value": 0.333
+      },
+      "half": {
+        "$type": "percentage",
+        "$value": 0.5
+      },
+      "full": {
+        "$type": "percentage",
+        "$value": 1
+      }
+    }
+  }
+}

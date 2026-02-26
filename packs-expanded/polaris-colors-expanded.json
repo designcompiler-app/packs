@@ -1,0 +1,1531 @@
+{
+  "meta": {
+    "id": "polaris-colors-expanded",
+    "name": "Shopify Polaris Colors (Expanded)",
+    "description": "Shopify Polaris color palette — 13 scales (gray, rose, red, orange, yellow, lime, green, cyan, teal, azure, blue, purple, magenta) with 16 steps each. 208 tokens from @shopify/polaris-tokens v9.4. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "source": "Shopify Polaris",
+    "version": "9.4",
+    "license": "MIT",
+    "categories": [
+      "color",
+      "typography",
+      "spacing",
+      "shadows",
+      "motion"
+    ],
+    "preview": [
+      "#0071E9",
+      "#E22C38",
+      "#0D9C6A",
+      "#FFB800",
+      "#9474FF",
+      "#E156E1",
+      "#0094D5",
+      "#B28400"
+    ],
+    "basedOn": "polaris-colors"
+  },
+  "data": {
+    "color": {
+      "brand": {
+        "primary": {
+          "$type": "color",
+          "$value": "#FFFFFF"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "#412D00"
+        },
+        "tertiary": {
+          "$type": "color",
+          "$value": "#086B5A"
+        },
+        "accent": {
+          "$type": "color",
+          "$value": "#D5DCFF"
+        }
+      },
+      "semantic": {
+        "success": {
+          "$type": "color",
+          "$value": "#16A34A"
+        },
+        "warning": {
+          "$type": "color",
+          "$value": "#D97706"
+        },
+        "error": {
+          "$type": "color",
+          "$value": "#DC2626"
+        },
+        "info": {
+          "$type": "color",
+          "$value": "#2563EB"
+        }
+      },
+      "neutral": {
+        "50": {
+          "$type": "color",
+          "$value": "#DCECFF"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#C8D8EF"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#AABAD1"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#8C9CB3"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#6E7E95"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#64748B"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#506077"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#324259"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#14243B"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#00061D"
+        }
+      },
+      "surface": {
+        "background": {
+          "$type": "color",
+          "$value": "#FFFFFF"
+        },
+        "foreground": {
+          "$type": "color",
+          "$value": "#00061D"
+        },
+        "muted": {
+          "$type": "color",
+          "$value": "#DCECFF"
+        },
+        "overlay": {
+          "$type": "color",
+          "$value": "#00000080"
+        }
+      }
+    },
+    "spacing": {
+      "0": {
+        "$type": "dimension",
+        "$value": "0px"
+      },
+      "1": {
+        "$type": "dimension",
+        "$value": "4px"
+      },
+      "2": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "3": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "4": {
+        "$type": "dimension",
+        "$value": "16px"
+      },
+      "5": {
+        "$type": "dimension",
+        "$value": "20px"
+      },
+      "6": {
+        "$type": "dimension",
+        "$value": "24px"
+      },
+      "8": {
+        "$type": "dimension",
+        "$value": "32px"
+      },
+      "10": {
+        "$type": "dimension",
+        "$value": "40px"
+      },
+      "12": {
+        "$type": "dimension",
+        "$value": "48px"
+      },
+      "16": {
+        "$type": "dimension",
+        "$value": "64px"
+      }
+    },
+    "typography": {
+      "heading": {
+        "h1": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "2.25rem",
+            "fontWeight": 700,
+            "lineHeight": 1.25,
+            "letterSpacing": "-0.025em"
+          }
+        },
+        "h2": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.875rem",
+            "fontWeight": 700,
+            "lineHeight": 1.3,
+            "letterSpacing": "-0.02em"
+          }
+        },
+        "h3": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.5rem",
+            "fontWeight": 600,
+            "lineHeight": 1.333,
+            "letterSpacing": "-0.015em"
+          }
+        },
+        "h4": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.25rem",
+            "fontWeight": 600,
+            "lineHeight": 1.4,
+            "letterSpacing": "0em"
+          }
+        }
+      },
+      "body": {
+        "default": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0em"
+          }
+        },
+        "small": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "0.875rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0.01em"
+          }
+        },
+        "caption": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "0.75rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0.02em"
+          }
+        }
+      },
+      "code": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": [
+            "JetBrains Mono",
+            "Fira Code",
+            "monospace"
+          ],
+          "fontSize": "0.875rem",
+          "fontWeight": 400,
+          "lineHeight": 1.6,
+          "letterSpacing": "0em"
+        }
+      }
+    },
+    "fontFamily": {
+      "sans": {
+        "$type": "fontFamily",
+        "$value": [
+          "Inter",
+          "system-ui",
+          "sans-serif"
+        ]
+      },
+      "serif": {
+        "$type": "fontFamily",
+        "$value": [
+          "Georgia",
+          "Cambria",
+          "serif"
+        ]
+      },
+      "mono": {
+        "$type": "fontFamily",
+        "$value": [
+          "JetBrains Mono",
+          "Fira Code",
+          "monospace"
+        ]
+      }
+    },
+    "fontWeight": {
+      "light": {
+        "$type": "fontWeight",
+        "$value": 300
+      },
+      "regular": {
+        "$type": "fontWeight",
+        "$value": 400
+      },
+      "medium": {
+        "$type": "fontWeight",
+        "$value": 500
+      },
+      "semibold": {
+        "$type": "fontWeight",
+        "$value": 600
+      },
+      "bold": {
+        "$type": "fontWeight",
+        "$value": 700
+      }
+    },
+    "shadow": {
+      "xs": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "2px",
+          "spread": "0px",
+          "color": "#0000000d"
+        }
+      },
+      "sm": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "3px",
+          "spread": "0px",
+          "color": "#0000001a"
+        }
+      },
+      "md": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "4px",
+          "blur": "6px",
+          "spread": "-1px",
+          "color": "#0000001a"
+        }
+      },
+      "lg": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "10px",
+          "blur": "15px",
+          "spread": "-3px",
+          "color": "#0000001a"
+        }
+      },
+      "xl": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "20px",
+          "blur": "25px",
+          "spread": "-5px",
+          "color": "#0000001a"
+        }
+      }
+    },
+    "borderRadius": {
+      "none": {
+        "$type": "dimension",
+        "$value": "0px"
+      },
+      "sm": {
+        "$type": "dimension",
+        "$value": "4px"
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "full": {
+        "$type": "dimension",
+        "$value": "9999px"
+      }
+    },
+    "border": {
+      "default": {
+        "$type": "border",
+        "$value": {
+          "color": "#AABAD1",
+          "width": "1px",
+          "style": "solid"
+        }
+      },
+      "focus": {
+        "$type": "border",
+        "$value": {
+          "color": "#FFFFFF",
+          "width": "2px",
+          "style": "solid"
+        }
+      },
+      "subtle": {
+        "$type": "border",
+        "$value": {
+          "color": "#C8D8EF",
+          "width": "1px",
+          "style": "solid"
+        }
+      }
+    },
+    "duration": {
+      "instant": {
+        "$type": "duration",
+        "$value": "0ms"
+      },
+      "fast": {
+        "$type": "duration",
+        "$value": "100ms"
+      },
+      "normal": {
+        "$type": "duration",
+        "$value": "200ms"
+      },
+      "slow": {
+        "$type": "duration",
+        "$value": "400ms"
+      },
+      "xslow": {
+        "$type": "duration",
+        "$value": "800ms"
+      }
+    },
+    "easing": {
+      "linear": {
+        "$type": "cubicBezier",
+        "$value": [
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "ease": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.25,
+          0.1,
+          0.25,
+          1
+        ]
+      },
+      "easeIn": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.42,
+          0,
+          1,
+          1
+        ]
+      },
+      "easeOut": {
+        "$type": "cubicBezier",
+        "$value": [
+          0,
+          0,
+          0.58,
+          1
+        ]
+      },
+      "easeInOut": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.42,
+          0,
+          0.58,
+          1
+        ]
+      }
+    },
+    "opacity": {
+      "transparent": {
+        "$type": "number",
+        "$value": 0
+      },
+      "subtle": {
+        "$type": "number",
+        "$value": 0.1
+      },
+      "muted": {
+        "$type": "number",
+        "$value": 0.38
+      },
+      "half": {
+        "$type": "number",
+        "$value": 0.5
+      },
+      "opaque": {
+        "$type": "number",
+        "$value": 1
+      }
+    },
+    "zIndex": {
+      "hide": {
+        "$type": "number",
+        "$value": -1
+      },
+      "base": {
+        "$type": "number",
+        "$value": 0
+      },
+      "dropdown": {
+        "$type": "number",
+        "$value": 1000
+      },
+      "sticky": {
+        "$type": "number",
+        "$value": 1100
+      },
+      "modal": {
+        "$type": "number",
+        "$value": 1300
+      },
+      "toast": {
+        "$type": "number",
+        "$value": 1500
+      }
+    },
+    "gradient": {
+      "brand": {
+        "$type": "gradient",
+        "$value": [
+          {
+            "color": "#FFFFFF",
+            "position": 0
+          },
+          {
+            "color": "#412D00",
+            "position": 1
+          }
+        ]
+      },
+      "subtle": {
+        "$type": "gradient",
+        "$value": [
+          {
+            "color": "#DCECFF",
+            "position": 0
+          },
+          {
+            "color": "#BECEE5",
+            "position": 1
+          }
+        ]
+      }
+    },
+    "transition": {
+      "default": {
+        "$type": "transition",
+        "$value": {
+          "duration": "200ms",
+          "delay": "0ms",
+          "timingFunction": [
+            0.25,
+            0.1,
+            0.25,
+            1
+          ]
+        }
+      },
+      "slow": {
+        "$type": "transition",
+        "$value": {
+          "duration": "400ms",
+          "delay": "0ms",
+          "timingFunction": [
+            0.42,
+            0,
+            0.58,
+            1
+          ]
+        }
+      }
+    },
+    "original": {
+      "color": {
+        "$type": "color",
+        "gray": {
+          "1": {
+            "$value": "#FFFFFF",
+            "$type": "color"
+          },
+          "2": {
+            "$value": "#FDFDFD",
+            "$type": "color"
+          },
+          "3": {
+            "$value": "#FAFAFA",
+            "$type": "color"
+          },
+          "4": {
+            "$value": "#F7F7F7",
+            "$type": "color"
+          },
+          "5": {
+            "$value": "#F3F3F3",
+            "$type": "color"
+          },
+          "6": {
+            "$value": "#F1F1F1",
+            "$type": "color"
+          },
+          "7": {
+            "$value": "#EBEBEB",
+            "$type": "color"
+          },
+          "8": {
+            "$value": "#E3E3E3",
+            "$type": "color"
+          },
+          "9": {
+            "$value": "#D4D4D4",
+            "$type": "color"
+          },
+          "10": {
+            "$value": "#CCCCCC",
+            "$type": "color"
+          },
+          "11": {
+            "$value": "#B5B5B5",
+            "$type": "color"
+          },
+          "12": {
+            "$value": "#8A8A8A",
+            "$type": "color"
+          },
+          "13": {
+            "$value": "#616161",
+            "$type": "color"
+          },
+          "14": {
+            "$value": "#4A4A4A",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#303030",
+            "$type": "color"
+          },
+          "16": {
+            "$value": "#1A1A1A",
+            "$type": "color"
+          },
+          "$description": "Polaris gray scale"
+        },
+        "rose": {
+          "1": {
+            "$value": "#FFFDFD",
+            "$type": "color"
+          },
+          "2": {
+            "$value": "#FFF6F8",
+            "$type": "color"
+          },
+          "3": {
+            "$value": "#FFEFF3",
+            "$type": "color"
+          },
+          "4": {
+            "$value": "#FFE8EE",
+            "$type": "color"
+          },
+          "5": {
+            "$value": "#FFE1E8",
+            "$type": "color"
+          },
+          "6": {
+            "$value": "#FFD9E3",
+            "$type": "color"
+          },
+          "7": {
+            "$value": "#FED1DD",
+            "$type": "color"
+          },
+          "8": {
+            "$value": "#FEC1D2",
+            "$type": "color"
+          },
+          "9": {
+            "$value": "#FEB5CA",
+            "$type": "color"
+          },
+          "10": {
+            "$value": "#FE8EB1",
+            "$type": "color"
+          },
+          "11": {
+            "$value": "#FD4B92",
+            "$type": "color"
+          },
+          "12": {
+            "$value": "#E30C76",
+            "$type": "color"
+          },
+          "13": {
+            "$value": "#B9075F",
+            "$type": "color"
+          },
+          "14": {
+            "$value": "#8D0448",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#640231",
+            "$type": "color"
+          },
+          "16": {
+            "$value": "#3E011C",
+            "$type": "color"
+          },
+          "$description": "Polaris rose scale"
+        },
+        "red": {
+          "1": {
+            "$value": "#FFFAFB",
+            "$type": "color"
+          },
+          "2": {
+            "$value": "#FFF6F8",
+            "$type": "color"
+          },
+          "3": {
+            "$value": "#FFECEF",
+            "$type": "color"
+          },
+          "4": {
+            "$value": "#FEE8EB",
+            "$type": "color"
+          },
+          "5": {
+            "$value": "#FEE1E6",
+            "$type": "color"
+          },
+          "6": {
+            "$value": "#FED9DF",
+            "$type": "color"
+          },
+          "7": {
+            "$value": "#FED1D7",
+            "$type": "color"
+          },
+          "8": {
+            "$value": "#FEC1C7",
+            "$type": "color"
+          },
+          "9": {
+            "$value": "#FDACB1",
+            "$type": "color"
+          },
+          "10": {
+            "$value": "#F78086",
+            "$type": "color"
+          },
+          "11": {
+            "$value": "#E22C38",
+            "$type": "color"
+          },
+          "12": {
+            "$value": "#C70A24",
+            "$type": "color"
+          },
+          "13": {
+            "$value": "#A30A24",
+            "$type": "color"
+          },
+          "14": {
+            "$value": "#8E0B21",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#5F0716",
+            "$type": "color"
+          },
+          "16": {
+            "$value": "#2F040B",
+            "$type": "color"
+          },
+          "$description": "Polaris red scale"
+        },
+        "orange": {
+          "1": {
+            "$value": "#FFFDFA",
+            "$type": "color"
+          },
+          "2": {
+            "$value": "#FFF7EE",
+            "$type": "color"
+          },
+          "3": {
+            "$value": "#FFF1E3",
+            "$type": "color"
+          },
+          "4": {
+            "$value": "#FFEBD5",
+            "$type": "color"
+          },
+          "5": {
+            "$value": "#FFE4C6",
+            "$type": "color"
+          },
+          "6": {
+            "$value": "#FFDDB6",
+            "$type": "color"
+          },
+          "7": {
+            "$value": "#FFD6A4",
+            "$type": "color"
+          },
+          "8": {
+            "$value": "#FFC879",
+            "$type": "color"
+          },
+          "9": {
+            "$value": "#FFB800",
+            "$type": "color"
+          },
+          "10": {
+            "$value": "#E5A500",
+            "$type": "color"
+          },
+          "11": {
+            "$value": "#B28400",
+            "$type": "color"
+          },
+          "12": {
+            "$value": "#956F00",
+            "$type": "color"
+          },
+          "13": {
+            "$value": "#7C5800",
+            "$type": "color"
+          },
+          "14": {
+            "$value": "#5E4200",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#412D00",
+            "$type": "color"
+          },
+          "16": {
+            "$value": "#251A00",
+            "$type": "color"
+          },
+          "$description": "Polaris orange scale"
+        },
+        "yellow": {
+          "1": {
+            "$value": "#FFFDF6",
+            "$type": "color"
+          },
+          "2": {
+            "$value": "#FFF8DB",
+            "$type": "color"
+          },
+          "3": {
+            "$value": "#FFF4BF",
+            "$type": "color"
+          },
+          "4": {
+            "$value": "#FFEF9D",
+            "$type": "color"
+          },
+          "5": {
+            "$value": "#FFEB78",
+            "$type": "color"
+          },
+          "6": {
+            "$value": "#FFE600",
+            "$type": "color"
+          },
+          "7": {
+            "$value": "#F7DF00",
+            "$type": "color"
+          },
+          "8": {
+            "$value": "#EAD300",
+            "$type": "color"
+          },
+          "9": {
+            "$value": "#E1CB00",
+            "$type": "color"
+          },
+          "10": {
+            "$value": "#C5B200",
+            "$type": "color"
+          },
+          "11": {
+            "$value": "#998A00",
+            "$type": "color"
+          },
+          "12": {
+            "$value": "#827500",
+            "$type": "color"
+          },
+          "13": {
+            "$value": "#695F00",
+            "$type": "color"
+          },
+          "14": {
+            "$value": "#4F4700",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#332E00",
+            "$type": "color"
+          },
+          "16": {
+            "$value": "#1F1C00",
+            "$type": "color"
+          },
+          "$description": "Polaris yellow scale"
+        },
+        "lime": {
+          "1": {
+            "$value": "#FAFFFA",
+            "$type": "color"
+          },
+          "2": {
+            "$value": "#E4FFE5",
+            "$type": "color"
+          },
+          "3": {
+            "$value": "#D0FFD1",
+            "$type": "color"
+          },
+          "4": {
+            "$value": "#BBFEBE",
+            "$type": "color"
+          },
+          "5": {
+            "$value": "#9DFEA0",
+            "$type": "color"
+          },
+          "6": {
+            "$value": "#77FE7A",
+            "$type": "color"
+          },
+          "7": {
+            "$value": "#38FE3E",
+            "$type": "color"
+          },
+          "8": {
+            "$value": "#28F22F",
+            "$type": "color"
+          },
+          "9": {
+            "$value": "#25E82B",
+            "$type": "color"
+          },
+          "10": {
+            "$value": "#20CF27",
+            "$type": "color"
+          },
+          "11": {
+            "$value": "#18A81D",
+            "$type": "color"
+          },
+          "12": {
+            "$value": "#118715",
+            "$type": "color"
+          },
+          "13": {
+            "$value": "#0C710F",
+            "$type": "color"
+          },
+          "14": {
+            "$value": "#0B550D",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#033D05",
+            "$type": "color"
+          },
+          "16": {
+            "$value": "#032104",
+            "$type": "color"
+          },
+          "$description": "Polaris lime scale"
+        },
+        "green": {
+          "1": {
+            "$value": "#FAFFFB",
+            "$type": "color"
+          },
+          "2": {
+            "$value": "#E6FEEA",
+            "$type": "color"
+          },
+          "3": {
+            "$value": "#CDFED4",
+            "$type": "color"
+          },
+          "4": {
+            "$value": "#AFFEBF",
+            "$type": "color"
+          },
+          "5": {
+            "$value": "#92FCAC",
+            "$type": "color"
+          },
+          "6": {
+            "$value": "#6EF799",
+            "$type": "color"
+          },
+          "7": {
+            "$value": "#52F490",
+            "$type": "color"
+          },
+          "8": {
+            "$value": "#2CED83",
+            "$type": "color"
+          },
+          "9": {
+            "$value": "#11DF7B",
+            "$type": "color"
+          },
+          "10": {
+            "$value": "#18BF79",
+            "$type": "color"
+          },
+          "11": {
+            "$value": "#0D9C6A",
+            "$type": "color"
+          },
+          "12": {
+            "$value": "#047B5D",
+            "$type": "color"
+          },
+          "13": {
+            "$value": "#035E4C",
+            "$type": "color"
+          },
+          "14": {
+            "$value": "#014B40",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#073630",
+            "$type": "color"
+          },
+          "16": {
+            "$value": "#022622",
+            "$type": "color"
+          },
+          "$description": "Polaris green scale"
+        },
+        "cyan": {
+          "1": {
+            "$value": "#FAFFFE",
+            "$type": "color"
+          },
+          "2": {
+            "$value": "#E7FCF8",
+            "$type": "color"
+          },
+          "3": {
+            "$value": "#D7FBF3",
+            "$type": "color"
+          },
+          "4": {
+            "$value": "#C0F9EF",
+            "$type": "color"
+          },
+          "5": {
+            "$value": "#A5F7E9",
+            "$type": "color"
+          },
+          "6": {
+            "$value": "#90F4E3",
+            "$type": "color"
+          },
+          "7": {
+            "$value": "#92EDDE",
+            "$type": "color"
+          },
+          "8": {
+            "$value": "#82E3D1",
+            "$type": "color"
+          },
+          "9": {
+            "$value": "#74DBC8",
+            "$type": "color"
+          },
+          "10": {
+            "$value": "#17C7A7",
+            "$type": "color"
+          },
+          "11": {
+            "$value": "#13A389",
+            "$type": "color"
+          },
+          "12": {
+            "$value": "#0E8470",
+            "$type": "color"
+          },
+          "13": {
+            "$value": "#086B5A",
+            "$type": "color"
+          },
+          "14": {
+            "$value": "#095346",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#06382F",
+            "$type": "color"
+          },
+          "16": {
+            "$value": "#05241E",
+            "$type": "color"
+          },
+          "$description": "Polaris cyan scale (v9.4)"
+        },
+        "teal": {
+          "1": {
+            "$value": "#F8FFFE",
+            "$type": "color"
+          },
+          "2": {
+            "$value": "#E8FCFA",
+            "$type": "color"
+          },
+          "3": {
+            "$value": "#D7FAF7",
+            "$type": "color"
+          },
+          "4": {
+            "$value": "#C3F7F2",
+            "$type": "color"
+          },
+          "5": {
+            "$value": "#AAF6EF",
+            "$type": "color"
+          },
+          "6": {
+            "$value": "#89F5EC",
+            "$type": "color"
+          },
+          "7": {
+            "$value": "#70F0E5",
+            "$type": "color"
+          },
+          "8": {
+            "$value": "#5AE6DB",
+            "$type": "color"
+          },
+          "9": {
+            "$value": "#2CE0D4",
+            "$type": "color"
+          },
+          "10": {
+            "$value": "#1EC7BC",
+            "$type": "color"
+          },
+          "11": {
+            "$value": "#00A198",
+            "$type": "color"
+          },
+          "12": {
+            "$value": "#12837C",
+            "$type": "color"
+          },
+          "13": {
+            "$value": "#0C6A64",
+            "$type": "color"
+          },
+          "14": {
+            "$value": "#0C534F",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#033C39",
+            "$type": "color"
+          },
+          "16": {
+            "$value": "#062C29",
+            "$type": "color"
+          },
+          "$description": "Polaris teal scale"
+        },
+        "azure": {
+          "1": {
+            "$value": "#FBFDFF",
+            "$type": "color"
+          },
+          "2": {
+            "$value": "#F2F9FF",
+            "$type": "color"
+          },
+          "3": {
+            "$value": "#EAF4FF",
+            "$type": "color"
+          },
+          "4": {
+            "$value": "#E0F0FF",
+            "$type": "color"
+          },
+          "5": {
+            "$value": "#D5EBFF",
+            "$type": "color"
+          },
+          "6": {
+            "$value": "#CAE6FF",
+            "$type": "color"
+          },
+          "7": {
+            "$value": "#C0E1FF",
+            "$type": "color"
+          },
+          "8": {
+            "$value": "#A8D8FF",
+            "$type": "color"
+          },
+          "9": {
+            "$value": "#91D0FF",
+            "$type": "color"
+          },
+          "10": {
+            "$value": "#51C0FF",
+            "$type": "color"
+          },
+          "11": {
+            "$value": "#0094D5",
+            "$type": "color"
+          },
+          "12": {
+            "$value": "#007CB4",
+            "$type": "color"
+          },
+          "13": {
+            "$value": "#00679B",
+            "$type": "color"
+          },
+          "14": {
+            "$value": "#00527C",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#003A5A",
+            "$type": "color"
+          },
+          "16": {
+            "$value": "#002133",
+            "$type": "color"
+          },
+          "$description": "Polaris azure scale (cyan-like)"
+        },
+        "blue": {
+          "1": {
+            "$value": "#FCFDFF",
+            "$type": "color"
+          },
+          "2": {
+            "$value": "#F6F8FF",
+            "$type": "color"
+          },
+          "3": {
+            "$value": "#F0F2FF",
+            "$type": "color"
+          },
+          "4": {
+            "$value": "#EAEDFF",
+            "$type": "color"
+          },
+          "5": {
+            "$value": "#E2E7FF",
+            "$type": "color"
+          },
+          "6": {
+            "$value": "#DBE1FF",
+            "$type": "color"
+          },
+          "7": {
+            "$value": "#D5DCFF",
+            "$type": "color"
+          },
+          "8": {
+            "$value": "#C5D0FF",
+            "$type": "color"
+          },
+          "9": {
+            "$value": "#BAC7FF",
+            "$type": "color"
+          },
+          "10": {
+            "$value": "#97ADFF",
+            "$type": "color"
+          },
+          "11": {
+            "$value": "#4188FF",
+            "$type": "color"
+          },
+          "12": {
+            "$value": "#0071E9",
+            "$type": "color"
+          },
+          "13": {
+            "$value": "#005BD3",
+            "$type": "color"
+          },
+          "14": {
+            "$value": "#004299",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#002E6A",
+            "$type": "color"
+          },
+          "16": {
+            "$value": "#001633",
+            "$type": "color"
+          },
+          "$description": "Polaris blue scale"
+        },
+        "purple": {
+          "1": {
+            "$value": "#FDFDFF",
+            "$type": "color"
+          },
+          "2": {
+            "$value": "#F8F7FF",
+            "$type": "color"
+          },
+          "3": {
+            "$value": "#F3F1FF",
+            "$type": "color"
+          },
+          "4": {
+            "$value": "#EFECFF",
+            "$type": "color"
+          },
+          "5": {
+            "$value": "#E9E5FF",
+            "$type": "color"
+          },
+          "6": {
+            "$value": "#E4DEFF",
+            "$type": "color"
+          },
+          "7": {
+            "$value": "#DFD9FF",
+            "$type": "color"
+          },
+          "8": {
+            "$value": "#D4CCFF",
+            "$type": "color"
+          },
+          "9": {
+            "$value": "#C7BCFF",
+            "$type": "color"
+          },
+          "10": {
+            "$value": "#AA95FF",
+            "$type": "color"
+          },
+          "11": {
+            "$value": "#9474FF",
+            "$type": "color"
+          },
+          "12": {
+            "$value": "#8051FF",
+            "$type": "color"
+          },
+          "13": {
+            "$value": "#7126FF",
+            "$type": "color"
+          },
+          "14": {
+            "$value": "#5700D1",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#3B0093",
+            "$type": "color"
+          },
+          "16": {
+            "$value": "#1C004F",
+            "$type": "color"
+          },
+          "$description": "Polaris purple scale"
+        },
+        "magenta": {
+          "1": {
+            "$value": "#FFFDFF",
+            "$type": "color"
+          },
+          "2": {
+            "$value": "#FFF5FF",
+            "$type": "color"
+          },
+          "3": {
+            "$value": "#FDEFFD",
+            "$type": "color"
+          },
+          "4": {
+            "$value": "#FEE7FE",
+            "$type": "color"
+          },
+          "5": {
+            "$value": "#FCDFFC",
+            "$type": "color"
+          },
+          "6": {
+            "$value": "#FBD7FB",
+            "$type": "color"
+          },
+          "7": {
+            "$value": "#FBCFFB",
+            "$type": "color"
+          },
+          "8": {
+            "$value": "#F9BEF9",
+            "$type": "color"
+          },
+          "9": {
+            "$value": "#F8B1F8",
+            "$type": "color"
+          },
+          "10": {
+            "$value": "#F68DF6",
+            "$type": "color"
+          },
+          "11": {
+            "$value": "#E156E1",
+            "$type": "color"
+          },
+          "12": {
+            "$value": "#C530C5",
+            "$type": "color"
+          },
+          "13": {
+            "$value": "#9F269F",
+            "$type": "color"
+          },
+          "14": {
+            "$value": "#791A79",
+            "$type": "color"
+          },
+          "15": {
+            "$value": "#561056",
+            "$type": "color"
+          },
+          "16": {
+            "$value": "#340634",
+            "$type": "color"
+          },
+          "$description": "Polaris magenta scale"
+        }
+      }
+    },
+    "fontStyle": {
+      "normal": {
+        "$type": "fontStyle",
+        "$value": "normal"
+      },
+      "italic": {
+        "$type": "fontStyle",
+        "$value": "italic"
+      }
+    },
+    "strokeStyle": {
+      "solid": {
+        "$type": "strokeStyle",
+        "$value": "solid"
+      },
+      "dashed": {
+        "$type": "strokeStyle",
+        "$value": "dashed"
+      },
+      "dotted": {
+        "$type": "strokeStyle",
+        "$value": "dotted"
+      }
+    },
+    "percentage": {
+      "quarter": {
+        "$type": "percentage",
+        "$value": 0.25
+      },
+      "third": {
+        "$type": "percentage",
+        "$value": 0.333
+      },
+      "half": {
+        "$type": "percentage",
+        "$value": 0.5
+      },
+      "full": {
+        "$type": "percentage",
+        "$value": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,810 @@
+{
+  "meta": {
+    "id": "apple-hig-colors-expanded",
+    "name": "Apple HIG Colors (Expanded)",
+    "description": "iOS and macOS system colors from Apple Human Interface Guidelines — 12 vibrant system colors and 6 gray levels, each with light and dark variants. sRGB baseline values; iOS 26 Liquid Glass adjustments are dynamic and not yet published. 36 tokens total. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "source": "Apple HIG",
+    "version": "2025",
+    "license": "Reference",
+    "categories": [
+      "color",
+      "typography",
+      "spacing",
+      "shadows",
+      "motion"
+    ],
+    "preview": [
+      "#007AFF",
+      "#FF3B30",
+      "#34C759",
+      "#FF9500",
+      "#AF52DE",
+      "#5856D6",
+      "#FF2D55",
+      "#FFCC00"
+    ],
+    "basedOn": "apple-hig-colors"
+  },
+  "data": {
+    "color": {
+      "brand": {
+        "primary": {
+          "$type": "color",
+          "$value": "#FF3B30"
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "#FF2D55"
+        },
+        "tertiary": {
+          "$type": "color",
+          "$value": "#30B0C7"
+        },
+        "accent": {
+          "$type": "color",
+          "$value": "#FFCC00"
+        }
+      },
+      "semantic": {
+        "success": {
+          "$type": "color",
+          "$value": "#16A34A"
+        },
+        "warning": {
+          "$type": "color",
+          "$value": "#D97706"
+        },
+        "error": {
+          "$type": "color",
+          "$value": "#DC2626"
+        },
+        "info": {
+          "$type": "color",
+          "$value": "#2563EB"
+        }
+      },
+      "neutral": {
+        "50": {
+          "$type": "color",
+          "$value": "#FFFFFF"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#F2F2F7"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#D4D4D9"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#B6B6BB"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#98989D"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#8E8E93"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#7A7A7F"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#5C5C61"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#3E3E43"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#202025"
+        }
+      },
+      "surface": {
+        "background": {
+          "$type": "color",
+          "$value": "#FFFFFF"
+        },
+        "foreground": {
+          "$type": "color",
+          "$value": "#202025"
+        },
+        "muted": {
+          "$type": "color",
+          "$value": "#FFFFFF"
+        },
+        "overlay": {
+          "$type": "color",
+          "$value": "#00000080"
+        }
+      }
+    },
+    "spacing": {
+      "0": {
+        "$type": "dimension",
+        "$value": "0px"
+      },
+      "1": {
+        "$type": "dimension",
+        "$value": "4px"
+      },
+      "2": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "3": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "4": {
+        "$type": "dimension",
+        "$value": "16px"
+      },
+      "5": {
+        "$type": "dimension",
+        "$value": "20px"
+      },
+      "6": {
+        "$type": "dimension",
+        "$value": "24px"
+      },
+      "8": {
+        "$type": "dimension",
+        "$value": "32px"
+      },
+      "10": {
+        "$type": "dimension",
+        "$value": "40px"
+      },
+      "12": {
+        "$type": "dimension",
+        "$value": "48px"
+      },
+      "16": {
+        "$type": "dimension",
+        "$value": "64px"
+      }
+    },
+    "typography": {
+      "heading": {
+        "h1": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "2.25rem",
+            "fontWeight": 700,
+            "lineHeight": 1.25,
+            "letterSpacing": "-0.025em"
+          }
+        },
+        "h2": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.875rem",
+            "fontWeight": 700,
+            "lineHeight": 1.3,
+            "letterSpacing": "-0.02em"
+          }
+        },
+        "h3": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.5rem",
+            "fontWeight": 600,
+            "lineHeight": 1.333,
+            "letterSpacing": "-0.015em"
+          }
+        },
+        "h4": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1.25rem",
+            "fontWeight": 600,
+            "lineHeight": 1.4,
+            "letterSpacing": "0em"
+          }
+        }
+      },
+      "body": {
+        "default": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "1rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0em"
+          }
+        },
+        "small": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "0.875rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0.01em"
+          }
+        },
+        "caption": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": [
+              "Inter",
+              "system-ui",
+              "sans-serif"
+            ],
+            "fontSize": "0.75rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0.02em"
+          }
+        }
+      },
+      "code": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": [
+            "JetBrains Mono",
+            "Fira Code",
+            "monospace"
+          ],
+          "fontSize": "0.875rem",
+          "fontWeight": 400,
+          "lineHeight": 1.6,
+          "letterSpacing": "0em"
+        }
+      }
+    },
+    "fontFamily": {
+      "sans": {
+        "$type": "fontFamily",
+        "$value": [
+          "Inter",
+          "system-ui",
+          "sans-serif"
+        ]
+      },
+      "serif": {
+        "$type": "fontFamily",
+        "$value": [
+          "Georgia",
+          "Cambria",
+          "serif"
+        ]
+      },
+      "mono": {
+        "$type": "fontFamily",
+        "$value": [
+          "JetBrains Mono",
+          "Fira Code",
+          "monospace"
+        ]
+      }
+    },
+    "fontWeight": {
+      "light": {
+        "$type": "fontWeight",
+        "$value": 300
+      },
+      "regular": {
+        "$type": "fontWeight",
+        "$value": 400
+      },
+      "medium": {
+        "$type": "fontWeight",
+        "$value": 500
+      },
+      "semibold": {
+        "$type": "fontWeight",
+        "$value": 600
+      },
+      "bold": {
+        "$type": "fontWeight",
+        "$value": 700
+      }
+    },
+    "shadow": {
+      "xs": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "2px",
+          "spread": "0px",
+          "color": "#0000000d"
+        }
+      },
+      "sm": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "3px",
+          "spread": "0px",
+          "color": "#0000001a"
+        }
+      },
+      "md": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "4px",
+          "blur": "6px",
+          "spread": "-1px",
+          "color": "#0000001a"
+        }
+      },
+      "lg": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "10px",
+          "blur": "15px",
+          "spread": "-3px",
+          "color": "#0000001a"
+        }
+      },
+      "xl": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "20px",
+          "blur": "25px",
+          "spread": "-5px",
+          "color": "#0000001a"
+        }
+      }
+    },
+    "borderRadius": {
+      "none": {
+        "$type": "dimension",
+        "$value": "0px"
+      },
+      "sm": {
+        "$type": "dimension",
+        "$value": "4px"
+      },
+      "md": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "lg": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "full": {
+        "$type": "dimension",
+        "$value": "9999px"
+      }
+    },
+    "border": {
+      "default": {
+        "$type": "border",
+        "$value": {
+          "color": "#D4D4D9",
+          "width": "1px",
+          "style": "solid"
+        }
+      },
+      "focus": {
+        "$type": "border",
+        "$value": {
+          "color": "#FF3B30",
+          "width": "2px",
+          "style": "solid"
+        }
+      },
+      "subtle": {
+        "$type": "border",
+        "$value": {
+          "color": "#F2F2F7",
+          "width": "1px",
+          "style": "solid"
+        }
+      }
+    },
+    "duration": {
+      "instant": {
+        "$type": "duration",
+        "$value": "0ms"
+      },
+      "fast": {
+        "$type": "duration",
+        "$value": "100ms"
+      },
+      "normal": {
+        "$type": "duration",
+        "$value": "200ms"
+      },
+      "slow": {
+        "$type": "duration",
+        "$value": "400ms"
+      },
+      "xslow": {
+        "$type": "duration",
+        "$value": "800ms"
+      }
+    },
+    "easing": {
+      "linear": {
+        "$type": "cubicBezier",
+        "$value": [
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "ease": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.25,
+          0.1,
+          0.25,
+          1
+        ]
+      },
+      "easeIn": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.42,
+          0,
+          1,
+          1
+        ]
+      },
+      "easeOut": {
+        "$type": "cubicBezier",
+        "$value": [
+          0,
+          0,
+          0.58,
+          1
+        ]
+      },
+      "easeInOut": {
+        "$type": "cubicBezier",
+        "$value": [
+          0.42,
+          0,
+          0.58,
+          1
+        ]
+      }
+    },
+    "opacity": {
+      "transparent": {
+        "$type": "number",
+        "$value": 0
+      },
+      "subtle": {
+        "$type": "number",
+        "$value": 0.1
+      },
+      "muted": {
+        "$type": "number",
+        "$value": 0.38
+      },
+      "half": {
+        "$type": "number",
+        "$value": 0.5
+      },
+      "opaque": {
+        "$type": "number",
+        "$value": 1
+      }
+    },
+    "zIndex": {
+      "hide": {
+        "$type": "number",
+        "$value": -1
+      },
+      "base": {
+        "$type": "number",
+        "$value": 0
+      },
+      "dropdown": {
+        "$type": "number",
+        "$value": 1000
+      },
+      "sticky": {
+        "$type": "number",
+        "$value": 1100
+      },
+      "modal": {
+        "$type": "number",
+        "$value": 1300
+      },
+      "toast": {
+        "$type": "number",
+        "$value": 1500
+      }
+    },
+    "gradient": {
+      "brand": {
+        "$type": "gradient",
+        "$value": [
+          {
+            "color": "#FF3B30",
+            "position": 0
+          },
+          {
+            "color": "#FF2D55",
+            "position": 1
+          }
+        ]
+      },
+      "subtle": {
+        "$type": "gradient",
+        "$value": [
+          {
+            "color": "#FFFFFF",
+            "position": 0
+          },
+          {
+            "color": "#E8E8ED",
+            "position": 1
+          }
+        ]
+      }
+    },
+    "transition": {
+      "default": {
+        "$type": "transition",
+        "$value": {
+          "duration": "200ms",
+          "delay": "0ms",
+          "timingFunction": [
+            0.25,
+            0.1,
+            0.25,
+            1
+          ]
+        }
+      },
+      "slow": {
+        "$type": "transition",
+        "$value": {
+          "duration": "400ms",
+          "delay": "0ms",
+          "timingFunction": [
+            0.42,
+            0,
+            0.58,
+            1
+          ]
+        }
+      }
+    },
+    "original": {
+      "color": {
+        "$type": "color",
+        "light": {
+          "$description": "Apple system colors — light mode (iOS/macOS)",
+          "systemRed": {
+            "$value": "#FF3B30",
+            "$type": "color"
+          },
+          "systemOrange": {
+            "$value": "#FF9500",
+            "$type": "color"
+          },
+          "systemYellow": {
+            "$value": "#FFCC00",
+            "$type": "color"
+          },
+          "systemGreen": {
+            "$value": "#34C759",
+            "$type": "color"
+          },
+          "systemMint": {
+            "$value": "#00C7BE",
+            "$type": "color"
+          },
+          "systemTeal": {
+            "$value": "#30B0C7",
+            "$type": "color"
+          },
+          "systemCyan": {
+            "$value": "#32ADE6",
+            "$type": "color"
+          },
+          "systemBlue": {
+            "$value": "#007AFF",
+            "$type": "color"
+          },
+          "systemIndigo": {
+            "$value": "#5856D6",
+            "$type": "color"
+          },
+          "systemPurple": {
+            "$value": "#AF52DE",
+            "$type": "color"
+          },
+          "systemPink": {
+            "$value": "#FF2D55",
+            "$type": "color"
+          },
+          "systemBrown": {
+            "$value": "#A2845E",
+            "$type": "color"
+          },
+          "systemGray": {
+            "$value": "#8E8E93",
+            "$type": "color"
+          },
+          "systemGray2": {
+            "$value": "#AEAEB2",
+            "$type": "color"
+          },
+          "systemGray3": {
+            "$value": "#C7C7CC",
+            "$type": "color"
+          },
+          "systemGray4": {
+            "$value": "#D1D1D6",
+            "$type": "color"
+          },
+          "systemGray5": {
+            "$value": "#E5E5EA",
+            "$type": "color"
+          },
+          "systemGray6": {
+            "$value": "#F2F2F7",
+            "$type": "color"
+          }
+        },
+        "dark": {
+          "$description": "Apple system colors — dark mode (iOS/macOS)",
+          "systemRed": {
+            "$value": "#FF453A",
+            "$type": "color"
+          },
+          "systemOrange": {
+            "$value": "#FF9F0A",
+            "$type": "color"
+          },
+          "systemYellow": {
+            "$value": "#FFD60A",
+            "$type": "color"
+          },
+          "systemGreen": {
+            "$value": "#30D158",
+            "$type": "color"
+          },
+          "systemMint": {
+            "$value": "#63E6E2",
+            "$type": "color"
+          },
+          "systemTeal": {
+            "$value": "#40CBE0",
+            "$type": "color"
+          },
+          "systemCyan": {
+            "$value": "#64D2FF",
+            "$type": "color"
+          },
+          "systemBlue": {
+            "$value": "#0A84FF",
+            "$type": "color"
+          },
+          "systemIndigo": {
+            "$value": "#5E5CE6",
+            "$type": "color"
+          },
+          "systemPurple": {
+            "$value": "#BF5AF2",
+            "$type": "color"
+          },
+          "systemPink": {
+            "$value": "#FF375F",
+            "$type": "color"
+          },
+          "systemBrown": {
+            "$value": "#AC8E68",
+            "$type": "color"
+          },
+          "systemGray": {
+            "$value": "#8E8E93",
+            "$type": "color"
+          },
+          "systemGray2": {
+            "$value": "#636366",
+            "$type": "color"
+          },
+          "systemGray3": {
+            "$value": "#48484A",
+            "$type": "color"
+          },
+          "systemGray4": {
+            "$value": "#3A3A3C",
+            "$type": "color"
+          },
+          "systemGray5": {
+            "$value": "#2C2C2E",
+            "$type": "color"
+          },
+          "systemGray6": {
+            "$value": "#1C1C1E",
+            "$type": "color"
+          }
+        }
+      }
+    },
+    "fontStyle": {
+      "normal": {
+        "$type": "fontStyle",
+        "$value": "normal"
+      },
+      "italic": {
+        "$type": "fontStyle",
+        "$value": "italic"
+      }
+    },
+    "strokeStyle": {
+      "solid": {
+        "$type": "strokeStyle",
+        "$value": "solid"
+      },
+      "dashed": {
+        "$type": "strokeStyle",
+        "$value": "dashed"
+      },
+      "dotted": {
+        "$type": "strokeStyle",
+        "$value": "dotted"
+      }
+    },
+    "percentage": {
+      "quarter": {
+        "$type": "percentage",
+        "$value": 0.25
+      },
+      "third": {
+        "$type": "percentage",
+        "$value": 0.333
+      },
+      "half": {
+        "$type": "percentage",
+        "$value": 0.5
+      },
+      "full": {
+        "$type": "percentage",
+        "$value": 1
+      }
+    }
+  }
+}
