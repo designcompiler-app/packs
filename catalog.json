@@ -1552,6 +1552,29 @@
       "preview": [],
       "file": "packs/z-index-system.json",
       "sizeBytes": 1268
+    },
+    {
+      "id": "dtcg-reference",
+      "name": "DTCG Complete Reference",
+      "description": "Reference pack demonstrating every token type in the W3C Design Tokens specification. Use as a template for creating new packs.",
+      "source": "Design Compiler",
+      "version": "1.0.0",
+      "license": "MIT",
+      "tokenCount": 75,
+      "categories": [
+        "frameworks"
+      ],
+      "preview": {
+        "colors": [
+          "#6366F1",
+          "#EC4899",
+          "#14B8A6",
+          "#F59E0B",
+          "#8B5CF6"
+        ]
+      },
+      "file": "packs/dtcg-reference.json",
+      "sizeBytes": 7855
     }
   ]
 }

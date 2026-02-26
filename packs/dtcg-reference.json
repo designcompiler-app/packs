@@ -1,0 +1,510 @@
+{
+  "meta": {
+    "id": "dtcg-reference",
+    "name": "DTCG Complete Reference",
+    "description": "Reference pack demonstrating every token type in the W3C Design Tokens specification. Use as a template for creating new packs.",
+    "source": "Design Compiler",
+    "version": "1.0.0",
+    "license": "MIT",
+    "categories": ["frameworks"],
+    "preview": {
+      "colors": ["#6366F1", "#EC4899", "#14B8A6", "#F59E0B", "#8B5CF6"]
+    }
+  },
+  "data": {
+    "color": {
+      "$description": "DTCG type: color — CSS color values",
+      "primary": {
+        "$type": "color",
+        "$value": "#6366F1",
+        "$description": "Primary brand color (hex)"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "rgb(236, 72, 153)",
+        "$description": "Secondary brand color (rgb)"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "hsl(167, 78%, 40%)",
+        "$description": "Tertiary brand color (hsl)"
+      },
+      "transparent": {
+        "$type": "color",
+        "$value": "#6366F180",
+        "$description": "Semi-transparent color (8-digit hex with alpha)"
+      }
+    },
+    "dimension": {
+      "$description": "DTCG type: dimension — sizes with units (px, rem, em)",
+      "spacing": {
+        "xs": {
+          "$type": "dimension",
+          "$value": "4px",
+          "$description": "Extra small spacing"
+        },
+        "sm": {
+          "$type": "dimension",
+          "$value": "8px",
+          "$description": "Small spacing"
+        },
+        "md": {
+          "$type": "dimension",
+          "$value": "16px",
+          "$description": "Medium spacing"
+        },
+        "lg": {
+          "$type": "dimension",
+          "$value": "32px",
+          "$description": "Large spacing"
+        },
+        "xl": {
+          "$type": "dimension",
+          "$value": "64px",
+          "$description": "Extra large spacing"
+        }
+      },
+      "borderRadius": {
+        "sm": {
+          "$type": "dimension",
+          "$value": "4px"
+        },
+        "md": {
+          "$type": "dimension",
+          "$value": "8px"
+        },
+        "full": {
+          "$type": "dimension",
+          "$value": "9999px"
+        }
+      },
+      "fontSize": {
+        "sm": {
+          "$type": "dimension",
+          "$value": "0.875rem"
+        },
+        "base": {
+          "$type": "dimension",
+          "$value": "1rem"
+        },
+        "lg": {
+          "$type": "dimension",
+          "$value": "1.25rem"
+        },
+        "xl": {
+          "$type": "dimension",
+          "$value": "1.5rem"
+        }
+      }
+    },
+    "fontFamily": {
+      "$description": "DTCG type: fontFamily — one or more font names",
+      "sans": {
+        "$type": "fontFamily",
+        "$value": ["Inter", "system-ui", "sans-serif"],
+        "$description": "Primary sans-serif stack"
+      },
+      "serif": {
+        "$type": "fontFamily",
+        "$value": ["Georgia", "Cambria", "serif"],
+        "$description": "Serif stack for long-form text"
+      },
+      "mono": {
+        "$type": "fontFamily",
+        "$value": ["JetBrains Mono", "Fira Code", "monospace"],
+        "$description": "Monospace stack for code"
+      }
+    },
+    "fontWeight": {
+      "$description": "DTCG type: fontWeight — numeric weight values",
+      "light": {
+        "$type": "fontWeight",
+        "$value": 300
+      },
+      "regular": {
+        "$type": "fontWeight",
+        "$value": 400
+      },
+      "medium": {
+        "$type": "fontWeight",
+        "$value": 500
+      },
+      "semibold": {
+        "$type": "fontWeight",
+        "$value": 600
+      },
+      "bold": {
+        "$type": "fontWeight",
+        "$value": 700
+      }
+    },
+    "fontStyle": {
+      "$description": "DTCG type: fontStyle — normal or italic",
+      "normal": {
+        "$type": "fontStyle",
+        "$value": "normal"
+      },
+      "italic": {
+        "$type": "fontStyle",
+        "$value": "italic"
+      }
+    },
+    "duration": {
+      "$description": "DTCG type: duration — time values for animations",
+      "instant": {
+        "$type": "duration",
+        "$value": "0ms",
+        "$description": "No animation"
+      },
+      "fast": {
+        "$type": "duration",
+        "$value": "100ms",
+        "$description": "Micro-interactions"
+      },
+      "normal": {
+        "$type": "duration",
+        "$value": "200ms",
+        "$description": "Standard transitions"
+      },
+      "slow": {
+        "$type": "duration",
+        "$value": "400ms",
+        "$description": "Emphasis animations"
+      },
+      "xslow": {
+        "$type": "duration",
+        "$value": "800ms",
+        "$description": "Page transitions"
+      }
+    },
+    "cubicBezier": {
+      "$description": "DTCG type: cubicBezier — easing curves as [x1, y1, x2, y2]",
+      "linear": {
+        "$type": "cubicBezier",
+        "$value": [0, 0, 1, 1]
+      },
+      "ease": {
+        "$type": "cubicBezier",
+        "$value": [0.25, 0.1, 0.25, 1]
+      },
+      "easeIn": {
+        "$type": "cubicBezier",
+        "$value": [0.42, 0, 1, 1]
+      },
+      "easeOut": {
+        "$type": "cubicBezier",
+        "$value": [0, 0, 0.58, 1]
+      },
+      "easeInOut": {
+        "$type": "cubicBezier",
+        "$value": [0.42, 0, 0.58, 1]
+      },
+      "spring": {
+        "$type": "cubicBezier",
+        "$value": [0.34, 1.56, 0.64, 1],
+        "$description": "Bouncy spring effect"
+      }
+    },
+    "number": {
+      "$description": "DTCG type: number — unitless numeric values",
+      "opacity": {
+        "transparent": {
+          "$type": "number",
+          "$value": 0
+        },
+        "subtle": {
+          "$type": "number",
+          "$value": 0.1
+        },
+        "muted": {
+          "$type": "number",
+          "$value": 0.5
+        },
+        "opaque": {
+          "$type": "number",
+          "$value": 1
+        }
+      },
+      "lineHeight": {
+        "tight": {
+          "$type": "number",
+          "$value": 1.25
+        },
+        "normal": {
+          "$type": "number",
+          "$value": 1.5
+        },
+        "loose": {
+          "$type": "number",
+          "$value": 1.75
+        }
+      },
+      "zIndex": {
+        "base": {
+          "$type": "number",
+          "$value": 0
+        },
+        "dropdown": {
+          "$type": "number",
+          "$value": 1000
+        },
+        "modal": {
+          "$type": "number",
+          "$value": 2000
+        },
+        "toast": {
+          "$type": "number",
+          "$value": 3000
+        }
+      }
+    },
+    "percentage": {
+      "$description": "DTCG type: percentage — values expressed as decimals (0-1)",
+      "half": {
+        "$type": "percentage",
+        "$value": 0.5
+      },
+      "third": {
+        "$type": "percentage",
+        "$value": 0.333
+      },
+      "quarter": {
+        "$type": "percentage",
+        "$value": 0.25
+      },
+      "full": {
+        "$type": "percentage",
+        "$value": 1
+      }
+    },
+    "strokeStyle": {
+      "$description": "DTCG type: strokeStyle — border line styles",
+      "solid": {
+        "$type": "strokeStyle",
+        "$value": "solid"
+      },
+      "dashed": {
+        "$type": "strokeStyle",
+        "$value": "dashed"
+      },
+      "dotted": {
+        "$type": "strokeStyle",
+        "$value": "dotted"
+      }
+    },
+    "border": {
+      "$description": "DTCG type: border — composite border definition",
+      "default": {
+        "$type": "border",
+        "$value": {
+          "color": "#E2E8F0",
+          "width": "1px",
+          "style": "solid"
+        }
+      },
+      "focus": {
+        "$type": "border",
+        "$value": {
+          "color": "#6366F1",
+          "width": "2px",
+          "style": "solid"
+        },
+        "$description": "Focus ring border"
+      },
+      "dashed": {
+        "$type": "border",
+        "$value": {
+          "color": "#94A3B8",
+          "width": "1px",
+          "style": "dashed"
+        }
+      }
+    },
+    "shadow": {
+      "$description": "DTCG type: shadow — elevation shadows",
+      "sm": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "2px",
+          "spread": "0px",
+          "color": "#0000001a"
+        }
+      },
+      "md": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "4px",
+          "blur": "6px",
+          "spread": "-1px",
+          "color": "#0000001a"
+        }
+      },
+      "lg": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "10px",
+          "blur": "15px",
+          "spread": "-3px",
+          "color": "#0000001a"
+        }
+      },
+      "xl": {
+        "$type": "shadow",
+        "$value": {
+          "offsetX": "0px",
+          "offsetY": "20px",
+          "blur": "25px",
+          "spread": "-5px",
+          "color": "#0000001a"
+        }
+      }
+    },
+    "gradient": {
+      "$description": "DTCG type: gradient — color gradient stops",
+      "brandSweep": {
+        "$type": "gradient",
+        "$value": [
+          {
+            "color": "#6366F1",
+            "position": 0
+          },
+          {
+            "color": "#EC4899",
+            "position": 0.5
+          },
+          {
+            "color": "#F59E0B",
+            "position": 1
+          }
+        ],
+        "$description": "Brand gradient with 3 stops"
+      },
+      "subtle": {
+        "$type": "gradient",
+        "$value": [
+          {
+            "color": "#F8FAFC",
+            "position": 0
+          },
+          {
+            "color": "#E2E8F0",
+            "position": 1
+          }
+        ],
+        "$description": "Subtle background gradient"
+      }
+    },
+    "transition": {
+      "$description": "DTCG type: transition — composite animation definition",
+      "default": {
+        "$type": "transition",
+        "$value": {
+          "duration": "200ms",
+          "delay": "0ms",
+          "timingFunction": [0.25, 0.1, 0.25, 1]
+        },
+        "$description": "Default UI transition"
+      },
+      "slow": {
+        "$type": "transition",
+        "$value": {
+          "duration": "400ms",
+          "delay": "0ms",
+          "timingFunction": [0.42, 0, 0.58, 1]
+        },
+        "$description": "Slow emphasis transition"
+      }
+    },
+    "typography": {
+      "$description": "DTCG type: typography — composite text style definition",
+      "heading": {
+        "h1": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": ["Inter", "system-ui", "sans-serif"],
+            "fontSize": "2.25rem",
+            "fontWeight": 700,
+            "lineHeight": 1.25,
+            "letterSpacing": "-0.025em"
+          }
+        },
+        "h2": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": ["Inter", "system-ui", "sans-serif"],
+            "fontSize": "1.5rem",
+            "fontWeight": 600,
+            "lineHeight": 1.333,
+            "letterSpacing": "-0.015em"
+          }
+        },
+        "h3": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": ["Inter", "system-ui", "sans-serif"],
+            "fontSize": "1.25rem",
+            "fontWeight": 600,
+            "lineHeight": 1.4,
+            "letterSpacing": "0em"
+          }
+        }
+      },
+      "body": {
+        "default": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": ["Inter", "system-ui", "sans-serif"],
+            "fontSize": "1rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0em"
+          }
+        },
+        "small": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": ["Inter", "system-ui", "sans-serif"],
+            "fontSize": "0.875rem",
+            "fontWeight": 400,
+            "lineHeight": 1.5,
+            "letterSpacing": "0.01em"
+          }
+        }
+      },
+      "code": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": ["JetBrains Mono", "Fira Code", "monospace"],
+          "fontSize": "0.875rem",
+          "fontWeight": 400,
+          "lineHeight": 1.6,
+          "letterSpacing": "0em"
+        }
+      }
+    },
+    "string": {
+      "$description": "DTCG type: string — arbitrary string values",
+      "breakpoint": {
+        "sm": {
+          "$type": "string",
+          "$value": "(min-width: 640px)",
+          "$description": "Small breakpoint media query"
+        },
+        "md": {
+          "$type": "string",
+          "$value": "(min-width: 768px)",
+          "$description": "Medium breakpoint media query"
+        },
+        "lg": {
+          "$type": "string",
+          "$value": "(min-width: 1024px)",
+          "$description": "Large breakpoint media query"
+        }
+      }
+    }
+  }
+}
