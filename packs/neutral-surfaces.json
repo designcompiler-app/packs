@@ -30,118 +30,148 @@
         "$description": "Light mode surface hierarchy — background to highest elevation",
         "surface0": {
           "$value": "#F1F5F9",
-          "$description": "Sunken / page background"
+          "$description": "Sunken / page background",
+          "$type": "color"
         },
         "surface1": {
           "$value": "#F8FAFC",
-          "$description": "Default background"
+          "$description": "Default background",
+          "$type": "color"
         },
         "surface2": {
           "$value": "#FFFFFF",
-          "$description": "Card / raised surface"
+          "$description": "Card / raised surface",
+          "$type": "color"
         },
         "surface3": {
           "$value": "#FFFFFF",
-          "$description": "Modal / dialog"
+          "$description": "Modal / dialog",
+          "$type": "color"
         },
         "surface4": {
           "$value": "#FFFFFF",
-          "$description": "Popover / dropdown"
+          "$description": "Popover / dropdown",
+          "$type": "color"
         },
         "onSurface": {
           "$value": "#0F172A",
-          "$description": "Primary text on surfaces"
+          "$description": "Primary text on surfaces",
+          "$type": "color"
         },
         "onSurfaceSecondary": {
           "$value": "#475569",
-          "$description": "Secondary text on surfaces"
+          "$description": "Secondary text on surfaces",
+          "$type": "color"
         },
         "onSurfaceTertiary": {
           "$value": "#94A3B8",
-          "$description": "Tertiary/muted text on surfaces"
+          "$description": "Tertiary/muted text on surfaces",
+          "$type": "color"
         },
         "divider": {
           "$value": "#E2E8F0",
-          "$description": "Divider between surface levels"
+          "$description": "Divider between surface levels",
+          "$type": "color"
         },
         "scrim": {
           "$value": "#0F172A80",
-          "$description": "Overlay scrim behind modals"
+          "$description": "Overlay scrim behind modals",
+          "$type": "color"
         }
       },
       "dark": {
         "$description": "Dark mode surface hierarchy — deepest to highest elevation",
         "surface0": {
           "$value": "#020617",
-          "$description": "Sunken / page background"
+          "$description": "Sunken / page background",
+          "$type": "color"
         },
         "surface1": {
           "$value": "#0F172A",
-          "$description": "Default background"
+          "$description": "Default background",
+          "$type": "color"
         },
         "surface2": {
           "$value": "#1E293B",
-          "$description": "Card / raised surface"
+          "$description": "Card / raised surface",
+          "$type": "color"
         },
         "surface3": {
           "$value": "#334155",
-          "$description": "Modal / dialog"
+          "$description": "Modal / dialog",
+          "$type": "color"
         },
         "surface4": {
           "$value": "#475569",
-          "$description": "Popover / dropdown"
+          "$description": "Popover / dropdown",
+          "$type": "color"
         },
         "onSurface": {
           "$value": "#F1F5F9",
-          "$description": "Primary text on surfaces"
+          "$description": "Primary text on surfaces",
+          "$type": "color"
         },
         "onSurfaceSecondary": {
           "$value": "#94A3B8",
-          "$description": "Secondary text on surfaces"
+          "$description": "Secondary text on surfaces",
+          "$type": "color"
         },
         "onSurfaceTertiary": {
           "$value": "#64748B",
-          "$description": "Tertiary/muted text on surfaces"
+          "$description": "Tertiary/muted text on surfaces",
+          "$type": "color"
         },
         "divider": {
           "$value": "#334155",
-          "$description": "Divider between surface levels"
+          "$description": "Divider between surface levels",
+          "$type": "color"
         },
         "scrim": {
           "$value": "#00000080",
-          "$description": "Overlay scrim behind modals"
+          "$description": "Overlay scrim behind modals",
+          "$type": "color"
         }
       },
       "neutral": {
         "50": {
-          "$value": "#FAFAFA"
+          "$value": "#FAFAFA",
+          "$type": "color"
         },
         "100": {
-          "$value": "#F5F5F5"
+          "$value": "#F5F5F5",
+          "$type": "color"
         },
         "200": {
-          "$value": "#E5E5E5"
+          "$value": "#E5E5E5",
+          "$type": "color"
         },
         "300": {
-          "$value": "#D4D4D4"
+          "$value": "#D4D4D4",
+          "$type": "color"
         },
         "400": {
-          "$value": "#A3A3A3"
+          "$value": "#A3A3A3",
+          "$type": "color"
         },
         "500": {
-          "$value": "#737373"
+          "$value": "#737373",
+          "$type": "color"
         },
         "600": {
-          "$value": "#525252"
+          "$value": "#525252",
+          "$type": "color"
         },
         "700": {
-          "$value": "#404040"
+          "$value": "#404040",
+          "$type": "color"
         },
         "800": {
-          "$value": "#262626"
+          "$value": "#262626",
+          "$type": "color"
         },
         "900": {
-          "$value": "#171717"
+          "$value": "#171717",
+          "$type": "color"
         },
         "$description": "Brand-neutral gray scale usable with any palette"
       }

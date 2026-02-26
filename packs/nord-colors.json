@@ -29,61 +29,77 @@
       "polarNight": {
         "$description": "Nord Polar Night — dark base and background colors",
         "nord0": {
-          "$value": "#2e3440"
+          "$value": "#2e3440",
+          "$type": "color"
         },
         "nord1": {
-          "$value": "#3b4252"
+          "$value": "#3b4252",
+          "$type": "color"
         },
         "nord2": {
-          "$value": "#434c5e"
+          "$value": "#434c5e",
+          "$type": "color"
         },
         "nord3": {
-          "$value": "#4c566a"
+          "$value": "#4c566a",
+          "$type": "color"
         }
       },
       "snowStorm": {
         "$description": "Nord Snow Storm — light foreground and surface colors",
         "nord4": {
-          "$value": "#d8dee9"
+          "$value": "#d8dee9",
+          "$type": "color"
         },
         "nord5": {
-          "$value": "#e5e9f0"
+          "$value": "#e5e9f0",
+          "$type": "color"
         },
         "nord6": {
-          "$value": "#eceff4"
+          "$value": "#eceff4",
+          "$type": "color"
         }
       },
       "frost": {
         "$description": "Nord Frost — primary accent and UI element colors",
         "nord7": {
-          "$value": "#8fbcbb"
+          "$value": "#8fbcbb",
+          "$type": "color"
         },
         "nord8": {
-          "$value": "#88c0d0"
+          "$value": "#88c0d0",
+          "$type": "color"
         },
         "nord9": {
-          "$value": "#81a1c1"
+          "$value": "#81a1c1",
+          "$type": "color"
         },
         "nord10": {
-          "$value": "#5e81ac"
+          "$value": "#5e81ac",
+          "$type": "color"
         }
       },
       "aurora": {
         "$description": "Nord Aurora — vivid status and accent colors",
         "nord11": {
-          "$value": "#bf616a"
+          "$value": "#bf616a",
+          "$type": "color"
         },
         "nord12": {
-          "$value": "#d08770"
+          "$value": "#d08770",
+          "$type": "color"
         },
         "nord13": {
-          "$value": "#ebcb8b"
+          "$value": "#ebcb8b",
+          "$type": "color"
         },
         "nord14": {
-          "$value": "#a3be8c"
+          "$value": "#a3be8c",
+          "$type": "color"
         },
         "nord15": {
-          "$value": "#b48ead"
+          "$value": "#b48ead",
+          "$type": "color"
         }
       }
     }

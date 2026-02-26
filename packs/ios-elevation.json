@@ -26,7 +26,8 @@
           "spread": "0px",
           "color": "#0000004d"
         },
-        "$description": "Navigation bar hairline shadow"
+        "$description": "Navigation bar hairline shadow",
+        "$type": "shadow"
       },
       "card": {
         "$value": {
@@ -36,7 +37,8 @@
           "spread": "0px",
           "color": "#00000014"
         },
-        "$description": "Card and grouped table section"
+        "$description": "Card and grouped table section",
+        "$type": "shadow"
       },
       "tabBar": {
         "$value": {
@@ -46,7 +48,8 @@
           "spread": "0px",
           "color": "#0000004d"
         },
-        "$description": "Tab bar top edge shadow"
+        "$description": "Tab bar top edge shadow",
+        "$type": "shadow"
       },
       "sheet": {
         "$value": {
@@ -56,7 +59,8 @@
           "spread": "0px",
           "color": "#0000001a"
         },
-        "$description": "Bottom sheet or action sheet"
+        "$description": "Bottom sheet or action sheet",
+        "$type": "shadow"
       },
       "popover": {
         "$value": {
@@ -66,7 +70,8 @@
           "spread": "0px",
           "color": "#00000026"
         },
-        "$description": "Popover and context menu"
+        "$description": "Popover and context menu",
+        "$type": "shadow"
       },
       "modal": {
         "$value": {
@@ -76,7 +81,8 @@
           "spread": "0px",
           "color": "#00000033"
         },
-        "$description": "Modal presentation and alert"
+        "$description": "Modal presentation and alert",
+        "$type": "shadow"
       },
       "tooltip": {
         "$value": {
@@ -86,7 +92,8 @@
           "spread": "0px",
           "color": "#0000001a"
         },
-        "$description": "Tooltip and small overlay"
+        "$description": "Tooltip and small overlay",
+        "$type": "shadow"
       },
       "drag": {
         "$value": {
@@ -96,7 +103,8 @@
           "spread": "-4px",
           "color": "#0000003d"
         },
-        "$description": "Dragged element elevation"
+        "$description": "Dragged element elevation",
+        "$type": "shadow"
       }
     }
   }

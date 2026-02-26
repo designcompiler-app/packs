@@ -29,46 +29,59 @@
       "ui": {
         "$description": "One Dark UI — background, foreground, and editor chrome colors",
         "bg": {
-          "$value": "#282c34"
+          "$value": "#282c34",
+          "$type": "color"
         },
         "fg": {
-          "$value": "#abb2bf"
+          "$value": "#abb2bf",
+          "$type": "color"
         },
         "comment": {
-          "$value": "#5c6370"
+          "$value": "#5c6370",
+          "$type": "color"
         },
         "gutter": {
-          "$value": "#4b5263"
+          "$value": "#4b5263",
+          "$type": "color"
         },
         "selection": {
-          "$value": "#3e4451"
+          "$value": "#3e4451",
+          "$type": "color"
         },
         "cursor": {
-          "$value": "#528bff"
+          "$value": "#528bff",
+          "$type": "color"
         },
         "guides": {
-          "$value": "#3b4048"
+          "$value": "#3b4048",
+          "$type": "color"
         }
       },
       "syntax": {
         "$description": "One Dark Syntax — 6 accent colors used for code highlighting",
         "red": {
-          "$value": "#e06c75"
+          "$value": "#e06c75",
+          "$type": "color"
         },
         "green": {
-          "$value": "#98c379"
+          "$value": "#98c379",
+          "$type": "color"
         },
         "yellow": {
-          "$value": "#e5c07b"
+          "$value": "#e5c07b",
+          "$type": "color"
         },
         "blue": {
-          "$value": "#61afef"
+          "$value": "#61afef",
+          "$type": "color"
         },
         "magenta": {
-          "$value": "#c678dd"
+          "$value": "#c678dd",
+          "$type": "color"
         },
         "cyan": {
-          "$value": "#56b6c2"
+          "$value": "#56b6c2",
+          "$type": "color"
         }
       }
     }

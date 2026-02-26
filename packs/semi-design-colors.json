@@ -28,331 +28,431 @@
       "$type": "color",
       "blue": {
         "0": {
-          "$value": "#eaf5ff"
+          "$value": "#eaf5ff",
+          "$type": "color"
         },
         "1": {
-          "$value": "#cbe7fe"
+          "$value": "#cbe7fe",
+          "$type": "color"
         },
         "2": {
-          "$value": "#98cdfd"
+          "$value": "#98cdfd",
+          "$type": "color"
         },
         "3": {
-          "$value": "#65b2fc"
+          "$value": "#65b2fc",
+          "$type": "color"
         },
         "4": {
-          "$value": "#3295fb"
+          "$value": "#3295fb",
+          "$type": "color"
         },
         "5": {
-          "$value": "#0064fa"
+          "$value": "#0064fa",
+          "$type": "color"
         },
         "6": {
-          "$value": "#0062d6"
+          "$value": "#0062d6",
+          "$type": "color"
         },
         "7": {
-          "$value": "#004fb3"
+          "$value": "#004fb3",
+          "$type": "color"
         },
         "8": {
-          "$value": "#003d8f"
+          "$value": "#003d8f",
+          "$type": "color"
         },
         "9": {
-          "$value": "#002c6b"
+          "$value": "#002c6b",
+          "$type": "color"
         },
         "$description": "Semi Blue — primary brand color scale"
       },
       "cyan": {
         "0": {
-          "$value": "#e5f7f8"
+          "$value": "#e5f7f8",
+          "$type": "color"
         },
         "1": {
-          "$value": "#c2eff0"
+          "$value": "#c2eff0",
+          "$type": "color"
         },
         "2": {
-          "$value": "#8adde2"
+          "$value": "#8adde2",
+          "$type": "color"
         },
         "3": {
-          "$value": "#58cbd3"
+          "$value": "#58cbd3",
+          "$type": "color"
         },
         "4": {
-          "$value": "#2cb8c5"
+          "$value": "#2cb8c5",
+          "$type": "color"
         },
         "5": {
-          "$value": "#05a4b6"
+          "$value": "#05a4b6",
+          "$type": "color"
         },
         "6": {
-          "$value": "#038698"
+          "$value": "#038698",
+          "$type": "color"
         },
         "7": {
-          "$value": "#016979"
+          "$value": "#016979",
+          "$type": "color"
         },
         "8": {
-          "$value": "#004d5b"
+          "$value": "#004d5b",
+          "$type": "color"
         },
         "9": {
-          "$value": "#00323d"
+          "$value": "#00323d",
+          "$type": "color"
         },
         "$description": "Semi Cyan — secondary cool accent scale"
       },
       "green": {
         "0": {
-          "$value": "#ecf7ec"
+          "$value": "#ecf7ec",
+          "$type": "color"
         },
         "1": {
-          "$value": "#d0f0d1"
+          "$value": "#d0f0d1",
+          "$type": "color"
         },
         "2": {
-          "$value": "#a4e0a7"
+          "$value": "#a4e0a7",
+          "$type": "color"
         },
         "3": {
-          "$value": "#7dd182"
+          "$value": "#7dd182",
+          "$type": "color"
         },
         "4": {
-          "$value": "#5ac262"
+          "$value": "#5ac262",
+          "$type": "color"
         },
         "5": {
-          "$value": "#3bb346"
+          "$value": "#3bb346",
+          "$type": "color"
         },
         "6": {
-          "$value": "#30953b"
+          "$value": "#30953b",
+          "$type": "color"
         },
         "7": {
-          "$value": "#25772f"
+          "$value": "#25772f",
+          "$type": "color"
         },
         "8": {
-          "$value": "#1b5924"
+          "$value": "#1b5924",
+          "$type": "color"
         },
         "9": {
-          "$value": "#113c18"
+          "$value": "#113c18",
+          "$type": "color"
         },
         "$description": "Semi Green — success and positive state scale"
       },
       "yellow": {
         "0": {
-          "$value": "#fffdea"
+          "$value": "#fffdea",
+          "$type": "color"
         },
         "1": {
-          "$value": "#fefbcb"
+          "$value": "#fefbcb",
+          "$type": "color"
         },
         "2": {
-          "$value": "#fdf398"
+          "$value": "#fdf398",
+          "$type": "color"
         },
         "3": {
-          "$value": "#fce865"
+          "$value": "#fce865",
+          "$type": "color"
         },
         "4": {
-          "$value": "#fbda32"
+          "$value": "#fbda32",
+          "$type": "color"
         },
         "5": {
-          "$value": "#fac800"
+          "$value": "#fac800",
+          "$type": "color"
         },
         "6": {
-          "$value": "#d0aa00"
+          "$value": "#d0aa00",
+          "$type": "color"
         },
         "7": {
-          "$value": "#a78b00"
+          "$value": "#a78b00",
+          "$type": "color"
         },
         "8": {
-          "$value": "#7d6a00"
+          "$value": "#7d6a00",
+          "$type": "color"
         },
         "9": {
-          "$value": "#534800"
+          "$value": "#534800",
+          "$type": "color"
         },
         "$description": "Semi Yellow — highlight and attention scale"
       },
       "orange": {
         "0": {
-          "$value": "#fff8ea"
+          "$value": "#fff8ea",
+          "$type": "color"
         },
         "1": {
-          "$value": "#feeecc"
+          "$value": "#feeecc",
+          "$type": "color"
         },
         "2": {
-          "$value": "#fed998"
+          "$value": "#fed998",
+          "$type": "color"
         },
         "3": {
-          "$value": "#fdc165"
+          "$value": "#fdc165",
+          "$type": "color"
         },
         "4": {
-          "$value": "#fda633"
+          "$value": "#fda633",
+          "$type": "color"
         },
         "5": {
-          "$value": "#fc8800"
+          "$value": "#fc8800",
+          "$type": "color"
         },
         "6": {
-          "$value": "#d26700"
+          "$value": "#d26700",
+          "$type": "color"
         },
         "7": {
-          "$value": "#a84a00"
+          "$value": "#a84a00",
+          "$type": "color"
         },
         "8": {
-          "$value": "#7e3100"
+          "$value": "#7e3100",
+          "$type": "color"
         },
         "9": {
-          "$value": "#541d00"
+          "$value": "#541d00",
+          "$type": "color"
         },
         "$description": "Semi Orange — warning state scale"
       },
       "red": {
         "0": {
-          "$value": "#fef2ed"
+          "$value": "#fef2ed",
+          "$type": "color"
         },
         "1": {
-          "$value": "#feddd2"
+          "$value": "#feddd2",
+          "$type": "color"
         },
         "2": {
-          "$value": "#fdb7a5"
+          "$value": "#fdb7a5",
+          "$type": "color"
         },
         "3": {
-          "$value": "#fb9078"
+          "$value": "#fb9078",
+          "$type": "color"
         },
         "4": {
-          "$value": "#fa664c"
+          "$value": "#fa664c",
+          "$type": "color"
         },
         "5": {
-          "$value": "#f93920"
+          "$value": "#f93920",
+          "$type": "color"
         },
         "6": {
-          "$value": "#d52515"
+          "$value": "#d52515",
+          "$type": "color"
         },
         "7": {
-          "$value": "#b2140c"
+          "$value": "#b2140c",
+          "$type": "color"
         },
         "8": {
-          "$value": "#8e0805"
+          "$value": "#8e0805",
+          "$type": "color"
         },
         "9": {
-          "$value": "#6a0103"
+          "$value": "#6a0103",
+          "$type": "color"
         },
         "$description": "Semi Red — danger and error state scale"
       },
       "pink": {
         "0": {
-          "$value": "#fdecef"
+          "$value": "#fdecef",
+          "$type": "color"
         },
         "1": {
-          "$value": "#fbcfd8"
+          "$value": "#fbcfd8",
+          "$type": "color"
         },
         "2": {
-          "$value": "#f6a0b5"
+          "$value": "#f6a0b5",
+          "$type": "color"
         },
         "3": {
-          "$value": "#f27396"
+          "$value": "#f27396",
+          "$type": "color"
         },
         "4": {
-          "$value": "#ed487b"
+          "$value": "#ed487b",
+          "$type": "color"
         },
         "5": {
-          "$value": "#e91e63"
+          "$value": "#e91e63",
+          "$type": "color"
         },
         "6": {
-          "$value": "#c51356"
+          "$value": "#c51356",
+          "$type": "color"
         },
         "7": {
-          "$value": "#a20b48"
+          "$value": "#a20b48",
+          "$type": "color"
         },
         "8": {
-          "$value": "#7e053a"
+          "$value": "#7e053a",
+          "$type": "color"
         },
         "9": {
-          "$value": "#5a012b"
+          "$value": "#5a012b",
+          "$type": "color"
         },
         "$description": "Semi Pink — decorative and expressive accent scale"
       },
       "purple": {
         "0": {
-          "$value": "#f7e9f7"
+          "$value": "#f7e9f7",
+          "$type": "color"
         },
         "1": {
-          "$value": "#efcaf0"
+          "$value": "#efcaf0",
+          "$type": "color"
         },
         "2": {
-          "$value": "#dd9be0"
+          "$value": "#dd9be0",
+          "$type": "color"
         },
         "3": {
-          "$value": "#c96fd1"
+          "$value": "#c96fd1",
+          "$type": "color"
         },
         "4": {
-          "$value": "#b449c2"
+          "$value": "#b449c2",
+          "$type": "color"
         },
         "5": {
-          "$value": "#9e28b3"
+          "$value": "#9e28b3",
+          "$type": "color"
         },
         "6": {
-          "$value": "#871e9e"
+          "$value": "#871e9e",
+          "$type": "color"
         },
         "7": {
-          "$value": "#71168a"
+          "$value": "#71168a",
+          "$type": "color"
         },
         "8": {
-          "$value": "#5c0f75"
+          "$value": "#5c0f75",
+          "$type": "color"
         },
         "9": {
-          "$value": "#490a61"
+          "$value": "#490a61",
+          "$type": "color"
         },
         "$description": "Semi Purple — creative and rich accent scale"
       },
       "violet": {
         "0": {
-          "$value": "#f3edf9"
+          "$value": "#f3edf9",
+          "$type": "color"
         },
         "1": {
-          "$value": "#e2d1f4"
+          "$value": "#e2d1f4",
+          "$type": "color"
         },
         "2": {
-          "$value": "#c4a7e9"
+          "$value": "#c4a7e9",
+          "$type": "color"
         },
         "3": {
-          "$value": "#a67fdd"
+          "$value": "#a67fdd",
+          "$type": "color"
         },
         "4": {
-          "$value": "#885bd2"
+          "$value": "#885bd2",
+          "$type": "color"
         },
         "5": {
-          "$value": "#6a3ac7"
+          "$value": "#6a3ac7",
+          "$type": "color"
         },
         "6": {
-          "$value": "#572fb3"
+          "$value": "#572fb3",
+          "$type": "color"
         },
         "7": {
-          "$value": "#46259e"
+          "$value": "#46259e",
+          "$type": "color"
         },
         "8": {
-          "$value": "#361c8a"
+          "$value": "#361c8a",
+          "$type": "color"
         },
         "9": {
-          "$value": "#281475"
+          "$value": "#281475",
+          "$type": "color"
         },
         "$description": "Semi Violet — deep cool accent scale"
       },
       "grey": {
         "0": {
-          "$value": "#f9f9f9"
+          "$value": "#f9f9f9",
+          "$type": "color"
         },
         "1": {
-          "$value": "#e6e8ea"
+          "$value": "#e6e8ea",
+          "$type": "color"
         },
         "2": {
-          "$value": "#c6cacd"
+          "$value": "#c6cacd",
+          "$type": "color"
         },
         "3": {
-          "$value": "#a7abb0"
+          "$value": "#a7abb0",
+          "$type": "color"
         },
         "4": {
-          "$value": "#888d92"
+          "$value": "#888d92",
+          "$type": "color"
         },
         "5": {
-          "$value": "#6b7075"
+          "$value": "#6b7075",
+          "$type": "color"
         },
         "6": {
-          "$value": "#555b61"
+          "$value": "#555b61",
+          "$type": "color"
         },
         "7": {
-          "$value": "#41464c"
+          "$value": "#41464c",
+          "$type": "color"
         },
         "8": {
-          "$value": "#2e3238"
+          "$value": "#2e3238",
+          "$type": "color"
         },
         "9": {
-          "$value": "#1c1f23"
+          "$value": "#1c1f23",
+          "$type": "color"
         },
         "$description": "Semi Grey — neutral scale for text, borders, and backgrounds"
       }

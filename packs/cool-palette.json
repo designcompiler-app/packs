@@ -29,73 +29,93 @@
       "ocean": {
         "$description": "Aquatic blues and greens ranging from shallow seafoam to deep abyss",
         "seafoam": {
-          "$value": "#93e9be"
+          "$value": "#93e9be",
+          "$type": "color"
         },
         "aquamarine": {
-          "$value": "#7fffd4"
+          "$value": "#7fffd4",
+          "$type": "color"
         },
         "tidal": {
-          "$value": "#5f9ea0"
+          "$value": "#5f9ea0",
+          "$type": "color"
         },
         "deepSea": {
-          "$value": "#006994"
+          "$value": "#006994",
+          "$type": "color"
         },
         "abyss": {
-          "$value": "#00334e"
+          "$value": "#00334e",
+          "$type": "color"
         }
       },
       "winter": {
         "$description": "Icy cool tones inspired by frost, glaciers, and winter nights",
         "frost": {
-          "$value": "#e8f4f8"
+          "$value": "#e8f4f8",
+          "$type": "color"
         },
         "ice": {
-          "$value": "#d4f1f9"
+          "$value": "#d4f1f9",
+          "$type": "color"
         },
         "glacier": {
-          "$value": "#a8dadc"
+          "$value": "#a8dadc",
+          "$type": "color"
         },
         "steel": {
-          "$value": "#457b9d"
+          "$value": "#457b9d",
+          "$type": "color"
         },
         "midnight": {
-          "$value": "#1d3557"
+          "$value": "#1d3557",
+          "$type": "color"
         }
       },
       "coolNeutral": {
         "$description": "Blue-tinted neutrals for cool-themed backgrounds and surfaces",
         "snow": {
-          "$value": "#f8f9fa"
+          "$value": "#f8f9fa",
+          "$type": "color"
         },
         "cloud": {
-          "$value": "#e9ecef"
+          "$value": "#e9ecef",
+          "$type": "color"
         },
         "fog": {
-          "$value": "#ced4da"
+          "$value": "#ced4da",
+          "$type": "color"
         },
         "ash": {
-          "$value": "#adb5bd"
+          "$value": "#adb5bd",
+          "$type": "color"
         },
         "charcoal": {
-          "$value": "#495057"
+          "$value": "#495057",
+          "$type": "color"
         }
       },
       "accent": {
         "$description": "Vivid blue accent colors for interactive elements and emphasis",
         "sapphire": {
-          "$value": "#0f52ba"
+          "$value": "#0f52ba",
+          "$type": "color"
         },
         "cobalt": {
-          "$value": "#0047ab"
+          "$value": "#0047ab",
+          "$type": "color"
         },
         "cerulean": {
-          "$value": "#007ba7"
+          "$value": "#007ba7",
+          "$type": "color"
         },
         "arctic": {
-          "$value": "#4cc9f0"
+          "$value": "#4cc9f0",
+          "$type": "color"
         },
         "periwinkle": {
-          "$value": "#7b88d1"
+          "$value": "#7b88d1",
+          "$type": "color"
         }
       }
     }

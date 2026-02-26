@@ -28,757 +28,994 @@
       "$type": "color",
       "gray": {
         "25": {
-          "$value": "#FFFFFF"
+          "$value": "#FFFFFF",
+          "$type": "color"
         },
         "50": {
-          "$value": "#F8F8F8"
+          "$value": "#F8F8F8",
+          "$type": "color"
         },
         "75": {
-          "$value": "#F3F3F3"
+          "$value": "#F3F3F3",
+          "$type": "color"
         },
         "100": {
-          "$value": "#E9E9E9"
+          "$value": "#E9E9E9",
+          "$type": "color"
         },
         "200": {
-          "$value": "#E1E1E1"
+          "$value": "#E1E1E1",
+          "$type": "color"
         },
         "300": {
-          "$value": "#DADADA"
+          "$value": "#DADADA",
+          "$type": "color"
         },
         "400": {
-          "$value": "#C6C6C6"
+          "$value": "#C6C6C6",
+          "$type": "color"
         },
         "500": {
-          "$value": "#8F8F8F"
+          "$value": "#8F8F8F",
+          "$type": "color"
         },
         "600": {
-          "$value": "#717171"
+          "$value": "#717171",
+          "$type": "color"
         },
         "700": {
-          "$value": "#505050"
+          "$value": "#505050",
+          "$type": "color"
         },
         "800": {
-          "$value": "#292929"
+          "$value": "#292929",
+          "$type": "color"
         },
         "900": {
-          "$value": "#131313"
+          "$value": "#131313",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#000000"
+          "$value": "#000000",
+          "$type": "color"
         },
         "$description": "Spectrum gray scale (light theme)"
       },
       "blue": {
         "100": {
-          "$value": "#F5F9FF"
+          "$value": "#F5F9FF",
+          "$type": "color"
         },
         "200": {
-          "$value": "#E5F0FE"
+          "$value": "#E5F0FE",
+          "$type": "color"
         },
         "300": {
-          "$value": "#CBE2FE"
+          "$value": "#CBE2FE",
+          "$type": "color"
         },
         "400": {
-          "$value": "#ACCFFD"
+          "$value": "#ACCFFD",
+          "$type": "color"
         },
         "500": {
-          "$value": "#8EB9FC"
+          "$value": "#8EB9FC",
+          "$type": "color"
         },
         "600": {
-          "$value": "#729EFD"
+          "$value": "#729EFD",
+          "$type": "color"
         },
         "700": {
-          "$value": "#5D89FF"
+          "$value": "#5D89FF",
+          "$type": "color"
         },
         "800": {
-          "$value": "#4B75FF"
+          "$value": "#4B75FF",
+          "$type": "color"
         },
         "900": {
-          "$value": "#3B63FB"
+          "$value": "#3B63FB",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#274DEA"
+          "$value": "#274DEA",
+          "$type": "color"
         },
         "1100": {
-          "$value": "#1D3ECF"
+          "$value": "#1D3ECF",
+          "$type": "color"
         },
         "1200": {
-          "$value": "#1532AD"
+          "$value": "#1532AD",
+          "$type": "color"
         },
         "1300": {
-          "$value": "#10288C"
+          "$value": "#10288C",
+          "$type": "color"
         },
         "1400": {
-          "$value": "#0C1F69"
+          "$value": "#0C1F69",
+          "$type": "color"
         },
         "1500": {
-          "$value": "#0E1843"
+          "$value": "#0E1843",
+          "$type": "color"
         },
         "1600": {
-          "$value": "#070B1E"
+          "$value": "#070B1E",
+          "$type": "color"
         },
         "$description": "Spectrum blue scale"
       },
       "red": {
         "100": {
-          "$value": "#FFF6F5"
+          "$value": "#FFF6F5",
+          "$type": "color"
         },
         "200": {
-          "$value": "#FFEBE8"
+          "$value": "#FFEBE8",
+          "$type": "color"
         },
         "300": {
-          "$value": "#FFD6D1"
+          "$value": "#FFD6D1",
+          "$type": "color"
         },
         "400": {
-          "$value": "#FFBCB4"
+          "$value": "#FFBCB4",
+          "$type": "color"
         },
         "500": {
-          "$value": "#FF9D91"
+          "$value": "#FF9D91",
+          "$type": "color"
         },
         "600": {
-          "$value": "#FF7665"
+          "$value": "#FF7665",
+          "$type": "color"
         },
         "700": {
-          "$value": "#FF513D"
+          "$value": "#FF513D",
+          "$type": "color"
         },
         "800": {
-          "$value": "#F03823"
+          "$value": "#F03823",
+          "$type": "color"
         },
         "900": {
-          "$value": "#D73220"
+          "$value": "#D73220",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#B72818"
+          "$value": "#B72818",
+          "$type": "color"
         },
         "1100": {
-          "$value": "#9C2113"
+          "$value": "#9C2113",
+          "$type": "color"
         },
         "1200": {
-          "$value": "#811B0E"
+          "$value": "#811B0E",
+          "$type": "color"
         },
         "1300": {
-          "$value": "#68150A"
+          "$value": "#68150A",
+          "$type": "color"
         },
         "1400": {
-          "$value": "#501006"
+          "$value": "#501006",
+          "$type": "color"
         },
         "1500": {
-          "$value": "#3B0B04"
+          "$value": "#3B0B04",
+          "$type": "color"
         },
         "1600": {
-          "$value": "#1D0502"
+          "$value": "#1D0502",
+          "$type": "color"
         },
         "$description": "Spectrum red scale"
       },
       "orange": {
         "100": {
-          "$value": "#FFF6E7"
+          "$value": "#FFF6E7",
+          "$type": "color"
         },
         "200": {
-          "$value": "#FFECCF"
+          "$value": "#FFECCF",
+          "$type": "color"
         },
         "300": {
-          "$value": "#FFDA9E"
+          "$value": "#FFDA9E",
+          "$type": "color"
         },
         "400": {
-          "$value": "#FFC15E"
+          "$value": "#FFC15E",
+          "$type": "color"
         },
         "500": {
-          "$value": "#FFA213"
+          "$value": "#FFA213",
+          "$type": "color"
         },
         "600": {
-          "$value": "#FC7D00"
+          "$value": "#FC7D00",
+          "$type": "color"
         },
         "700": {
-          "$value": "#E86A00"
+          "$value": "#E86A00",
+          "$type": "color"
         },
         "800": {
-          "$value": "#D45B00"
+          "$value": "#D45B00",
+          "$type": "color"
         },
         "900": {
-          "$value": "#C24E00"
+          "$value": "#C24E00",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#A73E00"
+          "$value": "#A73E00",
+          "$type": "color"
         },
         "1100": {
-          "$value": "#903300"
+          "$value": "#903300",
+          "$type": "color"
         },
         "1200": {
-          "$value": "#762900"
+          "$value": "#762900",
+          "$type": "color"
         },
         "1300": {
-          "$value": "#5F2000"
+          "$value": "#5F2000",
+          "$type": "color"
         },
         "1400": {
-          "$value": "#491800"
+          "$value": "#491800",
+          "$type": "color"
         },
         "1500": {
-          "$value": "#341200"
+          "$value": "#341200",
+          "$type": "color"
         },
         "1600": {
-          "$value": "#190800"
+          "$value": "#190800",
+          "$type": "color"
         },
         "$description": "Spectrum orange scale"
       },
       "yellow": {
         "100": {
-          "$value": "#FFF8CC"
+          "$value": "#FFF8CC",
+          "$type": "color"
         },
         "200": {
-          "$value": "#FFF197"
+          "$value": "#FFF197",
+          "$type": "color"
         },
         "300": {
-          "$value": "#FFDE2C"
+          "$value": "#FFDE2C",
+          "$type": "color"
         },
         "400": {
-          "$value": "#F5C700"
+          "$value": "#F5C700",
+          "$type": "color"
         },
         "500": {
-          "$value": "#E6AF00"
+          "$value": "#E6AF00",
+          "$type": "color"
         },
         "600": {
-          "$value": "#D29500"
+          "$value": "#D29500",
+          "$type": "color"
         },
         "700": {
-          "$value": "#C18300"
+          "$value": "#C18300",
+          "$type": "color"
         },
         "800": {
-          "$value": "#AF7400"
+          "$value": "#AF7400",
+          "$type": "color"
         },
         "900": {
-          "$value": "#9E6600"
+          "$value": "#9E6600",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#865500"
+          "$value": "#865500",
+          "$type": "color"
         },
         "1100": {
-          "$value": "#724800"
+          "$value": "#724800",
+          "$type": "color"
         },
         "1200": {
-          "$value": "#5D3B00"
+          "$value": "#5D3B00",
+          "$type": "color"
         },
         "1300": {
-          "$value": "#4B2F00"
+          "$value": "#4B2F00",
+          "$type": "color"
         },
         "1400": {
-          "$value": "#382300"
+          "$value": "#382300",
+          "$type": "color"
         },
         "1500": {
-          "$value": "#281900"
+          "$value": "#281900",
+          "$type": "color"
         },
         "1600": {
-          "$value": "#120B00"
+          "$value": "#120B00",
+          "$type": "color"
         },
         "$description": "Spectrum yellow scale"
       },
       "green": {
         "100": {
-          "$value": "#EDFCF1"
+          "$value": "#EDFCF1",
+          "$type": "color"
         },
         "200": {
-          "$value": "#D7F7E1"
+          "$value": "#D7F7E1",
+          "$type": "color"
         },
         "300": {
-          "$value": "#ADEEC5"
+          "$value": "#ADEEC5",
+          "$type": "color"
         },
         "400": {
-          "$value": "#6BE3A2"
+          "$value": "#6BE3A2",
+          "$type": "color"
         },
         "500": {
-          "$value": "#2BD17D"
+          "$value": "#2BD17D",
+          "$type": "color"
         },
         "600": {
-          "$value": "#12B867"
+          "$value": "#12B867",
+          "$type": "color"
         },
         "700": {
-          "$value": "#0BA45D"
+          "$value": "#0BA45D",
+          "$type": "color"
         },
         "800": {
-          "$value": "#079355"
+          "$value": "#079355",
+          "$type": "color"
         },
         "900": {
-          "$value": "#05834E"
+          "$value": "#05834E",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#036E45"
+          "$value": "#036E45",
+          "$type": "color"
         },
         "1100": {
-          "$value": "#025D3C"
+          "$value": "#025D3C",
+          "$type": "color"
         },
         "1200": {
-          "$value": "#014C34"
+          "$value": "#014C34",
+          "$type": "color"
         },
         "1300": {
-          "$value": "#003D2C"
+          "$value": "#003D2C",
+          "$type": "color"
         },
         "1400": {
-          "$value": "#002E22"
+          "$value": "#002E22",
+          "$type": "color"
         },
         "1500": {
-          "$value": "#002119"
+          "$value": "#002119",
+          "$type": "color"
         },
         "1600": {
-          "$value": "#000F0C"
+          "$value": "#000F0C",
+          "$type": "color"
         },
         "$description": "Spectrum green scale"
       },
       "cyan": {
         "100": {
-          "$value": "#EEFAFE"
+          "$value": "#EEFAFE",
+          "$type": "color"
         },
         "200": {
-          "$value": "#D9F4FD"
+          "$value": "#D9F4FD",
+          "$type": "color"
         },
         "300": {
-          "$value": "#B7E7FC"
+          "$value": "#B7E7FC",
+          "$type": "color"
         },
         "400": {
-          "$value": "#8AD5FF"
+          "$value": "#8AD5FF",
+          "$type": "color"
         },
         "500": {
-          "$value": "#5CC0FF"
+          "$value": "#5CC0FF",
+          "$type": "color"
         },
         "600": {
-          "$value": "#30A7FE"
+          "$value": "#30A7FE",
+          "$type": "color"
         },
         "700": {
-          "$value": "#1D95E7"
+          "$value": "#1D95E7",
+          "$type": "color"
         },
         "800": {
-          "$value": "#1286CD"
+          "$value": "#1286CD",
+          "$type": "color"
         },
         "900": {
-          "$value": "#0B78B3"
+          "$value": "#0B78B3",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#046691"
+          "$value": "#046691",
+          "$type": "color"
         },
         "1100": {
-          "$value": "#005779"
+          "$value": "#005779",
+          "$type": "color"
         },
         "1200": {
-          "$value": "#004762"
+          "$value": "#004762",
+          "$type": "color"
         },
         "1300": {
-          "$value": "#00394E"
+          "$value": "#00394E",
+          "$type": "color"
         },
         "1400": {
-          "$value": "#002B3B"
+          "$value": "#002B3B",
+          "$type": "color"
         },
         "1500": {
-          "$value": "#001F2B"
+          "$value": "#001F2B",
+          "$type": "color"
         },
         "1600": {
-          "$value": "#000E14"
+          "$value": "#000E14",
+          "$type": "color"
         },
         "$description": "Spectrum cyan scale"
       },
       "seafoam": {
         "100": {
-          "$value": "#EBFBF6"
+          "$value": "#EBFBF6",
+          "$type": "color"
         },
         "200": {
-          "$value": "#D3F6EA"
+          "$value": "#D3F6EA",
+          "$type": "color"
         },
         "300": {
-          "$value": "#A9EDD8"
+          "$value": "#A9EDD8",
+          "$type": "color"
         },
         "400": {
-          "$value": "#5CE1C2"
+          "$value": "#5CE1C2",
+          "$type": "color"
         },
         "500": {
-          "$value": "#10CFA9"
+          "$value": "#10CFA9",
+          "$type": "color"
         },
         "600": {
-          "$value": "#0DB595"
+          "$value": "#0DB595",
+          "$type": "color"
         },
         "700": {
-          "$value": "#0BA286"
+          "$value": "#0BA286",
+          "$type": "color"
         },
         "800": {
-          "$value": "#099078"
+          "$value": "#099078",
+          "$type": "color"
         },
         "900": {
-          "$value": "#07816D"
+          "$value": "#07816D",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#056C5C"
+          "$value": "#056C5C",
+          "$type": "color"
         },
         "1100": {
-          "$value": "#035C50"
+          "$value": "#035C50",
+          "$type": "color"
         },
         "1200": {
-          "$value": "#014B43"
+          "$value": "#014B43",
+          "$type": "color"
         },
         "1300": {
-          "$value": "#003C36"
+          "$value": "#003C36",
+          "$type": "color"
         },
         "1400": {
-          "$value": "#002E28"
+          "$value": "#002E28",
+          "$type": "color"
         },
         "1500": {
-          "$value": "#00211D"
+          "$value": "#00211D",
+          "$type": "color"
         },
         "1600": {
-          "$value": "#000F0E"
+          "$value": "#000F0E",
+          "$type": "color"
         },
         "$description": "Spectrum seafoam scale"
       },
       "indigo": {
         "100": {
-          "$value": "#F7F8FF"
+          "$value": "#F7F8FF",
+          "$type": "color"
         },
         "200": {
-          "$value": "#EBEEFF"
+          "$value": "#EBEEFF",
+          "$type": "color"
         },
         "300": {
-          "$value": "#D8DEFF"
+          "$value": "#D8DEFF",
+          "$type": "color"
         },
         "400": {
-          "$value": "#C0C9FF"
+          "$value": "#C0C9FF",
+          "$type": "color"
         },
         "500": {
-          "$value": "#A7B2FF"
+          "$value": "#A7B2FF",
+          "$type": "color"
         },
         "600": {
-          "$value": "#9197FE"
+          "$value": "#9197FE",
+          "$type": "color"
         },
         "700": {
-          "$value": "#8480FE"
+          "$value": "#8480FE",
+          "$type": "color"
         },
         "800": {
-          "$value": "#7A6AFD"
+          "$value": "#7A6AFD",
+          "$type": "color"
         },
         "900": {
-          "$value": "#7155FA"
+          "$value": "#7155FA",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#6338EE"
+          "$value": "#6338EE",
+          "$type": "color"
         },
         "1100": {
-          "$value": "#5424DB"
+          "$value": "#5424DB",
+          "$type": "color"
         },
         "1200": {
-          "$value": "#4513BF"
+          "$value": "#4513BF",
+          "$type": "color"
         },
         "1300": {
-          "$value": "#3706A0"
+          "$value": "#3706A0",
+          "$type": "color"
         },
         "1400": {
-          "$value": "#2A0081"
+          "$value": "#2A0081",
+          "$type": "color"
         },
         "1500": {
-          "$value": "#1F0062"
+          "$value": "#1F0062",
+          "$type": "color"
         },
         "1600": {
-          "$value": "#110036"
+          "$value": "#110036",
+          "$type": "color"
         },
         "$description": "Spectrum indigo scale"
       },
       "purple": {
         "100": {
-          "$value": "#FBF7FE"
+          "$value": "#FBF7FE",
+          "$type": "color"
         },
         "200": {
-          "$value": "#F4EBFC"
+          "$value": "#F4EBFC",
+          "$type": "color"
         },
         "300": {
-          "$value": "#EBDAF9"
+          "$value": "#EBDAF9",
+          "$type": "color"
         },
         "400": {
-          "$value": "#DDC1F6"
+          "$value": "#DDC1F6",
+          "$type": "color"
         },
         "500": {
-          "$value": "#D0A7F3"
+          "$value": "#D0A7F3",
+          "$type": "color"
         },
         "600": {
-          "$value": "#BF8AEE"
+          "$value": "#BF8AEE",
+          "$type": "color"
         },
         "700": {
-          "$value": "#B272EB"
+          "$value": "#B272EB",
+          "$type": "color"
         },
         "800": {
-          "$value": "#A65CE7"
+          "$value": "#A65CE7",
+          "$type": "color"
         },
         "900": {
-          "$value": "#9A47E2"
+          "$value": "#9A47E2",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#8628D9"
+          "$value": "#8628D9",
+          "$type": "color"
         },
         "1100": {
-          "$value": "#730DCC"
+          "$value": "#730DCC",
+          "$type": "color"
         },
         "1200": {
-          "$value": "#5D00B1"
+          "$value": "#5D00B1",
+          "$type": "color"
         },
         "1300": {
-          "$value": "#4B0090"
+          "$value": "#4B0090",
+          "$type": "color"
         },
         "1400": {
-          "$value": "#3B006F"
+          "$value": "#3B006F",
+          "$type": "color"
         },
         "1500": {
-          "$value": "#2C0054"
+          "$value": "#2C0054",
+          "$type": "color"
         },
         "1600": {
-          "$value": "#17002D"
+          "$value": "#17002D",
+          "$type": "color"
         },
         "$description": "Spectrum purple scale"
       },
       "fuchsia": {
         "100": {
-          "$value": "#FEF6FF"
+          "$value": "#FEF6FF",
+          "$type": "color"
         },
         "200": {
-          "$value": "#FDE9FF"
+          "$value": "#FDE9FF",
+          "$type": "color"
         },
         "300": {
-          "$value": "#FAD3FF"
+          "$value": "#FAD3FF",
+          "$type": "color"
         },
         "400": {
-          "$value": "#F7B5FF"
+          "$value": "#F7B5FF",
+          "$type": "color"
         },
         "500": {
-          "$value": "#F393FF"
+          "$value": "#F393FF",
+          "$type": "color"
         },
         "600": {
-          "$value": "#EC69FF"
+          "$value": "#EC69FF",
+          "$type": "color"
         },
         "700": {
-          "$value": "#DF4DF5"
+          "$value": "#DF4DF5",
+          "$type": "color"
         },
         "800": {
-          "$value": "#C844DC"
+          "$value": "#C844DC",
+          "$type": "color"
         },
         "900": {
-          "$value": "#B539C8"
+          "$value": "#B539C8",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#9C28AF"
+          "$value": "#9C28AF",
+          "$type": "color"
         },
         "1100": {
-          "$value": "#871B9A"
+          "$value": "#871B9A",
+          "$type": "color"
         },
         "1200": {
-          "$value": "#710F83"
+          "$value": "#710F83",
+          "$type": "color"
         },
         "1300": {
-          "$value": "#5C046D"
+          "$value": "#5C046D",
+          "$type": "color"
         },
         "1400": {
-          "$value": "#480058"
+          "$value": "#480058",
+          "$type": "color"
         },
         "1500": {
-          "$value": "#360042"
+          "$value": "#360042",
+          "$type": "color"
         },
         "1600": {
-          "$value": "#1D0023"
+          "$value": "#1D0023",
+          "$type": "color"
         },
         "$description": "Spectrum fuchsia scale"
       },
       "magenta": {
         "100": {
-          "$value": "#FFF5F8"
+          "$value": "#FFF5F8",
+          "$type": "color"
         },
         "200": {
-          "$value": "#FFE8F0"
+          "$value": "#FFE8F0",
+          "$type": "color"
         },
         "300": {
-          "$value": "#FFD5E3"
+          "$value": "#FFD5E3",
+          "$type": "color"
         },
         "400": {
-          "$value": "#FFB9D0"
+          "$value": "#FFB9D0",
+          "$type": "color"
         },
         "500": {
-          "$value": "#FF98BB"
+          "$value": "#FF98BB",
+          "$type": "color"
         },
         "600": {
-          "$value": "#FF709F"
+          "$value": "#FF709F",
+          "$type": "color"
         },
         "700": {
-          "$value": "#FF4885"
+          "$value": "#FF4885",
+          "$type": "color"
         },
         "800": {
-          "$value": "#F02D6E"
+          "$value": "#F02D6E",
+          "$type": "color"
         },
         "900": {
-          "$value": "#D92361"
+          "$value": "#D92361",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#BA1650"
+          "$value": "#BA1650",
+          "$type": "color"
         },
         "1100": {
-          "$value": "#A3053E"
+          "$value": "#A3053E",
+          "$type": "color"
         },
         "1200": {
-          "$value": "#880033"
+          "$value": "#880033",
+          "$type": "color"
         },
         "1300": {
-          "$value": "#6F0028"
+          "$value": "#6F0028",
+          "$type": "color"
         },
         "1400": {
-          "$value": "#56001E"
+          "$value": "#56001E",
+          "$type": "color"
         },
         "1500": {
-          "$value": "#400016"
+          "$value": "#400016",
+          "$type": "color"
         },
         "1600": {
-          "$value": "#23000C"
+          "$value": "#23000C",
+          "$type": "color"
         },
         "$description": "Spectrum magenta scale"
       },
       "pink": {
         "100": {
-          "$value": "#FFF6FC"
+          "$value": "#FFF6FC",
+          "$type": "color"
         },
         "200": {
-          "$value": "#FFE8F7"
+          "$value": "#FFE8F7",
+          "$type": "color"
         },
         "300": {
-          "$value": "#FFD3F0"
+          "$value": "#FFD3F0",
+          "$type": "color"
         },
         "400": {
-          "$value": "#FFB5E6"
+          "$value": "#FFB5E6",
+          "$type": "color"
         },
         "500": {
-          "$value": "#FF94DB"
+          "$value": "#FF94DB",
+          "$type": "color"
         },
         "600": {
-          "$value": "#FF67CC"
+          "$value": "#FF67CC",
+          "$type": "color"
         },
         "700": {
-          "$value": "#F24CB8"
+          "$value": "#F24CB8",
+          "$type": "color"
         },
         "800": {
-          "$value": "#E434A3"
+          "$value": "#E434A3",
+          "$type": "color"
         },
         "900": {
-          "$value": "#CE2A92"
+          "$value": "#CE2A92",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#B01F7B"
+          "$value": "#B01F7B",
+          "$type": "color"
         },
         "1100": {
-          "$value": "#981668"
+          "$value": "#981668",
+          "$type": "color"
         },
         "1200": {
-          "$value": "#800C55"
+          "$value": "#800C55",
+          "$type": "color"
         },
         "1300": {
-          "$value": "#690344"
+          "$value": "#690344",
+          "$type": "color"
         },
         "1400": {
-          "$value": "#530035"
+          "$value": "#530035",
+          "$type": "color"
         },
         "1500": {
-          "$value": "#3E0027"
+          "$value": "#3E0027",
+          "$type": "color"
         },
         "1600": {
-          "$value": "#210015"
+          "$value": "#210015",
+          "$type": "color"
         },
         "$description": "Spectrum pink scale"
       },
       "chartreuse": {
         "100": {
-          "$value": "#F6FBDE"
+          "$value": "#F6FBDE",
+          "$type": "color"
         },
         "200": {
-          "$value": "#EAF6AD"
+          "$value": "#EAF6AD",
+          "$type": "color"
         },
         "300": {
-          "$value": "#D0EC46"
+          "$value": "#D0EC46",
+          "$type": "color"
         },
         "400": {
-          "$value": "#B6DB00"
+          "$value": "#B6DB00",
+          "$type": "color"
         },
         "500": {
-          "$value": "#A3C400"
+          "$value": "#A3C400",
+          "$type": "color"
         },
         "600": {
-          "$value": "#8FAC00"
+          "$value": "#8FAC00",
+          "$type": "color"
         },
         "700": {
-          "$value": "#809900"
+          "$value": "#809900",
+          "$type": "color"
         },
         "800": {
-          "$value": "#728900"
+          "$value": "#728900",
+          "$type": "color"
         },
         "900": {
-          "$value": "#667A00"
+          "$value": "#667A00",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#566700"
+          "$value": "#566700",
+          "$type": "color"
         },
         "1100": {
-          "$value": "#495700"
+          "$value": "#495700",
+          "$type": "color"
         },
         "1200": {
-          "$value": "#3C4700"
+          "$value": "#3C4700",
+          "$type": "color"
         },
         "1300": {
-          "$value": "#2F3900"
+          "$value": "#2F3900",
+          "$type": "color"
         },
         "1400": {
-          "$value": "#232B00"
+          "$value": "#232B00",
+          "$type": "color"
         },
         "1500": {
-          "$value": "#191E00"
+          "$value": "#191E00",
+          "$type": "color"
         },
         "1600": {
-          "$value": "#0B0E00"
+          "$value": "#0B0E00",
+          "$type": "color"
         },
         "$description": "Spectrum chartreuse scale"
       },
       "celery": {
         "100": {
-          "$value": "#EBFFDC"
+          "$value": "#EBFFDC",
+          "$type": "color"
         },
         "200": {
-          "$value": "#C5FF9C"
+          "$value": "#C5FF9C",
+          "$type": "color"
         },
         "300": {
-          "$value": "#9DF75C"
+          "$value": "#9DF75C",
+          "$type": "color"
         },
         "400": {
-          "$value": "#81E43A"
+          "$value": "#81E43A",
+          "$type": "color"
         },
         "500": {
-          "$value": "#6ECE2A"
+          "$value": "#6ECE2A",
+          "$type": "color"
         },
         "600": {
-          "$value": "#5DB41F"
+          "$value": "#5DB41F",
+          "$type": "color"
         },
         "700": {
-          "$value": "#52A119"
+          "$value": "#52A119",
+          "$type": "color"
         },
         "800": {
-          "$value": "#489014"
+          "$value": "#489014",
+          "$type": "color"
         },
         "900": {
-          "$value": "#408111"
+          "$value": "#408111",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#346D0C"
+          "$value": "#346D0C",
+          "$type": "color"
         },
         "1100": {
-          "$value": "#2C5C09"
+          "$value": "#2C5C09",
+          "$type": "color"
         },
         "1200": {
-          "$value": "#234B06"
+          "$value": "#234B06",
+          "$type": "color"
         },
         "1300": {
-          "$value": "#1B3C03"
+          "$value": "#1B3C03",
+          "$type": "color"
         },
         "1400": {
-          "$value": "#132E00"
+          "$value": "#132E00",
+          "$type": "color"
         },
         "1500": {
-          "$value": "#0C2100"
+          "$value": "#0C2100",
+          "$type": "color"
         },
         "1600": {
-          "$value": "#040F00"
+          "$value": "#040F00",
+          "$type": "color"
         },
         "$description": "Spectrum celery scale"
       }

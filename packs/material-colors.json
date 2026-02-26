@@ -28,242 +28,306 @@
         "$description": "Material Design 3 light theme baseline colors",
         "primary": {
           "$value": "#6750A4",
-          "$description": "Primary brand color"
+          "$description": "Primary brand color",
+          "$type": "color"
         },
         "onPrimary": {
           "$value": "#FFFFFF",
-          "$description": "Content on primary"
+          "$description": "Content on primary",
+          "$type": "color"
         },
         "primaryContainer": {
           "$value": "#EADDFF",
-          "$description": "Primary container"
+          "$description": "Primary container",
+          "$type": "color"
         },
         "onPrimaryContainer": {
           "$value": "#21005D",
-          "$description": "Content on primary container"
+          "$description": "Content on primary container",
+          "$type": "color"
         },
         "secondary": {
           "$value": "#625B71",
-          "$description": "Secondary brand color"
+          "$description": "Secondary brand color",
+          "$type": "color"
         },
         "onSecondary": {
           "$value": "#FFFFFF",
-          "$description": "Content on secondary"
+          "$description": "Content on secondary",
+          "$type": "color"
         },
         "secondaryContainer": {
           "$value": "#E8DEF8",
-          "$description": "Secondary container"
+          "$description": "Secondary container",
+          "$type": "color"
         },
         "onSecondaryContainer": {
           "$value": "#1D192B",
-          "$description": "Content on secondary container"
+          "$description": "Content on secondary container",
+          "$type": "color"
         },
         "tertiary": {
           "$value": "#7D5260",
-          "$description": "Tertiary accent color"
+          "$description": "Tertiary accent color",
+          "$type": "color"
         },
         "onTertiary": {
           "$value": "#FFFFFF",
-          "$description": "Content on tertiary"
+          "$description": "Content on tertiary",
+          "$type": "color"
         },
         "tertiaryContainer": {
           "$value": "#FFD8E4",
-          "$description": "Tertiary container"
+          "$description": "Tertiary container",
+          "$type": "color"
         },
         "onTertiaryContainer": {
           "$value": "#31111D",
-          "$description": "Content on tertiary container"
+          "$description": "Content on tertiary container",
+          "$type": "color"
         },
         "error": {
           "$value": "#B3261E",
-          "$description": "Error color"
+          "$description": "Error color",
+          "$type": "color"
         },
         "onError": {
           "$value": "#FFFFFF",
-          "$description": "Content on error"
+          "$description": "Content on error",
+          "$type": "color"
         },
         "errorContainer": {
           "$value": "#F9DEDC",
-          "$description": "Error container"
+          "$description": "Error container",
+          "$type": "color"
         },
         "onErrorContainer": {
           "$value": "#410E0B",
-          "$description": "Content on error container"
+          "$description": "Content on error container",
+          "$type": "color"
         },
         "surface": {
           "$value": "#FEF7FF",
-          "$description": "Base surface color"
+          "$description": "Base surface color",
+          "$type": "color"
         },
         "onSurface": {
           "$value": "#1C1B1F",
-          "$description": "Content on surface"
+          "$description": "Content on surface",
+          "$type": "color"
         },
         "surfaceVariant": {
           "$value": "#E7E0EC",
-          "$description": "Surface variant"
+          "$description": "Surface variant",
+          "$type": "color"
         },
         "onSurfaceVariant": {
           "$value": "#49454F",
-          "$description": "Content on surface variant"
+          "$description": "Content on surface variant",
+          "$type": "color"
         },
         "surfaceContainerLowest": {
-          "$value": "#FFFFFF"
+          "$value": "#FFFFFF",
+          "$type": "color"
         },
         "surfaceContainerLow": {
-          "$value": "#F7F2FA"
+          "$value": "#F7F2FA",
+          "$type": "color"
         },
         "surfaceContainer": {
-          "$value": "#F3EDF7"
+          "$value": "#F3EDF7",
+          "$type": "color"
         },
         "surfaceContainerHigh": {
-          "$value": "#ECE6F0"
+          "$value": "#ECE6F0",
+          "$type": "color"
         },
         "surfaceContainerHighest": {
-          "$value": "#E6E0E9"
+          "$value": "#E6E0E9",
+          "$type": "color"
         },
         "outline": {
           "$value": "#79747E",
-          "$description": "Border/outline color"
+          "$description": "Border/outline color",
+          "$type": "color"
         },
         "outlineVariant": {
           "$value": "#CAC4D0",
-          "$description": "Subtle borders"
+          "$description": "Subtle borders",
+          "$type": "color"
         },
         "inverseSurface": {
-          "$value": "#313033"
+          "$value": "#313033",
+          "$type": "color"
         },
         "inverseOnSurface": {
-          "$value": "#F4EFF4"
+          "$value": "#F4EFF4",
+          "$type": "color"
         },
         "inversePrimary": {
-          "$value": "#D0BCFF"
+          "$value": "#D0BCFF",
+          "$type": "color"
         },
         "scrim": {
-          "$value": "#000000"
+          "$value": "#000000",
+          "$type": "color"
         },
         "shadow": {
-          "$value": "#000000"
+          "$value": "#000000",
+          "$type": "color"
         }
       },
       "dark": {
         "$description": "Material Design 3 dark theme baseline colors",
         "primary": {
           "$value": "#D0BCFF",
-          "$description": "Primary brand color"
+          "$description": "Primary brand color",
+          "$type": "color"
         },
         "onPrimary": {
           "$value": "#381E72",
-          "$description": "Content on primary"
+          "$description": "Content on primary",
+          "$type": "color"
         },
         "primaryContainer": {
           "$value": "#4F378B",
-          "$description": "Primary container"
+          "$description": "Primary container",
+          "$type": "color"
         },
         "onPrimaryContainer": {
           "$value": "#EADDFF",
-          "$description": "Content on primary container"
+          "$description": "Content on primary container",
+          "$type": "color"
         },
         "secondary": {
           "$value": "#CCC2DC",
-          "$description": "Secondary brand color"
+          "$description": "Secondary brand color",
+          "$type": "color"
         },
         "onSecondary": {
           "$value": "#332D41",
-          "$description": "Content on secondary"
+          "$description": "Content on secondary",
+          "$type": "color"
         },
         "secondaryContainer": {
           "$value": "#4A4458",
-          "$description": "Secondary container"
+          "$description": "Secondary container",
+          "$type": "color"
         },
         "onSecondaryContainer": {
           "$value": "#E8DEF8",
-          "$description": "Content on secondary container"
+          "$description": "Content on secondary container",
+          "$type": "color"
         },
         "tertiary": {
           "$value": "#EFB8C8",
-          "$description": "Tertiary accent color"
+          "$description": "Tertiary accent color",
+          "$type": "color"
         },
         "onTertiary": {
           "$value": "#492532",
-          "$description": "Content on tertiary"
+          "$description": "Content on tertiary",
+          "$type": "color"
         },
         "tertiaryContainer": {
           "$value": "#633B48",
-          "$description": "Tertiary container"
+          "$description": "Tertiary container",
+          "$type": "color"
         },
         "onTertiaryContainer": {
           "$value": "#FFD8E4",
-          "$description": "Content on tertiary container"
+          "$description": "Content on tertiary container",
+          "$type": "color"
         },
         "error": {
           "$value": "#F2B8B5",
-          "$description": "Error color"
+          "$description": "Error color",
+          "$type": "color"
         },
         "onError": {
           "$value": "#601410",
-          "$description": "Content on error"
+          "$description": "Content on error",
+          "$type": "color"
         },
         "errorContainer": {
           "$value": "#8C1D18",
-          "$description": "Error container"
+          "$description": "Error container",
+          "$type": "color"
         },
         "onErrorContainer": {
           "$value": "#F9DEDC",
-          "$description": "Content on error container"
+          "$description": "Content on error container",
+          "$type": "color"
         },
         "surface": {
           "$value": "#141218",
-          "$description": "Base surface color"
+          "$description": "Base surface color",
+          "$type": "color"
         },
         "onSurface": {
           "$value": "#E6E0E9",
-          "$description": "Content on surface"
+          "$description": "Content on surface",
+          "$type": "color"
         },
         "surfaceVariant": {
           "$value": "#49454F",
-          "$description": "Surface variant"
+          "$description": "Surface variant",
+          "$type": "color"
         },
         "onSurfaceVariant": {
           "$value": "#CAC4D0",
-          "$description": "Content on surface variant"
+          "$description": "Content on surface variant",
+          "$type": "color"
         },
         "surfaceContainerLowest": {
-          "$value": "#0F0D13"
+          "$value": "#0F0D13",
+          "$type": "color"
         },
         "surfaceContainerLow": {
-          "$value": "#1D1B20"
+          "$value": "#1D1B20",
+          "$type": "color"
         },
         "surfaceContainer": {
-          "$value": "#211F26"
+          "$value": "#211F26",
+          "$type": "color"
         },
         "surfaceContainerHigh": {
-          "$value": "#2B2930"
+          "$value": "#2B2930",
+          "$type": "color"
         },
         "surfaceContainerHighest": {
-          "$value": "#36343B"
+          "$value": "#36343B",
+          "$type": "color"
         },
         "outline": {
           "$value": "#938F99",
-          "$description": "Border/outline color"
+          "$description": "Border/outline color",
+          "$type": "color"
         },
         "outlineVariant": {
           "$value": "#49454F",
-          "$description": "Subtle borders"
+          "$description": "Subtle borders",
+          "$type": "color"
         },
         "inverseSurface": {
-          "$value": "#E6E0E9"
+          "$value": "#E6E0E9",
+          "$type": "color"
         },
         "inverseOnSurface": {
-          "$value": "#313033"
+          "$value": "#313033",
+          "$type": "color"
         },
         "inversePrimary": {
-          "$value": "#6750A4"
+          "$value": "#6750A4",
+          "$type": "color"
         },
         "scrim": {
-          "$value": "#000000"
+          "$value": "#000000",
+          "$type": "color"
         },
         "shadow": {
-          "$value": "#000000"
+          "$value": "#000000",
+          "$type": "color"
         }
       }
     }

@@ -33,71 +33,90 @@
         "$description": "Vibrant brand colors for maximum visual impact",
         "primary": {
           "$value": "#7C3AED",
-          "$description": "Hero headings, primary CTAs"
+          "$description": "Hero headings, primary CTAs",
+          "$type": "color"
         },
         "primaryLight": {
           "$value": "#A78BFA",
-          "$description": "Hover states, accents"
+          "$description": "Hover states, accents",
+          "$type": "color"
         },
         "primaryDark": {
           "$value": "#5B21B6",
-          "$description": "Pressed states, emphasis"
+          "$description": "Pressed states, emphasis",
+          "$type": "color"
         },
         "secondary": {
           "$value": "#EC4899",
-          "$description": "Feature highlights, badges"
+          "$description": "Feature highlights, badges",
+          "$type": "color"
         },
         "secondaryLight": {
           "$value": "#F9A8D4",
-          "$description": "Secondary hover states"
+          "$description": "Secondary hover states",
+          "$type": "color"
         },
         "secondaryDark": {
           "$value": "#BE185D",
-          "$description": "Secondary pressed states"
+          "$description": "Secondary pressed states",
+          "$type": "color"
         },
         "accent": {
           "$value": "#F97316",
-          "$description": "Attention-grabbing elements"
+          "$description": "Attention-grabbing elements",
+          "$type": "color"
         },
         "accentLight": {
           "$value": "#FDBA74",
-          "$description": "Accent hover, decorations"
+          "$description": "Accent hover, decorations",
+          "$type": "color"
         },
         "accentDark": {
           "$value": "#C2410C",
-          "$description": "Accent pressed states"
+          "$description": "Accent pressed states",
+          "$type": "color"
         }
       },
       "neutral": {
         "50": {
-          "$value": "#F8FAFC"
+          "$value": "#F8FAFC",
+          "$type": "color"
         },
         "100": {
-          "$value": "#F1F5F9"
+          "$value": "#F1F5F9",
+          "$type": "color"
         },
         "200": {
-          "$value": "#E2E8F0"
+          "$value": "#E2E8F0",
+          "$type": "color"
         },
         "300": {
-          "$value": "#CBD5E1"
+          "$value": "#CBD5E1",
+          "$type": "color"
         },
         "400": {
-          "$value": "#94A3B8"
+          "$value": "#94A3B8",
+          "$type": "color"
         },
         "500": {
-          "$value": "#64748B"
+          "$value": "#64748B",
+          "$type": "color"
         },
         "600": {
-          "$value": "#475569"
+          "$value": "#475569",
+          "$type": "color"
         },
         "700": {
-          "$value": "#334155"
+          "$value": "#334155",
+          "$type": "color"
         },
         "800": {
-          "$value": "#1E293B"
+          "$value": "#1E293B",
+          "$type": "color"
         },
         "900": {
-          "$value": "#0F172A"
+          "$value": "#0F172A",
+          "$type": "color"
         },
         "$description": "Slate neutral scale for text and backgrounds"
       },
@@ -105,54 +124,66 @@
         "$description": "Highlight and CTA colors for conversion elements",
         "cta": {
           "$value": "#F97316",
-          "$description": "Primary call-to-action fill"
+          "$description": "Primary call-to-action fill",
+          "$type": "color"
         },
         "ctaHover": {
           "$value": "#EA580C",
-          "$description": "CTA fill on hover"
+          "$description": "CTA fill on hover",
+          "$type": "color"
         },
         "badge": {
           "$value": "#FDE68A",
-          "$description": "Pricing badge background"
+          "$description": "Pricing badge background",
+          "$type": "color"
         },
         "badgeText": {
           "$value": "#92400E",
-          "$description": "Pricing badge text"
+          "$description": "Pricing badge text",
+          "$type": "color"
         },
         "gradient1": {
           "$value": "#7C3AED",
-          "$description": "Gradient start color"
+          "$description": "Gradient start color",
+          "$type": "color"
         },
         "gradient2": {
           "$value": "#EC4899",
-          "$description": "Gradient end color"
+          "$description": "Gradient end color",
+          "$type": "color"
         }
       },
       "surface": {
         "$description": "Page surfaces and backgrounds",
         "background": {
           "$value": "#FFFFFF",
-          "$description": "Page background"
+          "$description": "Page background",
+          "$type": "color"
         },
         "foreground": {
           "$value": "#0F172A",
-          "$description": "Primary body text"
+          "$description": "Primary body text",
+          "$type": "color"
         },
         "hero": {
           "$value": "#0F172A",
-          "$description": "Dark hero section background"
+          "$description": "Dark hero section background",
+          "$type": "color"
         },
         "heroForeground": {
           "$value": "#F8FAFC",
-          "$description": "Text on hero background"
+          "$description": "Text on hero background",
+          "$type": "color"
         },
         "section": {
           "$value": "#F8FAFC",
-          "$description": "Alternating section background"
+          "$description": "Alternating section background",
+          "$type": "color"
         },
         "sectionAlt": {
           "$value": "#F1F5F9",
-          "$description": "Secondary section background"
+          "$description": "Secondary section background",
+          "$type": "color"
         }
       }
     },
@@ -161,39 +192,48 @@
       "$description": "Dramatic type scale — larger sizes for hero sections",
       "sm": {
         "$value": "0.875rem",
-        "$description": "Fine print, disclaimers"
+        "$description": "Fine print, disclaimers",
+        "$type": "dimension"
       },
       "base": {
         "$value": "1.125rem",
-        "$description": "Body copy (larger for readability)"
+        "$description": "Body copy (larger for readability)",
+        "$type": "dimension"
       },
       "lg": {
         "$value": "1.25rem",
-        "$description": "Feature descriptions"
+        "$description": "Feature descriptions",
+        "$type": "dimension"
       },
       "xl": {
         "$value": "1.5rem",
-        "$description": "Section subtitles"
+        "$description": "Section subtitles",
+        "$type": "dimension"
       },
       "2xl": {
         "$value": "2rem",
-        "$description": "Section headings"
+        "$description": "Section headings",
+        "$type": "dimension"
       },
       "3xl": {
         "$value": "2.5rem",
-        "$description": "Major section titles"
+        "$description": "Major section titles",
+        "$type": "dimension"
       },
       "4xl": {
         "$value": "3rem",
-        "$description": "Page titles"
+        "$description": "Page titles",
+        "$type": "dimension"
       },
       "5xl": {
         "$value": "4rem",
-        "$description": "Hero headings"
+        "$description": "Hero headings",
+        "$type": "dimension"
       },
       "6xl": {
         "$value": "5rem",
-        "$description": "Display headlines"
+        "$description": "Display headlines",
+        "$type": "dimension"
       }
     },
     "fontWeight": {
@@ -201,52 +241,66 @@
       "$description": "Font weights for marketing emphasis",
       "normal": {
         "$value": 400,
-        "$description": "Body text"
+        "$description": "Body text",
+        "$type": "fontWeight"
       },
       "medium": {
         "$value": 500,
-        "$description": "Subheadings, links"
+        "$description": "Subheadings, links",
+        "$type": "fontWeight"
       },
       "bold": {
         "$value": 700,
-        "$description": "Section headings"
+        "$description": "Section headings",
+        "$type": "fontWeight"
       },
       "extrabold": {
         "$value": 800,
-        "$description": "Hero headings"
+        "$description": "Hero headings",
+        "$type": "fontWeight"
       },
       "black": {
         "$value": 900,
-        "$description": "Display headlines"
+        "$description": "Display headlines",
+        "$type": "fontWeight"
       }
     },
     "spacing": {
       "4": {
-        "$value": "16px"
+        "$value": "16px",
+        "$type": "dimension"
       },
       "6": {
-        "$value": "24px"
+        "$value": "24px",
+        "$type": "dimension"
       },
       "8": {
-        "$value": "32px"
+        "$value": "32px",
+        "$type": "dimension"
       },
       "12": {
-        "$value": "48px"
+        "$value": "48px",
+        "$type": "dimension"
       },
       "16": {
-        "$value": "64px"
+        "$value": "64px",
+        "$type": "dimension"
       },
       "20": {
-        "$value": "80px"
+        "$value": "80px",
+        "$type": "dimension"
       },
       "24": {
-        "$value": "96px"
+        "$value": "96px",
+        "$type": "dimension"
       },
       "32": {
-        "$value": "128px"
+        "$value": "128px",
+        "$type": "dimension"
       },
       "40": {
-        "$value": "160px"
+        "$value": "160px",
+        "$type": "dimension"
       },
       "$type": "dimension",
       "$description": "Generous spacing for breathing room on marketing pages"
@@ -262,7 +316,8 @@
           "spread": "0px",
           "color": "#0000000f"
         },
-        "$description": "Subtle lift for testimonials"
+        "$description": "Subtle lift for testimonials",
+        "$type": "shadow"
       },
       "card": {
         "$value": {
@@ -272,7 +327,8 @@
           "spread": "-4px",
           "color": "#0000001a"
         },
-        "$description": "Feature cards, pricing tiles"
+        "$description": "Feature cards, pricing tiles",
+        "$type": "shadow"
       },
       "elevated": {
         "$value": {
@@ -282,7 +338,8 @@
           "spread": "-8px",
           "color": "#00000026"
         },
-        "$description": "Floating CTAs, sticky nav"
+        "$description": "Floating CTAs, sticky nav",
+        "$type": "shadow"
       },
       "dramatic": {
         "$value": {
@@ -292,7 +349,8 @@
           "spread": "-12px",
           "color": "#00000033"
         },
-        "$description": "Hero cards, modals"
+        "$description": "Hero cards, modals",
+        "$type": "shadow"
       }
     },
     "borderRadius": {
@@ -300,27 +358,33 @@
       "$description": "Rounded corners for friendly marketing aesthetic",
       "sm": {
         "$value": "0.5rem",
-        "$description": "Inputs, small buttons"
+        "$description": "Inputs, small buttons",
+        "$type": "dimension"
       },
       "default": {
         "$value": "0.75rem",
-        "$description": "Buttons, badges"
+        "$description": "Buttons, badges",
+        "$type": "dimension"
       },
       "lg": {
         "$value": "1rem",
-        "$description": "Cards, feature blocks"
+        "$description": "Cards, feature blocks",
+        "$type": "dimension"
       },
       "xl": {
         "$value": "1.5rem",
-        "$description": "Hero cards, images"
+        "$description": "Hero cards, images",
+        "$type": "dimension"
       },
       "2xl": {
         "$value": "2rem",
-        "$description": "Large feature panels"
+        "$description": "Large feature panels",
+        "$type": "dimension"
       },
       "full": {
         "$value": "9999px",
-        "$description": "Pills, avatars"
+        "$description": "Pills, avatars",
+        "$type": "dimension"
       }
     }
   }

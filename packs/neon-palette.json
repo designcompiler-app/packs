@@ -29,76 +29,98 @@
       "electric": {
         "$description": "Full-intensity neon colors at maximum saturation",
         "hotPink": {
-          "$value": "#ff007f"
+          "$value": "#ff007f",
+          "$type": "color"
         },
         "neonGreen": {
-          "$value": "#39ff14"
+          "$value": "#39ff14",
+          "$type": "color"
         },
         "electricBlue": {
-          "$value": "#0000ff"
+          "$value": "#0000ff",
+          "$type": "color"
         },
         "neonYellow": {
-          "$value": "#ffff00"
+          "$value": "#ffff00",
+          "$type": "color"
         },
         "electricPurple": {
-          "$value": "#bf00ff"
+          "$value": "#bf00ff",
+          "$type": "color"
         },
         "neonOrange": {
-          "$value": "#ff6600"
+          "$value": "#ff6600",
+          "$type": "color"
         },
         "electricCyan": {
-          "$value": "#00ffff"
+          "$value": "#00ffff",
+          "$type": "color"
         },
         "neonRed": {
-          "$value": "#ff0000"
+          "$value": "#ff0000",
+          "$type": "color"
         }
       },
       "glow": {
         "$description": "Softened neon tones suitable for glowing effects and lighter accents",
         "softPink": {
-          "$value": "#ff69b4"
+          "$value": "#ff69b4",
+          "$type": "color"
         },
         "softGreen": {
-          "$value": "#66ff66"
+          "$value": "#66ff66",
+          "$type": "color"
         },
         "softBlue": {
-          "$value": "#6699ff"
+          "$value": "#6699ff",
+          "$type": "color"
         },
         "softYellow": {
-          "$value": "#ffff66"
+          "$value": "#ffff66",
+          "$type": "color"
         },
         "softPurple": {
-          "$value": "#cc66ff"
+          "$value": "#cc66ff",
+          "$type": "color"
         },
         "softOrange": {
-          "$value": "#ff9933"
+          "$value": "#ff9933",
+          "$type": "color"
         },
         "softCyan": {
-          "$value": "#66ffff"
+          "$value": "#66ffff",
+          "$type": "color"
         },
         "softRed": {
-          "$value": "#ff6666"
+          "$value": "#ff6666",
+          "$type": "color"
         }
       },
       "dark": {
         "$description": "Deep saturated variants for dark backgrounds and contrast pairing",
         "deepPink": {
-          "$value": "#99004d"
+          "$value": "#99004d",
+          "$type": "color"
         },
         "deepGreen": {
-          "$value": "#006600"
+          "$value": "#006600",
+          "$type": "color"
         },
         "deepBlue": {
-          "$value": "#000099"
+          "$value": "#000099",
+          "$type": "color"
         },
         "deepPurple": {
-          "$value": "#660099"
+          "$value": "#660099",
+          "$type": "color"
         },
         "deepOrange": {
-          "$value": "#993d00"
+          "$value": "#993d00",
+          "$type": "color"
         },
         "deepCyan": {
-          "$value": "#009999"
+          "$value": "#009999",
+          "$type": "color"
         }
       }
     }

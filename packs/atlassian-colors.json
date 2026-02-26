@@ -28,391 +28,511 @@
       "$type": "color",
       "red": {
         "100": {
-          "$value": "#FFECEB"
+          "$value": "#FFECEB",
+          "$type": "color"
         },
         "200": {
-          "$value": "#FFD5D2"
+          "$value": "#FFD5D2",
+          "$type": "color"
         },
         "250": {
-          "$value": "#FFB8B2"
+          "$value": "#FFB8B2",
+          "$type": "color"
         },
         "300": {
-          "$value": "#FD9891"
+          "$value": "#FD9891",
+          "$type": "color"
         },
         "400": {
-          "$value": "#F87168"
+          "$value": "#F87168",
+          "$type": "color"
         },
         "500": {
-          "$value": "#F15B50"
+          "$value": "#F15B50",
+          "$type": "color"
         },
         "600": {
-          "$value": "#E2483D"
+          "$value": "#E2483D",
+          "$type": "color"
         },
         "700": {
-          "$value": "#C9372C"
+          "$value": "#C9372C",
+          "$type": "color"
         },
         "800": {
-          "$value": "#AE2E24"
+          "$value": "#AE2E24",
+          "$type": "color"
         },
         "850": {
-          "$value": "#872821"
+          "$value": "#872821",
+          "$type": "color"
         },
         "900": {
-          "$value": "#5D1F1A"
+          "$value": "#5D1F1A",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#42221F"
+          "$value": "#42221F",
+          "$type": "color"
         },
         "$description": "Atlassian red palette"
       },
       "orange": {
         "100": {
-          "$value": "#FFF5DB"
+          "$value": "#FFF5DB",
+          "$type": "color"
         },
         "200": {
-          "$value": "#FCE4A6"
+          "$value": "#FCE4A6",
+          "$type": "color"
         },
         "250": {
-          "$value": "#FBD779"
+          "$value": "#FBD779",
+          "$type": "color"
         },
         "300": {
-          "$value": "#FBC828"
+          "$value": "#FBC828",
+          "$type": "color"
         },
         "400": {
-          "$value": "#FCA700"
+          "$value": "#FCA700",
+          "$type": "color"
         },
         "500": {
-          "$value": "#F68909"
+          "$value": "#F68909",
+          "$type": "color"
         },
         "600": {
-          "$value": "#E06C00"
+          "$value": "#E06C00",
+          "$type": "color"
         },
         "700": {
-          "$value": "#BD5B00"
+          "$value": "#BD5B00",
+          "$type": "color"
         },
         "800": {
-          "$value": "#9E4C00"
+          "$value": "#9E4C00",
+          "$type": "color"
         },
         "850": {
-          "$value": "#7A3B00"
+          "$value": "#7A3B00",
+          "$type": "color"
         },
         "900": {
-          "$value": "#693200"
+          "$value": "#693200",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#3A2C1F"
+          "$value": "#3A2C1F",
+          "$type": "color"
         },
         "$description": "Atlassian orange palette"
       },
       "yellow": {
         "100": {
-          "$value": "#FEF7C8"
+          "$value": "#FEF7C8",
+          "$type": "color"
         },
         "200": {
-          "$value": "#F5E989"
+          "$value": "#F5E989",
+          "$type": "color"
         },
         "250": {
-          "$value": "#EFDD4E"
+          "$value": "#EFDD4E",
+          "$type": "color"
         },
         "300": {
-          "$value": "#EED12B"
+          "$value": "#EED12B",
+          "$type": "color"
         },
         "400": {
-          "$value": "#DDB30E"
+          "$value": "#DDB30E",
+          "$type": "color"
         },
         "500": {
-          "$value": "#CF9F02"
+          "$value": "#CF9F02",
+          "$type": "color"
         },
         "600": {
-          "$value": "#B38600"
+          "$value": "#B38600",
+          "$type": "color"
         },
         "700": {
-          "$value": "#946F00"
+          "$value": "#946F00",
+          "$type": "color"
         },
         "800": {
-          "$value": "#7F5F01"
+          "$value": "#7F5F01",
+          "$type": "color"
         },
         "850": {
-          "$value": "#614A05"
+          "$value": "#614A05",
+          "$type": "color"
         },
         "900": {
-          "$value": "#533F04"
+          "$value": "#533F04",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#332E1B"
+          "$value": "#332E1B",
+          "$type": "color"
         },
         "$description": "Atlassian yellow palette"
       },
       "green": {
         "100": {
-          "$value": "#DCFFF1"
+          "$value": "#DCFFF1",
+          "$type": "color"
         },
         "200": {
-          "$value": "#BAF3DB"
+          "$value": "#BAF3DB",
+          "$type": "color"
         },
         "250": {
-          "$value": "#97EDC9"
+          "$value": "#97EDC9",
+          "$type": "color"
         },
         "300": {
-          "$value": "#7EE2B8"
+          "$value": "#7EE2B8",
+          "$type": "color"
         },
         "400": {
-          "$value": "#4BCE97"
+          "$value": "#4BCE97",
+          "$type": "color"
         },
         "500": {
-          "$value": "#2ABB7F"
+          "$value": "#2ABB7F",
+          "$type": "color"
         },
         "600": {
-          "$value": "#22A06B"
+          "$value": "#22A06B",
+          "$type": "color"
         },
         "700": {
-          "$value": "#1F845A"
+          "$value": "#1F845A",
+          "$type": "color"
         },
         "800": {
-          "$value": "#216E4E"
+          "$value": "#216E4E",
+          "$type": "color"
         },
         "850": {
-          "$value": "#19573D"
+          "$value": "#19573D",
+          "$type": "color"
         },
         "900": {
-          "$value": "#164B35"
+          "$value": "#164B35",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#1C3329"
+          "$value": "#1C3329",
+          "$type": "color"
         },
         "$description": "Atlassian green palette"
       },
       "teal": {
         "100": {
-          "$value": "#E7F9FF"
+          "$value": "#E7F9FF",
+          "$type": "color"
         },
         "200": {
-          "$value": "#C6EDFB"
+          "$value": "#C6EDFB",
+          "$type": "color"
         },
         "250": {
-          "$value": "#B1E4F7"
+          "$value": "#B1E4F7",
+          "$type": "color"
         },
         "300": {
-          "$value": "#9DD9EE"
+          "$value": "#9DD9EE",
+          "$type": "color"
         },
         "400": {
-          "$value": "#6CC3E0"
+          "$value": "#6CC3E0",
+          "$type": "color"
         },
         "500": {
-          "$value": "#42B2D7"
+          "$value": "#42B2D7",
+          "$type": "color"
         },
         "600": {
-          "$value": "#2898BD"
+          "$value": "#2898BD",
+          "$type": "color"
         },
         "700": {
-          "$value": "#227D9B"
+          "$value": "#227D9B",
+          "$type": "color"
         },
         "800": {
-          "$value": "#206A83"
+          "$value": "#206A83",
+          "$type": "color"
         },
         "850": {
-          "$value": "#1A5265"
+          "$value": "#1A5265",
+          "$type": "color"
         },
         "900": {
-          "$value": "#164555"
+          "$value": "#164555",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#1E3137"
+          "$value": "#1E3137",
+          "$type": "color"
         },
         "$description": "Atlassian teal palette"
       },
       "blue": {
         "100": {
-          "$value": "#E9F2FE"
+          "$value": "#E9F2FE",
+          "$type": "color"
         },
         "200": {
-          "$value": "#CFE1FD"
+          "$value": "#CFE1FD",
+          "$type": "color"
         },
         "250": {
-          "$value": "#ADCBFB"
+          "$value": "#ADCBFB",
+          "$type": "color"
         },
         "300": {
-          "$value": "#8FB8F6"
+          "$value": "#8FB8F6",
+          "$type": "color"
         },
         "400": {
-          "$value": "#669DF1"
+          "$value": "#669DF1",
+          "$type": "color"
         },
         "500": {
-          "$value": "#4688EC"
+          "$value": "#4688EC",
+          "$type": "color"
         },
         "600": {
-          "$value": "#357DE8"
+          "$value": "#357DE8",
+          "$type": "color"
         },
         "700": {
-          "$value": "#1868DB"
+          "$value": "#1868DB",
+          "$type": "color"
         },
         "800": {
-          "$value": "#1558BC"
+          "$value": "#1558BC",
+          "$type": "color"
         },
         "850": {
-          "$value": "#144794"
+          "$value": "#144794",
+          "$type": "color"
         },
         "900": {
-          "$value": "#123263"
+          "$value": "#123263",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#1C2B42"
+          "$value": "#1C2B42",
+          "$type": "color"
         },
         "$description": "Atlassian blue palette"
       },
       "purple": {
         "100": {
-          "$value": "#F8EEFE"
+          "$value": "#F8EEFE",
+          "$type": "color"
         },
         "200": {
-          "$value": "#EED7FC"
+          "$value": "#EED7FC",
+          "$type": "color"
         },
         "250": {
-          "$value": "#E3BDFA"
+          "$value": "#E3BDFA",
+          "$type": "color"
         },
         "300": {
-          "$value": "#D8A0F7"
+          "$value": "#D8A0F7",
+          "$type": "color"
         },
         "400": {
-          "$value": "#C97CF4"
+          "$value": "#C97CF4",
+          "$type": "color"
         },
         "500": {
-          "$value": "#BF63F3"
+          "$value": "#BF63F3",
+          "$type": "color"
         },
         "600": {
-          "$value": "#AF59E1"
+          "$value": "#AF59E1",
+          "$type": "color"
         },
         "700": {
-          "$value": "#964AC0"
+          "$value": "#964AC0",
+          "$type": "color"
         },
         "800": {
-          "$value": "#803FA5"
+          "$value": "#803FA5",
+          "$type": "color"
         },
         "850": {
-          "$value": "#673286"
+          "$value": "#673286",
+          "$type": "color"
         },
         "900": {
-          "$value": "#48245D"
+          "$value": "#48245D",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#35243F"
+          "$value": "#35243F",
+          "$type": "color"
         },
         "$description": "Atlassian purple palette"
       },
       "magenta": {
         "100": {
-          "$value": "#FFECF8"
+          "$value": "#FFECF8",
+          "$type": "color"
         },
         "200": {
-          "$value": "#FDD0EC"
+          "$value": "#FDD0EC",
+          "$type": "color"
         },
         "250": {
-          "$value": "#FCB6E1"
+          "$value": "#FCB6E1",
+          "$type": "color"
         },
         "300": {
-          "$value": "#F797D2"
+          "$value": "#F797D2",
+          "$type": "color"
         },
         "400": {
-          "$value": "#E774BB"
+          "$value": "#E774BB",
+          "$type": "color"
         },
         "500": {
-          "$value": "#DA62AC"
+          "$value": "#DA62AC",
+          "$type": "color"
         },
         "600": {
-          "$value": "#CD519D"
+          "$value": "#CD519D",
+          "$type": "color"
         },
         "700": {
-          "$value": "#AE4787"
+          "$value": "#AE4787",
+          "$type": "color"
         },
         "800": {
-          "$value": "#943D73"
+          "$value": "#943D73",
+          "$type": "color"
         },
         "850": {
-          "$value": "#77325B"
+          "$value": "#77325B",
+          "$type": "color"
         },
         "900": {
-          "$value": "#50253F"
+          "$value": "#50253F",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#3D2232"
+          "$value": "#3D2232",
+          "$type": "color"
         },
         "$description": "Atlassian magenta palette"
       },
       "lime": {
         "100": {
-          "$value": "#EFFFD6"
+          "$value": "#EFFFD6",
+          "$type": "color"
         },
         "200": {
-          "$value": "#D3F1A7"
+          "$value": "#D3F1A7",
+          "$type": "color"
         },
         "250": {
-          "$value": "#BDE97C"
+          "$value": "#BDE97C",
+          "$type": "color"
         },
         "300": {
-          "$value": "#B3DF72"
+          "$value": "#B3DF72",
+          "$type": "color"
         },
         "400": {
-          "$value": "#94C748"
+          "$value": "#94C748",
+          "$type": "color"
         },
         "500": {
-          "$value": "#82B536"
+          "$value": "#82B536",
+          "$type": "color"
         },
         "600": {
-          "$value": "#6A9A23"
+          "$value": "#6A9A23",
+          "$type": "color"
         },
         "700": {
-          "$value": "#5B7F24"
+          "$value": "#5B7F24",
+          "$type": "color"
         },
         "800": {
-          "$value": "#4C6B1F"
+          "$value": "#4C6B1F",
+          "$type": "color"
         },
         "850": {
-          "$value": "#3F5224"
+          "$value": "#3F5224",
+          "$type": "color"
         },
         "900": {
-          "$value": "#37471F"
+          "$value": "#37471F",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#28311B"
+          "$value": "#28311B",
+          "$type": "color"
         },
         "$description": "Atlassian lime palette"
       },
       "neutral": {
         "0": {
-          "$value": "#FFFFFF"
+          "$value": "#FFFFFF",
+          "$type": "color"
         },
         "100": {
-          "$value": "#F8F8F8"
+          "$value": "#F8F8F8",
+          "$type": "color"
         },
         "200": {
-          "$value": "#F0F1F2"
+          "$value": "#F0F1F2",
+          "$type": "color"
         },
         "300": {
-          "$value": "#DDDEE1"
+          "$value": "#DDDEE1",
+          "$type": "color"
         },
         "400": {
-          "$value": "#B7B9BE"
+          "$value": "#B7B9BE",
+          "$type": "color"
         },
         "500": {
-          "$value": "#8C8F97"
+          "$value": "#8C8F97",
+          "$type": "color"
         },
         "600": {
-          "$value": "#7D818A"
+          "$value": "#7D818A",
+          "$type": "color"
         },
         "700": {
-          "$value": "#6B6E76"
+          "$value": "#6B6E76",
+          "$type": "color"
         },
         "800": {
-          "$value": "#505258"
+          "$value": "#505258",
+          "$type": "color"
         },
         "900": {
-          "$value": "#3B3D42"
+          "$value": "#3B3D42",
+          "$type": "color"
         },
         "1000": {
-          "$value": "#292A2E"
+          "$value": "#292A2E",
+          "$type": "color"
         },
         "1100": {
-          "$value": "#1E1F21"
+          "$value": "#1E1F21",
+          "$type": "color"
         },
         "$description": "Atlassian neutral palette (light mode)"
       }

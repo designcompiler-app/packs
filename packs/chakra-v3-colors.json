@@ -28,361 +28,471 @@
       "$type": "color",
       "gray": {
         "50": {
-          "$value": "#fafafa"
+          "$value": "#fafafa",
+          "$type": "color"
         },
         "100": {
-          "$value": "#f4f4f5"
+          "$value": "#f4f4f5",
+          "$type": "color"
         },
         "200": {
-          "$value": "#e4e4e7"
+          "$value": "#e4e4e7",
+          "$type": "color"
         },
         "300": {
-          "$value": "#d4d4d8"
+          "$value": "#d4d4d8",
+          "$type": "color"
         },
         "400": {
-          "$value": "#a1a1aa"
+          "$value": "#a1a1aa",
+          "$type": "color"
         },
         "500": {
-          "$value": "#71717a"
+          "$value": "#71717a",
+          "$type": "color"
         },
         "600": {
-          "$value": "#52525b"
+          "$value": "#52525b",
+          "$type": "color"
         },
         "700": {
-          "$value": "#3f3f46"
+          "$value": "#3f3f46",
+          "$type": "color"
         },
         "800": {
-          "$value": "#27272a"
+          "$value": "#27272a",
+          "$type": "color"
         },
         "900": {
-          "$value": "#18181b"
+          "$value": "#18181b",
+          "$type": "color"
         },
         "950": {
-          "$value": "#111111"
+          "$value": "#111111",
+          "$type": "color"
         },
         "$description": "Chakra v3 gray (zinc-based neutral)"
       },
       "red": {
         "50": {
-          "$value": "#fef2f2"
+          "$value": "#fef2f2",
+          "$type": "color"
         },
         "100": {
-          "$value": "#fee2e2"
+          "$value": "#fee2e2",
+          "$type": "color"
         },
         "200": {
-          "$value": "#fecaca"
+          "$value": "#fecaca",
+          "$type": "color"
         },
         "300": {
-          "$value": "#fca5a5"
+          "$value": "#fca5a5",
+          "$type": "color"
         },
         "400": {
-          "$value": "#f87171"
+          "$value": "#f87171",
+          "$type": "color"
         },
         "500": {
-          "$value": "#ef4444"
+          "$value": "#ef4444",
+          "$type": "color"
         },
         "600": {
-          "$value": "#dc2626"
+          "$value": "#dc2626",
+          "$type": "color"
         },
         "700": {
-          "$value": "#991919"
+          "$value": "#991919",
+          "$type": "color"
         },
         "800": {
-          "$value": "#511111"
+          "$value": "#511111",
+          "$type": "color"
         },
         "900": {
-          "$value": "#300c0c"
+          "$value": "#300c0c",
+          "$type": "color"
         },
         "950": {
-          "$value": "#1f0808"
+          "$value": "#1f0808",
+          "$type": "color"
         },
         "$description": "Chakra v3 red — error and destructive actions"
       },
       "orange": {
         "50": {
-          "$value": "#fff7ed"
+          "$value": "#fff7ed",
+          "$type": "color"
         },
         "100": {
-          "$value": "#ffedd5"
+          "$value": "#ffedd5",
+          "$type": "color"
         },
         "200": {
-          "$value": "#fed7aa"
+          "$value": "#fed7aa",
+          "$type": "color"
         },
         "300": {
-          "$value": "#fdba74"
+          "$value": "#fdba74",
+          "$type": "color"
         },
         "400": {
-          "$value": "#fb923c"
+          "$value": "#fb923c",
+          "$type": "color"
         },
         "500": {
-          "$value": "#f97316"
+          "$value": "#f97316",
+          "$type": "color"
         },
         "600": {
-          "$value": "#ea580c"
+          "$value": "#ea580c",
+          "$type": "color"
         },
         "700": {
-          "$value": "#92310a"
+          "$value": "#92310a",
+          "$type": "color"
         },
         "800": {
-          "$value": "#6c2710"
+          "$value": "#6c2710",
+          "$type": "color"
         },
         "900": {
-          "$value": "#3b1106"
+          "$value": "#3b1106",
+          "$type": "color"
         },
         "950": {
-          "$value": "#220a04"
+          "$value": "#220a04",
+          "$type": "color"
         },
         "$description": "Chakra v3 orange"
       },
       "yellow": {
         "50": {
-          "$value": "#fefce8"
+          "$value": "#fefce8",
+          "$type": "color"
         },
         "100": {
-          "$value": "#fef9c3"
+          "$value": "#fef9c3",
+          "$type": "color"
         },
         "200": {
-          "$value": "#fef08a"
+          "$value": "#fef08a",
+          "$type": "color"
         },
         "300": {
-          "$value": "#fde047"
+          "$value": "#fde047",
+          "$type": "color"
         },
         "400": {
-          "$value": "#facc15"
+          "$value": "#facc15",
+          "$type": "color"
         },
         "500": {
-          "$value": "#eab308"
+          "$value": "#eab308",
+          "$type": "color"
         },
         "600": {
-          "$value": "#ca8a04"
+          "$value": "#ca8a04",
+          "$type": "color"
         },
         "700": {
-          "$value": "#845209"
+          "$value": "#845209",
+          "$type": "color"
         },
         "800": {
-          "$value": "#713f12"
+          "$value": "#713f12",
+          "$type": "color"
         },
         "900": {
-          "$value": "#422006"
+          "$value": "#422006",
+          "$type": "color"
         },
         "950": {
-          "$value": "#281304"
+          "$value": "#281304",
+          "$type": "color"
         },
         "$description": "Chakra v3 yellow — warning states"
       },
       "green": {
         "50": {
-          "$value": "#f0fdf4"
+          "$value": "#f0fdf4",
+          "$type": "color"
         },
         "100": {
-          "$value": "#dcfce7"
+          "$value": "#dcfce7",
+          "$type": "color"
         },
         "200": {
-          "$value": "#bbf7d0"
+          "$value": "#bbf7d0",
+          "$type": "color"
         },
         "300": {
-          "$value": "#86efac"
+          "$value": "#86efac",
+          "$type": "color"
         },
         "400": {
-          "$value": "#4ade80"
+          "$value": "#4ade80",
+          "$type": "color"
         },
         "500": {
-          "$value": "#22c55e"
+          "$value": "#22c55e",
+          "$type": "color"
         },
         "600": {
-          "$value": "#16a34a"
+          "$value": "#16a34a",
+          "$type": "color"
         },
         "700": {
-          "$value": "#116932"
+          "$value": "#116932",
+          "$type": "color"
         },
         "800": {
-          "$value": "#124a28"
+          "$value": "#124a28",
+          "$type": "color"
         },
         "900": {
-          "$value": "#042713"
+          "$value": "#042713",
+          "$type": "color"
         },
         "950": {
-          "$value": "#03190c"
+          "$value": "#03190c",
+          "$type": "color"
         },
         "$description": "Chakra v3 green — success states"
       },
       "teal": {
         "50": {
-          "$value": "#f0fdfa"
+          "$value": "#f0fdfa",
+          "$type": "color"
         },
         "100": {
-          "$value": "#ccfbf1"
+          "$value": "#ccfbf1",
+          "$type": "color"
         },
         "200": {
-          "$value": "#99f6e4"
+          "$value": "#99f6e4",
+          "$type": "color"
         },
         "300": {
-          "$value": "#5eead4"
+          "$value": "#5eead4",
+          "$type": "color"
         },
         "400": {
-          "$value": "#2dd4bf"
+          "$value": "#2dd4bf",
+          "$type": "color"
         },
         "500": {
-          "$value": "#14b8a6"
+          "$value": "#14b8a6",
+          "$type": "color"
         },
         "600": {
-          "$value": "#0d9488"
+          "$value": "#0d9488",
+          "$type": "color"
         },
         "700": {
-          "$value": "#0c5d56"
+          "$value": "#0c5d56",
+          "$type": "color"
         },
         "800": {
-          "$value": "#114240"
+          "$value": "#114240",
+          "$type": "color"
         },
         "900": {
-          "$value": "#032726"
+          "$value": "#032726",
+          "$type": "color"
         },
         "950": {
-          "$value": "#021716"
+          "$value": "#021716",
+          "$type": "color"
         },
         "$description": "Chakra v3 teal"
       },
       "blue": {
         "50": {
-          "$value": "#eff6ff"
+          "$value": "#eff6ff",
+          "$type": "color"
         },
         "100": {
-          "$value": "#dbeafe"
+          "$value": "#dbeafe",
+          "$type": "color"
         },
         "200": {
-          "$value": "#bfdbfe"
+          "$value": "#bfdbfe",
+          "$type": "color"
         },
         "300": {
-          "$value": "#a3cfff"
+          "$value": "#a3cfff",
+          "$type": "color"
         },
         "400": {
-          "$value": "#60a5fa"
+          "$value": "#60a5fa",
+          "$type": "color"
         },
         "500": {
-          "$value": "#3b82f6"
+          "$value": "#3b82f6",
+          "$type": "color"
         },
         "600": {
-          "$value": "#2563eb"
+          "$value": "#2563eb",
+          "$type": "color"
         },
         "700": {
-          "$value": "#173da6"
+          "$value": "#173da6",
+          "$type": "color"
         },
         "800": {
-          "$value": "#1a3478"
+          "$value": "#1a3478",
+          "$type": "color"
         },
         "900": {
-          "$value": "#14204a"
+          "$value": "#14204a",
+          "$type": "color"
         },
         "950": {
-          "$value": "#0c142e"
+          "$value": "#0c142e",
+          "$type": "color"
         },
         "$description": "Chakra v3 blue — links and informational"
       },
       "cyan": {
         "50": {
-          "$value": "#ecfeff"
+          "$value": "#ecfeff",
+          "$type": "color"
         },
         "100": {
-          "$value": "#cffafe"
+          "$value": "#cffafe",
+          "$type": "color"
         },
         "200": {
-          "$value": "#a5f3fc"
+          "$value": "#a5f3fc",
+          "$type": "color"
         },
         "300": {
-          "$value": "#67e8f9"
+          "$value": "#67e8f9",
+          "$type": "color"
         },
         "400": {
-          "$value": "#22d3ee"
+          "$value": "#22d3ee",
+          "$type": "color"
         },
         "500": {
-          "$value": "#06b6d4"
+          "$value": "#06b6d4",
+          "$type": "color"
         },
         "600": {
-          "$value": "#0891b2"
+          "$value": "#0891b2",
+          "$type": "color"
         },
         "700": {
-          "$value": "#0c5c72"
+          "$value": "#0c5c72",
+          "$type": "color"
         },
         "800": {
-          "$value": "#134152"
+          "$value": "#134152",
+          "$type": "color"
         },
         "900": {
-          "$value": "#072a38"
+          "$value": "#072a38",
+          "$type": "color"
         },
         "950": {
-          "$value": "#051b24"
+          "$value": "#051b24",
+          "$type": "color"
         },
         "$description": "Chakra v3 cyan"
       },
       "purple": {
         "50": {
-          "$value": "#faf5ff"
+          "$value": "#faf5ff",
+          "$type": "color"
         },
         "100": {
-          "$value": "#f3e8ff"
+          "$value": "#f3e8ff",
+          "$type": "color"
         },
         "200": {
-          "$value": "#e9d5ff"
+          "$value": "#e9d5ff",
+          "$type": "color"
         },
         "300": {
-          "$value": "#d8b4fe"
+          "$value": "#d8b4fe",
+          "$type": "color"
         },
         "400": {
-          "$value": "#c084fc"
+          "$value": "#c084fc",
+          "$type": "color"
         },
         "500": {
-          "$value": "#a855f7"
+          "$value": "#a855f7",
+          "$type": "color"
         },
         "600": {
-          "$value": "#9333ea"
+          "$value": "#9333ea",
+          "$type": "color"
         },
         "700": {
-          "$value": "#641ba3"
+          "$value": "#641ba3",
+          "$type": "color"
         },
         "800": {
-          "$value": "#4a1772"
+          "$value": "#4a1772",
+          "$type": "color"
         },
         "900": {
-          "$value": "#2f0553"
+          "$value": "#2f0553",
+          "$type": "color"
         },
         "950": {
-          "$value": "#1a032e"
+          "$value": "#1a032e",
+          "$type": "color"
         },
         "$description": "Chakra v3 purple"
       },
       "pink": {
         "50": {
-          "$value": "#fdf2f8"
+          "$value": "#fdf2f8",
+          "$type": "color"
         },
         "100": {
-          "$value": "#fce7f3"
+          "$value": "#fce7f3",
+          "$type": "color"
         },
         "200": {
-          "$value": "#fbcfe8"
+          "$value": "#fbcfe8",
+          "$type": "color"
         },
         "300": {
-          "$value": "#f9a8d4"
+          "$value": "#f9a8d4",
+          "$type": "color"
         },
         "400": {
-          "$value": "#f472b6"
+          "$value": "#f472b6",
+          "$type": "color"
         },
         "500": {
-          "$value": "#ec4899"
+          "$value": "#ec4899",
+          "$type": "color"
         },
         "600": {
-          "$value": "#db2777"
+          "$value": "#db2777",
+          "$type": "color"
         },
         "700": {
-          "$value": "#a41752"
+          "$value": "#a41752",
+          "$type": "color"
         },
         "800": {
-          "$value": "#6d0e34"
+          "$value": "#6d0e34",
+          "$type": "color"
         },
         "900": {
-          "$value": "#45061f"
+          "$value": "#45061f",
+          "$type": "color"
         },
         "950": {
-          "$value": "#2c0514"
+          "$value": "#2c0514",
+          "$type": "color"
         },
         "$description": "Chakra v3 pink"
       }

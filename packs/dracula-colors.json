@@ -29,43 +29,55 @@
       "ui": {
         "$description": "Dracula UI — background, foreground, and editor colors",
         "background": {
-          "$value": "#282a36"
+          "$value": "#282a36",
+          "$type": "color"
         },
         "currentLine": {
-          "$value": "#44475a"
+          "$value": "#44475a",
+          "$type": "color"
         },
         "foreground": {
-          "$value": "#f8f8f2"
+          "$value": "#f8f8f2",
+          "$type": "color"
         },
         "comment": {
-          "$value": "#6272a4"
+          "$value": "#6272a4",
+          "$type": "color"
         },
         "selection": {
-          "$value": "#44475a"
+          "$value": "#44475a",
+          "$type": "color"
         }
       },
       "syntax": {
         "$description": "Dracula Syntax — vibrant accent colors for code highlighting",
         "cyan": {
-          "$value": "#8be9fd"
+          "$value": "#8be9fd",
+          "$type": "color"
         },
         "green": {
-          "$value": "#50fa7b"
+          "$value": "#50fa7b",
+          "$type": "color"
         },
         "orange": {
-          "$value": "#ffb86c"
+          "$value": "#ffb86c",
+          "$type": "color"
         },
         "pink": {
-          "$value": "#ff79c6"
+          "$value": "#ff79c6",
+          "$type": "color"
         },
         "purple": {
-          "$value": "#bd93f9"
+          "$value": "#bd93f9",
+          "$type": "color"
         },
         "red": {
-          "$value": "#ff5555"
+          "$value": "#ff5555",
+          "$type": "color"
         },
         "yellow": {
-          "$value": "#f1fa8c"
+          "$value": "#f1fa8c",
+          "$type": "color"
         }
       }
     }

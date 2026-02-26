@@ -29,259 +29,329 @@
       "red": {
         "$description": "Material red with full lighten/darken scale",
         "base": {
-          "$value": "#f44336"
+          "$value": "#f44336",
+          "$type": "color"
         },
         "lighten5": {
-          "$value": "#ffebee"
+          "$value": "#ffebee",
+          "$type": "color"
         },
         "lighten4": {
-          "$value": "#ffcdd2"
+          "$value": "#ffcdd2",
+          "$type": "color"
         },
         "lighten3": {
-          "$value": "#ef9a9a"
+          "$value": "#ef9a9a",
+          "$type": "color"
         },
         "lighten2": {
-          "$value": "#e57373"
+          "$value": "#e57373",
+          "$type": "color"
         },
         "lighten1": {
-          "$value": "#ef5350"
+          "$value": "#ef5350",
+          "$type": "color"
         },
         "darken1": {
-          "$value": "#e53935"
+          "$value": "#e53935",
+          "$type": "color"
         },
         "darken2": {
-          "$value": "#d32f2f"
+          "$value": "#d32f2f",
+          "$type": "color"
         },
         "darken3": {
-          "$value": "#c62828"
+          "$value": "#c62828",
+          "$type": "color"
         },
         "darken4": {
-          "$value": "#b71c1c"
+          "$value": "#b71c1c",
+          "$type": "color"
         }
       },
       "pink": {
         "$description": "Material pink — base value",
         "base": {
-          "$value": "#e91e63"
+          "$value": "#e91e63",
+          "$type": "color"
         }
       },
       "purple": {
         "$description": "Material purple with full lighten/darken scale",
         "base": {
-          "$value": "#9c27b0"
+          "$value": "#9c27b0",
+          "$type": "color"
         },
         "lighten5": {
-          "$value": "#f3e5f5"
+          "$value": "#f3e5f5",
+          "$type": "color"
         },
         "lighten4": {
-          "$value": "#e1bee7"
+          "$value": "#e1bee7",
+          "$type": "color"
         },
         "lighten3": {
-          "$value": "#ce93d8"
+          "$value": "#ce93d8",
+          "$type": "color"
         },
         "lighten2": {
-          "$value": "#ba68c8"
+          "$value": "#ba68c8",
+          "$type": "color"
         },
         "lighten1": {
-          "$value": "#ab47bc"
+          "$value": "#ab47bc",
+          "$type": "color"
         },
         "darken1": {
-          "$value": "#8e24aa"
+          "$value": "#8e24aa",
+          "$type": "color"
         },
         "darken2": {
-          "$value": "#7b1fa2"
+          "$value": "#7b1fa2",
+          "$type": "color"
         },
         "darken3": {
-          "$value": "#6a1b9a"
+          "$value": "#6a1b9a",
+          "$type": "color"
         },
         "darken4": {
-          "$value": "#4a148c"
+          "$value": "#4a148c",
+          "$type": "color"
         }
       },
       "deepPurple": {
         "$description": "Material deep purple — base value",
         "base": {
-          "$value": "#673ab7"
+          "$value": "#673ab7",
+          "$type": "color"
         }
       },
       "indigo": {
         "$description": "Material indigo with full lighten/darken scale",
         "base": {
-          "$value": "#3f51b5"
+          "$value": "#3f51b5",
+          "$type": "color"
         },
         "lighten5": {
-          "$value": "#e8eaf6"
+          "$value": "#e8eaf6",
+          "$type": "color"
         },
         "lighten4": {
-          "$value": "#c5cae9"
+          "$value": "#c5cae9",
+          "$type": "color"
         },
         "lighten3": {
-          "$value": "#9fa8da"
+          "$value": "#9fa8da",
+          "$type": "color"
         },
         "lighten2": {
-          "$value": "#7986cb"
+          "$value": "#7986cb",
+          "$type": "color"
         },
         "lighten1": {
-          "$value": "#5c6bc0"
+          "$value": "#5c6bc0",
+          "$type": "color"
         },
         "darken1": {
-          "$value": "#3949ab"
+          "$value": "#3949ab",
+          "$type": "color"
         },
         "darken2": {
-          "$value": "#303f9f"
+          "$value": "#303f9f",
+          "$type": "color"
         },
         "darken3": {
-          "$value": "#283593"
+          "$value": "#283593",
+          "$type": "color"
         },
         "darken4": {
-          "$value": "#1a237e"
+          "$value": "#1a237e",
+          "$type": "color"
         }
       },
       "blue": {
         "$description": "Material blue with full lighten/darken scale",
         "base": {
-          "$value": "#2196f3"
+          "$value": "#2196f3",
+          "$type": "color"
         },
         "lighten5": {
-          "$value": "#e3f2fd"
+          "$value": "#e3f2fd",
+          "$type": "color"
         },
         "lighten4": {
-          "$value": "#bbdefb"
+          "$value": "#bbdefb",
+          "$type": "color"
         },
         "lighten3": {
-          "$value": "#90caf9"
+          "$value": "#90caf9",
+          "$type": "color"
         },
         "lighten2": {
-          "$value": "#64b5f6"
+          "$value": "#64b5f6",
+          "$type": "color"
         },
         "lighten1": {
-          "$value": "#42a5f5"
+          "$value": "#42a5f5",
+          "$type": "color"
         },
         "darken1": {
-          "$value": "#1e88e5"
+          "$value": "#1e88e5",
+          "$type": "color"
         },
         "darken2": {
-          "$value": "#1976d2"
+          "$value": "#1976d2",
+          "$type": "color"
         },
         "darken3": {
-          "$value": "#1565c0"
+          "$value": "#1565c0",
+          "$type": "color"
         },
         "darken4": {
-          "$value": "#0d47a1"
+          "$value": "#0d47a1",
+          "$type": "color"
         }
       },
       "lightBlue": {
         "$description": "Material light blue — base value",
         "base": {
-          "$value": "#03a9f4"
+          "$value": "#03a9f4",
+          "$type": "color"
         }
       },
       "cyan": {
         "$description": "Material cyan — base value",
         "base": {
-          "$value": "#00bcd4"
+          "$value": "#00bcd4",
+          "$type": "color"
         }
       },
       "teal": {
         "$description": "Material teal — base value",
         "base": {
-          "$value": "#009688"
+          "$value": "#009688",
+          "$type": "color"
         }
       },
       "green": {
         "$description": "Material green with full lighten/darken scale",
         "base": {
-          "$value": "#4caf50"
+          "$value": "#4caf50",
+          "$type": "color"
         },
         "lighten5": {
-          "$value": "#e8f5e9"
+          "$value": "#e8f5e9",
+          "$type": "color"
         },
         "lighten4": {
-          "$value": "#c8e6c9"
+          "$value": "#c8e6c9",
+          "$type": "color"
         },
         "lighten3": {
-          "$value": "#a5d6a7"
+          "$value": "#a5d6a7",
+          "$type": "color"
         },
         "lighten2": {
-          "$value": "#81c784"
+          "$value": "#81c784",
+          "$type": "color"
         },
         "lighten1": {
-          "$value": "#66bb6a"
+          "$value": "#66bb6a",
+          "$type": "color"
         },
         "darken1": {
-          "$value": "#43a047"
+          "$value": "#43a047",
+          "$type": "color"
         },
         "darken2": {
-          "$value": "#388e3c"
+          "$value": "#388e3c",
+          "$type": "color"
         },
         "darken3": {
-          "$value": "#2e7d32"
+          "$value": "#2e7d32",
+          "$type": "color"
         },
         "darken4": {
-          "$value": "#1b5e20"
+          "$value": "#1b5e20",
+          "$type": "color"
         }
       },
       "lightGreen": {
         "$description": "Material light green — base value",
         "base": {
-          "$value": "#8bc34a"
+          "$value": "#8bc34a",
+          "$type": "color"
         }
       },
       "lime": {
         "$description": "Material lime — base value",
         "base": {
-          "$value": "#cddc39"
+          "$value": "#cddc39",
+          "$type": "color"
         }
       },
       "yellow": {
         "$description": "Material yellow — base value",
         "base": {
-          "$value": "#ffeb3b"
+          "$value": "#ffeb3b",
+          "$type": "color"
         }
       },
       "amber": {
         "$description": "Material amber — base value",
         "base": {
-          "$value": "#ffc107"
+          "$value": "#ffc107",
+          "$type": "color"
         }
       },
       "orange": {
         "$description": "Material orange with full lighten/darken scale",
         "base": {
-          "$value": "#ff9800"
+          "$value": "#ff9800",
+          "$type": "color"
         },
         "lighten5": {
-          "$value": "#fff3e0"
+          "$value": "#fff3e0",
+          "$type": "color"
         },
         "lighten4": {
-          "$value": "#ffe0b2"
+          "$value": "#ffe0b2",
+          "$type": "color"
         },
         "lighten3": {
-          "$value": "#ffcc80"
+          "$value": "#ffcc80",
+          "$type": "color"
         },
         "lighten2": {
-          "$value": "#ffb74d"
+          "$value": "#ffb74d",
+          "$type": "color"
         },
         "lighten1": {
-          "$value": "#ffa726"
+          "$value": "#ffa726",
+          "$type": "color"
         },
         "darken1": {
-          "$value": "#fb8c00"
+          "$value": "#fb8c00",
+          "$type": "color"
         },
         "darken2": {
-          "$value": "#f57c00"
+          "$value": "#f57c00",
+          "$type": "color"
         },
         "darken3": {
-          "$value": "#ef6c00"
+          "$value": "#ef6c00",
+          "$type": "color"
         },
         "darken4": {
-          "$value": "#e65100"
+          "$value": "#e65100",
+          "$type": "color"
         }
       },
       "deepOrange": {
         "$description": "Material deep orange — base value",
         "base": {
-          "$value": "#ff5722"
+          "$value": "#ff5722",
+          "$type": "color"
         }
       }
     }

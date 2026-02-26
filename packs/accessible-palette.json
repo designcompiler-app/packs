@@ -29,67 +29,86 @@
       "onWhite": {
         "$description": "Colors safe for text and icons on white backgrounds (4.5:1+ contrast)",
         "darkBlue": {
-          "$value": "#0046a6"
+          "$value": "#0046a6",
+          "$type": "color"
         },
         "darkGreen": {
-          "$value": "#007a41"
+          "$value": "#007a41",
+          "$type": "color"
         },
         "darkRed": {
-          "$value": "#b31d28"
+          "$value": "#b31d28",
+          "$type": "color"
         },
         "darkOrange": {
-          "$value": "#a64600"
+          "$value": "#a64600",
+          "$type": "color"
         },
         "darkPurple": {
-          "$value": "#6d3ab5"
+          "$value": "#6d3ab5",
+          "$type": "color"
         },
         "darkTeal": {
-          "$value": "#006e6e"
+          "$value": "#006e6e",
+          "$type": "color"
         },
         "darkGray": {
-          "$value": "#595959"
+          "$value": "#595959",
+          "$type": "color"
         },
         "darkPink": {
-          "$value": "#b31564"
+          "$value": "#b31564",
+          "$type": "color"
         }
       },
       "onBlack": {
         "$description": "Colors safe for text and icons on black backgrounds (4.5:1+ contrast)",
         "lightBlue": {
-          "$value": "#6bb3ff"
+          "$value": "#6bb3ff",
+          "$type": "color"
         },
         "lightGreen": {
-          "$value": "#66d97e"
+          "$value": "#66d97e",
+          "$type": "color"
         },
         "lightRed": {
-          "$value": "#ff8087"
+          "$value": "#ff8087",
+          "$type": "color"
         },
         "lightOrange": {
-          "$value": "#ffaa5e"
+          "$value": "#ffaa5e",
+          "$type": "color"
         },
         "lightPurple": {
-          "$value": "#c4a0ff"
+          "$value": "#c4a0ff",
+          "$type": "color"
         },
         "lightTeal": {
-          "$value": "#5eded6"
+          "$value": "#5eded6",
+          "$type": "color"
         },
         "lightGray": {
-          "$value": "#a6a6a6"
+          "$value": "#a6a6a6",
+          "$type": "color"
         },
         "lightPink": {
-          "$value": "#ff80b5"
+          "$value": "#ff80b5",
+          "$type": "color"
         }
       },
       "neutral": {
         "$description": "Colors safe in both white and black background contexts",
         "midBlue": {
-          "$value": "#2e7dd1"
+          "$value": "#2e7dd1",
+          "$type": "color"
         },
         "midGreen": {
-          "$value": "#3c9f5e"
+          "$value": "#3c9f5e",
+          "$type": "color"
         },
         "midGray": {
-          "$value": "#767676"
+          "$value": "#767676",
+          "$type": "color"
         }
       }
     }

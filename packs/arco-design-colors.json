@@ -28,166 +28,216 @@
       "$type": "color",
       "blue": {
         "1": {
-          "$value": "#e8f3ff"
+          "$value": "#e8f3ff",
+          "$type": "color"
         },
         "2": {
-          "$value": "#bedaff"
+          "$value": "#bedaff",
+          "$type": "color"
         },
         "3": {
-          "$value": "#94bfff"
+          "$value": "#94bfff",
+          "$type": "color"
         },
         "4": {
-          "$value": "#6aa1ff"
+          "$value": "#6aa1ff",
+          "$type": "color"
         },
         "5": {
-          "$value": "#4080ff"
+          "$value": "#4080ff",
+          "$type": "color"
         },
         "6": {
-          "$value": "#165dff"
+          "$value": "#165dff",
+          "$type": "color"
         },
         "7": {
-          "$value": "#0e42d2"
+          "$value": "#0e42d2",
+          "$type": "color"
         },
         "8": {
-          "$value": "#072ca6"
+          "$value": "#072ca6",
+          "$type": "color"
         },
         "9": {
-          "$value": "#031a79"
+          "$value": "#031a79",
+          "$type": "color"
         },
         "10": {
-          "$value": "#000d4d"
+          "$value": "#000d4d",
+          "$type": "color"
         },
         "$description": "Arco Blue — primary brand color scale, 10 steps from lightest to darkest"
       },
       "green": {
         "1": {
-          "$value": "#e8ffea"
+          "$value": "#e8ffea",
+          "$type": "color"
         },
         "2": {
-          "$value": "#aff0b5"
+          "$value": "#aff0b5",
+          "$type": "color"
         },
         "3": {
-          "$value": "#7be188"
+          "$value": "#7be188",
+          "$type": "color"
         },
         "4": {
-          "$value": "#4cd263"
+          "$value": "#4cd263",
+          "$type": "color"
         },
         "5": {
-          "$value": "#23c343"
+          "$value": "#23c343",
+          "$type": "color"
         },
         "6": {
-          "$value": "#00b42a"
+          "$value": "#00b42a",
+          "$type": "color"
         },
         "7": {
-          "$value": "#009a29"
+          "$value": "#009a29",
+          "$type": "color"
         },
         "8": {
-          "$value": "#008026"
+          "$value": "#008026",
+          "$type": "color"
         },
         "9": {
-          "$value": "#006622"
+          "$value": "#006622",
+          "$type": "color"
         },
         "10": {
-          "$value": "#004d1c"
+          "$value": "#004d1c",
+          "$type": "color"
         },
         "$description": "Arco Green — success and positive state color scale"
       },
       "orange": {
         "1": {
-          "$value": "#fff7e8"
+          "$value": "#fff7e8",
+          "$type": "color"
         },
         "2": {
-          "$value": "#ffe4ba"
+          "$value": "#ffe4ba",
+          "$type": "color"
         },
         "3": {
-          "$value": "#ffcf8b"
+          "$value": "#ffcf8b",
+          "$type": "color"
         },
         "4": {
-          "$value": "#ffb65d"
+          "$value": "#ffb65d",
+          "$type": "color"
         },
         "5": {
-          "$value": "#ff9a2e"
+          "$value": "#ff9a2e",
+          "$type": "color"
         },
         "6": {
-          "$value": "#ff7d00"
+          "$value": "#ff7d00",
+          "$type": "color"
         },
         "7": {
-          "$value": "#d25f00"
+          "$value": "#d25f00",
+          "$type": "color"
         },
         "8": {
-          "$value": "#a64500"
+          "$value": "#a64500",
+          "$type": "color"
         },
         "9": {
-          "$value": "#792e00"
+          "$value": "#792e00",
+          "$type": "color"
         },
         "10": {
-          "$value": "#4d1b00"
+          "$value": "#4d1b00",
+          "$type": "color"
         },
         "$description": "Arco Orange — warning state color scale"
       },
       "red": {
         "1": {
-          "$value": "#ffece8"
+          "$value": "#ffece8",
+          "$type": "color"
         },
         "2": {
-          "$value": "#fdcdc5"
+          "$value": "#fdcdc5",
+          "$type": "color"
         },
         "3": {
-          "$value": "#fbaca3"
+          "$value": "#fbaca3",
+          "$type": "color"
         },
         "4": {
-          "$value": "#f98981"
+          "$value": "#f98981",
+          "$type": "color"
         },
         "5": {
-          "$value": "#f76560"
+          "$value": "#f76560",
+          "$type": "color"
         },
         "6": {
-          "$value": "#f53f3f"
+          "$value": "#f53f3f",
+          "$type": "color"
         },
         "7": {
-          "$value": "#cb272d"
+          "$value": "#cb272d",
+          "$type": "color"
         },
         "8": {
-          "$value": "#a1151e"
+          "$value": "#a1151e",
+          "$type": "color"
         },
         "9": {
-          "$value": "#770813"
+          "$value": "#770813",
+          "$type": "color"
         },
         "10": {
-          "$value": "#4d000a"
+          "$value": "#4d000a",
+          "$type": "color"
         },
         "$description": "Arco Red — danger and error state color scale"
       },
       "gray": {
         "1": {
-          "$value": "#f7f8fa"
+          "$value": "#f7f8fa",
+          "$type": "color"
         },
         "2": {
-          "$value": "#f2f3f5"
+          "$value": "#f2f3f5",
+          "$type": "color"
         },
         "3": {
-          "$value": "#e5e6eb"
+          "$value": "#e5e6eb",
+          "$type": "color"
         },
         "4": {
-          "$value": "#c9cdd4"
+          "$value": "#c9cdd4",
+          "$type": "color"
         },
         "5": {
-          "$value": "#a9aeb8"
+          "$value": "#a9aeb8",
+          "$type": "color"
         },
         "6": {
-          "$value": "#86909c"
+          "$value": "#86909c",
+          "$type": "color"
         },
         "7": {
-          "$value": "#6b7785"
+          "$value": "#6b7785",
+          "$type": "color"
         },
         "8": {
-          "$value": "#4e5969"
+          "$value": "#4e5969",
+          "$type": "color"
         },
         "9": {
-          "$value": "#272e3b"
+          "$value": "#272e3b",
+          "$type": "color"
         },
         "10": {
-          "$value": "#1d2129"
+          "$value": "#1d2129",
+          "$type": "color"
         },
         "$description": "Arco Gray — neutral color scale for text, borders, and backgrounds"
       }

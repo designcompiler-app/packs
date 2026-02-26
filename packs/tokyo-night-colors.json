@@ -29,55 +29,71 @@
       "night": {
         "$description": "Tokyo Night — editor background, surface, and foreground colors",
         "bg": {
-          "$value": "#1a1b26"
+          "$value": "#1a1b26",
+          "$type": "color"
         },
         "bgDark": {
-          "$value": "#16161e"
+          "$value": "#16161e",
+          "$type": "color"
         },
         "bgHighlight": {
-          "$value": "#292e42"
+          "$value": "#292e42",
+          "$type": "color"
         },
         "terminalBlack": {
-          "$value": "#414868"
+          "$value": "#414868",
+          "$type": "color"
         },
         "fg": {
-          "$value": "#c0caf5"
+          "$value": "#c0caf5",
+          "$type": "color"
         },
         "fgDark": {
-          "$value": "#a9b1d6"
+          "$value": "#a9b1d6",
+          "$type": "color"
         },
         "comment": {
-          "$value": "#565f89"
+          "$value": "#565f89",
+          "$type": "color"
         },
         "dark5": {
-          "$value": "#737aa2"
+          "$value": "#737aa2",
+          "$type": "color"
         }
       },
       "syntax": {
         "$description": "Tokyo Night Syntax — vibrant accent colors for code highlighting",
         "blue": {
-          "$value": "#7aa2f7"
+          "$value": "#7aa2f7",
+          "$type": "color"
         },
         "cyan": {
-          "$value": "#7dcfff"
+          "$value": "#7dcfff",
+          "$type": "color"
         },
         "magenta": {
-          "$value": "#bb9af7"
+          "$value": "#bb9af7",
+          "$type": "color"
         },
         "orange": {
-          "$value": "#ff9e64"
+          "$value": "#ff9e64",
+          "$type": "color"
         },
         "red": {
-          "$value": "#f7768e"
+          "$value": "#f7768e",
+          "$type": "color"
         },
         "green": {
-          "$value": "#9ece6a"
+          "$value": "#9ece6a",
+          "$type": "color"
         },
         "yellow": {
-          "$value": "#e0af68"
+          "$value": "#e0af68",
+          "$type": "color"
         },
         "teal": {
-          "$value": "#73daca"
+          "$value": "#73daca",
+          "$type": "color"
         }
       }
     }

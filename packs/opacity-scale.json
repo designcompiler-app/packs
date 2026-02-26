@@ -17,34 +17,44 @@
   "data": {
     "scale": {
       "0": {
-        "$value": 0
+        "$value": 0,
+        "$type": "number"
       },
       "5": {
-        "$value": 0.05
+        "$value": 0.05,
+        "$type": "number"
       },
       "10": {
-        "$value": 0.1
+        "$value": 0.1,
+        "$type": "number"
       },
       "20": {
-        "$value": 0.2
+        "$value": 0.2,
+        "$type": "number"
       },
       "30": {
-        "$value": 0.3
+        "$value": 0.3,
+        "$type": "number"
       },
       "40": {
-        "$value": 0.4
+        "$value": 0.4,
+        "$type": "number"
       },
       "50": {
-        "$value": 0.5
+        "$value": 0.5,
+        "$type": "number"
       },
       "60": {
-        "$value": 0.6
+        "$value": 0.6,
+        "$type": "number"
       },
       "80": {
-        "$value": 0.8
+        "$value": 0.8,
+        "$type": "number"
       },
       "100": {
-        "$value": 1
+        "$value": 1,
+        "$type": "number"
       },
       "$type": "number",
       "$description": "10-step opacity scale from invisible to fully opaque"
@@ -54,35 +64,43 @@
       "$description": "Semantic opacity presets for common UI patterns",
       "disabled": {
         "$value": 0.38,
-        "$description": "Disabled elements"
+        "$description": "Disabled elements",
+        "$type": "number"
       },
       "hover": {
         "$value": 0.08,
-        "$description": "Hover overlay"
+        "$description": "Hover overlay",
+        "$type": "number"
       },
       "pressed": {
         "$value": 0.12,
-        "$description": "Press/active overlay"
+        "$description": "Press/active overlay",
+        "$type": "number"
       },
       "focus": {
         "$value": 0.12,
-        "$description": "Focus ring overlay"
+        "$description": "Focus ring overlay",
+        "$type": "number"
       },
       "scrim": {
         "$value": 0.5,
-        "$description": "Modal backdrop scrim"
+        "$description": "Modal backdrop scrim",
+        "$type": "number"
       },
       "overlay": {
         "$value": 0.72,
-        "$description": "Heavy overlay"
+        "$description": "Heavy overlay",
+        "$type": "number"
       },
       "watermark": {
         "$value": 0.08,
-        "$description": "Watermark and background decoration"
+        "$description": "Watermark and background decoration",
+        "$type": "number"
       },
       "loading": {
         "$value": 0.6,
-        "$description": "Loading skeleton pulse opacity"
+        "$description": "Loading skeleton pulse opacity",
+        "$type": "number"
       }
     }
   }

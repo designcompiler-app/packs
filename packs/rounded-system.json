@@ -20,43 +20,53 @@
       "$description": "Base radius scale from sharp to full round",
       "none": {
         "$value": "0px",
-        "$description": "Sharp corners, no rounding"
+        "$description": "Sharp corners, no rounding",
+        "$type": "dimension"
       },
       "xs": {
         "$value": "2px",
-        "$description": "Barely rounded, subtle softening"
+        "$description": "Barely rounded, subtle softening",
+        "$type": "dimension"
       },
       "sm": {
         "$value": "4px",
-        "$description": "Slightly rounded, checkboxes"
+        "$description": "Slightly rounded, checkboxes",
+        "$type": "dimension"
       },
       "md": {
         "$value": "6px",
-        "$description": "Moderate rounding, chips"
+        "$description": "Moderate rounding, chips",
+        "$type": "dimension"
       },
       "default": {
         "$value": "8px",
-        "$description": "Standard rounding, buttons"
+        "$description": "Standard rounding, buttons",
+        "$type": "dimension"
       },
       "lg": {
         "$value": "12px",
-        "$description": "Noticeable rounding, cards"
+        "$description": "Noticeable rounding, cards",
+        "$type": "dimension"
       },
       "xl": {
         "$value": "16px",
-        "$description": "Large rounding, panels"
+        "$description": "Large rounding, panels",
+        "$type": "dimension"
       },
       "2xl": {
         "$value": "24px",
-        "$description": "Very round, hero elements"
+        "$description": "Very round, hero elements",
+        "$type": "dimension"
       },
       "3xl": {
         "$value": "32px",
-        "$description": "Extreme rounding, blobs"
+        "$description": "Extreme rounding, blobs",
+        "$type": "dimension"
       },
       "full": {
         "$value": "9999px",
-        "$description": "Full pill/circle shape"
+        "$description": "Full pill/circle shape",
+        "$type": "dimension"
       }
     },
     "component": {
@@ -64,39 +74,48 @@
       "$description": "Semantic radius presets for common UI components",
       "button": {
         "$value": "8px",
-        "$description": "Default button corners"
+        "$description": "Default button corners",
+        "$type": "dimension"
       },
       "buttonSm": {
         "$value": "6px",
-        "$description": "Compact button corners"
+        "$description": "Compact button corners",
+        "$type": "dimension"
       },
       "buttonLg": {
         "$value": "12px",
-        "$description": "Large button corners"
+        "$description": "Large button corners",
+        "$type": "dimension"
       },
       "card": {
         "$value": "12px",
-        "$description": "Card/panel corners"
+        "$description": "Card/panel corners",
+        "$type": "dimension"
       },
       "input": {
         "$value": "8px",
-        "$description": "Text input corners"
+        "$description": "Text input corners",
+        "$type": "dimension"
       },
       "badge": {
         "$value": "9999px",
-        "$description": "Notification badge (pill)"
+        "$description": "Notification badge (pill)",
+        "$type": "dimension"
       },
       "avatar": {
         "$value": "9999px",
-        "$description": "Avatar circle"
+        "$description": "Avatar circle",
+        "$type": "dimension"
       },
       "modal": {
         "$value": "16px",
-        "$description": "Dialog/modal corners"
+        "$description": "Dialog/modal corners",
+        "$type": "dimension"
       },
       "tooltip": {
         "$value": "6px",
-        "$description": "Tooltip corners"
+        "$description": "Tooltip corners",
+        "$type": "dimension"
       }
     }
   }

@@ -29,127 +29,166 @@
       "main": {
         "$description": "Rosé Pine Main — the darkest variant with deep, rich tones",
         "base": {
-          "$value": "#191724"
+          "$value": "#191724",
+          "$type": "color"
         },
         "surface": {
-          "$value": "#1f1d2e"
+          "$value": "#1f1d2e",
+          "$type": "color"
         },
         "overlay": {
-          "$value": "#26233a"
+          "$value": "#26233a",
+          "$type": "color"
         },
         "muted": {
-          "$value": "#6e6a86"
+          "$value": "#6e6a86",
+          "$type": "color"
         },
         "subtle": {
-          "$value": "#908caa"
+          "$value": "#908caa",
+          "$type": "color"
         },
         "text": {
-          "$value": "#e0def4"
+          "$value": "#e0def4",
+          "$type": "color"
         },
         "love": {
-          "$value": "#eb6f92"
+          "$value": "#eb6f92",
+          "$type": "color"
         },
         "gold": {
-          "$value": "#f6c177"
+          "$value": "#f6c177",
+          "$type": "color"
         },
         "rose": {
-          "$value": "#ebbcba"
+          "$value": "#ebbcba",
+          "$type": "color"
         },
         "pine": {
-          "$value": "#31748f"
+          "$value": "#31748f",
+          "$type": "color"
         },
         "foam": {
-          "$value": "#9ccfd8"
+          "$value": "#9ccfd8",
+          "$type": "color"
         },
         "iris": {
-          "$value": "#c4a7e7"
+          "$value": "#c4a7e7",
+          "$type": "color"
         },
         "highlightLow": {
-          "$value": "#21202e"
+          "$value": "#21202e",
+          "$type": "color"
         },
         "highlightMed": {
-          "$value": "#403d52"
+          "$value": "#403d52",
+          "$type": "color"
         },
         "highlightHigh": {
-          "$value": "#524f67"
+          "$value": "#524f67",
+          "$type": "color"
         }
       },
       "moon": {
         "$description": "Rosé Pine Moon — a slightly lighter dark variant",
         "base": {
-          "$value": "#232136"
+          "$value": "#232136",
+          "$type": "color"
         },
         "surface": {
-          "$value": "#2a273f"
+          "$value": "#2a273f",
+          "$type": "color"
         },
         "overlay": {
-          "$value": "#393552"
+          "$value": "#393552",
+          "$type": "color"
         },
         "muted": {
-          "$value": "#6e6a86"
+          "$value": "#6e6a86",
+          "$type": "color"
         },
         "subtle": {
-          "$value": "#908caa"
+          "$value": "#908caa",
+          "$type": "color"
         },
         "text": {
-          "$value": "#e0def4"
+          "$value": "#e0def4",
+          "$type": "color"
         },
         "love": {
-          "$value": "#eb6f92"
+          "$value": "#eb6f92",
+          "$type": "color"
         },
         "gold": {
-          "$value": "#f6c177"
+          "$value": "#f6c177",
+          "$type": "color"
         },
         "rose": {
-          "$value": "#ea9a97"
+          "$value": "#ea9a97",
+          "$type": "color"
         },
         "pine": {
-          "$value": "#3e8fb0"
+          "$value": "#3e8fb0",
+          "$type": "color"
         },
         "foam": {
-          "$value": "#9ccfd8"
+          "$value": "#9ccfd8",
+          "$type": "color"
         },
         "iris": {
-          "$value": "#c4a7e7"
+          "$value": "#c4a7e7",
+          "$type": "color"
         }
       },
       "dawn": {
         "$description": "Rosé Pine Dawn — the light variant with warm, soft tones",
         "base": {
-          "$value": "#faf4ed"
+          "$value": "#faf4ed",
+          "$type": "color"
         },
         "surface": {
-          "$value": "#fffaf3"
+          "$value": "#fffaf3",
+          "$type": "color"
         },
         "overlay": {
-          "$value": "#f2e9e1"
+          "$value": "#f2e9e1",
+          "$type": "color"
         },
         "muted": {
-          "$value": "#9893a5"
+          "$value": "#9893a5",
+          "$type": "color"
         },
         "subtle": {
-          "$value": "#797593"
+          "$value": "#797593",
+          "$type": "color"
         },
         "text": {
-          "$value": "#575279"
+          "$value": "#575279",
+          "$type": "color"
         },
         "love": {
-          "$value": "#b4637a"
+          "$value": "#b4637a",
+          "$type": "color"
         },
         "gold": {
-          "$value": "#ea9d34"
+          "$value": "#ea9d34",
+          "$type": "color"
         },
         "rose": {
-          "$value": "#d7827e"
+          "$value": "#d7827e",
+          "$type": "color"
         },
         "pine": {
-          "$value": "#286983"
+          "$value": "#286983",
+          "$type": "color"
         },
         "foam": {
-          "$value": "#56949f"
+          "$value": "#56949f",
+          "$type": "color"
         },
         "iris": {
-          "$value": "#907aa9"
+          "$value": "#907aa9",
+          "$type": "color"
         }
       }
     }

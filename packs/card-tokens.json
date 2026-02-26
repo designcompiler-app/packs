@@ -31,15 +31,18 @@
       "$description": "Card content padding by density",
       "compact": {
         "$value": "12px",
-        "$description": "Dense data tables, list items"
+        "$description": "Dense data tables, list items",
+        "$type": "dimension"
       },
       "default": {
         "$value": "16px",
-        "$description": "Standard card content"
+        "$description": "Standard card content",
+        "$type": "dimension"
       },
       "spacious": {
         "$value": "24px",
-        "$description": "Hero cards, marketing blocks"
+        "$description": "Hero cards, marketing blocks",
+        "$type": "dimension"
       }
     },
     "gap": {
@@ -47,19 +50,23 @@
       "$description": "Spacing between card sections (header, body, footer)",
       "header": {
         "$value": "12px",
-        "$description": "Below card header"
+        "$description": "Below card header",
+        "$type": "dimension"
       },
       "body": {
         "$value": "16px",
-        "$description": "Between body paragraphs"
+        "$description": "Between body paragraphs",
+        "$type": "dimension"
       },
       "footer": {
         "$value": "12px",
-        "$description": "Above card footer"
+        "$description": "Above card footer",
+        "$type": "dimension"
       },
       "section": {
         "$value": "16px",
-        "$description": "Between content sections"
+        "$description": "Between content sections",
+        "$type": "dimension"
       }
     },
     "borderRadius": {
@@ -67,15 +74,18 @@
       "$description": "Card corner radius by elevation",
       "flat": {
         "$value": "8px",
-        "$description": "Flush with surface"
+        "$description": "Flush with surface",
+        "$type": "dimension"
       },
       "raised": {
         "$value": "12px",
-        "$description": "Elevated cards"
+        "$description": "Elevated cards",
+        "$type": "dimension"
       },
       "floating": {
         "$value": "16px",
-        "$description": "Overlays, popovers"
+        "$description": "Overlays, popovers",
+        "$type": "dimension"
       }
     },
     "shadow": {
@@ -89,7 +99,8 @@
           "spread": "0px",
           "color": "#00000000"
         },
-        "$description": "No shadow, relies on border"
+        "$description": "No shadow, relies on border",
+        "$type": "shadow"
       },
       "raised": {
         "$value": {
@@ -99,7 +110,8 @@
           "spread": "0px",
           "color": "#0000001a"
         },
-        "$description": "Subtle lift off surface"
+        "$description": "Subtle lift off surface",
+        "$type": "shadow"
       },
       "floating": {
         "$value": {
@@ -109,7 +121,8 @@
           "spread": "-4px",
           "color": "#00000020"
         },
-        "$description": "Detached from surface"
+        "$description": "Detached from surface",
+        "$type": "shadow"
       },
       "hover": {
         "$value": {
@@ -119,7 +132,8 @@
           "spread": "-4px",
           "color": "#00000026"
         },
-        "$description": "Lift on hover interaction"
+        "$description": "Lift on hover interaction",
+        "$type": "shadow"
       }
     },
     "color": {
@@ -127,43 +141,53 @@
       "$description": "Card surface and text colors",
       "surface": {
         "$value": "#FFFFFF",
-        "$description": "Default card background"
+        "$description": "Default card background",
+        "$type": "color"
       },
       "surfaceHover": {
         "$value": "#F9FAFB",
-        "$description": "Background on hover"
+        "$description": "Background on hover",
+        "$type": "color"
       },
       "surfaceMuted": {
         "$value": "#F3F4F6",
-        "$description": "Muted/secondary card"
+        "$description": "Muted/secondary card",
+        "$type": "color"
       },
       "border": {
         "$value": "#E5E7EB",
-        "$description": "Default card border"
+        "$description": "Default card border",
+        "$type": "color"
       },
       "borderHover": {
         "$value": "#D1D5DB",
-        "$description": "Border on hover"
+        "$description": "Border on hover",
+        "$type": "color"
       },
       "title": {
         "$value": "#111827",
-        "$description": "Card heading text"
+        "$description": "Card heading text",
+        "$type": "color"
       },
       "body": {
         "$value": "#374151",
-        "$description": "Card body text"
+        "$description": "Card body text",
+        "$type": "color"
       },
       "caption": {
         "$value": "#6B7280",
-        "$description": "Meta text, timestamps"
+        "$description": "Meta text, timestamps",
+        "$type": "color"
       },
       "accent": {
         "$value": "#3B82F6",
-        "$description": "Links, highlighted values"
+        "$description": "Links, highlighted values",
+        "$type": "color"
       },
       "divider": {
         "$value": "#F3F4F6",
-        "$description": "Section divider line"
+        "$description": "Section divider line",
+        "$type": "color"
       }
     }
   }

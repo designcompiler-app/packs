@@ -28,310 +28,404 @@
       "$type": "color",
       "neutral": {
         "0": {
-          "$value": "#ffffff"
+          "$value": "#ffffff",
+          "$type": "color"
         },
         "1": {
-          "$value": "#F6F8FA"
+          "$value": "#F6F8FA",
+          "$type": "color"
         },
         "2": {
-          "$value": "#EFF2F5"
+          "$value": "#EFF2F5",
+          "$type": "color"
         },
         "3": {
-          "$value": "#E6EAEF"
+          "$value": "#E6EAEF",
+          "$type": "color"
         },
         "4": {
-          "$value": "#E0E6EB"
+          "$value": "#E0E6EB",
+          "$type": "color"
         },
         "5": {
-          "$value": "#DAE0E7"
+          "$value": "#DAE0E7",
+          "$type": "color"
         },
         "6": {
-          "$value": "#D1D9E0"
+          "$value": "#D1D9E0",
+          "$type": "color"
         },
         "7": {
-          "$value": "#C8D1DA"
+          "$value": "#C8D1DA",
+          "$type": "color"
         },
         "8": {
-          "$value": "#818B98"
+          "$value": "#818B98",
+          "$type": "color"
         },
         "9": {
-          "$value": "#59636E"
+          "$value": "#59636E",
+          "$type": "color"
         },
         "10": {
-          "$value": "#454C54"
+          "$value": "#454C54",
+          "$type": "color"
         },
         "11": {
-          "$value": "#393F46"
+          "$value": "#393F46",
+          "$type": "color"
         },
         "12": {
-          "$value": "#25292E"
+          "$value": "#25292E",
+          "$type": "color"
         },
         "13": {
-          "$value": "#1f2328"
+          "$value": "#1f2328",
+          "$type": "color"
         },
         "$description": "Primer neutral gray — 14-step ramp from white to near-black"
       },
       "blue": {
         "0": {
-          "$value": "#ddf4ff"
+          "$value": "#ddf4ff",
+          "$type": "color"
         },
         "1": {
-          "$value": "#b6e3ff"
+          "$value": "#b6e3ff",
+          "$type": "color"
         },
         "2": {
-          "$value": "#80ccff"
+          "$value": "#80ccff",
+          "$type": "color"
         },
         "3": {
-          "$value": "#54aeff"
+          "$value": "#54aeff",
+          "$type": "color"
         },
         "4": {
-          "$value": "#218bff"
+          "$value": "#218bff",
+          "$type": "color"
         },
         "5": {
-          "$value": "#0969da"
+          "$value": "#0969da",
+          "$type": "color"
         },
         "6": {
-          "$value": "#0550ae"
+          "$value": "#0550ae",
+          "$type": "color"
         },
         "7": {
-          "$value": "#033d8b"
+          "$value": "#033d8b",
+          "$type": "color"
         },
         "8": {
-          "$value": "#0a3069"
+          "$value": "#0a3069",
+          "$type": "color"
         },
         "9": {
-          "$value": "#002155"
+          "$value": "#002155",
+          "$type": "color"
         },
         "$description": "Primer blue — primary and links"
       },
       "green": {
         "0": {
-          "$value": "#dafbe1"
+          "$value": "#dafbe1",
+          "$type": "color"
         },
         "1": {
-          "$value": "#aceebb"
+          "$value": "#aceebb",
+          "$type": "color"
         },
         "2": {
-          "$value": "#6fdd8b"
+          "$value": "#6fdd8b",
+          "$type": "color"
         },
         "3": {
-          "$value": "#4ac26b"
+          "$value": "#4ac26b",
+          "$type": "color"
         },
         "4": {
-          "$value": "#2da44e"
+          "$value": "#2da44e",
+          "$type": "color"
         },
         "5": {
-          "$value": "#1a7f37"
+          "$value": "#1a7f37",
+          "$type": "color"
         },
         "6": {
-          "$value": "#116329"
+          "$value": "#116329",
+          "$type": "color"
         },
         "7": {
-          "$value": "#044f1e"
+          "$value": "#044f1e",
+          "$type": "color"
         },
         "8": {
-          "$value": "#003d16"
+          "$value": "#003d16",
+          "$type": "color"
         },
         "9": {
-          "$value": "#002d11"
+          "$value": "#002d11",
+          "$type": "color"
         },
         "$description": "Primer green — success and open states"
       },
       "yellow": {
         "0": {
-          "$value": "#fff8c5"
+          "$value": "#fff8c5",
+          "$type": "color"
         },
         "1": {
-          "$value": "#fae17d"
+          "$value": "#fae17d",
+          "$type": "color"
         },
         "2": {
-          "$value": "#eac54f"
+          "$value": "#eac54f",
+          "$type": "color"
         },
         "3": {
-          "$value": "#d4a72c"
+          "$value": "#d4a72c",
+          "$type": "color"
         },
         "4": {
-          "$value": "#bf8700"
+          "$value": "#bf8700",
+          "$type": "color"
         },
         "5": {
-          "$value": "#9a6700"
+          "$value": "#9a6700",
+          "$type": "color"
         },
         "6": {
-          "$value": "#7d4e00"
+          "$value": "#7d4e00",
+          "$type": "color"
         },
         "7": {
-          "$value": "#633c01"
+          "$value": "#633c01",
+          "$type": "color"
         },
         "8": {
-          "$value": "#4d2d00"
+          "$value": "#4d2d00",
+          "$type": "color"
         },
         "9": {
-          "$value": "#3b2300"
+          "$value": "#3b2300",
+          "$type": "color"
         },
         "$description": "Primer yellow — warnings and attention"
       },
       "orange": {
         "0": {
-          "$value": "#fff1e5"
+          "$value": "#fff1e5",
+          "$type": "color"
         },
         "1": {
-          "$value": "#ffd8b5"
+          "$value": "#ffd8b5",
+          "$type": "color"
         },
         "2": {
-          "$value": "#ffb77c"
+          "$value": "#ffb77c",
+          "$type": "color"
         },
         "3": {
-          "$value": "#fb8f44"
+          "$value": "#fb8f44",
+          "$type": "color"
         },
         "4": {
-          "$value": "#e16f24"
+          "$value": "#e16f24",
+          "$type": "color"
         },
         "5": {
-          "$value": "#bc4c00"
+          "$value": "#bc4c00",
+          "$type": "color"
         },
         "6": {
-          "$value": "#953800"
+          "$value": "#953800",
+          "$type": "color"
         },
         "7": {
-          "$value": "#762c00"
+          "$value": "#762c00",
+          "$type": "color"
         },
         "8": {
-          "$value": "#5c2200"
+          "$value": "#5c2200",
+          "$type": "color"
         },
         "9": {
-          "$value": "#471700"
+          "$value": "#471700",
+          "$type": "color"
         },
         "$description": "Primer orange"
       },
       "red": {
         "0": {
-          "$value": "#ffebe9"
+          "$value": "#ffebe9",
+          "$type": "color"
         },
         "1": {
-          "$value": "#ffcecb"
+          "$value": "#ffcecb",
+          "$type": "color"
         },
         "2": {
-          "$value": "#ffaba8"
+          "$value": "#ffaba8",
+          "$type": "color"
         },
         "3": {
-          "$value": "#ff8182"
+          "$value": "#ff8182",
+          "$type": "color"
         },
         "4": {
-          "$value": "#fa4549"
+          "$value": "#fa4549",
+          "$type": "color"
         },
         "5": {
-          "$value": "#cf222e"
+          "$value": "#cf222e",
+          "$type": "color"
         },
         "6": {
-          "$value": "#a40e26"
+          "$value": "#a40e26",
+          "$type": "color"
         },
         "7": {
-          "$value": "#82071e"
+          "$value": "#82071e",
+          "$type": "color"
         },
         "8": {
-          "$value": "#660018"
+          "$value": "#660018",
+          "$type": "color"
         },
         "9": {
-          "$value": "#4c0014"
+          "$value": "#4c0014",
+          "$type": "color"
         },
         "$description": "Primer red — danger and closed states"
       },
       "purple": {
         "0": {
-          "$value": "#fbefff"
+          "$value": "#fbefff",
+          "$type": "color"
         },
         "1": {
-          "$value": "#ecd8ff"
+          "$value": "#ecd8ff",
+          "$type": "color"
         },
         "2": {
-          "$value": "#d8b9ff"
+          "$value": "#d8b9ff",
+          "$type": "color"
         },
         "3": {
-          "$value": "#c297ff"
+          "$value": "#c297ff",
+          "$type": "color"
         },
         "4": {
-          "$value": "#a475f9"
+          "$value": "#a475f9",
+          "$type": "color"
         },
         "5": {
-          "$value": "#8250df"
+          "$value": "#8250df",
+          "$type": "color"
         },
         "6": {
-          "$value": "#6639ba"
+          "$value": "#6639ba",
+          "$type": "color"
         },
         "7": {
-          "$value": "#512a97"
+          "$value": "#512a97",
+          "$type": "color"
         },
         "8": {
-          "$value": "#3e1f79"
+          "$value": "#3e1f79",
+          "$type": "color"
         },
         "9": {
-          "$value": "#2e1461"
+          "$value": "#2e1461",
+          "$type": "color"
         },
         "$description": "Primer purple"
       },
       "pink": {
         "0": {
-          "$value": "#ffeff7"
+          "$value": "#ffeff7",
+          "$type": "color"
         },
         "1": {
-          "$value": "#ffd3eb"
+          "$value": "#ffd3eb",
+          "$type": "color"
         },
         "2": {
-          "$value": "#ffadda"
+          "$value": "#ffadda",
+          "$type": "color"
         },
         "3": {
-          "$value": "#ff80c8"
+          "$value": "#ff80c8",
+          "$type": "color"
         },
         "4": {
-          "$value": "#e85aad"
+          "$value": "#e85aad",
+          "$type": "color"
         },
         "5": {
-          "$value": "#bf3989"
+          "$value": "#bf3989",
+          "$type": "color"
         },
         "6": {
-          "$value": "#99286e"
+          "$value": "#99286e",
+          "$type": "color"
         },
         "7": {
-          "$value": "#772057"
+          "$value": "#772057",
+          "$type": "color"
         },
         "8": {
-          "$value": "#611347"
+          "$value": "#611347",
+          "$type": "color"
         },
         "9": {
-          "$value": "#4d0336"
+          "$value": "#4d0336",
+          "$type": "color"
         },
         "$description": "Primer pink"
       },
       "coral": {
         "0": {
-          "$value": "#fff0eb"
+          "$value": "#fff0eb",
+          "$type": "color"
         },
         "1": {
-          "$value": "#ffd6cc"
+          "$value": "#ffd6cc",
+          "$type": "color"
         },
         "2": {
-          "$value": "#ffb4a1"
+          "$value": "#ffb4a1",
+          "$type": "color"
         },
         "3": {
-          "$value": "#fd8c73"
+          "$value": "#fd8c73",
+          "$type": "color"
         },
         "4": {
-          "$value": "#ec6547"
+          "$value": "#ec6547",
+          "$type": "color"
         },
         "5": {
-          "$value": "#c4432b"
+          "$value": "#c4432b",
+          "$type": "color"
         },
         "6": {
-          "$value": "#9e2f1c"
+          "$value": "#9e2f1c",
+          "$type": "color"
         },
         "7": {
-          "$value": "#801f0f"
+          "$value": "#801f0f",
+          "$type": "color"
         },
         "8": {
-          "$value": "#691105"
+          "$value": "#691105",
+          "$type": "color"
         },
         "9": {
-          "$value": "#510901"
+          "$value": "#510901",
+          "$type": "color"
         },
         "$description": "Primer coral"
       }

@@ -20,67 +20,83 @@
       "$description": "Mobile-first breakpoints (min-width approach)",
       "xs": {
         "$value": "475px",
-        "$description": "Large phones in landscape"
+        "$description": "Large phones in landscape",
+        "$type": "dimension"
       },
       "sm": {
         "$value": "640px",
-        "$description": "Small tablets"
+        "$description": "Small tablets",
+        "$type": "dimension"
       },
       "md": {
         "$value": "768px",
-        "$description": "Tablets in portrait"
+        "$description": "Tablets in portrait",
+        "$type": "dimension"
       },
       "lg": {
         "$value": "1024px",
-        "$description": "Tablets in landscape / small laptops"
+        "$description": "Tablets in landscape / small laptops",
+        "$type": "dimension"
       },
       "xl": {
         "$value": "1280px",
-        "$description": "Laptops and desktops"
+        "$description": "Laptops and desktops",
+        "$type": "dimension"
       },
       "2xl": {
         "$value": "1536px",
-        "$description": "Large desktops and monitors"
+        "$description": "Large desktops and monitors",
+        "$type": "dimension"
       }
     },
     "maxWidth": {
       "$type": "dimension",
       "$description": "Desktop-first breakpoints (max-width approach)",
       "sm": {
-        "$value": "639px"
+        "$value": "639px",
+        "$type": "dimension"
       },
       "md": {
-        "$value": "767px"
+        "$value": "767px",
+        "$type": "dimension"
       },
       "lg": {
-        "$value": "1023px"
+        "$value": "1023px",
+        "$type": "dimension"
       },
       "xl": {
-        "$value": "1279px"
+        "$value": "1279px",
+        "$type": "dimension"
       }
     },
     "container": {
       "$type": "dimension",
       "$description": "Max content widths for layout containers",
       "sm": {
-        "$value": "640px"
+        "$value": "640px",
+        "$type": "dimension"
       },
       "md": {
-        "$value": "768px"
+        "$value": "768px",
+        "$type": "dimension"
       },
       "lg": {
-        "$value": "1024px"
+        "$value": "1024px",
+        "$type": "dimension"
       },
       "xl": {
-        "$value": "1280px"
+        "$value": "1280px",
+        "$type": "dimension"
       },
       "prose": {
         "$value": "65ch",
-        "$description": "Optimal reading width for body text"
+        "$description": "Optimal reading width for body text",
+        "$type": "string"
       },
       "wide": {
         "$value": "1440px",
-        "$description": "Wide layout container"
+        "$description": "Wide layout container",
+        "$type": "dimension"
       }
     }
   }

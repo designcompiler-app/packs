@@ -28,397 +28,517 @@
       "$type": "color",
       "red": {
         "1": {
-          "$value": "#fff1f0"
+          "$value": "#fff1f0",
+          "$type": "color"
         },
         "2": {
-          "$value": "#ffccc7"
+          "$value": "#ffccc7",
+          "$type": "color"
         },
         "3": {
-          "$value": "#ffa39e"
+          "$value": "#ffa39e",
+          "$type": "color"
         },
         "4": {
-          "$value": "#ff7875"
+          "$value": "#ff7875",
+          "$type": "color"
         },
         "5": {
-          "$value": "#ff4d4f"
+          "$value": "#ff4d4f",
+          "$type": "color"
         },
         "6": {
-          "$value": "#f5222d"
+          "$value": "#f5222d",
+          "$type": "color"
         },
         "7": {
-          "$value": "#cf1322"
+          "$value": "#cf1322",
+          "$type": "color"
         },
         "8": {
-          "$value": "#a8071a"
+          "$value": "#a8071a",
+          "$type": "color"
         },
         "9": {
-          "$value": "#820014"
+          "$value": "#820014",
+          "$type": "color"
         },
         "10": {
-          "$value": "#5c0011"
+          "$value": "#5c0011",
+          "$type": "color"
         },
         "$description": "Ant Design red — error and danger"
       },
       "volcano": {
         "1": {
-          "$value": "#fff2e8"
+          "$value": "#fff2e8",
+          "$type": "color"
         },
         "2": {
-          "$value": "#ffd8bf"
+          "$value": "#ffd8bf",
+          "$type": "color"
         },
         "3": {
-          "$value": "#ffbb96"
+          "$value": "#ffbb96",
+          "$type": "color"
         },
         "4": {
-          "$value": "#ff9c6e"
+          "$value": "#ff9c6e",
+          "$type": "color"
         },
         "5": {
-          "$value": "#ff7a45"
+          "$value": "#ff7a45",
+          "$type": "color"
         },
         "6": {
-          "$value": "#fa541c"
+          "$value": "#fa541c",
+          "$type": "color"
         },
         "7": {
-          "$value": "#d4380d"
+          "$value": "#d4380d",
+          "$type": "color"
         },
         "8": {
-          "$value": "#ad2102"
+          "$value": "#ad2102",
+          "$type": "color"
         },
         "9": {
-          "$value": "#871400"
+          "$value": "#871400",
+          "$type": "color"
         },
         "10": {
-          "$value": "#610b00"
+          "$value": "#610b00",
+          "$type": "color"
         },
         "$description": "Warm red-orange"
       },
       "orange": {
         "1": {
-          "$value": "#fff7e6"
+          "$value": "#fff7e6",
+          "$type": "color"
         },
         "2": {
-          "$value": "#ffe7ba"
+          "$value": "#ffe7ba",
+          "$type": "color"
         },
         "3": {
-          "$value": "#ffd591"
+          "$value": "#ffd591",
+          "$type": "color"
         },
         "4": {
-          "$value": "#ffc069"
+          "$value": "#ffc069",
+          "$type": "color"
         },
         "5": {
-          "$value": "#ffa940"
+          "$value": "#ffa940",
+          "$type": "color"
         },
         "6": {
-          "$value": "#fa8c16"
+          "$value": "#fa8c16",
+          "$type": "color"
         },
         "7": {
-          "$value": "#d46b08"
+          "$value": "#d46b08",
+          "$type": "color"
         },
         "8": {
-          "$value": "#ad4e00"
+          "$value": "#ad4e00",
+          "$type": "color"
         },
         "9": {
-          "$value": "#873800"
+          "$value": "#873800",
+          "$type": "color"
         },
         "10": {
-          "$value": "#612500"
+          "$value": "#612500",
+          "$type": "color"
         },
         "$description": "Warm orange"
       },
       "gold": {
         "1": {
-          "$value": "#fffbe6"
+          "$value": "#fffbe6",
+          "$type": "color"
         },
         "2": {
-          "$value": "#fff1b8"
+          "$value": "#fff1b8",
+          "$type": "color"
         },
         "3": {
-          "$value": "#ffe58f"
+          "$value": "#ffe58f",
+          "$type": "color"
         },
         "4": {
-          "$value": "#ffd666"
+          "$value": "#ffd666",
+          "$type": "color"
         },
         "5": {
-          "$value": "#ffc53d"
+          "$value": "#ffc53d",
+          "$type": "color"
         },
         "6": {
-          "$value": "#faad14"
+          "$value": "#faad14",
+          "$type": "color"
         },
         "7": {
-          "$value": "#d48806"
+          "$value": "#d48806",
+          "$type": "color"
         },
         "8": {
-          "$value": "#ad6800"
+          "$value": "#ad6800",
+          "$type": "color"
         },
         "9": {
-          "$value": "#874d00"
+          "$value": "#874d00",
+          "$type": "color"
         },
         "10": {
-          "$value": "#613400"
+          "$value": "#613400",
+          "$type": "color"
         },
         "$description": "Ant Design gold — warning states"
       },
       "yellow": {
         "1": {
-          "$value": "#feffe6"
+          "$value": "#feffe6",
+          "$type": "color"
         },
         "2": {
-          "$value": "#ffffb8"
+          "$value": "#ffffb8",
+          "$type": "color"
         },
         "3": {
-          "$value": "#fffb8f"
+          "$value": "#fffb8f",
+          "$type": "color"
         },
         "4": {
-          "$value": "#fff566"
+          "$value": "#fff566",
+          "$type": "color"
         },
         "5": {
-          "$value": "#ffec3d"
+          "$value": "#ffec3d",
+          "$type": "color"
         },
         "6": {
-          "$value": "#fadb14"
+          "$value": "#fadb14",
+          "$type": "color"
         },
         "7": {
-          "$value": "#d4b106"
+          "$value": "#d4b106",
+          "$type": "color"
         },
         "8": {
-          "$value": "#ad8b00"
+          "$value": "#ad8b00",
+          "$type": "color"
         },
         "9": {
-          "$value": "#876800"
+          "$value": "#876800",
+          "$type": "color"
         },
         "10": {
-          "$value": "#614700"
+          "$value": "#614700",
+          "$type": "color"
         },
         "$description": "Bright yellow"
       },
       "lime": {
         "1": {
-          "$value": "#fcffe6"
+          "$value": "#fcffe6",
+          "$type": "color"
         },
         "2": {
-          "$value": "#f4ffb8"
+          "$value": "#f4ffb8",
+          "$type": "color"
         },
         "3": {
-          "$value": "#eaff8f"
+          "$value": "#eaff8f",
+          "$type": "color"
         },
         "4": {
-          "$value": "#d3f261"
+          "$value": "#d3f261",
+          "$type": "color"
         },
         "5": {
-          "$value": "#bae637"
+          "$value": "#bae637",
+          "$type": "color"
         },
         "6": {
-          "$value": "#a0d911"
+          "$value": "#a0d911",
+          "$type": "color"
         },
         "7": {
-          "$value": "#7cb305"
+          "$value": "#7cb305",
+          "$type": "color"
         },
         "8": {
-          "$value": "#5b8c00"
+          "$value": "#5b8c00",
+          "$type": "color"
         },
         "9": {
-          "$value": "#3f6600"
+          "$value": "#3f6600",
+          "$type": "color"
         },
         "10": {
-          "$value": "#254000"
+          "$value": "#254000",
+          "$type": "color"
         },
         "$description": "Yellow-green lime"
       },
       "green": {
         "1": {
-          "$value": "#f6ffed"
+          "$value": "#f6ffed",
+          "$type": "color"
         },
         "2": {
-          "$value": "#d9f7be"
+          "$value": "#d9f7be",
+          "$type": "color"
         },
         "3": {
-          "$value": "#b7eb8f"
+          "$value": "#b7eb8f",
+          "$type": "color"
         },
         "4": {
-          "$value": "#95de64"
+          "$value": "#95de64",
+          "$type": "color"
         },
         "5": {
-          "$value": "#73d13d"
+          "$value": "#73d13d",
+          "$type": "color"
         },
         "6": {
-          "$value": "#52c41a"
+          "$value": "#52c41a",
+          "$type": "color"
         },
         "7": {
-          "$value": "#389e0d"
+          "$value": "#389e0d",
+          "$type": "color"
         },
         "8": {
-          "$value": "#237804"
+          "$value": "#237804",
+          "$type": "color"
         },
         "9": {
-          "$value": "#135200"
+          "$value": "#135200",
+          "$type": "color"
         },
         "10": {
-          "$value": "#092b00"
+          "$value": "#092b00",
+          "$type": "color"
         },
         "$description": "Ant Design green — success states"
       },
       "cyan": {
         "1": {
-          "$value": "#e6fffb"
+          "$value": "#e6fffb",
+          "$type": "color"
         },
         "2": {
-          "$value": "#b5f5ec"
+          "$value": "#b5f5ec",
+          "$type": "color"
         },
         "3": {
-          "$value": "#87e8de"
+          "$value": "#87e8de",
+          "$type": "color"
         },
         "4": {
-          "$value": "#5cdbd3"
+          "$value": "#5cdbd3",
+          "$type": "color"
         },
         "5": {
-          "$value": "#36cfc9"
+          "$value": "#36cfc9",
+          "$type": "color"
         },
         "6": {
-          "$value": "#13c2c2"
+          "$value": "#13c2c2",
+          "$type": "color"
         },
         "7": {
-          "$value": "#08979c"
+          "$value": "#08979c",
+          "$type": "color"
         },
         "8": {
-          "$value": "#006d75"
+          "$value": "#006d75",
+          "$type": "color"
         },
         "9": {
-          "$value": "#00474f"
+          "$value": "#00474f",
+          "$type": "color"
         },
         "10": {
-          "$value": "#002329"
+          "$value": "#002329",
+          "$type": "color"
         },
         "$description": "Teal cyan"
       },
       "blue": {
         "1": {
-          "$value": "#e6f4ff"
+          "$value": "#e6f4ff",
+          "$type": "color"
         },
         "2": {
-          "$value": "#bae0ff"
+          "$value": "#bae0ff",
+          "$type": "color"
         },
         "3": {
-          "$value": "#91caff"
+          "$value": "#91caff",
+          "$type": "color"
         },
         "4": {
-          "$value": "#69b1ff"
+          "$value": "#69b1ff",
+          "$type": "color"
         },
         "5": {
-          "$value": "#4096ff"
+          "$value": "#4096ff",
+          "$type": "color"
         },
         "6": {
-          "$value": "#1677ff"
+          "$value": "#1677ff",
+          "$type": "color"
         },
         "7": {
-          "$value": "#0958d9"
+          "$value": "#0958d9",
+          "$type": "color"
         },
         "8": {
-          "$value": "#003eb3"
+          "$value": "#003eb3",
+          "$type": "color"
         },
         "9": {
-          "$value": "#002c8c"
+          "$value": "#002c8c",
+          "$type": "color"
         },
         "10": {
-          "$value": "#001d66"
+          "$value": "#001d66",
+          "$type": "color"
         },
         "$description": "Ant Design blue — brand and primary"
       },
       "geekblue": {
         "1": {
-          "$value": "#f0f5ff"
+          "$value": "#f0f5ff",
+          "$type": "color"
         },
         "2": {
-          "$value": "#d6e4ff"
+          "$value": "#d6e4ff",
+          "$type": "color"
         },
         "3": {
-          "$value": "#adc6ff"
+          "$value": "#adc6ff",
+          "$type": "color"
         },
         "4": {
-          "$value": "#85a5ff"
+          "$value": "#85a5ff",
+          "$type": "color"
         },
         "5": {
-          "$value": "#597ef7"
+          "$value": "#597ef7",
+          "$type": "color"
         },
         "6": {
-          "$value": "#2f54eb"
+          "$value": "#2f54eb",
+          "$type": "color"
         },
         "7": {
-          "$value": "#1d39c4"
+          "$value": "#1d39c4",
+          "$type": "color"
         },
         "8": {
-          "$value": "#10239e"
+          "$value": "#10239e",
+          "$type": "color"
         },
         "9": {
-          "$value": "#061178"
+          "$value": "#061178",
+          "$type": "color"
         },
         "10": {
-          "$value": "#030852"
+          "$value": "#030852",
+          "$type": "color"
         },
         "$description": "Deep blue-indigo"
       },
       "purple": {
         "1": {
-          "$value": "#f9f0ff"
+          "$value": "#f9f0ff",
+          "$type": "color"
         },
         "2": {
-          "$value": "#efdbff"
+          "$value": "#efdbff",
+          "$type": "color"
         },
         "3": {
-          "$value": "#d3adf7"
+          "$value": "#d3adf7",
+          "$type": "color"
         },
         "4": {
-          "$value": "#b37feb"
+          "$value": "#b37feb",
+          "$type": "color"
         },
         "5": {
-          "$value": "#9254de"
+          "$value": "#9254de",
+          "$type": "color"
         },
         "6": {
-          "$value": "#722ed1"
+          "$value": "#722ed1",
+          "$type": "color"
         },
         "7": {
-          "$value": "#531dab"
+          "$value": "#531dab",
+          "$type": "color"
         },
         "8": {
-          "$value": "#391085"
+          "$value": "#391085",
+          "$type": "color"
         },
         "9": {
-          "$value": "#22075e"
+          "$value": "#22075e",
+          "$type": "color"
         },
         "10": {
-          "$value": "#120338"
+          "$value": "#120338",
+          "$type": "color"
         },
         "$description": "Rich purple"
       },
       "magenta": {
         "1": {
-          "$value": "#fff0f6"
+          "$value": "#fff0f6",
+          "$type": "color"
         },
         "2": {
-          "$value": "#ffd6e7"
+          "$value": "#ffd6e7",
+          "$type": "color"
         },
         "3": {
-          "$value": "#ffadd2"
+          "$value": "#ffadd2",
+          "$type": "color"
         },
         "4": {
-          "$value": "#ff85c0"
+          "$value": "#ff85c0",
+          "$type": "color"
         },
         "5": {
-          "$value": "#f759ab"
+          "$value": "#f759ab",
+          "$type": "color"
         },
         "6": {
-          "$value": "#eb2f96"
+          "$value": "#eb2f96",
+          "$type": "color"
         },
         "7": {
-          "$value": "#c41d7f"
+          "$value": "#c41d7f",
+          "$type": "color"
         },
         "8": {
-          "$value": "#9e1068"
+          "$value": "#9e1068",
+          "$type": "color"
         },
         "9": {
-          "$value": "#780650"
+          "$value": "#780650",
+          "$type": "color"
         },
         "10": {
-          "$value": "#520339"
+          "$value": "#520339",
+          "$type": "color"
         },
         "$description": "Vivid magenta-pink"
       }

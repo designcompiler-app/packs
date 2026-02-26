@@ -20,51 +20,63 @@
       "$description": "Material Design 3 duration tokens",
       "short1": {
         "$value": "50ms",
-        "$description": "Micro-interactions: ripple, toggle"
+        "$description": "Micro-interactions: ripple, toggle",
+        "$type": "duration"
       },
       "short2": {
         "$value": "100ms",
-        "$description": "Small transitions: icon change, chip select"
+        "$description": "Small transitions: icon change, chip select",
+        "$type": "duration"
       },
       "short3": {
         "$value": "150ms",
-        "$description": "Standard short: button press, selection"
+        "$description": "Standard short: button press, selection",
+        "$type": "duration"
       },
       "short4": {
         "$value": "200ms",
-        "$description": "Quick feedback: tooltip, snackbar appear"
+        "$description": "Quick feedback: tooltip, snackbar appear",
+        "$type": "duration"
       },
       "medium1": {
         "$value": "250ms",
-        "$description": "Standard transition: menu open, card expand"
+        "$description": "Standard transition: menu open, card expand",
+        "$type": "duration"
       },
       "medium2": {
         "$value": "300ms",
-        "$description": "Standard medium: drawer, tab switch"
+        "$description": "Standard medium: drawer, tab switch",
+        "$type": "duration"
       },
       "medium3": {
         "$value": "350ms",
-        "$description": "Content transition: page cross-fade"
+        "$description": "Content transition: page cross-fade",
+        "$type": "duration"
       },
       "medium4": {
         "$value": "400ms",
-        "$description": "Complex transition: modal enter"
+        "$description": "Complex transition: modal enter",
+        "$type": "duration"
       },
       "long1": {
         "$value": "450ms",
-        "$description": "Entrance: bottom sheet, dialog"
+        "$description": "Entrance: bottom sheet, dialog",
+        "$type": "duration"
       },
       "long2": {
         "$value": "500ms",
-        "$description": "Long entrance: full-screen transition"
+        "$description": "Long entrance: full-screen transition",
+        "$type": "duration"
       },
       "long3": {
         "$value": "550ms",
-        "$description": "Complex entrance: multi-step reveal"
+        "$description": "Complex entrance: multi-step reveal",
+        "$type": "duration"
       },
       "long4": {
         "$value": "600ms",
-        "$description": "Extra-long: initial page load sequence"
+        "$description": "Extra-long: initial page load sequence",
+        "$type": "duration"
       }
     },
     "easing": {
@@ -77,7 +89,8 @@
           0,
           1
         ],
-        "$description": "Standard easing — most transitions"
+        "$description": "Standard easing — most transitions",
+        "$type": "cubicBezier"
       },
       "standardAccelerate": {
         "$value": [
@@ -86,7 +99,8 @@
           1,
           1
         ],
-        "$description": "Exit transitions"
+        "$description": "Exit transitions",
+        "$type": "cubicBezier"
       },
       "standardDecelerate": {
         "$value": [
@@ -95,7 +109,8 @@
           0,
           1
         ],
-        "$description": "Enter transitions"
+        "$description": "Enter transitions",
+        "$type": "cubicBezier"
       },
       "emphasized": {
         "$value": [
@@ -104,7 +119,8 @@
           0,
           1
         ],
-        "$description": "Emphasized easing — prominent transitions"
+        "$description": "Emphasized easing — prominent transitions",
+        "$type": "cubicBezier"
       }
     }
   }

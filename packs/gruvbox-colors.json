@@ -29,112 +29,143 @@
       "darkBg": {
         "$description": "Gruvbox Dark — background scale for the dark variant",
         "bg0": {
-          "$value": "#282828"
+          "$value": "#282828",
+          "$type": "color"
         },
         "bg1": {
-          "$value": "#3c3836"
+          "$value": "#3c3836",
+          "$type": "color"
         },
         "bg2": {
-          "$value": "#504945"
+          "$value": "#504945",
+          "$type": "color"
         },
         "bg3": {
-          "$value": "#665c54"
+          "$value": "#665c54",
+          "$type": "color"
         },
         "bg4": {
-          "$value": "#7c6f64"
+          "$value": "#7c6f64",
+          "$type": "color"
         }
       },
       "lightBg": {
         "$description": "Gruvbox Light — background scale for the light variant",
         "bg0": {
-          "$value": "#fbf1c7"
+          "$value": "#fbf1c7",
+          "$type": "color"
         },
         "bg1": {
-          "$value": "#ebdbb2"
+          "$value": "#ebdbb2",
+          "$type": "color"
         },
         "bg2": {
-          "$value": "#d5c4a1"
+          "$value": "#d5c4a1",
+          "$type": "color"
         },
         "bg3": {
-          "$value": "#bdae93"
+          "$value": "#bdae93",
+          "$type": "color"
         },
         "bg4": {
-          "$value": "#a89984"
+          "$value": "#a89984",
+          "$type": "color"
         }
       },
       "foreground": {
         "$description": "Gruvbox Foreground — text and content colors",
         "fg": {
-          "$value": "#ebdbb2"
+          "$value": "#ebdbb2",
+          "$type": "color"
         },
         "fg0": {
-          "$value": "#fbf1c7"
+          "$value": "#fbf1c7",
+          "$type": "color"
         },
         "fg1": {
-          "$value": "#ebdbb2"
+          "$value": "#ebdbb2",
+          "$type": "color"
         },
         "fg2": {
-          "$value": "#d5c4a1"
+          "$value": "#d5c4a1",
+          "$type": "color"
         },
         "fg3": {
-          "$value": "#bdae93"
+          "$value": "#bdae93",
+          "$type": "color"
         },
         "fg4": {
-          "$value": "#a89984"
+          "$value": "#a89984",
+          "$type": "color"
         }
       },
       "accent": {
         "$description": "Gruvbox Accent — standard (dark) accent colors",
         "red": {
-          "$value": "#cc241d"
+          "$value": "#cc241d",
+          "$type": "color"
         },
         "green": {
-          "$value": "#98971a"
+          "$value": "#98971a",
+          "$type": "color"
         },
         "yellow": {
-          "$value": "#d79921"
+          "$value": "#d79921",
+          "$type": "color"
         },
         "blue": {
-          "$value": "#458588"
+          "$value": "#458588",
+          "$type": "color"
         },
         "purple": {
-          "$value": "#b16286"
+          "$value": "#b16286",
+          "$type": "color"
         },
         "aqua": {
-          "$value": "#689d6a"
+          "$value": "#689d6a",
+          "$type": "color"
         },
         "orange": {
-          "$value": "#d65d0e"
+          "$value": "#d65d0e",
+          "$type": "color"
         }
       },
       "bright": {
         "$description": "Gruvbox Bright — lighter accent variants for the dark theme",
         "brightRed": {
-          "$value": "#fb4934"
+          "$value": "#fb4934",
+          "$type": "color"
         },
         "brightGreen": {
-          "$value": "#b8bb26"
+          "$value": "#b8bb26",
+          "$type": "color"
         },
         "brightYellow": {
-          "$value": "#fabd2f"
+          "$value": "#fabd2f",
+          "$type": "color"
         },
         "brightBlue": {
-          "$value": "#83a598"
+          "$value": "#83a598",
+          "$type": "color"
         },
         "brightPurple": {
-          "$value": "#d3869b"
+          "$value": "#d3869b",
+          "$type": "color"
         },
         "brightAqua": {
-          "$value": "#8ec07c"
+          "$value": "#8ec07c",
+          "$type": "color"
         },
         "brightOrange": {
-          "$value": "#fe8019"
+          "$value": "#fe8019",
+          "$type": "color"
         }
       },
       "neutral": {
         "$description": "Gruvbox Neutral — shared gray tone",
         "gray": {
-          "$value": "#928374"
+          "$value": "#928374",
+          "$type": "color"
         }
       }
     }

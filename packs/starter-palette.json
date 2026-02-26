@@ -29,127 +29,165 @@
       "brand": {
         "$description": "Core brand colors — adjust these to match your identity",
         "primary": {
-          "$value": "#2563eb"
+          "$value": "#2563eb",
+          "$type": "color"
         },
         "primaryLight": {
-          "$value": "#60a5fa"
+          "$value": "#60a5fa",
+          "$type": "color"
         },
         "primaryDark": {
-          "$value": "#1d4ed8"
+          "$value": "#1d4ed8",
+          "$type": "color"
         },
         "secondary": {
-          "$value": "#7c3aed"
+          "$value": "#7c3aed",
+          "$type": "color"
         },
         "secondaryLight": {
-          "$value": "#a78bfa"
+          "$value": "#a78bfa",
+          "$type": "color"
         },
         "secondaryDark": {
-          "$value": "#6d28d9"
+          "$value": "#6d28d9",
+          "$type": "color"
         },
         "accent": {
-          "$value": "#06b6d4"
+          "$value": "#06b6d4",
+          "$type": "color"
         },
         "accentLight": {
-          "$value": "#67e8f9"
+          "$value": "#67e8f9",
+          "$type": "color"
         },
         "accentDark": {
-          "$value": "#0891b2"
+          "$value": "#0891b2",
+          "$type": "color"
         }
       },
       "neutral": {
         "50": {
-          "$value": "#f8fafc"
+          "$value": "#f8fafc",
+          "$type": "color"
         },
         "100": {
-          "$value": "#f1f5f9"
+          "$value": "#f1f5f9",
+          "$type": "color"
         },
         "200": {
-          "$value": "#e2e8f0"
+          "$value": "#e2e8f0",
+          "$type": "color"
         },
         "300": {
-          "$value": "#cbd5e1"
+          "$value": "#cbd5e1",
+          "$type": "color"
         },
         "400": {
-          "$value": "#94a3b8"
+          "$value": "#94a3b8",
+          "$type": "color"
         },
         "500": {
-          "$value": "#64748b"
+          "$value": "#64748b",
+          "$type": "color"
         },
         "600": {
-          "$value": "#475569"
+          "$value": "#475569",
+          "$type": "color"
         },
         "700": {
-          "$value": "#334155"
+          "$value": "#334155",
+          "$type": "color"
         },
         "800": {
-          "$value": "#1e293b"
+          "$value": "#1e293b",
+          "$type": "color"
         },
         "900": {
-          "$value": "#0f172a"
+          "$value": "#0f172a",
+          "$type": "color"
         },
         "$description": "Neutral gray scale from lightest to darkest"
       },
       "state": {
         "$description": "Semantic state colors for feedback and status",
         "success": {
-          "$value": "#059669"
+          "$value": "#059669",
+          "$type": "color"
         },
         "successLight": {
-          "$value": "#d1fae5"
+          "$value": "#d1fae5",
+          "$type": "color"
         },
         "successDark": {
-          "$value": "#047857"
+          "$value": "#047857",
+          "$type": "color"
         },
         "warning": {
-          "$value": "#d97706"
+          "$value": "#d97706",
+          "$type": "color"
         },
         "warningLight": {
-          "$value": "#fef3c7"
+          "$value": "#fef3c7",
+          "$type": "color"
         },
         "warningDark": {
-          "$value": "#b45309"
+          "$value": "#b45309",
+          "$type": "color"
         },
         "error": {
-          "$value": "#dc2626"
+          "$value": "#dc2626",
+          "$type": "color"
         },
         "errorLight": {
-          "$value": "#fee2e2"
+          "$value": "#fee2e2",
+          "$type": "color"
         },
         "errorDark": {
-          "$value": "#b91c1c"
+          "$value": "#b91c1c",
+          "$type": "color"
         },
         "info": {
-          "$value": "#2563eb"
+          "$value": "#2563eb",
+          "$type": "color"
         },
         "infoLight": {
-          "$value": "#dbeafe"
+          "$value": "#dbeafe",
+          "$type": "color"
         },
         "infoDark": {
-          "$value": "#1d4ed8"
+          "$value": "#1d4ed8",
+          "$type": "color"
         }
       },
       "surface": {
         "$description": "Background and surface colors for light theme",
         "background": {
-          "$value": "#ffffff"
+          "$value": "#ffffff",
+          "$type": "color"
         },
         "foreground": {
-          "$value": "#0f172a"
+          "$value": "#0f172a",
+          "$type": "color"
         },
         "card": {
-          "$value": "#ffffff"
+          "$value": "#ffffff",
+          "$type": "color"
         },
         "cardForeground": {
-          "$value": "#0f172a"
+          "$value": "#0f172a",
+          "$type": "color"
         },
         "muted": {
-          "$value": "#f1f5f9"
+          "$value": "#f1f5f9",
+          "$type": "color"
         },
         "mutedForeground": {
-          "$value": "#64748b"
+          "$value": "#64748b",
+          "$type": "color"
         },
         "border": {
-          "$value": "#e2e8f0"
+          "$value": "#e2e8f0",
+          "$type": "color"
         }
       }
     }

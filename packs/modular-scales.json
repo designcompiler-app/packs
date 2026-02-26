@@ -20,102 +20,132 @@
       "$type": "dimension",
       "$description": "Minor third scale (ratio 1.2) — 10 steps from base 1rem",
       "step-2": {
-        "$value": "0.694rem"
+        "$value": "0.694rem",
+        "$type": "dimension"
       },
       "step-1": {
-        "$value": "0.833rem"
+        "$value": "0.833rem",
+        "$type": "dimension"
       },
       "step0": {
-        "$value": "1rem"
+        "$value": "1rem",
+        "$type": "dimension"
       },
       "step1": {
-        "$value": "1.2rem"
+        "$value": "1.2rem",
+        "$type": "dimension"
       },
       "step2": {
-        "$value": "1.44rem"
+        "$value": "1.44rem",
+        "$type": "dimension"
       },
       "step3": {
-        "$value": "1.728rem"
+        "$value": "1.728rem",
+        "$type": "dimension"
       },
       "step4": {
-        "$value": "2.074rem"
+        "$value": "2.074rem",
+        "$type": "dimension"
       },
       "step5": {
-        "$value": "2.488rem"
+        "$value": "2.488rem",
+        "$type": "dimension"
       },
       "step6": {
-        "$value": "2.986rem"
+        "$value": "2.986rem",
+        "$type": "dimension"
       },
       "step7": {
-        "$value": "3.583rem"
+        "$value": "3.583rem",
+        "$type": "dimension"
       }
     },
     "majorThird": {
       "$type": "dimension",
       "$description": "Major third scale (ratio 1.25) — 10 steps from base 1rem",
       "step-2": {
-        "$value": "0.64rem"
+        "$value": "0.64rem",
+        "$type": "dimension"
       },
       "step-1": {
-        "$value": "0.8rem"
+        "$value": "0.8rem",
+        "$type": "dimension"
       },
       "step0": {
-        "$value": "1rem"
+        "$value": "1rem",
+        "$type": "dimension"
       },
       "step1": {
-        "$value": "1.25rem"
+        "$value": "1.25rem",
+        "$type": "dimension"
       },
       "step2": {
-        "$value": "1.563rem"
+        "$value": "1.563rem",
+        "$type": "dimension"
       },
       "step3": {
-        "$value": "1.953rem"
+        "$value": "1.953rem",
+        "$type": "dimension"
       },
       "step4": {
-        "$value": "2.441rem"
+        "$value": "2.441rem",
+        "$type": "dimension"
       },
       "step5": {
-        "$value": "3.052rem"
+        "$value": "3.052rem",
+        "$type": "dimension"
       },
       "step6": {
-        "$value": "3.815rem"
+        "$value": "3.815rem",
+        "$type": "dimension"
       },
       "step7": {
-        "$value": "4.768rem"
+        "$value": "4.768rem",
+        "$type": "dimension"
       }
     },
     "perfectFourth": {
       "$type": "dimension",
       "$description": "Perfect fourth scale (ratio 1.333) — 10 steps from base 1rem",
       "step-2": {
-        "$value": "0.563rem"
+        "$value": "0.563rem",
+        "$type": "dimension"
       },
       "step-1": {
-        "$value": "0.75rem"
+        "$value": "0.75rem",
+        "$type": "dimension"
       },
       "step0": {
-        "$value": "1rem"
+        "$value": "1rem",
+        "$type": "dimension"
       },
       "step1": {
-        "$value": "1.333rem"
+        "$value": "1.333rem",
+        "$type": "dimension"
       },
       "step2": {
-        "$value": "1.777rem"
+        "$value": "1.777rem",
+        "$type": "dimension"
       },
       "step3": {
-        "$value": "2.369rem"
+        "$value": "2.369rem",
+        "$type": "dimension"
       },
       "step4": {
-        "$value": "3.157rem"
+        "$value": "3.157rem",
+        "$type": "dimension"
       },
       "step5": {
-        "$value": "4.209rem"
+        "$value": "4.209rem",
+        "$type": "dimension"
       },
       "step6": {
-        "$value": "5.61rem"
+        "$value": "5.61rem",
+        "$type": "dimension"
       },
       "step7": {
-        "$value": "7.478rem"
+        "$value": "7.478rem",
+        "$type": "dimension"
       }
     }
   }

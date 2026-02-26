@@ -28,176 +28,226 @@
       "$type": "color",
       "blue": {
         "25": {
-          "$value": "#f3f6ff"
+          "$value": "#f3f6ff",
+          "$type": "color"
         },
         "50": {
-          "$value": "#ebf0ff"
+          "$value": "#ebf0ff",
+          "$type": "color"
         },
         "100": {
-          "$value": "#d6e0ff"
+          "$value": "#d6e0ff",
+          "$type": "color"
         },
         "200": {
-          "$value": "#adc2ff"
+          "$value": "#adc2ff",
+          "$type": "color"
         },
         "300": {
-          "$value": "#85a3ff"
+          "$value": "#85a3ff",
+          "$type": "color"
         },
         "400": {
-          "$value": "#5c85ff"
+          "$value": "#5c85ff",
+          "$type": "color"
         },
         "500": {
-          "$value": "#3366ff"
+          "$value": "#3366ff",
+          "$type": "color"
         },
         "600": {
-          "$value": "#2952cc"
+          "$value": "#2952cc",
+          "$type": "color"
         },
         "700": {
-          "$value": "#1f3d99"
+          "$value": "#1f3d99",
+          "$type": "color"
         },
         "800": {
-          "$value": "#142966"
+          "$value": "#142966",
+          "$type": "color"
         },
         "900": {
-          "$value": "#0a1433"
+          "$value": "#0a1433",
+          "$type": "color"
         },
         "$description": "Evergreen blue scale — primary accent palette"
       },
       "red": {
         "25": {
-          "$value": "#fdf4f4"
+          "$value": "#fdf4f4",
+          "$type": "color"
         },
         "100": {
-          "$value": "#f9dada"
+          "$value": "#f9dada",
+          "$type": "color"
         },
         "300": {
-          "$value": "#ee9191"
+          "$value": "#ee9191",
+          "$type": "color"
         },
         "500": {
-          "$value": "#d14343"
+          "$value": "#d14343",
+          "$type": "color"
         },
         "600": {
-          "$value": "#a73636"
+          "$value": "#a73636",
+          "$type": "color"
         },
         "700": {
-          "$value": "#7d2828"
+          "$value": "#7d2828",
+          "$type": "color"
         },
         "$description": "Evergreen red scale — danger and destructive actions"
       },
       "green": {
         "25": {
-          "$value": "#f5fbf8"
+          "$value": "#f5fbf8",
+          "$type": "color"
         },
         "100": {
-          "$value": "#dcf2ea"
+          "$value": "#dcf2ea",
+          "$type": "color"
         },
         "200": {
-          "$value": "#bae5d5"
+          "$value": "#bae5d5",
+          "$type": "color"
         },
         "300": {
-          "$value": "#97d7bf"
+          "$value": "#97d7bf",
+          "$type": "color"
         },
         "400": {
-          "$value": "#75caaa"
+          "$value": "#75caaa",
+          "$type": "color"
         },
         "500": {
-          "$value": "#52bd95"
+          "$value": "#52bd95",
+          "$type": "color"
         },
         "600": {
-          "$value": "#429777"
+          "$value": "#429777",
+          "$type": "color"
         },
         "700": {
-          "$value": "#317159"
+          "$value": "#317159",
+          "$type": "color"
         },
         "800": {
-          "$value": "#214c3c"
+          "$value": "#214c3c",
+          "$type": "color"
         },
         "900": {
-          "$value": "#10261e"
+          "$value": "#10261e",
+          "$type": "color"
         },
         "$description": "Evergreen green scale — success and positive states"
       },
       "orange": {
         "25": {
-          "$value": "#fffaf2"
+          "$value": "#fffaf2",
+          "$type": "color"
         },
         "100": {
-          "$value": "#f8e3da"
+          "$value": "#f8e3da",
+          "$type": "color"
         },
         "500": {
-          "$value": "#ffb020"
+          "$value": "#ffb020",
+          "$type": "color"
         },
         "700": {
-          "$value": "#996a13"
+          "$value": "#996a13",
+          "$type": "color"
         },
         "$description": "Evergreen orange scale — warning states"
       },
       "yellow": {
         "100": {
-          "$value": "#ffefd2"
+          "$value": "#ffefd2",
+          "$type": "color"
         },
         "800": {
-          "$value": "#66460d"
+          "$value": "#66460d",
+          "$type": "color"
         },
         "$description": "Evergreen yellow scale — informational highlights"
       },
       "teal": {
         "100": {
-          "$value": "#d3f5f7"
+          "$value": "#d3f5f7",
+          "$type": "color"
         },
         "800": {
-          "$value": "#0f5156"
+          "$value": "#0f5156",
+          "$type": "color"
         },
         "$description": "Evergreen teal scale — secondary accents"
       },
       "purple": {
         "100": {
-          "$value": "#e7e4f9"
+          "$value": "#e7e4f9",
+          "$type": "color"
         },
         "600": {
-          "$value": "#6e62b6"
+          "$value": "#6e62b6",
+          "$type": "color"
         },
         "$description": "Evergreen purple scale — decorative accents"
       },
       "neutral": {
         "50": {
-          "$value": "#fafbff"
+          "$value": "#fafbff",
+          "$type": "color"
         },
         "75": {
-          "$value": "#f9fafc"
+          "$value": "#f9fafc",
+          "$type": "color"
         },
         "90": {
-          "$value": "#f4f6fa"
+          "$value": "#f4f6fa",
+          "$type": "color"
         },
         "100": {
-          "$value": "#f4f5f9"
+          "$value": "#f4f5f9",
+          "$type": "color"
         },
         "200": {
-          "$value": "#edeff5"
+          "$value": "#edeff5",
+          "$type": "color"
         },
         "300": {
-          "$value": "#e6e8f0"
+          "$value": "#e6e8f0",
+          "$type": "color"
         },
         "400": {
-          "$value": "#d8dae5"
+          "$value": "#d8dae5",
+          "$type": "color"
         },
         "500": {
-          "$value": "#c1c4d6"
+          "$value": "#c1c4d6",
+          "$type": "color"
         },
         "600": {
-          "$value": "#8f95b2"
+          "$value": "#8f95b2",
+          "$type": "color"
         },
         "700": {
-          "$value": "#696f8c"
+          "$value": "#696f8c",
+          "$type": "color"
         },
         "800": {
-          "$value": "#474d66"
+          "$value": "#474d66",
+          "$type": "color"
         },
         "900": {
-          "$value": "#101840"
+          "$value": "#101840",
+          "$type": "color"
         },
         "$description": "Evergreen neutral gray scale — text, backgrounds, and borders",
         "white": {
-          "$value": "#ffffff"
+          "$value": "#ffffff",
+          "$type": "color"
         }
       }
     }

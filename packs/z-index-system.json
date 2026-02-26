@@ -20,43 +20,53 @@
       "$description": "Named z-index layers from lowest to highest",
       "hide": {
         "$value": -1,
-        "$description": "Hidden below base layer"
+        "$description": "Hidden below base layer",
+        "$type": "number"
       },
       "base": {
         "$value": 0,
-        "$description": "Default stacking context"
+        "$description": "Default stacking context",
+        "$type": "number"
       },
       "dropdown": {
         "$value": 100,
-        "$description": "Dropdown menus, select popovers"
+        "$description": "Dropdown menus, select popovers",
+        "$type": "number"
       },
       "sticky": {
         "$value": 200,
-        "$description": "Sticky headers, fixed sidebars"
+        "$description": "Sticky headers, fixed sidebars",
+        "$type": "number"
       },
       "overlay": {
         "$value": 300,
-        "$description": "Backdrop overlays, scrims"
+        "$description": "Backdrop overlays, scrims",
+        "$type": "number"
       },
       "modal": {
         "$value": 400,
-        "$description": "Modal dialogs, drawers"
+        "$description": "Modal dialogs, drawers",
+        "$type": "number"
       },
       "popover": {
         "$value": 500,
-        "$description": "Popovers, date pickers on top of modals"
+        "$description": "Popovers, date pickers on top of modals",
+        "$type": "number"
       },
       "toast": {
         "$value": 600,
-        "$description": "Toast notifications, snackbars"
+        "$description": "Toast notifications, snackbars",
+        "$type": "number"
       },
       "tooltip": {
         "$value": 700,
-        "$description": "Tooltips — always on top of content"
+        "$description": "Tooltips — always on top of content",
+        "$type": "number"
       },
       "max": {
         "$value": 9999,
-        "$description": "Escape hatch for critical system UI"
+        "$description": "Escape hatch for critical system UI",
+        "$type": "number"
       }
     }
   }

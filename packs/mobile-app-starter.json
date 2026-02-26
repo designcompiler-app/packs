@@ -33,71 +33,90 @@
         "$description": "App brand colors — clean, modern palette",
         "primary": {
           "$value": "#0EA5E9",
-          "$description": "Navigation tint, primary actions"
+          "$description": "Navigation tint, primary actions",
+          "$type": "color"
         },
         "primaryLight": {
           "$value": "#7DD3FC",
-          "$description": "Hover/selected highlights"
+          "$description": "Hover/selected highlights",
+          "$type": "color"
         },
         "primaryDark": {
           "$value": "#0284C7",
-          "$description": "Pressed states"
+          "$description": "Pressed states",
+          "$type": "color"
         },
         "secondary": {
           "$value": "#6366F1",
-          "$description": "Tab badges, secondary actions"
+          "$description": "Tab badges, secondary actions",
+          "$type": "color"
         },
         "secondaryLight": {
           "$value": "#A5B4FC",
-          "$description": "Secondary highlights"
+          "$description": "Secondary highlights",
+          "$type": "color"
         },
         "secondaryDark": {
           "$value": "#4338CA",
-          "$description": "Secondary pressed states"
+          "$description": "Secondary pressed states",
+          "$type": "color"
         },
         "accent": {
           "$value": "#F59E0B",
-          "$description": "Alerts, featured indicators"
+          "$description": "Alerts, featured indicators",
+          "$type": "color"
         },
         "accentLight": {
           "$value": "#FCD34D",
-          "$description": "Accent highlights"
+          "$description": "Accent highlights",
+          "$type": "color"
         },
         "accentDark": {
           "$value": "#D97706",
-          "$description": "Accent pressed states"
+          "$description": "Accent pressed states",
+          "$type": "color"
         }
       },
       "neutral": {
         "50": {
-          "$value": "#F8FAFC"
+          "$value": "#F8FAFC",
+          "$type": "color"
         },
         "100": {
-          "$value": "#F1F5F9"
+          "$value": "#F1F5F9",
+          "$type": "color"
         },
         "200": {
-          "$value": "#E2E8F0"
+          "$value": "#E2E8F0",
+          "$type": "color"
         },
         "300": {
-          "$value": "#CBD5E1"
+          "$value": "#CBD5E1",
+          "$type": "color"
         },
         "400": {
-          "$value": "#94A3B8"
+          "$value": "#94A3B8",
+          "$type": "color"
         },
         "500": {
-          "$value": "#64748B"
+          "$value": "#64748B",
+          "$type": "color"
         },
         "600": {
-          "$value": "#475569"
+          "$value": "#475569",
+          "$type": "color"
         },
         "700": {
-          "$value": "#334155"
+          "$value": "#334155",
+          "$type": "color"
         },
         "800": {
-          "$value": "#1E293B"
+          "$value": "#1E293B",
+          "$type": "color"
         },
         "900": {
-          "$value": "#020617"
+          "$value": "#020617",
+          "$type": "color"
         },
         "$description": "Slate neutral scale"
       },
@@ -105,70 +124,86 @@
         "$description": "Status colors for feedback and validation",
         "success": {
           "$value": "#22C55E",
-          "$description": "Completed, saved states"
+          "$description": "Completed, saved states",
+          "$type": "color"
         },
         "successLight": {
           "$value": "#DCFCE7",
-          "$description": "Success banner background"
+          "$description": "Success banner background",
+          "$type": "color"
         },
         "successDark": {
           "$value": "#16A34A",
-          "$description": "Success text on light bg"
+          "$description": "Success text on light bg",
+          "$type": "color"
         },
         "warning": {
           "$value": "#F59E0B",
-          "$description": "Cautions, pending states"
+          "$description": "Cautions, pending states",
+          "$type": "color"
         },
         "warningLight": {
           "$value": "#FEF3C7",
-          "$description": "Warning banner background"
+          "$description": "Warning banner background",
+          "$type": "color"
         },
         "warningDark": {
           "$value": "#D97706",
-          "$description": "Warning text on light bg"
+          "$description": "Warning text on light bg",
+          "$type": "color"
         },
         "error": {
           "$value": "#EF4444",
-          "$description": "Failures, destructive actions"
+          "$description": "Failures, destructive actions",
+          "$type": "color"
         },
         "errorLight": {
           "$value": "#FEE2E2",
-          "$description": "Error banner background"
+          "$description": "Error banner background",
+          "$type": "color"
         },
         "errorDark": {
           "$value": "#DC2626",
-          "$description": "Error text on light bg"
+          "$description": "Error text on light bg",
+          "$type": "color"
         }
       },
       "surface": {
         "$description": "App surface hierarchy",
         "background": {
           "$value": "#FFFFFF",
-          "$description": "Screen background"
+          "$description": "Screen background",
+          "$type": "color"
         },
         "foreground": {
           "$value": "#020617",
-          "$description": "Primary body text"
+          "$description": "Primary body text",
+          "$type": "color"
         },
         "card": {
           "$value": "#FFFFFF",
-          "$description": "List item/card background"
+          "$description": "List item/card background",
+          "$type": "color"
         },
         "cardForeground": {
           "$value": "#0F172A",
-          "$description": "Card body text"
+          "$description": "Card body text",
+          "$type": "color"
         },
         "sheet": {
           "$value": "#F8FAFC",
-          "$description": "Bottom sheet background"
+          "$description": "Bottom sheet background",
+          "$type": "color"
         },
         "separator": {
           "$value": "#E2E8F0",
-          "$description": "List divider line"
+          "$description": "List divider line",
+          "$type": "color"
         },
         "overlay": {
           "$value": "#00000066",
-          "$description": "Modal/sheet backdrop scrim"
+          "$description": "Modal/sheet backdrop scrim",
+          "$type": "color"
         }
       }
     },
@@ -177,35 +212,43 @@
       "$description": "Compact type scale for mobile screens",
       "caption": {
         "$value": "11px",
-        "$description": "Tab bar labels, fine print"
+        "$description": "Tab bar labels, fine print",
+        "$type": "dimension"
       },
       "footnote": {
         "$value": "13px",
-        "$description": "Timestamps, helper text"
+        "$description": "Timestamps, helper text",
+        "$type": "dimension"
       },
       "subhead": {
         "$value": "15px",
-        "$description": "List item secondary text"
+        "$description": "List item secondary text",
+        "$type": "dimension"
       },
       "body": {
         "$value": "17px",
-        "$description": "Primary body text"
+        "$description": "Primary body text",
+        "$type": "dimension"
       },
       "title3": {
         "$value": "20px",
-        "$description": "Section headers"
+        "$description": "Section headers",
+        "$type": "dimension"
       },
       "title2": {
         "$value": "22px",
-        "$description": "Screen subtitles"
+        "$description": "Screen subtitles",
+        "$type": "dimension"
       },
       "title1": {
         "$value": "28px",
-        "$description": "Screen titles"
+        "$description": "Screen titles",
+        "$type": "dimension"
       },
       "largeTitle": {
         "$value": "34px",
-        "$description": "Scrollable large titles"
+        "$description": "Scrollable large titles",
+        "$type": "dimension"
       }
     },
     "fontWeight": {
@@ -213,55 +256,70 @@
       "$description": "Font weights for mobile typography",
       "regular": {
         "$value": 400,
-        "$description": "Body text, descriptions"
+        "$description": "Body text, descriptions",
+        "$type": "fontWeight"
       },
       "medium": {
         "$value": 500,
-        "$description": "Labels, tab items"
+        "$description": "Labels, tab items",
+        "$type": "fontWeight"
       },
       "semibold": {
         "$value": 600,
-        "$description": "Section headers, nav titles"
+        "$description": "Section headers, nav titles",
+        "$type": "fontWeight"
       },
       "bold": {
         "$value": 700,
-        "$description": "Large titles, emphasis"
+        "$description": "Large titles, emphasis",
+        "$type": "fontWeight"
       }
     },
     "spacing": {
       "2": {
-        "$value": "2px"
+        "$value": "2px",
+        "$type": "dimension"
       },
       "4": {
-        "$value": "4px"
+        "$value": "4px",
+        "$type": "dimension"
       },
       "6": {
-        "$value": "6px"
+        "$value": "6px",
+        "$type": "dimension"
       },
       "8": {
-        "$value": "8px"
+        "$value": "8px",
+        "$type": "dimension"
       },
       "12": {
-        "$value": "12px"
+        "$value": "12px",
+        "$type": "dimension"
       },
       "16": {
-        "$value": "16px"
+        "$value": "16px",
+        "$type": "dimension"
       },
       "20": {
-        "$value": "20px"
+        "$value": "20px",
+        "$type": "dimension"
       },
       "24": {
-        "$value": "24px"
+        "$value": "24px",
+        "$type": "dimension"
       },
       "32": {
-        "$value": "32px"
+        "$value": "32px",
+        "$type": "dimension"
       },
       "44": {
         "$value": "44px",
-        "$description": "Minimum touch target size"
+        "$description": "Minimum touch target size",
+        "$type": "dimension"
       },
       "48": {
-        "$value": "48px"
+        "$value": "48px",
+        "$type": "dimension"
       },
       "$type": "dimension",
       "$description": "Touch-friendly spacing scale"
@@ -277,7 +335,8 @@
           "spread": "0px",
           "color": "#0000001a"
         },
-        "$description": "List items, grouped cells"
+        "$description": "List items, grouped cells",
+        "$type": "shadow"
       },
       "sheet": {
         "$value": {
@@ -287,7 +346,8 @@
           "spread": "0px",
           "color": "#00000014"
         },
-        "$description": "Bottom sheet top edge"
+        "$description": "Bottom sheet top edge",
+        "$type": "shadow"
       },
       "navigation": {
         "$value": {
@@ -297,7 +357,8 @@
           "spread": "0px",
           "color": "#0000000d"
         },
-        "$description": "Navigation bar hairline"
+        "$description": "Navigation bar hairline",
+        "$type": "shadow"
       },
       "modal": {
         "$value": {
@@ -307,7 +368,8 @@
           "spread": "-4px",
           "color": "#00000033"
         },
-        "$description": "Alert dialogs, modals"
+        "$description": "Alert dialogs, modals",
+        "$type": "shadow"
       }
     },
     "borderRadius": {
@@ -315,34 +377,42 @@
       "$description": "iOS/Android-inspired border radii",
       "sm": {
         "$value": "6px",
-        "$description": "Small buttons, chips"
+        "$description": "Small buttons, chips",
+        "$type": "dimension"
       },
       "default": {
         "$value": "8px",
-        "$description": "Inputs, standard buttons"
+        "$description": "Inputs, standard buttons",
+        "$type": "dimension"
       },
       "md": {
         "$value": "12px",
-        "$description": "Cards, grouped cells"
+        "$description": "Cards, grouped cells",
+        "$type": "dimension"
       },
       "lg": {
         "$value": "16px",
-        "$description": "Bottom sheets, panels"
+        "$description": "Bottom sheets, panels",
+        "$type": "dimension"
       },
       "xl": {
         "$value": "20px",
-        "$description": "Image containers"
+        "$description": "Image containers",
+        "$type": "dimension"
       },
       "card": {
         "$value": "12px",
-        "$description": "Standard card corner radius"
+        "$description": "Standard card corner radius",
+        "$type": "dimension"
       },
       "sheet": {
         "$value": "16px",
-        "$description": "Bottom sheet top corners"
+        "$description": "Bottom sheet top corners",
+        "$type": "dimension"
       },
       "full": {
-        "$value": "9999px"
+        "$value": "9999px",
+        "$type": "dimension"
       }
     }
   }

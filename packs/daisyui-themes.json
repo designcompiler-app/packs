@@ -29,316 +29,416 @@
       "light": {
         "$description": "DaisyUI light — default theme with deep purple primary",
         "primary": {
-          "$value": "#422ad5"
+          "$value": "#422ad5",
+          "$type": "color"
         },
         "primaryContent": {
-          "$value": "#e0e7ff"
+          "$value": "#e0e7ff",
+          "$type": "color"
         },
         "secondary": {
-          "$value": "#f43098"
+          "$value": "#f43098",
+          "$type": "color"
         },
         "secondaryContent": {
-          "$value": "#f9e4f0"
+          "$value": "#f9e4f0",
+          "$type": "color"
         },
         "accent": {
-          "$value": "#00d3bb"
+          "$value": "#00d3bb",
+          "$type": "color"
         },
         "accentContent": {
-          "$value": "#084d49"
+          "$value": "#084d49",
+          "$type": "color"
         },
         "neutral": {
-          "$value": "#09090b"
+          "$value": "#09090b",
+          "$type": "color"
         },
         "neutralContent": {
-          "$value": "#e4e4e7"
+          "$value": "#e4e4e7",
+          "$type": "color"
         },
         "base100": {
-          "$value": "#ffffff"
+          "$value": "#ffffff",
+          "$type": "color"
         },
         "base200": {
-          "$value": "#f8f8f8"
+          "$value": "#f8f8f8",
+          "$type": "color"
         },
         "base300": {
-          "$value": "#eeeeee"
+          "$value": "#eeeeee",
+          "$type": "color"
         },
         "baseContent": {
-          "$value": "#18181b"
+          "$value": "#18181b",
+          "$type": "color"
         },
         "info": {
-          "$value": "#00bafe"
+          "$value": "#00bafe",
+          "$type": "color"
         },
         "infoContent": {
-          "$value": "#042e49"
+          "$value": "#042e49",
+          "$type": "color"
         },
         "success": {
-          "$value": "#00d390"
+          "$value": "#00d390",
+          "$type": "color"
         },
         "successContent": {
-          "$value": "#004c39"
+          "$value": "#004c39",
+          "$type": "color"
         },
         "warning": {
-          "$value": "#fcb700"
+          "$value": "#fcb700",
+          "$type": "color"
         },
         "warningContent": {
-          "$value": "#793205"
+          "$value": "#793205",
+          "$type": "color"
         },
         "error": {
-          "$value": "#ff627d"
+          "$value": "#ff627d",
+          "$type": "color"
         },
         "errorContent": {
-          "$value": "#4d0218"
+          "$value": "#4d0218",
+          "$type": "color"
         }
       },
       "dark": {
         "$description": "DaisyUI dark — default dark theme",
         "primary": {
-          "$value": "#605dff"
+          "$value": "#605dff",
+          "$type": "color"
         },
         "primaryContent": {
-          "$value": "#edf1fe"
+          "$value": "#edf1fe",
+          "$type": "color"
         },
         "secondary": {
-          "$value": "#f43098"
+          "$value": "#f43098",
+          "$type": "color"
         },
         "secondaryContent": {
-          "$value": "#f9e4f0"
+          "$value": "#f9e4f0",
+          "$type": "color"
         },
         "accent": {
-          "$value": "#00d3bb"
+          "$value": "#00d3bb",
+          "$type": "color"
         },
         "accentContent": {
-          "$value": "#084d49"
+          "$value": "#084d49",
+          "$type": "color"
         },
         "neutral": {
-          "$value": "#09090b"
+          "$value": "#09090b",
+          "$type": "color"
         },
         "neutralContent": {
-          "$value": "#e4e4e7"
+          "$value": "#e4e4e7",
+          "$type": "color"
         },
         "base100": {
-          "$value": "#1d232a"
+          "$value": "#1d232a",
+          "$type": "color"
         },
         "base200": {
-          "$value": "#191e24"
+          "$value": "#191e24",
+          "$type": "color"
         },
         "base300": {
-          "$value": "#15191e"
+          "$value": "#15191e",
+          "$type": "color"
         },
         "baseContent": {
-          "$value": "#ecf9ff"
+          "$value": "#ecf9ff",
+          "$type": "color"
         },
         "info": {
-          "$value": "#00bafe"
+          "$value": "#00bafe",
+          "$type": "color"
         },
         "infoContent": {
-          "$value": "#042e49"
+          "$value": "#042e49",
+          "$type": "color"
         },
         "success": {
-          "$value": "#00d390"
+          "$value": "#00d390",
+          "$type": "color"
         },
         "successContent": {
-          "$value": "#004c39"
+          "$value": "#004c39",
+          "$type": "color"
         },
         "warning": {
-          "$value": "#fcb700"
+          "$value": "#fcb700",
+          "$type": "color"
         },
         "warningContent": {
-          "$value": "#793205"
+          "$value": "#793205",
+          "$type": "color"
         },
         "error": {
-          "$value": "#ff627d"
+          "$value": "#ff627d",
+          "$type": "color"
         },
         "errorContent": {
-          "$value": "#4d0218"
+          "$value": "#4d0218",
+          "$type": "color"
         }
       },
       "cupcake": {
         "$description": "DaisyUI cupcake — soft pastel theme with teal and pink accents",
         "primary": {
-          "$value": "#44ebd3"
+          "$value": "#44ebd3",
+          "$type": "color"
         },
         "primaryContent": {
-          "$value": "#005d58"
+          "$value": "#005d58",
+          "$type": "color"
         },
         "secondary": {
-          "$value": "#f9cbe5"
+          "$value": "#f9cbe5",
+          "$type": "color"
         },
         "secondaryContent": {
-          "$value": "#a0004a"
+          "$value": "#a0004a",
+          "$type": "color"
         },
         "accent": {
-          "$value": "#ffd6a7"
+          "$value": "#ffd6a7",
+          "$type": "color"
         },
         "accentContent": {
-          "$value": "#9f2d00"
+          "$value": "#9f2d00",
+          "$type": "color"
         },
         "neutral": {
-          "$value": "#262629"
+          "$value": "#262629",
+          "$type": "color"
         },
         "neutralContent": {
-          "$value": "#e4e4e7"
+          "$value": "#e4e4e7",
+          "$type": "color"
         },
         "base100": {
-          "$value": "#faf7f5"
+          "$value": "#faf7f5",
+          "$type": "color"
         },
         "base200": {
-          "$value": "#efeae6"
+          "$value": "#efeae6",
+          "$type": "color"
         },
         "base300": {
-          "$value": "#e7e2df"
+          "$value": "#e7e2df",
+          "$type": "color"
         },
         "baseContent": {
-          "$value": "#291334"
+          "$value": "#291334",
+          "$type": "color"
         },
         "info": {
-          "$value": "#00a4f2"
+          "$value": "#00a4f2",
+          "$type": "color"
         },
         "infoContent": {
-          "$value": "#042e49"
+          "$value": "#042e49",
+          "$type": "color"
         },
         "success": {
-          "$value": "#00ba7b"
+          "$value": "#00ba7b",
+          "$type": "color"
         },
         "successContent": {
-          "$value": "#002c21"
+          "$value": "#002c21",
+          "$type": "color"
         },
         "warning": {
-          "$value": "#eeaf00"
+          "$value": "#eeaf00",
+          "$type": "color"
         },
         "warningContent": {
-          "$value": "#411e03"
+          "$value": "#411e03",
+          "$type": "color"
         },
         "error": {
-          "$value": "#fe1c55"
+          "$value": "#fe1c55",
+          "$type": "color"
         },
         "errorContent": {
-          "$value": "#4d0218"
+          "$value": "#4d0218",
+          "$type": "color"
         }
       },
       "nord": {
         "$description": "DaisyUI nord — minimal Nordic palette from Nord theme",
         "primary": {
-          "$value": "#5e81ac"
+          "$value": "#5e81ac",
+          "$type": "color"
         },
         "primaryContent": {
-          "$value": "#03060b"
+          "$value": "#03060b",
+          "$type": "color"
         },
         "secondary": {
-          "$value": "#81a1c1"
+          "$value": "#81a1c1",
+          "$type": "color"
         },
         "secondaryContent": {
-          "$value": "#06090d"
+          "$value": "#06090d",
+          "$type": "color"
         },
         "accent": {
-          "$value": "#88c0d0"
+          "$value": "#88c0d0",
+          "$type": "color"
         },
         "accentContent": {
-          "$value": "#070d10"
+          "$value": "#070d10",
+          "$type": "color"
         },
         "neutral": {
-          "$value": "#4c566a"
+          "$value": "#4c566a",
+          "$type": "color"
         },
         "neutralContent": {
-          "$value": "#d8dee9"
+          "$value": "#d8dee9",
+          "$type": "color"
         },
         "base100": {
-          "$value": "#eceff4"
+          "$value": "#eceff4",
+          "$type": "color"
         },
         "base200": {
-          "$value": "#e5e9f0"
+          "$value": "#e5e9f0",
+          "$type": "color"
         },
         "base300": {
-          "$value": "#d8dee9"
+          "$value": "#d8dee9",
+          "$type": "color"
         },
         "baseContent": {
-          "$value": "#2e3440"
+          "$value": "#2e3440",
+          "$type": "color"
         },
         "info": {
-          "$value": "#b48ead"
+          "$value": "#b48ead",
+          "$type": "color"
         },
         "infoContent": {
-          "$value": "#2e3440"
+          "$value": "#2e3440",
+          "$type": "color"
         },
         "success": {
-          "$value": "#a3be8d"
+          "$value": "#a3be8d",
+          "$type": "color"
         },
         "successContent": {
-          "$value": "#2e3440"
+          "$value": "#2e3440",
+          "$type": "color"
         },
         "warning": {
-          "$value": "#ebcb8b"
+          "$value": "#ebcb8b",
+          "$type": "color"
         },
         "warningContent": {
-          "$value": "#2e3440"
+          "$value": "#2e3440",
+          "$type": "color"
         },
         "error": {
-          "$value": "#bf616a"
+          "$value": "#bf616a",
+          "$type": "color"
         },
         "errorContent": {
-          "$value": "#2e3440"
+          "$value": "#2e3440",
+          "$type": "color"
         }
       },
       "dracula": {
         "$description": "DaisyUI dracula — popular dark coding theme from Dracula",
         "primary": {
-          "$value": "#ff79c6"
+          "$value": "#ff79c6",
+          "$type": "color"
         },
         "primaryContent": {
-          "$value": "#16050e"
+          "$value": "#16050e",
+          "$type": "color"
         },
         "secondary": {
-          "$value": "#bd93f9"
+          "$value": "#bd93f9",
+          "$type": "color"
         },
         "secondaryContent": {
-          "$value": "#0d0815"
+          "$value": "#0d0815",
+          "$type": "color"
         },
         "accent": {
-          "$value": "#ffb86c"
+          "$value": "#ffb86c",
+          "$type": "color"
         },
         "accentContent": {
-          "$value": "#160d04"
+          "$value": "#160d04",
+          "$type": "color"
         },
         "neutral": {
-          "$value": "#414558"
+          "$value": "#414558",
+          "$type": "color"
         },
         "neutralContent": {
-          "$value": "#d6d7db"
+          "$value": "#d6d7db",
+          "$type": "color"
         },
         "base100": {
-          "$value": "#282a36"
+          "$value": "#282a36",
+          "$type": "color"
         },
         "base200": {
-          "$value": "#232530"
+          "$value": "#232530",
+          "$type": "color"
         },
         "base300": {
-          "$value": "#1f202a"
+          "$value": "#1f202a",
+          "$type": "color"
         },
         "baseContent": {
-          "$value": "#f8f8f3"
+          "$value": "#f8f8f3",
+          "$type": "color"
         },
         "info": {
-          "$value": "#8be9fd"
+          "$value": "#8be9fd",
+          "$type": "color"
         },
         "infoContent": {
-          "$value": "#071316"
+          "$value": "#071316",
+          "$type": "color"
         },
         "success": {
-          "$value": "#51fa7b"
+          "$value": "#51fa7b",
+          "$type": "color"
         },
         "successContent": {
-          "$value": "#021505"
+          "$value": "#021505",
+          "$type": "color"
         },
         "warning": {
-          "$value": "#f1fa8c"
+          "$value": "#f1fa8c",
+          "$type": "color"
         },
         "warningContent": {
-          "$value": "#141507"
+          "$value": "#141507",
+          "$type": "color"
         },
         "error": {
-          "$value": "#ff5555"
+          "$value": "#ff5555",
+          "$type": "color"
         },
         "errorContent": {
-          "$value": "#160202"
+          "$value": "#160202",
+          "$type": "color"
         }
       }
     }

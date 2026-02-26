@@ -117,67 +117,80 @@
         "$description": "Default input state",
         "bg": {
           "$value": "#FFFFFF",
-          "$description": "Input fill"
+          "$description": "Input fill",
+          "$type": "color"
         },
         "fg": {
           "$value": "#111827",
-          "$description": "Typed text color"
+          "$description": "Typed text color",
+          "$type": "color"
         },
         "border": {
           "$value": "#D1D5DB",
-          "$description": "Resting border"
+          "$description": "Resting border",
+          "$type": "color"
         },
         "placeholder": {
           "$value": "#9CA3AF",
-          "$description": "Hint text color"
+          "$description": "Hint text color",
+          "$type": "color"
         }
       },
       "hover": {
         "$description": "Input hover state",
         "border": {
           "$value": "#9CA3AF",
-          "$description": "Border on mouse hover"
+          "$description": "Border on mouse hover",
+          "$type": "color"
         }
       },
       "focus": {
         "$description": "Input focus state",
         "border": {
           "$value": "#2563EB",
-          "$description": "Border when focused"
+          "$description": "Border when focused",
+          "$type": "color"
         },
         "ring": {
           "$value": "#93C5FD",
-          "$description": "Focus ring glow"
+          "$description": "Focus ring glow",
+          "$type": "color"
         }
       },
       "error": {
         "$description": "Input validation error state",
         "border": {
           "$value": "#DC2626",
-          "$description": "Border on error"
+          "$description": "Border on error",
+          "$type": "color"
         },
         "ring": {
           "$value": "#FCA5A5",
-          "$description": "Error ring glow"
+          "$description": "Error ring glow",
+          "$type": "color"
         },
         "text": {
           "$value": "#DC2626",
-          "$description": "Error message text"
+          "$description": "Error message text",
+          "$type": "color"
         }
       },
       "disabled": {
         "$description": "Disabled input state",
         "bg": {
           "$value": "#F3F4F6",
-          "$description": "Fill when disabled"
+          "$description": "Fill when disabled",
+          "$type": "color"
         },
         "fg": {
           "$value": "#9CA3AF",
-          "$description": "Text when disabled"
+          "$description": "Text when disabled",
+          "$type": "color"
         },
         "border": {
           "$value": "#E5E7EB",
-          "$description": "Border when disabled"
+          "$description": "Border when disabled",
+          "$type": "color"
         }
       }
     }

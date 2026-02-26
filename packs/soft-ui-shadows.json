@@ -26,7 +26,8 @@
           "spread": "0px",
           "color": "#A3B1C6"
         },
-        "$description": "Bottom-right shadow for raised elements"
+        "$description": "Bottom-right shadow for raised elements",
+        "$type": "shadow"
       },
       "convexHighlight": {
         "$value": {
@@ -36,7 +37,8 @@
           "spread": "0px",
           "color": "#FFFFFF"
         },
-        "$description": "Top-left highlight for raised elements"
+        "$description": "Top-left highlight for raised elements",
+        "$type": "shadow"
       },
       "concaveOuter": {
         "$value": {
@@ -46,7 +48,8 @@
           "spread": "0px",
           "color": "#FFFFFF"
         },
-        "$description": "Bottom-right shadow for pressed elements"
+        "$description": "Bottom-right shadow for pressed elements",
+        "$type": "shadow"
       },
       "concaveInner": {
         "$value": {
@@ -56,7 +59,8 @@
           "spread": "0px",
           "color": "#A3B1C6"
         },
-        "$description": "Top-left shadow for pressed (inset) elements"
+        "$description": "Top-left shadow for pressed (inset) elements",
+        "$type": "shadow"
       },
       "subtle": {
         "$value": {
@@ -66,7 +70,8 @@
           "spread": "0px",
           "color": "#B8C4D6"
         },
-        "$description": "Subtle shadow for flat interactive elements"
+        "$description": "Subtle shadow for flat interactive elements",
+        "$type": "shadow"
       }
     },
     "dark": {
@@ -80,7 +85,8 @@
           "spread": "0px",
           "color": "#1A202C"
         },
-        "$description": "Bottom-right shadow for raised elements"
+        "$description": "Bottom-right shadow for raised elements",
+        "$type": "shadow"
       },
       "convexHighlight": {
         "$value": {
@@ -90,7 +96,8 @@
           "spread": "0px",
           "color": "#4A5568"
         },
-        "$description": "Top-left highlight for raised elements"
+        "$description": "Top-left highlight for raised elements",
+        "$type": "shadow"
       },
       "concaveOuter": {
         "$value": {
@@ -100,7 +107,8 @@
           "spread": "0px",
           "color": "#4A5568"
         },
-        "$description": "Bottom-right shadow for pressed elements"
+        "$description": "Bottom-right shadow for pressed elements",
+        "$type": "shadow"
       },
       "concaveInner": {
         "$value": {
@@ -110,7 +118,8 @@
           "spread": "0px",
           "color": "#1A202C"
         },
-        "$description": "Top-left shadow for pressed (inset) elements"
+        "$description": "Top-left shadow for pressed (inset) elements",
+        "$type": "shadow"
       },
       "subtle": {
         "$value": {
@@ -120,7 +129,8 @@
           "spread": "0px",
           "color": "#1A202C"
         },
-        "$description": "Subtle shadow for flat interactive elements"
+        "$description": "Subtle shadow for flat interactive elements",
+        "$type": "shadow"
       }
     }
   }

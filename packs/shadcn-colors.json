@@ -29,193 +29,255 @@
       "light": {
         "$description": "Shadcn/ui default theme — light mode (zinc palette, v4 OKLCH-derived)",
         "background": {
-          "$value": "#ffffff"
+          "$value": "#ffffff",
+          "$type": "color"
         },
         "foreground": {
-          "$value": "#09090b"
+          "$value": "#09090b",
+          "$type": "color"
         },
         "card": {
-          "$value": "#ffffff"
+          "$value": "#ffffff",
+          "$type": "color"
         },
         "cardForeground": {
-          "$value": "#09090b"
+          "$value": "#09090b",
+          "$type": "color"
         },
         "popover": {
-          "$value": "#ffffff"
+          "$value": "#ffffff",
+          "$type": "color"
         },
         "popoverForeground": {
-          "$value": "#09090b"
+          "$value": "#09090b",
+          "$type": "color"
         },
         "primary": {
-          "$value": "#18181b"
+          "$value": "#18181b",
+          "$type": "color"
         },
         "primaryForeground": {
-          "$value": "#fafafa"
+          "$value": "#fafafa",
+          "$type": "color"
         },
         "secondary": {
-          "$value": "#f4f4f5"
+          "$value": "#f4f4f5",
+          "$type": "color"
         },
         "secondaryForeground": {
-          "$value": "#18181b"
+          "$value": "#18181b",
+          "$type": "color"
         },
         "muted": {
-          "$value": "#f4f4f5"
+          "$value": "#f4f4f5",
+          "$type": "color"
         },
         "mutedForeground": {
-          "$value": "#71717b"
+          "$value": "#71717b",
+          "$type": "color"
         },
         "accent": {
-          "$value": "#f4f4f5"
+          "$value": "#f4f4f5",
+          "$type": "color"
         },
         "accentForeground": {
-          "$value": "#18181b"
+          "$value": "#18181b",
+          "$type": "color"
         },
         "destructive": {
-          "$value": "#e7000b"
+          "$value": "#e7000b",
+          "$type": "color"
         },
         "destructiveForeground": {
-          "$value": "#fafafa"
+          "$value": "#fafafa",
+          "$type": "color"
         },
         "border": {
-          "$value": "#e4e4e7"
+          "$value": "#e4e4e7",
+          "$type": "color"
         },
         "input": {
-          "$value": "#e4e4e7"
+          "$value": "#e4e4e7",
+          "$type": "color"
         },
         "ring": {
-          "$value": "#9f9fa9"
+          "$value": "#9f9fa9",
+          "$type": "color"
         },
         "chart1": {
-          "$value": "#f54900"
+          "$value": "#f54900",
+          "$type": "color"
         },
         "chart2": {
-          "$value": "#009689"
+          "$value": "#009689",
+          "$type": "color"
         },
         "chart3": {
-          "$value": "#104e64"
+          "$value": "#104e64",
+          "$type": "color"
         },
         "chart4": {
-          "$value": "#ffb900"
+          "$value": "#ffb900",
+          "$type": "color"
         },
         "chart5": {
-          "$value": "#fe9a00"
+          "$value": "#fe9a00",
+          "$type": "color"
         },
         "sidebarBackground": {
-          "$value": "#fafafa"
+          "$value": "#fafafa",
+          "$type": "color"
         },
         "sidebarForeground": {
-          "$value": "#09090b"
+          "$value": "#09090b",
+          "$type": "color"
         },
         "sidebarPrimary": {
-          "$value": "#18181b"
+          "$value": "#18181b",
+          "$type": "color"
         },
         "sidebarPrimaryForeground": {
-          "$value": "#fafafa"
+          "$value": "#fafafa",
+          "$type": "color"
         },
         "sidebarAccent": {
-          "$value": "#f4f4f5"
+          "$value": "#f4f4f5",
+          "$type": "color"
         },
         "sidebarAccentForeground": {
-          "$value": "#18181b"
+          "$value": "#18181b",
+          "$type": "color"
         },
         "sidebarBorder": {
-          "$value": "#e4e4e7"
+          "$value": "#e4e4e7",
+          "$type": "color"
         }
       },
       "dark": {
         "$description": "Shadcn/ui default theme — dark mode (zinc palette, v4 OKLCH-derived)",
         "background": {
-          "$value": "#09090b"
+          "$value": "#09090b",
+          "$type": "color"
         },
         "foreground": {
-          "$value": "#fafafa"
+          "$value": "#fafafa",
+          "$type": "color"
         },
         "card": {
-          "$value": "#18181b"
+          "$value": "#18181b",
+          "$type": "color"
         },
         "cardForeground": {
-          "$value": "#fafafa"
+          "$value": "#fafafa",
+          "$type": "color"
         },
         "popover": {
-          "$value": "#18181b"
+          "$value": "#18181b",
+          "$type": "color"
         },
         "popoverForeground": {
-          "$value": "#fafafa"
+          "$value": "#fafafa",
+          "$type": "color"
         },
         "primary": {
-          "$value": "#e4e4e7"
+          "$value": "#e4e4e7",
+          "$type": "color"
         },
         "primaryForeground": {
-          "$value": "#18181b"
+          "$value": "#18181b",
+          "$type": "color"
         },
         "secondary": {
-          "$value": "#27272a"
+          "$value": "#27272a",
+          "$type": "color"
         },
         "secondaryForeground": {
-          "$value": "#fafafa"
+          "$value": "#fafafa",
+          "$type": "color"
         },
         "muted": {
-          "$value": "#27272a"
+          "$value": "#27272a",
+          "$type": "color"
         },
         "mutedForeground": {
-          "$value": "#9f9fa9"
+          "$value": "#9f9fa9",
+          "$type": "color"
         },
         "accent": {
-          "$value": "#27272a"
+          "$value": "#27272a",
+          "$type": "color"
         },
         "accentForeground": {
-          "$value": "#fafafa"
+          "$value": "#fafafa",
+          "$type": "color"
         },
         "destructive": {
-          "$value": "#ff6467"
+          "$value": "#ff6467",
+          "$type": "color"
         },
         "destructiveForeground": {
-          "$value": "#fafafa"
+          "$value": "#fafafa",
+          "$type": "color"
         },
         "border": {
-          "$value": "#27272a"
+          "$value": "#27272a",
+          "$type": "color"
         },
         "input": {
-          "$value": "#27272a"
+          "$value": "#27272a",
+          "$type": "color"
         },
         "ring": {
-          "$value": "#71717b"
+          "$value": "#71717b",
+          "$type": "color"
         },
         "chart1": {
-          "$value": "#1447e6"
+          "$value": "#1447e6",
+          "$type": "color"
         },
         "chart2": {
-          "$value": "#00bc7d"
+          "$value": "#00bc7d",
+          "$type": "color"
         },
         "chart3": {
-          "$value": "#fe9a00"
+          "$value": "#fe9a00",
+          "$type": "color"
         },
         "chart4": {
-          "$value": "#ad46ff"
+          "$value": "#ad46ff",
+          "$type": "color"
         },
         "chart5": {
-          "$value": "#ff2056"
+          "$value": "#ff2056",
+          "$type": "color"
         },
         "sidebarBackground": {
-          "$value": "#18181b"
+          "$value": "#18181b",
+          "$type": "color"
         },
         "sidebarForeground": {
-          "$value": "#fafafa"
+          "$value": "#fafafa",
+          "$type": "color"
         },
         "sidebarPrimary": {
-          "$value": "#1447e6"
+          "$value": "#1447e6",
+          "$type": "color"
         },
         "sidebarPrimaryForeground": {
-          "$value": "#fafafa"
+          "$value": "#fafafa",
+          "$type": "color"
         },
         "sidebarAccent": {
-          "$value": "#27272a"
+          "$value": "#27272a",
+          "$type": "color"
         },
         "sidebarAccentForeground": {
-          "$value": "#fafafa"
+          "$value": "#fafafa",
+          "$type": "color"
         },
         "sidebarBorder": {
-          "$value": "#27272a"
+          "$value": "#27272a",
+          "$type": "color"
         }
       }
     }

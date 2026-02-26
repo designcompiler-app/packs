@@ -29,115 +29,151 @@
       "light": {
         "$description": "Apple system colors — light mode (iOS/macOS)",
         "systemRed": {
-          "$value": "#FF3B30"
+          "$value": "#FF3B30",
+          "$type": "color"
         },
         "systemOrange": {
-          "$value": "#FF9500"
+          "$value": "#FF9500",
+          "$type": "color"
         },
         "systemYellow": {
-          "$value": "#FFCC00"
+          "$value": "#FFCC00",
+          "$type": "color"
         },
         "systemGreen": {
-          "$value": "#34C759"
+          "$value": "#34C759",
+          "$type": "color"
         },
         "systemMint": {
-          "$value": "#00C7BE"
+          "$value": "#00C7BE",
+          "$type": "color"
         },
         "systemTeal": {
-          "$value": "#30B0C7"
+          "$value": "#30B0C7",
+          "$type": "color"
         },
         "systemCyan": {
-          "$value": "#32ADE6"
+          "$value": "#32ADE6",
+          "$type": "color"
         },
         "systemBlue": {
-          "$value": "#007AFF"
+          "$value": "#007AFF",
+          "$type": "color"
         },
         "systemIndigo": {
-          "$value": "#5856D6"
+          "$value": "#5856D6",
+          "$type": "color"
         },
         "systemPurple": {
-          "$value": "#AF52DE"
+          "$value": "#AF52DE",
+          "$type": "color"
         },
         "systemPink": {
-          "$value": "#FF2D55"
+          "$value": "#FF2D55",
+          "$type": "color"
         },
         "systemBrown": {
-          "$value": "#A2845E"
+          "$value": "#A2845E",
+          "$type": "color"
         },
         "systemGray": {
-          "$value": "#8E8E93"
+          "$value": "#8E8E93",
+          "$type": "color"
         },
         "systemGray2": {
-          "$value": "#AEAEB2"
+          "$value": "#AEAEB2",
+          "$type": "color"
         },
         "systemGray3": {
-          "$value": "#C7C7CC"
+          "$value": "#C7C7CC",
+          "$type": "color"
         },
         "systemGray4": {
-          "$value": "#D1D1D6"
+          "$value": "#D1D1D6",
+          "$type": "color"
         },
         "systemGray5": {
-          "$value": "#E5E5EA"
+          "$value": "#E5E5EA",
+          "$type": "color"
         },
         "systemGray6": {
-          "$value": "#F2F2F7"
+          "$value": "#F2F2F7",
+          "$type": "color"
         }
       },
       "dark": {
         "$description": "Apple system colors — dark mode (iOS/macOS)",
         "systemRed": {
-          "$value": "#FF453A"
+          "$value": "#FF453A",
+          "$type": "color"
         },
         "systemOrange": {
-          "$value": "#FF9F0A"
+          "$value": "#FF9F0A",
+          "$type": "color"
         },
         "systemYellow": {
-          "$value": "#FFD60A"
+          "$value": "#FFD60A",
+          "$type": "color"
         },
         "systemGreen": {
-          "$value": "#30D158"
+          "$value": "#30D158",
+          "$type": "color"
         },
         "systemMint": {
-          "$value": "#63E6E2"
+          "$value": "#63E6E2",
+          "$type": "color"
         },
         "systemTeal": {
-          "$value": "#40CBE0"
+          "$value": "#40CBE0",
+          "$type": "color"
         },
         "systemCyan": {
-          "$value": "#64D2FF"
+          "$value": "#64D2FF",
+          "$type": "color"
         },
         "systemBlue": {
-          "$value": "#0A84FF"
+          "$value": "#0A84FF",
+          "$type": "color"
         },
         "systemIndigo": {
-          "$value": "#5E5CE6"
+          "$value": "#5E5CE6",
+          "$type": "color"
         },
         "systemPurple": {
-          "$value": "#BF5AF2"
+          "$value": "#BF5AF2",
+          "$type": "color"
         },
         "systemPink": {
-          "$value": "#FF375F"
+          "$value": "#FF375F",
+          "$type": "color"
         },
         "systemBrown": {
-          "$value": "#AC8E68"
+          "$value": "#AC8E68",
+          "$type": "color"
         },
         "systemGray": {
-          "$value": "#8E8E93"
+          "$value": "#8E8E93",
+          "$type": "color"
         },
         "systemGray2": {
-          "$value": "#636366"
+          "$value": "#636366",
+          "$type": "color"
         },
         "systemGray3": {
-          "$value": "#48484A"
+          "$value": "#48484A",
+          "$type": "color"
         },
         "systemGray4": {
-          "$value": "#3A3A3C"
+          "$value": "#3A3A3C",
+          "$type": "color"
         },
         "systemGray5": {
-          "$value": "#2C2C2E"
+          "$value": "#2C2C2E",
+          "$type": "color"
         },
         "systemGray6": {
-          "$value": "#1C1C1E"
+          "$value": "#1C1C1E",
+          "$type": "color"
         }
       }
     }

@@ -29,130 +29,167 @@
       "base": {
         "$description": "Base Web black and white primitives",
         "black": {
-          "$value": "#000000"
+          "$value": "#000000",
+          "$type": "color"
         },
         "white": {
-          "$value": "#ffffff"
+          "$value": "#ffffff",
+          "$type": "color"
         }
       },
       "primaryBlue": {
         "50": {
-          "$value": "#eff4fe"
+          "$value": "#eff4fe",
+          "$type": "color"
         },
         "100": {
-          "$value": "#dee9fe"
+          "$value": "#dee9fe",
+          "$type": "color"
         },
         "200": {
-          "$value": "#cddeff"
+          "$value": "#cddeff",
+          "$type": "color"
         },
         "300": {
-          "$value": "#a9c9ff"
+          "$value": "#a9c9ff",
+          "$type": "color"
         },
         "400": {
-          "$value": "#6daafb"
+          "$value": "#6daafb",
+          "$type": "color"
         },
         "500": {
-          "$value": "#068bee"
+          "$value": "#068bee",
+          "$type": "color"
         },
         "600": {
-          "$value": "#276ef1"
+          "$value": "#276ef1",
+          "$type": "color"
         },
         "700": {
-          "$value": "#175bcc"
+          "$value": "#175bcc",
+          "$type": "color"
         },
         "$description": "Base Web primary blue scale — UI actions and interactive elements"
       },
       "negativeRed": {
         "50": {
-          "$value": "#fff0ee"
+          "$value": "#fff0ee",
+          "$type": "color"
         },
         "100": {
-          "$value": "#ffe1de"
+          "$value": "#ffe1de",
+          "$type": "color"
         },
         "200": {
-          "$value": "#ffd2cd"
+          "$value": "#ffd2cd",
+          "$type": "color"
         },
         "300": {
-          "$value": "#ffb2ab"
+          "$value": "#ffb2ab",
+          "$type": "color"
         },
         "400": {
-          "$value": "#fc7f79"
+          "$value": "#fc7f79",
+          "$type": "color"
         },
         "500": {
-          "$value": "#f83446"
+          "$value": "#f83446",
+          "$type": "color"
         },
         "600": {
-          "$value": "#de1135"
+          "$value": "#de1135",
+          "$type": "color"
         },
         "700": {
-          "$value": "#bb032a"
+          "$value": "#bb032a",
+          "$type": "color"
         },
         "$description": "Base Web negative red scale — errors and destructive actions"
       },
       "warningGold": {
         "50": {
-          "$value": "#fdf2dc"
+          "$value": "#fdf2dc",
+          "$type": "color"
         },
         "100": {
-          "$value": "#fbe5b6"
+          "$value": "#fbe5b6",
+          "$type": "color"
         },
         "200": {
-          "$value": "#ffd688"
+          "$value": "#ffd688",
+          "$type": "color"
         },
         "300": {
-          "$value": "#f6bc2f"
+          "$value": "#f6bc2f",
+          "$type": "color"
         },
         "400": {
-          "$value": "#d79900"
+          "$value": "#d79900",
+          "$type": "color"
         },
         "500": {
-          "$value": "#b97502"
+          "$value": "#b97502",
+          "$type": "color"
         },
         "600": {
-          "$value": "#9f6402"
+          "$value": "#9f6402",
+          "$type": "color"
         },
         "700": {
-          "$value": "#845201"
+          "$value": "#845201",
+          "$type": "color"
         },
         "$description": "Base Web warning gold scale — caution and alert states"
       },
       "positiveGreen": {
         "50": {
-          "$value": "#eaf6ed"
+          "$value": "#eaf6ed",
+          "$type": "color"
         },
         "100": {
-          "$value": "#d3efda"
+          "$value": "#d3efda",
+          "$type": "color"
         },
         "200": {
-          "$value": "#b1eac2"
+          "$value": "#b1eac2",
+          "$type": "color"
         },
         "300": {
-          "$value": "#7fd99a"
+          "$value": "#7fd99a",
+          "$type": "color"
         },
         "400": {
-          "$value": "#06c167"
+          "$value": "#06c167",
+          "$type": "color"
         },
         "500": {
-          "$value": "#009a51"
+          "$value": "#009a51",
+          "$type": "color"
         },
         "600": {
-          "$value": "#0e8345"
+          "$value": "#0e8345",
+          "$type": "color"
         },
         "700": {
-          "$value": "#166c3b"
+          "$value": "#166c3b",
+          "$type": "color"
         },
         "$description": "Base Web positive green scale — success and confirmation states"
       },
       "rating": {
         "200": {
-          "$value": "#ffe1a5"
+          "$value": "#ffe1a5",
+          "$type": "color"
         },
         "400": {
-          "$value": "#ffc043"
+          "$value": "#ffc043",
+          "$type": "color"
         },
         "$description": "Base Web rating star colors — active and inactive states",
         "star": {
-          "$value": "#ffc043"
+          "$value": "#ffc043",
+          "$type": "color"
         }
       }
     }

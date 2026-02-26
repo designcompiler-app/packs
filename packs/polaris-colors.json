@@ -28,664 +28,872 @@
       "$type": "color",
       "gray": {
         "1": {
-          "$value": "#FFFFFF"
+          "$value": "#FFFFFF",
+          "$type": "color"
         },
         "2": {
-          "$value": "#FDFDFD"
+          "$value": "#FDFDFD",
+          "$type": "color"
         },
         "3": {
-          "$value": "#FAFAFA"
+          "$value": "#FAFAFA",
+          "$type": "color"
         },
         "4": {
-          "$value": "#F7F7F7"
+          "$value": "#F7F7F7",
+          "$type": "color"
         },
         "5": {
-          "$value": "#F3F3F3"
+          "$value": "#F3F3F3",
+          "$type": "color"
         },
         "6": {
-          "$value": "#F1F1F1"
+          "$value": "#F1F1F1",
+          "$type": "color"
         },
         "7": {
-          "$value": "#EBEBEB"
+          "$value": "#EBEBEB",
+          "$type": "color"
         },
         "8": {
-          "$value": "#E3E3E3"
+          "$value": "#E3E3E3",
+          "$type": "color"
         },
         "9": {
-          "$value": "#D4D4D4"
+          "$value": "#D4D4D4",
+          "$type": "color"
         },
         "10": {
-          "$value": "#CCCCCC"
+          "$value": "#CCCCCC",
+          "$type": "color"
         },
         "11": {
-          "$value": "#B5B5B5"
+          "$value": "#B5B5B5",
+          "$type": "color"
         },
         "12": {
-          "$value": "#8A8A8A"
+          "$value": "#8A8A8A",
+          "$type": "color"
         },
         "13": {
-          "$value": "#616161"
+          "$value": "#616161",
+          "$type": "color"
         },
         "14": {
-          "$value": "#4A4A4A"
+          "$value": "#4A4A4A",
+          "$type": "color"
         },
         "15": {
-          "$value": "#303030"
+          "$value": "#303030",
+          "$type": "color"
         },
         "16": {
-          "$value": "#1A1A1A"
+          "$value": "#1A1A1A",
+          "$type": "color"
         },
         "$description": "Polaris gray scale"
       },
       "rose": {
         "1": {
-          "$value": "#FFFDFD"
+          "$value": "#FFFDFD",
+          "$type": "color"
         },
         "2": {
-          "$value": "#FFF6F8"
+          "$value": "#FFF6F8",
+          "$type": "color"
         },
         "3": {
-          "$value": "#FFEFF3"
+          "$value": "#FFEFF3",
+          "$type": "color"
         },
         "4": {
-          "$value": "#FFE8EE"
+          "$value": "#FFE8EE",
+          "$type": "color"
         },
         "5": {
-          "$value": "#FFE1E8"
+          "$value": "#FFE1E8",
+          "$type": "color"
         },
         "6": {
-          "$value": "#FFD9E3"
+          "$value": "#FFD9E3",
+          "$type": "color"
         },
         "7": {
-          "$value": "#FED1DD"
+          "$value": "#FED1DD",
+          "$type": "color"
         },
         "8": {
-          "$value": "#FEC1D2"
+          "$value": "#FEC1D2",
+          "$type": "color"
         },
         "9": {
-          "$value": "#FEB5CA"
+          "$value": "#FEB5CA",
+          "$type": "color"
         },
         "10": {
-          "$value": "#FE8EB1"
+          "$value": "#FE8EB1",
+          "$type": "color"
         },
         "11": {
-          "$value": "#FD4B92"
+          "$value": "#FD4B92",
+          "$type": "color"
         },
         "12": {
-          "$value": "#E30C76"
+          "$value": "#E30C76",
+          "$type": "color"
         },
         "13": {
-          "$value": "#B9075F"
+          "$value": "#B9075F",
+          "$type": "color"
         },
         "14": {
-          "$value": "#8D0448"
+          "$value": "#8D0448",
+          "$type": "color"
         },
         "15": {
-          "$value": "#640231"
+          "$value": "#640231",
+          "$type": "color"
         },
         "16": {
-          "$value": "#3E011C"
+          "$value": "#3E011C",
+          "$type": "color"
         },
         "$description": "Polaris rose scale"
       },
       "red": {
         "1": {
-          "$value": "#FFFAFB"
+          "$value": "#FFFAFB",
+          "$type": "color"
         },
         "2": {
-          "$value": "#FFF6F8"
+          "$value": "#FFF6F8",
+          "$type": "color"
         },
         "3": {
-          "$value": "#FFECEF"
+          "$value": "#FFECEF",
+          "$type": "color"
         },
         "4": {
-          "$value": "#FEE8EB"
+          "$value": "#FEE8EB",
+          "$type": "color"
         },
         "5": {
-          "$value": "#FEE1E6"
+          "$value": "#FEE1E6",
+          "$type": "color"
         },
         "6": {
-          "$value": "#FED9DF"
+          "$value": "#FED9DF",
+          "$type": "color"
         },
         "7": {
-          "$value": "#FED1D7"
+          "$value": "#FED1D7",
+          "$type": "color"
         },
         "8": {
-          "$value": "#FEC1C7"
+          "$value": "#FEC1C7",
+          "$type": "color"
         },
         "9": {
-          "$value": "#FDACB1"
+          "$value": "#FDACB1",
+          "$type": "color"
         },
         "10": {
-          "$value": "#F78086"
+          "$value": "#F78086",
+          "$type": "color"
         },
         "11": {
-          "$value": "#E22C38"
+          "$value": "#E22C38",
+          "$type": "color"
         },
         "12": {
-          "$value": "#C70A24"
+          "$value": "#C70A24",
+          "$type": "color"
         },
         "13": {
-          "$value": "#A30A24"
+          "$value": "#A30A24",
+          "$type": "color"
         },
         "14": {
-          "$value": "#8E0B21"
+          "$value": "#8E0B21",
+          "$type": "color"
         },
         "15": {
-          "$value": "#5F0716"
+          "$value": "#5F0716",
+          "$type": "color"
         },
         "16": {
-          "$value": "#2F040B"
+          "$value": "#2F040B",
+          "$type": "color"
         },
         "$description": "Polaris red scale"
       },
       "orange": {
         "1": {
-          "$value": "#FFFDFA"
+          "$value": "#FFFDFA",
+          "$type": "color"
         },
         "2": {
-          "$value": "#FFF7EE"
+          "$value": "#FFF7EE",
+          "$type": "color"
         },
         "3": {
-          "$value": "#FFF1E3"
+          "$value": "#FFF1E3",
+          "$type": "color"
         },
         "4": {
-          "$value": "#FFEBD5"
+          "$value": "#FFEBD5",
+          "$type": "color"
         },
         "5": {
-          "$value": "#FFE4C6"
+          "$value": "#FFE4C6",
+          "$type": "color"
         },
         "6": {
-          "$value": "#FFDDB6"
+          "$value": "#FFDDB6",
+          "$type": "color"
         },
         "7": {
-          "$value": "#FFD6A4"
+          "$value": "#FFD6A4",
+          "$type": "color"
         },
         "8": {
-          "$value": "#FFC879"
+          "$value": "#FFC879",
+          "$type": "color"
         },
         "9": {
-          "$value": "#FFB800"
+          "$value": "#FFB800",
+          "$type": "color"
         },
         "10": {
-          "$value": "#E5A500"
+          "$value": "#E5A500",
+          "$type": "color"
         },
         "11": {
-          "$value": "#B28400"
+          "$value": "#B28400",
+          "$type": "color"
         },
         "12": {
-          "$value": "#956F00"
+          "$value": "#956F00",
+          "$type": "color"
         },
         "13": {
-          "$value": "#7C5800"
+          "$value": "#7C5800",
+          "$type": "color"
         },
         "14": {
-          "$value": "#5E4200"
+          "$value": "#5E4200",
+          "$type": "color"
         },
         "15": {
-          "$value": "#412D00"
+          "$value": "#412D00",
+          "$type": "color"
         },
         "16": {
-          "$value": "#251A00"
+          "$value": "#251A00",
+          "$type": "color"
         },
         "$description": "Polaris orange scale"
       },
       "yellow": {
         "1": {
-          "$value": "#FFFDF6"
+          "$value": "#FFFDF6",
+          "$type": "color"
         },
         "2": {
-          "$value": "#FFF8DB"
+          "$value": "#FFF8DB",
+          "$type": "color"
         },
         "3": {
-          "$value": "#FFF4BF"
+          "$value": "#FFF4BF",
+          "$type": "color"
         },
         "4": {
-          "$value": "#FFEF9D"
+          "$value": "#FFEF9D",
+          "$type": "color"
         },
         "5": {
-          "$value": "#FFEB78"
+          "$value": "#FFEB78",
+          "$type": "color"
         },
         "6": {
-          "$value": "#FFE600"
+          "$value": "#FFE600",
+          "$type": "color"
         },
         "7": {
-          "$value": "#F7DF00"
+          "$value": "#F7DF00",
+          "$type": "color"
         },
         "8": {
-          "$value": "#EAD300"
+          "$value": "#EAD300",
+          "$type": "color"
         },
         "9": {
-          "$value": "#E1CB00"
+          "$value": "#E1CB00",
+          "$type": "color"
         },
         "10": {
-          "$value": "#C5B200"
+          "$value": "#C5B200",
+          "$type": "color"
         },
         "11": {
-          "$value": "#998A00"
+          "$value": "#998A00",
+          "$type": "color"
         },
         "12": {
-          "$value": "#827500"
+          "$value": "#827500",
+          "$type": "color"
         },
         "13": {
-          "$value": "#695F00"
+          "$value": "#695F00",
+          "$type": "color"
         },
         "14": {
-          "$value": "#4F4700"
+          "$value": "#4F4700",
+          "$type": "color"
         },
         "15": {
-          "$value": "#332E00"
+          "$value": "#332E00",
+          "$type": "color"
         },
         "16": {
-          "$value": "#1F1C00"
+          "$value": "#1F1C00",
+          "$type": "color"
         },
         "$description": "Polaris yellow scale"
       },
       "lime": {
         "1": {
-          "$value": "#FAFFFA"
+          "$value": "#FAFFFA",
+          "$type": "color"
         },
         "2": {
-          "$value": "#E4FFE5"
+          "$value": "#E4FFE5",
+          "$type": "color"
         },
         "3": {
-          "$value": "#D0FFD1"
+          "$value": "#D0FFD1",
+          "$type": "color"
         },
         "4": {
-          "$value": "#BBFEBE"
+          "$value": "#BBFEBE",
+          "$type": "color"
         },
         "5": {
-          "$value": "#9DFEA0"
+          "$value": "#9DFEA0",
+          "$type": "color"
         },
         "6": {
-          "$value": "#77FE7A"
+          "$value": "#77FE7A",
+          "$type": "color"
         },
         "7": {
-          "$value": "#38FE3E"
+          "$value": "#38FE3E",
+          "$type": "color"
         },
         "8": {
-          "$value": "#28F22F"
+          "$value": "#28F22F",
+          "$type": "color"
         },
         "9": {
-          "$value": "#25E82B"
+          "$value": "#25E82B",
+          "$type": "color"
         },
         "10": {
-          "$value": "#20CF27"
+          "$value": "#20CF27",
+          "$type": "color"
         },
         "11": {
-          "$value": "#18A81D"
+          "$value": "#18A81D",
+          "$type": "color"
         },
         "12": {
-          "$value": "#118715"
+          "$value": "#118715",
+          "$type": "color"
         },
         "13": {
-          "$value": "#0C710F"
+          "$value": "#0C710F",
+          "$type": "color"
         },
         "14": {
-          "$value": "#0B550D"
+          "$value": "#0B550D",
+          "$type": "color"
         },
         "15": {
-          "$value": "#033D05"
+          "$value": "#033D05",
+          "$type": "color"
         },
         "16": {
-          "$value": "#032104"
+          "$value": "#032104",
+          "$type": "color"
         },
         "$description": "Polaris lime scale"
       },
       "green": {
         "1": {
-          "$value": "#FAFFFB"
+          "$value": "#FAFFFB",
+          "$type": "color"
         },
         "2": {
-          "$value": "#E6FEEA"
+          "$value": "#E6FEEA",
+          "$type": "color"
         },
         "3": {
-          "$value": "#CDFED4"
+          "$value": "#CDFED4",
+          "$type": "color"
         },
         "4": {
-          "$value": "#AFFEBF"
+          "$value": "#AFFEBF",
+          "$type": "color"
         },
         "5": {
-          "$value": "#92FCAC"
+          "$value": "#92FCAC",
+          "$type": "color"
         },
         "6": {
-          "$value": "#6EF799"
+          "$value": "#6EF799",
+          "$type": "color"
         },
         "7": {
-          "$value": "#52F490"
+          "$value": "#52F490",
+          "$type": "color"
         },
         "8": {
-          "$value": "#2CED83"
+          "$value": "#2CED83",
+          "$type": "color"
         },
         "9": {
-          "$value": "#11DF7B"
+          "$value": "#11DF7B",
+          "$type": "color"
         },
         "10": {
-          "$value": "#18BF79"
+          "$value": "#18BF79",
+          "$type": "color"
         },
         "11": {
-          "$value": "#0D9C6A"
+          "$value": "#0D9C6A",
+          "$type": "color"
         },
         "12": {
-          "$value": "#047B5D"
+          "$value": "#047B5D",
+          "$type": "color"
         },
         "13": {
-          "$value": "#035E4C"
+          "$value": "#035E4C",
+          "$type": "color"
         },
         "14": {
-          "$value": "#014B40"
+          "$value": "#014B40",
+          "$type": "color"
         },
         "15": {
-          "$value": "#073630"
+          "$value": "#073630",
+          "$type": "color"
         },
         "16": {
-          "$value": "#022622"
+          "$value": "#022622",
+          "$type": "color"
         },
         "$description": "Polaris green scale"
       },
       "cyan": {
         "1": {
-          "$value": "#FAFFFE"
+          "$value": "#FAFFFE",
+          "$type": "color"
         },
         "2": {
-          "$value": "#E7FCF8"
+          "$value": "#E7FCF8",
+          "$type": "color"
         },
         "3": {
-          "$value": "#D7FBF3"
+          "$value": "#D7FBF3",
+          "$type": "color"
         },
         "4": {
-          "$value": "#C0F9EF"
+          "$value": "#C0F9EF",
+          "$type": "color"
         },
         "5": {
-          "$value": "#A5F7E9"
+          "$value": "#A5F7E9",
+          "$type": "color"
         },
         "6": {
-          "$value": "#90F4E3"
+          "$value": "#90F4E3",
+          "$type": "color"
         },
         "7": {
-          "$value": "#92EDDE"
+          "$value": "#92EDDE",
+          "$type": "color"
         },
         "8": {
-          "$value": "#82E3D1"
+          "$value": "#82E3D1",
+          "$type": "color"
         },
         "9": {
-          "$value": "#74DBC8"
+          "$value": "#74DBC8",
+          "$type": "color"
         },
         "10": {
-          "$value": "#17C7A7"
+          "$value": "#17C7A7",
+          "$type": "color"
         },
         "11": {
-          "$value": "#13A389"
+          "$value": "#13A389",
+          "$type": "color"
         },
         "12": {
-          "$value": "#0E8470"
+          "$value": "#0E8470",
+          "$type": "color"
         },
         "13": {
-          "$value": "#086B5A"
+          "$value": "#086B5A",
+          "$type": "color"
         },
         "14": {
-          "$value": "#095346"
+          "$value": "#095346",
+          "$type": "color"
         },
         "15": {
-          "$value": "#06382F"
+          "$value": "#06382F",
+          "$type": "color"
         },
         "16": {
-          "$value": "#05241E"
+          "$value": "#05241E",
+          "$type": "color"
         },
         "$description": "Polaris cyan scale (v9.4)"
       },
       "teal": {
         "1": {
-          "$value": "#F8FFFE"
+          "$value": "#F8FFFE",
+          "$type": "color"
         },
         "2": {
-          "$value": "#E8FCFA"
+          "$value": "#E8FCFA",
+          "$type": "color"
         },
         "3": {
-          "$value": "#D7FAF7"
+          "$value": "#D7FAF7",
+          "$type": "color"
         },
         "4": {
-          "$value": "#C3F7F2"
+          "$value": "#C3F7F2",
+          "$type": "color"
         },
         "5": {
-          "$value": "#AAF6EF"
+          "$value": "#AAF6EF",
+          "$type": "color"
         },
         "6": {
-          "$value": "#89F5EC"
+          "$value": "#89F5EC",
+          "$type": "color"
         },
         "7": {
-          "$value": "#70F0E5"
+          "$value": "#70F0E5",
+          "$type": "color"
         },
         "8": {
-          "$value": "#5AE6DB"
+          "$value": "#5AE6DB",
+          "$type": "color"
         },
         "9": {
-          "$value": "#2CE0D4"
+          "$value": "#2CE0D4",
+          "$type": "color"
         },
         "10": {
-          "$value": "#1EC7BC"
+          "$value": "#1EC7BC",
+          "$type": "color"
         },
         "11": {
-          "$value": "#00A198"
+          "$value": "#00A198",
+          "$type": "color"
         },
         "12": {
-          "$value": "#12837C"
+          "$value": "#12837C",
+          "$type": "color"
         },
         "13": {
-          "$value": "#0C6A64"
+          "$value": "#0C6A64",
+          "$type": "color"
         },
         "14": {
-          "$value": "#0C534F"
+          "$value": "#0C534F",
+          "$type": "color"
         },
         "15": {
-          "$value": "#033C39"
+          "$value": "#033C39",
+          "$type": "color"
         },
         "16": {
-          "$value": "#062C29"
+          "$value": "#062C29",
+          "$type": "color"
         },
         "$description": "Polaris teal scale"
       },
       "azure": {
         "1": {
-          "$value": "#FBFDFF"
+          "$value": "#FBFDFF",
+          "$type": "color"
         },
         "2": {
-          "$value": "#F2F9FF"
+          "$value": "#F2F9FF",
+          "$type": "color"
         },
         "3": {
-          "$value": "#EAF4FF"
+          "$value": "#EAF4FF",
+          "$type": "color"
         },
         "4": {
-          "$value": "#E0F0FF"
+          "$value": "#E0F0FF",
+          "$type": "color"
         },
         "5": {
-          "$value": "#D5EBFF"
+          "$value": "#D5EBFF",
+          "$type": "color"
         },
         "6": {
-          "$value": "#CAE6FF"
+          "$value": "#CAE6FF",
+          "$type": "color"
         },
         "7": {
-          "$value": "#C0E1FF"
+          "$value": "#C0E1FF",
+          "$type": "color"
         },
         "8": {
-          "$value": "#A8D8FF"
+          "$value": "#A8D8FF",
+          "$type": "color"
         },
         "9": {
-          "$value": "#91D0FF"
+          "$value": "#91D0FF",
+          "$type": "color"
         },
         "10": {
-          "$value": "#51C0FF"
+          "$value": "#51C0FF",
+          "$type": "color"
         },
         "11": {
-          "$value": "#0094D5"
+          "$value": "#0094D5",
+          "$type": "color"
         },
         "12": {
-          "$value": "#007CB4"
+          "$value": "#007CB4",
+          "$type": "color"
         },
         "13": {
-          "$value": "#00679B"
+          "$value": "#00679B",
+          "$type": "color"
         },
         "14": {
-          "$value": "#00527C"
+          "$value": "#00527C",
+          "$type": "color"
         },
         "15": {
-          "$value": "#003A5A"
+          "$value": "#003A5A",
+          "$type": "color"
         },
         "16": {
-          "$value": "#002133"
+          "$value": "#002133",
+          "$type": "color"
         },
         "$description": "Polaris azure scale (cyan-like)"
       },
       "blue": {
         "1": {
-          "$value": "#FCFDFF"
+          "$value": "#FCFDFF",
+          "$type": "color"
         },
         "2": {
-          "$value": "#F6F8FF"
+          "$value": "#F6F8FF",
+          "$type": "color"
         },
         "3": {
-          "$value": "#F0F2FF"
+          "$value": "#F0F2FF",
+          "$type": "color"
         },
         "4": {
-          "$value": "#EAEDFF"
+          "$value": "#EAEDFF",
+          "$type": "color"
         },
         "5": {
-          "$value": "#E2E7FF"
+          "$value": "#E2E7FF",
+          "$type": "color"
         },
         "6": {
-          "$value": "#DBE1FF"
+          "$value": "#DBE1FF",
+          "$type": "color"
         },
         "7": {
-          "$value": "#D5DCFF"
+          "$value": "#D5DCFF",
+          "$type": "color"
         },
         "8": {
-          "$value": "#C5D0FF"
+          "$value": "#C5D0FF",
+          "$type": "color"
         },
         "9": {
-          "$value": "#BAC7FF"
+          "$value": "#BAC7FF",
+          "$type": "color"
         },
         "10": {
-          "$value": "#97ADFF"
+          "$value": "#97ADFF",
+          "$type": "color"
         },
         "11": {
-          "$value": "#4188FF"
+          "$value": "#4188FF",
+          "$type": "color"
         },
         "12": {
-          "$value": "#0071E9"
+          "$value": "#0071E9",
+          "$type": "color"
         },
         "13": {
-          "$value": "#005BD3"
+          "$value": "#005BD3",
+          "$type": "color"
         },
         "14": {
-          "$value": "#004299"
+          "$value": "#004299",
+          "$type": "color"
         },
         "15": {
-          "$value": "#002E6A"
+          "$value": "#002E6A",
+          "$type": "color"
         },
         "16": {
-          "$value": "#001633"
+          "$value": "#001633",
+          "$type": "color"
         },
         "$description": "Polaris blue scale"
       },
       "purple": {
         "1": {
-          "$value": "#FDFDFF"
+          "$value": "#FDFDFF",
+          "$type": "color"
         },
         "2": {
-          "$value": "#F8F7FF"
+          "$value": "#F8F7FF",
+          "$type": "color"
         },
         "3": {
-          "$value": "#F3F1FF"
+          "$value": "#F3F1FF",
+          "$type": "color"
         },
         "4": {
-          "$value": "#EFECFF"
+          "$value": "#EFECFF",
+          "$type": "color"
         },
         "5": {
-          "$value": "#E9E5FF"
+          "$value": "#E9E5FF",
+          "$type": "color"
         },
         "6": {
-          "$value": "#E4DEFF"
+          "$value": "#E4DEFF",
+          "$type": "color"
         },
         "7": {
-          "$value": "#DFD9FF"
+          "$value": "#DFD9FF",
+          "$type": "color"
         },
         "8": {
-          "$value": "#D4CCFF"
+          "$value": "#D4CCFF",
+          "$type": "color"
         },
         "9": {
-          "$value": "#C7BCFF"
+          "$value": "#C7BCFF",
+          "$type": "color"
         },
         "10": {
-          "$value": "#AA95FF"
+          "$value": "#AA95FF",
+          "$type": "color"
         },
         "11": {
-          "$value": "#9474FF"
+          "$value": "#9474FF",
+          "$type": "color"
         },
         "12": {
-          "$value": "#8051FF"
+          "$value": "#8051FF",
+          "$type": "color"
         },
         "13": {
-          "$value": "#7126FF"
+          "$value": "#7126FF",
+          "$type": "color"
         },
         "14": {
-          "$value": "#5700D1"
+          "$value": "#5700D1",
+          "$type": "color"
         },
         "15": {
-          "$value": "#3B0093"
+          "$value": "#3B0093",
+          "$type": "color"
         },
         "16": {
-          "$value": "#1C004F"
+          "$value": "#1C004F",
+          "$type": "color"
         },
         "$description": "Polaris purple scale"
       },
       "magenta": {
         "1": {
-          "$value": "#FFFDFF"
+          "$value": "#FFFDFF",
+          "$type": "color"
         },
         "2": {
-          "$value": "#FFF5FF"
+          "$value": "#FFF5FF",
+          "$type": "color"
         },
         "3": {
-          "$value": "#FDEFFD"
+          "$value": "#FDEFFD",
+          "$type": "color"
         },
         "4": {
-          "$value": "#FEE7FE"
+          "$value": "#FEE7FE",
+          "$type": "color"
         },
         "5": {
-          "$value": "#FCDFFC"
+          "$value": "#FCDFFC",
+          "$type": "color"
         },
         "6": {
-          "$value": "#FBD7FB"
+          "$value": "#FBD7FB",
+          "$type": "color"
         },
         "7": {
-          "$value": "#FBCFFB"
+          "$value": "#FBCFFB",
+          "$type": "color"
         },
         "8": {
-          "$value": "#F9BEF9"
+          "$value": "#F9BEF9",
+          "$type": "color"
         },
         "9": {
-          "$value": "#F8B1F8"
+          "$value": "#F8B1F8",
+          "$type": "color"
         },
         "10": {
-          "$value": "#F68DF6"
+          "$value": "#F68DF6",
+          "$type": "color"
         },
         "11": {
-          "$value": "#E156E1"
+          "$value": "#E156E1",
+          "$type": "color"
         },
         "12": {
-          "$value": "#C530C5"
+          "$value": "#C530C5",
+          "$type": "color"
         },
         "13": {
-          "$value": "#9F269F"
+          "$value": "#9F269F",
+          "$type": "color"
         },
         "14": {
-          "$value": "#791A79"
+          "$value": "#791A79",
+          "$type": "color"
         },
         "15": {
-          "$value": "#561056"
+          "$value": "#561056",
+          "$type": "color"
         },
         "16": {
-          "$value": "#340634"
+          "$value": "#340634",
+          "$type": "color"
         },
         "$description": "Polaris magenta scale"
       }

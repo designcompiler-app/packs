@@ -28,409 +28,531 @@
       "$type": "color",
       "red": {
         "10": {
-          "$value": "#fff1f1"
+          "$value": "#fff1f1",
+          "$type": "color"
         },
         "20": {
-          "$value": "#ffd7d9"
+          "$value": "#ffd7d9",
+          "$type": "color"
         },
         "30": {
-          "$value": "#ffb3b8"
+          "$value": "#ffb3b8",
+          "$type": "color"
         },
         "40": {
-          "$value": "#ff8389"
+          "$value": "#ff8389",
+          "$type": "color"
         },
         "50": {
-          "$value": "#fa4d56"
+          "$value": "#fa4d56",
+          "$type": "color"
         },
         "60": {
-          "$value": "#da1e28"
+          "$value": "#da1e28",
+          "$type": "color"
         },
         "70": {
-          "$value": "#a2191f"
+          "$value": "#a2191f",
+          "$type": "color"
         },
         "80": {
-          "$value": "#750e13"
+          "$value": "#750e13",
+          "$type": "color"
         },
         "90": {
-          "$value": "#520408"
+          "$value": "#520408",
+          "$type": "color"
         },
         "100": {
-          "$value": "#2d0709"
+          "$value": "#2d0709",
+          "$type": "color"
         },
         "$description": "Carbon red"
       },
       "magenta": {
         "10": {
-          "$value": "#fff0f7"
+          "$value": "#fff0f7",
+          "$type": "color"
         },
         "20": {
-          "$value": "#ffd6e8"
+          "$value": "#ffd6e8",
+          "$type": "color"
         },
         "30": {
-          "$value": "#ffafd2"
+          "$value": "#ffafd2",
+          "$type": "color"
         },
         "40": {
-          "$value": "#ff7eb6"
+          "$value": "#ff7eb6",
+          "$type": "color"
         },
         "50": {
-          "$value": "#ee5396"
+          "$value": "#ee5396",
+          "$type": "color"
         },
         "60": {
-          "$value": "#d02670"
+          "$value": "#d02670",
+          "$type": "color"
         },
         "70": {
-          "$value": "#9f1853"
+          "$value": "#9f1853",
+          "$type": "color"
         },
         "80": {
-          "$value": "#740937"
+          "$value": "#740937",
+          "$type": "color"
         },
         "90": {
-          "$value": "#510224"
+          "$value": "#510224",
+          "$type": "color"
         },
         "100": {
-          "$value": "#2a0a18"
+          "$value": "#2a0a18",
+          "$type": "color"
         },
         "$description": "Carbon magenta"
       },
       "purple": {
         "10": {
-          "$value": "#f6f2ff"
+          "$value": "#f6f2ff",
+          "$type": "color"
         },
         "20": {
-          "$value": "#e8daff"
+          "$value": "#e8daff",
+          "$type": "color"
         },
         "30": {
-          "$value": "#d4bbff"
+          "$value": "#d4bbff",
+          "$type": "color"
         },
         "40": {
-          "$value": "#be95ff"
+          "$value": "#be95ff",
+          "$type": "color"
         },
         "50": {
-          "$value": "#a56eff"
+          "$value": "#a56eff",
+          "$type": "color"
         },
         "60": {
-          "$value": "#8a3ffc"
+          "$value": "#8a3ffc",
+          "$type": "color"
         },
         "70": {
-          "$value": "#6929c4"
+          "$value": "#6929c4",
+          "$type": "color"
         },
         "80": {
-          "$value": "#491d8b"
+          "$value": "#491d8b",
+          "$type": "color"
         },
         "90": {
-          "$value": "#31135e"
+          "$value": "#31135e",
+          "$type": "color"
         },
         "100": {
-          "$value": "#1c0f30"
+          "$value": "#1c0f30",
+          "$type": "color"
         },
         "$description": "Carbon purple"
       },
       "blue": {
         "10": {
-          "$value": "#edf5ff"
+          "$value": "#edf5ff",
+          "$type": "color"
         },
         "20": {
-          "$value": "#d0e2ff"
+          "$value": "#d0e2ff",
+          "$type": "color"
         },
         "30": {
-          "$value": "#a6c8ff"
+          "$value": "#a6c8ff",
+          "$type": "color"
         },
         "40": {
-          "$value": "#78a9ff"
+          "$value": "#78a9ff",
+          "$type": "color"
         },
         "50": {
-          "$value": "#4589ff"
+          "$value": "#4589ff",
+          "$type": "color"
         },
         "60": {
-          "$value": "#0f62fe"
+          "$value": "#0f62fe",
+          "$type": "color"
         },
         "70": {
-          "$value": "#0043ce"
+          "$value": "#0043ce",
+          "$type": "color"
         },
         "80": {
-          "$value": "#002d9c"
+          "$value": "#002d9c",
+          "$type": "color"
         },
         "90": {
-          "$value": "#001d6c"
+          "$value": "#001d6c",
+          "$type": "color"
         },
         "100": {
-          "$value": "#001141"
+          "$value": "#001141",
+          "$type": "color"
         },
         "$description": "Carbon blue — primary interactive color"
       },
       "cyan": {
         "10": {
-          "$value": "#e5f6ff"
+          "$value": "#e5f6ff",
+          "$type": "color"
         },
         "20": {
-          "$value": "#bae6ff"
+          "$value": "#bae6ff",
+          "$type": "color"
         },
         "30": {
-          "$value": "#82cfff"
+          "$value": "#82cfff",
+          "$type": "color"
         },
         "40": {
-          "$value": "#33b1ff"
+          "$value": "#33b1ff",
+          "$type": "color"
         },
         "50": {
-          "$value": "#1192e8"
+          "$value": "#1192e8",
+          "$type": "color"
         },
         "60": {
-          "$value": "#0072c3"
+          "$value": "#0072c3",
+          "$type": "color"
         },
         "70": {
-          "$value": "#00539a"
+          "$value": "#00539a",
+          "$type": "color"
         },
         "80": {
-          "$value": "#003a6d"
+          "$value": "#003a6d",
+          "$type": "color"
         },
         "90": {
-          "$value": "#012749"
+          "$value": "#012749",
+          "$type": "color"
         },
         "100": {
-          "$value": "#061727"
+          "$value": "#061727",
+          "$type": "color"
         },
         "$description": "Carbon cyan"
       },
       "teal": {
         "10": {
-          "$value": "#d9fbfb"
+          "$value": "#d9fbfb",
+          "$type": "color"
         },
         "20": {
-          "$value": "#9ef0f0"
+          "$value": "#9ef0f0",
+          "$type": "color"
         },
         "30": {
-          "$value": "#3ddbd9"
+          "$value": "#3ddbd9",
+          "$type": "color"
         },
         "40": {
-          "$value": "#08bdba"
+          "$value": "#08bdba",
+          "$type": "color"
         },
         "50": {
-          "$value": "#009d9a"
+          "$value": "#009d9a",
+          "$type": "color"
         },
         "60": {
-          "$value": "#007d79"
+          "$value": "#007d79",
+          "$type": "color"
         },
         "70": {
-          "$value": "#005d5d"
+          "$value": "#005d5d",
+          "$type": "color"
         },
         "80": {
-          "$value": "#004144"
+          "$value": "#004144",
+          "$type": "color"
         },
         "90": {
-          "$value": "#022b30"
+          "$value": "#022b30",
+          "$type": "color"
         },
         "100": {
-          "$value": "#081a1c"
+          "$value": "#081a1c",
+          "$type": "color"
         },
         "$description": "Carbon teal"
       },
       "green": {
         "10": {
-          "$value": "#defbe6"
+          "$value": "#defbe6",
+          "$type": "color"
         },
         "20": {
-          "$value": "#a7f0ba"
+          "$value": "#a7f0ba",
+          "$type": "color"
         },
         "30": {
-          "$value": "#6fdc8c"
+          "$value": "#6fdc8c",
+          "$type": "color"
         },
         "40": {
-          "$value": "#42be65"
+          "$value": "#42be65",
+          "$type": "color"
         },
         "50": {
-          "$value": "#24a148"
+          "$value": "#24a148",
+          "$type": "color"
         },
         "60": {
-          "$value": "#198038"
+          "$value": "#198038",
+          "$type": "color"
         },
         "70": {
-          "$value": "#0e6027"
+          "$value": "#0e6027",
+          "$type": "color"
         },
         "80": {
-          "$value": "#044317"
+          "$value": "#044317",
+          "$type": "color"
         },
         "90": {
-          "$value": "#022d0d"
+          "$value": "#022d0d",
+          "$type": "color"
         },
         "100": {
-          "$value": "#071908"
+          "$value": "#071908",
+          "$type": "color"
         },
         "$description": "Carbon green — success color"
       },
       "coolGray": {
         "10": {
-          "$value": "#f2f4f8"
+          "$value": "#f2f4f8",
+          "$type": "color"
         },
         "20": {
-          "$value": "#dde1e6"
+          "$value": "#dde1e6",
+          "$type": "color"
         },
         "30": {
-          "$value": "#c1c7cd"
+          "$value": "#c1c7cd",
+          "$type": "color"
         },
         "40": {
-          "$value": "#a2a9b0"
+          "$value": "#a2a9b0",
+          "$type": "color"
         },
         "50": {
-          "$value": "#878d96"
+          "$value": "#878d96",
+          "$type": "color"
         },
         "60": {
-          "$value": "#697077"
+          "$value": "#697077",
+          "$type": "color"
         },
         "70": {
-          "$value": "#4d5358"
+          "$value": "#4d5358",
+          "$type": "color"
         },
         "80": {
-          "$value": "#343a3f"
+          "$value": "#343a3f",
+          "$type": "color"
         },
         "90": {
-          "$value": "#21272a"
+          "$value": "#21272a",
+          "$type": "color"
         },
         "100": {
-          "$value": "#121619"
+          "$value": "#121619",
+          "$type": "color"
         },
         "$description": "Carbon cool gray — blue undertone neutral"
       },
       "gray": {
         "10": {
-          "$value": "#f4f4f4"
+          "$value": "#f4f4f4",
+          "$type": "color"
         },
         "20": {
-          "$value": "#e0e0e0"
+          "$value": "#e0e0e0",
+          "$type": "color"
         },
         "30": {
-          "$value": "#c6c6c6"
+          "$value": "#c6c6c6",
+          "$type": "color"
         },
         "40": {
-          "$value": "#a8a8a8"
+          "$value": "#a8a8a8",
+          "$type": "color"
         },
         "50": {
-          "$value": "#8d8d8d"
+          "$value": "#8d8d8d",
+          "$type": "color"
         },
         "60": {
-          "$value": "#6f6f6f"
+          "$value": "#6f6f6f",
+          "$type": "color"
         },
         "70": {
-          "$value": "#525252"
+          "$value": "#525252",
+          "$type": "color"
         },
         "80": {
-          "$value": "#393939"
+          "$value": "#393939",
+          "$type": "color"
         },
         "90": {
-          "$value": "#262626"
+          "$value": "#262626",
+          "$type": "color"
         },
         "100": {
-          "$value": "#161616"
+          "$value": "#161616",
+          "$type": "color"
         },
         "$description": "Carbon neutral gray"
       },
       "warmGray": {
         "10": {
-          "$value": "#f7f3f2"
+          "$value": "#f7f3f2",
+          "$type": "color"
         },
         "20": {
-          "$value": "#e5e0df"
+          "$value": "#e5e0df",
+          "$type": "color"
         },
         "30": {
-          "$value": "#cac5c4"
+          "$value": "#cac5c4",
+          "$type": "color"
         },
         "40": {
-          "$value": "#ada8a8"
+          "$value": "#ada8a8",
+          "$type": "color"
         },
         "50": {
-          "$value": "#8f8b8b"
+          "$value": "#8f8b8b",
+          "$type": "color"
         },
         "60": {
-          "$value": "#726e6e"
+          "$value": "#726e6e",
+          "$type": "color"
         },
         "70": {
-          "$value": "#565151"
+          "$value": "#565151",
+          "$type": "color"
         },
         "80": {
-          "$value": "#3c3838"
+          "$value": "#3c3838",
+          "$type": "color"
         },
         "90": {
-          "$value": "#272525"
+          "$value": "#272525",
+          "$type": "color"
         },
         "100": {
-          "$value": "#171414"
+          "$value": "#171414",
+          "$type": "color"
         },
         "$description": "Carbon warm gray — red undertone neutral"
       },
       "yellow": {
         "10": {
-          "$value": "#fcf4d6"
+          "$value": "#fcf4d6",
+          "$type": "color"
         },
         "20": {
-          "$value": "#fddc69"
+          "$value": "#fddc69",
+          "$type": "color"
         },
         "30": {
-          "$value": "#f1c21b"
+          "$value": "#f1c21b",
+          "$type": "color"
         },
         "40": {
-          "$value": "#d2a106"
+          "$value": "#d2a106",
+          "$type": "color"
         },
         "50": {
-          "$value": "#b28600"
+          "$value": "#b28600",
+          "$type": "color"
         },
         "60": {
-          "$value": "#8e6a00"
+          "$value": "#8e6a00",
+          "$type": "color"
         },
         "70": {
-          "$value": "#684e00"
+          "$value": "#684e00",
+          "$type": "color"
         },
         "80": {
-          "$value": "#483700"
+          "$value": "#483700",
+          "$type": "color"
         },
         "90": {
-          "$value": "#302400"
+          "$value": "#302400",
+          "$type": "color"
         },
         "100": {
-          "$value": "#1c1500"
+          "$value": "#1c1500",
+          "$type": "color"
         },
         "$description": "Carbon yellow — warning color"
       },
       "orange": {
         "10": {
-          "$value": "#fff2e8"
+          "$value": "#fff2e8",
+          "$type": "color"
         },
         "20": {
-          "$value": "#ffd9be"
+          "$value": "#ffd9be",
+          "$type": "color"
         },
         "30": {
-          "$value": "#ffb784"
+          "$value": "#ffb784",
+          "$type": "color"
         },
         "40": {
-          "$value": "#ff832b"
+          "$value": "#ff832b",
+          "$type": "color"
         },
         "50": {
-          "$value": "#eb6200"
+          "$value": "#eb6200",
+          "$type": "color"
         },
         "60": {
-          "$value": "#ba4e00"
+          "$value": "#ba4e00",
+          "$type": "color"
         },
         "70": {
-          "$value": "#8a3800"
+          "$value": "#8a3800",
+          "$type": "color"
         },
         "80": {
-          "$value": "#5e2900"
+          "$value": "#5e2900",
+          "$type": "color"
         },
         "90": {
-          "$value": "#3e1a00"
+          "$value": "#3e1a00",
+          "$type": "color"
         },
         "100": {
-          "$value": "#231000"
+          "$value": "#231000",
+          "$type": "color"
         },
         "$description": "Carbon orange"
       },
       "black": {
         "100": {
-          "$value": "#000000"
+          "$value": "#000000",
+          "$type": "color"
         },
         "$description": "IBM black"
       },
       "white": {
         "0": {
-          "$value": "#ffffff"
+          "$value": "#ffffff",
+          "$type": "color"
         },
         "$description": "IBM white"
       }

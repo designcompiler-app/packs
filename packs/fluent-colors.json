@@ -29,753 +29,985 @@
       "cranberry": {
         "$description": "Fluent cranberry (primary error/danger)",
         "shade50": {
-          "$value": "#200205"
+          "$value": "#200205",
+          "$type": "color"
         },
         "shade40": {
-          "$value": "#3B0509"
+          "$value": "#3B0509",
+          "$type": "color"
         },
         "shade30": {
-          "$value": "#6E0811"
+          "$value": "#6E0811",
+          "$type": "color"
         },
         "shade20": {
-          "$value": "#960B18"
+          "$value": "#960B18",
+          "$type": "color"
         },
         "shade10": {
-          "$value": "#B10E1C"
+          "$value": "#B10E1C",
+          "$type": "color"
         },
         "primary": {
-          "$value": "#C50F1F"
+          "$value": "#C50F1F",
+          "$type": "color"
         },
         "tint10": {
-          "$value": "#CC2635"
+          "$value": "#CC2635",
+          "$type": "color"
         },
         "tint20": {
-          "$value": "#D33F4C"
+          "$value": "#D33F4C",
+          "$type": "color"
         },
         "tint30": {
-          "$value": "#DC626D"
+          "$value": "#DC626D",
+          "$type": "color"
         },
         "tint40": {
-          "$value": "#EEACB2"
+          "$value": "#EEACB2",
+          "$type": "color"
         },
         "tint50": {
-          "$value": "#F6D1D5"
+          "$value": "#F6D1D5",
+          "$type": "color"
         },
         "tint60": {
-          "$value": "#FDF3F4"
+          "$value": "#FDF3F4",
+          "$type": "color"
         }
       },
       "red": {
         "$description": "Fluent red",
         "shade50": {
-          "$value": "#210809"
+          "$value": "#210809",
+          "$type": "color"
         },
         "shade40": {
-          "$value": "#3F1011"
+          "$value": "#3F1011",
+          "$type": "color"
         },
         "shade30": {
-          "$value": "#751D1F"
+          "$value": "#751D1F",
+          "$type": "color"
         },
         "shade20": {
-          "$value": "#9F282B"
+          "$value": "#9F282B",
+          "$type": "color"
         },
         "shade10": {
-          "$value": "#BC2F32"
+          "$value": "#BC2F32",
+          "$type": "color"
         },
         "primary": {
-          "$value": "#D13438"
+          "$value": "#D13438",
+          "$type": "color"
         },
         "tint10": {
-          "$value": "#D7494C"
+          "$value": "#D7494C",
+          "$type": "color"
         },
         "tint20": {
-          "$value": "#DC5E62"
+          "$value": "#DC5E62",
+          "$type": "color"
         },
         "tint30": {
-          "$value": "#E37D80"
+          "$value": "#E37D80",
+          "$type": "color"
         },
         "tint40": {
-          "$value": "#F1BBBC"
+          "$value": "#F1BBBC",
+          "$type": "color"
         },
         "tint50": {
-          "$value": "#F8DADB"
+          "$value": "#F8DADB",
+          "$type": "color"
         },
         "tint60": {
-          "$value": "#FDF6F6"
+          "$value": "#FDF6F6",
+          "$type": "color"
         }
       },
       "orange": {
         "$description": "Fluent orange",
         "shade50": {
-          "$value": "#271002"
+          "$value": "#271002",
+          "$type": "color"
         },
         "shade40": {
-          "$value": "#4A1E04"
+          "$value": "#4A1E04",
+          "$type": "color"
         },
         "shade30": {
-          "$value": "#8A3707"
+          "$value": "#8A3707",
+          "$type": "color"
         },
         "shade20": {
-          "$value": "#BC4B09"
+          "$value": "#BC4B09",
+          "$type": "color"
         },
         "shade10": {
-          "$value": "#DE590B"
+          "$value": "#DE590B",
+          "$type": "color"
         },
         "primary": {
-          "$value": "#F7630C"
+          "$value": "#F7630C",
+          "$type": "color"
         },
         "tint10": {
-          "$value": "#F87528"
+          "$value": "#F87528",
+          "$type": "color"
         },
         "tint20": {
-          "$value": "#F98845"
+          "$value": "#F98845",
+          "$type": "color"
         },
         "tint30": {
-          "$value": "#FAA06B"
+          "$value": "#FAA06B",
+          "$type": "color"
         },
         "tint40": {
-          "$value": "#FDCFB4"
+          "$value": "#FDCFB4",
+          "$type": "color"
         },
         "tint50": {
-          "$value": "#FEE5D7"
+          "$value": "#FEE5D7",
+          "$type": "color"
         },
         "tint60": {
-          "$value": "#FFF9F5"
+          "$value": "#FFF9F5",
+          "$type": "color"
         }
       },
       "peach": {
         "$description": "Fluent peach",
         "shade50": {
-          "$value": "#291600"
+          "$value": "#291600",
+          "$type": "color"
         },
         "shade40": {
-          "$value": "#4D2A00"
+          "$value": "#4D2A00",
+          "$type": "color"
         },
         "shade30": {
-          "$value": "#8F4E00"
+          "$value": "#8F4E00",
+          "$type": "color"
         },
         "shade20": {
-          "$value": "#C26A00"
+          "$value": "#C26A00",
+          "$type": "color"
         },
         "shade10": {
-          "$value": "#E67E00"
+          "$value": "#E67E00",
+          "$type": "color"
         },
         "primary": {
-          "$value": "#FF8C00"
+          "$value": "#FF8C00",
+          "$type": "color"
         },
         "tint10": {
-          "$value": "#FF9A1F"
+          "$value": "#FF9A1F",
+          "$type": "color"
         },
         "tint20": {
-          "$value": "#FFA83D"
+          "$value": "#FFA83D",
+          "$type": "color"
         },
         "tint30": {
-          "$value": "#FFBA66"
+          "$value": "#FFBA66",
+          "$type": "color"
         },
         "tint40": {
-          "$value": "#FFDDB3"
+          "$value": "#FFDDB3",
+          "$type": "color"
         },
         "tint50": {
-          "$value": "#FFEDD6"
+          "$value": "#FFEDD6",
+          "$type": "color"
         },
         "tint60": {
-          "$value": "#FFFAF5"
+          "$value": "#FFFAF5",
+          "$type": "color"
         }
       },
       "marigold": {
         "$description": "Fluent marigold",
         "shade50": {
-          "$value": "#251A00"
+          "$value": "#251A00",
+          "$type": "color"
         },
         "shade40": {
-          "$value": "#463100"
+          "$value": "#463100",
+          "$type": "color"
         },
         "shade30": {
-          "$value": "#835B00"
+          "$value": "#835B00",
+          "$type": "color"
         },
         "shade20": {
-          "$value": "#B27C00"
+          "$value": "#B27C00",
+          "$type": "color"
         },
         "shade10": {
-          "$value": "#D39300"
+          "$value": "#D39300",
+          "$type": "color"
         },
         "primary": {
-          "$value": "#EAA300"
+          "$value": "#EAA300",
+          "$type": "color"
         },
         "tint10": {
-          "$value": "#EDAD1C"
+          "$value": "#EDAD1C",
+          "$type": "color"
         },
         "tint20": {
-          "$value": "#EFB839"
+          "$value": "#EFB839",
+          "$type": "color"
         },
         "tint30": {
-          "$value": "#F2C661"
+          "$value": "#F2C661",
+          "$type": "color"
         },
         "tint40": {
-          "$value": "#F9E2AE"
+          "$value": "#F9E2AE",
+          "$type": "color"
         },
         "tint50": {
-          "$value": "#FCEFD3"
+          "$value": "#FCEFD3",
+          "$type": "color"
         },
         "tint60": {
-          "$value": "#FEFBF4"
+          "$value": "#FEFBF4",
+          "$type": "color"
         }
       },
       "yellow": {
         "$description": "Fluent yellow",
         "shade50": {
-          "$value": "#282400"
+          "$value": "#282400",
+          "$type": "color"
         },
         "shade40": {
-          "$value": "#4C4400"
+          "$value": "#4C4400",
+          "$type": "color"
         },
         "shade30": {
-          "$value": "#817400"
+          "$value": "#817400",
+          "$type": "color"
         },
         "shade20": {
-          "$value": "#C0AD00"
+          "$value": "#C0AD00",
+          "$type": "color"
         },
         "shade10": {
-          "$value": "#E4CC00"
+          "$value": "#E4CC00",
+          "$type": "color"
         },
         "primary": {
-          "$value": "#FDE300"
+          "$value": "#FDE300",
+          "$type": "color"
         },
         "tint10": {
-          "$value": "#FDE61E"
+          "$value": "#FDE61E",
+          "$type": "color"
         },
         "tint20": {
-          "$value": "#FDEA3D"
+          "$value": "#FDEA3D",
+          "$type": "color"
         },
         "tint30": {
-          "$value": "#FEEE66"
+          "$value": "#FEEE66",
+          "$type": "color"
         },
         "tint40": {
-          "$value": "#FEF7B2"
+          "$value": "#FEF7B2",
+          "$type": "color"
         },
         "tint50": {
-          "$value": "#FFFAD6"
+          "$value": "#FFFAD6",
+          "$type": "color"
         },
         "tint60": {
-          "$value": "#FFFEF5"
+          "$value": "#FFFEF5",
+          "$type": "color"
         }
       },
       "green": {
         "$description": "Fluent green (success)",
         "shade50": {
-          "$value": "#031403"
+          "$value": "#031403",
+          "$type": "color"
         },
         "shade40": {
-          "$value": "#052505"
+          "$value": "#052505",
+          "$type": "color"
         },
         "shade30": {
-          "$value": "#094509"
+          "$value": "#094509",
+          "$type": "color"
         },
         "shade20": {
-          "$value": "#0C5E0C"
+          "$value": "#0C5E0C",
+          "$type": "color"
         },
         "shade10": {
-          "$value": "#0E700E"
+          "$value": "#0E700E",
+          "$type": "color"
         },
         "primary": {
-          "$value": "#107C10"
+          "$value": "#107C10",
+          "$type": "color"
         },
         "tint10": {
-          "$value": "#218C21"
+          "$value": "#218C21",
+          "$type": "color"
         },
         "tint20": {
-          "$value": "#359B35"
+          "$value": "#359B35",
+          "$type": "color"
         },
         "tint30": {
-          "$value": "#54B054"
+          "$value": "#54B054",
+          "$type": "color"
         },
         "tint40": {
-          "$value": "#9FD89F"
+          "$value": "#9FD89F",
+          "$type": "color"
         },
         "tint50": {
-          "$value": "#C9EAC9"
+          "$value": "#C9EAC9",
+          "$type": "color"
         },
         "tint60": {
-          "$value": "#F1FAF1"
+          "$value": "#F1FAF1",
+          "$type": "color"
         }
       },
       "teal": {
         "$description": "Fluent teal",
         "shade50": {
-          "$value": "#001516"
+          "$value": "#001516",
+          "$type": "color"
         },
         "shade40": {
-          "$value": "#012728"
+          "$value": "#012728",
+          "$type": "color"
         },
         "shade30": {
-          "$value": "#02494C"
+          "$value": "#02494C",
+          "$type": "color"
         },
         "shade20": {
-          "$value": "#026467"
+          "$value": "#026467",
+          "$type": "color"
         },
         "shade10": {
-          "$value": "#037679"
+          "$value": "#037679",
+          "$type": "color"
         },
         "primary": {
-          "$value": "#038387"
+          "$value": "#038387",
+          "$type": "color"
         },
         "tint10": {
-          "$value": "#159195"
+          "$value": "#159195",
+          "$type": "color"
         },
         "tint20": {
-          "$value": "#2AA0A4"
+          "$value": "#2AA0A4",
+          "$type": "color"
         },
         "tint30": {
-          "$value": "#4CB4B7"
+          "$value": "#4CB4B7",
+          "$type": "color"
         },
         "tint40": {
-          "$value": "#9BD9DB"
+          "$value": "#9BD9DB",
+          "$type": "color"
         },
         "tint50": {
-          "$value": "#C7EBEC"
+          "$value": "#C7EBEC",
+          "$type": "color"
         },
         "tint60": {
-          "$value": "#F0FAFA"
+          "$value": "#F0FAFA",
+          "$type": "color"
         }
       },
       "cyan": {
         "$description": "Fluent cyan (info)",
         "shade50": {
-          "$value": "#00181E"
+          "$value": "#00181E",
+          "$type": "color"
         },
         "shade40": {
-          "$value": "#002E38"
+          "$value": "#002E38",
+          "$type": "color"
         },
         "shade30": {
-          "$value": "#005669"
+          "$value": "#005669",
+          "$type": "color"
         },
         "shade20": {
-          "$value": "#00748F"
+          "$value": "#00748F",
+          "$type": "color"
         },
         "shade10": {
-          "$value": "#008AA9"
+          "$value": "#008AA9",
+          "$type": "color"
         },
         "primary": {
-          "$value": "#0099BC"
+          "$value": "#0099BC",
+          "$type": "color"
         },
         "tint10": {
-          "$value": "#18A4C4"
+          "$value": "#18A4C4",
+          "$type": "color"
         },
         "tint20": {
-          "$value": "#31AFCC"
+          "$value": "#31AFCC",
+          "$type": "color"
         },
         "tint30": {
-          "$value": "#56BFD7"
+          "$value": "#56BFD7",
+          "$type": "color"
         },
         "tint40": {
-          "$value": "#A4DEEB"
+          "$value": "#A4DEEB",
+          "$type": "color"
         },
         "tint50": {
-          "$value": "#CDEDF4"
+          "$value": "#CDEDF4",
+          "$type": "color"
         },
         "tint60": {
-          "$value": "#F2FAFC"
+          "$value": "#F2FAFC",
+          "$type": "color"
         }
       },
       "blue": {
         "$description": "Fluent blue (primary)",
         "shade50": {
-          "$value": "#001322"
+          "$value": "#001322",
+          "$type": "color"
         },
         "shade40": {
-          "$value": "#002440"
+          "$value": "#002440",
+          "$type": "color"
         },
         "shade30": {
-          "$value": "#004377"
+          "$value": "#004377",
+          "$type": "color"
         },
         "shade20": {
-          "$value": "#005BA1"
+          "$value": "#005BA1",
+          "$type": "color"
         },
         "shade10": {
-          "$value": "#006CBF"
+          "$value": "#006CBF",
+          "$type": "color"
         },
         "primary": {
-          "$value": "#0078D4"
+          "$value": "#0078D4",
+          "$type": "color"
         },
         "tint10": {
-          "$value": "#1A86D9"
+          "$value": "#1A86D9",
+          "$type": "color"
         },
         "tint20": {
-          "$value": "#3595DE"
+          "$value": "#3595DE",
+          "$type": "color"
         },
         "tint30": {
-          "$value": "#5CAAE5"
+          "$value": "#5CAAE5",
+          "$type": "color"
         },
         "tint40": {
-          "$value": "#A9D3F2"
+          "$value": "#A9D3F2",
+          "$type": "color"
         },
         "tint50": {
-          "$value": "#D0E7F8"
+          "$value": "#D0E7F8",
+          "$type": "color"
         },
         "tint60": {
-          "$value": "#F3F9FD"
+          "$value": "#F3F9FD",
+          "$type": "color"
         }
       },
       "royalBlue": {
         "$description": "Fluent royal blue",
         "shade50": {
-          "$value": "#000C16"
+          "$value": "#000C16",
+          "$type": "color"
         },
         "shade40": {
-          "$value": "#00172A"
+          "$value": "#00172A",
+          "$type": "color"
         },
         "shade30": {
-          "$value": "#002C4E"
+          "$value": "#002C4E",
+          "$type": "color"
         },
         "shade20": {
-          "$value": "#003B6A"
+          "$value": "#003B6A",
+          "$type": "color"
         },
         "shade10": {
-          "$value": "#00467E"
+          "$value": "#00467E",
+          "$type": "color"
         },
         "primary": {
-          "$value": "#004E8C"
+          "$value": "#004E8C",
+          "$type": "color"
         },
         "tint10": {
-          "$value": "#125E9A"
+          "$value": "#125E9A",
+          "$type": "color"
         },
         "tint20": {
-          "$value": "#286FA8"
+          "$value": "#286FA8",
+          "$type": "color"
         },
         "tint30": {
-          "$value": "#4A89BA"
+          "$value": "#4A89BA",
+          "$type": "color"
         },
         "tint40": {
-          "$value": "#9ABFDC"
+          "$value": "#9ABFDC",
+          "$type": "color"
         },
         "tint50": {
-          "$value": "#C7DCED"
+          "$value": "#C7DCED",
+          "$type": "color"
         },
         "tint60": {
-          "$value": "#F0F6FA"
+          "$value": "#F0F6FA",
+          "$type": "color"
         }
       },
       "cornflower": {
         "$description": "Fluent cornflower",
         "shade50": {
-          "$value": "#0D1126"
+          "$value": "#0D1126",
+          "$type": "color"
         },
         "shade40": {
-          "$value": "#182047"
+          "$value": "#182047",
+          "$type": "color"
         },
         "shade30": {
-          "$value": "#2C3C85"
+          "$value": "#2C3C85",
+          "$type": "color"
         },
         "shade20": {
-          "$value": "#3C51B4"
+          "$value": "#3C51B4",
+          "$type": "color"
         },
         "shade10": {
-          "$value": "#4760D5"
+          "$value": "#4760D5",
+          "$type": "color"
         },
         "primary": {
-          "$value": "#4F6BED"
+          "$value": "#4F6BED",
+          "$type": "color"
         },
         "tint10": {
-          "$value": "#637CEF"
+          "$value": "#637CEF",
+          "$type": "color"
         },
         "tint20": {
-          "$value": "#778DF1"
+          "$value": "#778DF1",
+          "$type": "color"
         },
         "tint30": {
-          "$value": "#93A4F4"
+          "$value": "#93A4F4",
+          "$type": "color"
         },
         "tint40": {
-          "$value": "#C8D1FA"
+          "$value": "#C8D1FA",
+          "$type": "color"
         },
         "tint50": {
-          "$value": "#E1E6FC"
+          "$value": "#E1E6FC",
+          "$type": "color"
         },
         "tint60": {
-          "$value": "#F7F9FE"
+          "$value": "#F7F9FE",
+          "$type": "color"
         }
       },
       "navy": {
         "$description": "Fluent navy",
         "shade50": {
-          "$value": "#00061D"
+          "$value": "#00061D",
+          "$type": "color"
         },
         "shade40": {
-          "$value": "#000C36"
+          "$value": "#000C36",
+          "$type": "color"
         },
         "shade30": {
-          "$value": "#001665"
+          "$value": "#001665",
+          "$type": "color"
         },
         "shade20": {
-          "$value": "#001E89"
+          "$value": "#001E89",
+          "$type": "color"
         },
         "shade10": {
-          "$value": "#0023A2"
+          "$value": "#0023A2",
+          "$type": "color"
         },
         "primary": {
-          "$value": "#0027B4"
+          "$value": "#0027B4",
+          "$type": "color"
         },
         "tint10": {
-          "$value": "#173BBD"
+          "$value": "#173BBD",
+          "$type": "color"
         },
         "tint20": {
-          "$value": "#3050C6"
+          "$value": "#3050C6",
+          "$type": "color"
         },
         "tint30": {
-          "$value": "#546FD2"
+          "$value": "#546FD2",
+          "$type": "color"
         },
         "tint40": {
-          "$value": "#A3B2E8"
+          "$value": "#A3B2E8",
+          "$type": "color"
         },
         "tint50": {
-          "$value": "#CCD5F3"
+          "$value": "#CCD5F3",
+          "$type": "color"
         },
         "tint60": {
-          "$value": "#F2F4FC"
+          "$value": "#F2F4FC",
+          "$type": "color"
         }
       },
       "lavender": {
         "$description": "Fluent lavender",
         "shade50": {
-          "$value": "#120F25"
+          "$value": "#120F25",
+          "$type": "color"
         },
         "shade40": {
-          "$value": "#221D46"
+          "$value": "#221D46",
+          "$type": "color"
         },
         "shade30": {
-          "$value": "#3F3682"
+          "$value": "#3F3682",
+          "$type": "color"
         },
         "shade20": {
-          "$value": "#5649B0"
+          "$value": "#5649B0",
+          "$type": "color"
         },
         "shade10": {
-          "$value": "#6656D1"
+          "$value": "#6656D1",
+          "$type": "color"
         },
         "primary": {
-          "$value": "#7160E8"
+          "$value": "#7160E8",
+          "$type": "color"
         },
         "tint10": {
-          "$value": "#8172EB"
+          "$value": "#8172EB",
+          "$type": "color"
         },
         "tint20": {
-          "$value": "#9184EE"
+          "$value": "#9184EE",
+          "$type": "color"
         },
         "tint30": {
-          "$value": "#A79CF1"
+          "$value": "#A79CF1",
+          "$type": "color"
         },
         "tint40": {
-          "$value": "#D2CCF8"
+          "$value": "#D2CCF8",
+          "$type": "color"
         },
         "tint50": {
-          "$value": "#E7E4FB"
+          "$value": "#E7E4FB",
+          "$type": "color"
         },
         "tint60": {
-          "$value": "#F9F8FE"
+          "$value": "#F9F8FE",
+          "$type": "color"
         }
       },
       "purple": {
         "$description": "Fluent purple",
         "shade50": {
-          "$value": "#0F0717"
+          "$value": "#0F0717",
+          "$type": "color"
         },
         "shade40": {
-          "$value": "#1C0E2B"
+          "$value": "#1C0E2B",
+          "$type": "color"
         },
         "shade30": {
-          "$value": "#341A51"
+          "$value": "#341A51",
+          "$type": "color"
         },
         "shade20": {
-          "$value": "#46236E"
+          "$value": "#46236E",
+          "$type": "color"
         },
         "shade10": {
-          "$value": "#532982"
+          "$value": "#532982",
+          "$type": "color"
         },
         "primary": {
-          "$value": "#5C2E91"
+          "$value": "#5C2E91",
+          "$type": "color"
         },
         "tint10": {
-          "$value": "#6B3F9E"
+          "$value": "#6B3F9E",
+          "$type": "color"
         },
         "tint20": {
-          "$value": "#7C52AB"
+          "$value": "#7C52AB",
+          "$type": "color"
         },
         "tint30": {
-          "$value": "#9470BD"
+          "$value": "#9470BD",
+          "$type": "color"
         },
         "tint40": {
-          "$value": "#C6B1DE"
+          "$value": "#C6B1DE",
+          "$type": "color"
         },
         "tint50": {
-          "$value": "#E0D3ED"
+          "$value": "#E0D3ED",
+          "$type": "color"
         },
         "tint60": {
-          "$value": "#F7F4FB"
+          "$value": "#F7F4FB",
+          "$type": "color"
         }
       },
       "berry": {
         "$description": "Fluent berry",
         "shade50": {
-          "$value": "#1F091D"
+          "$value": "#1F091D",
+          "$type": "color"
         },
         "shade40": {
-          "$value": "#3A1136"
+          "$value": "#3A1136",
+          "$type": "color"
         },
         "shade30": {
-          "$value": "#6D2064"
+          "$value": "#6D2064",
+          "$type": "color"
         },
         "shade20": {
-          "$value": "#932B88"
+          "$value": "#932B88",
+          "$type": "color"
         },
         "shade10": {
-          "$value": "#AF33A1"
+          "$value": "#AF33A1",
+          "$type": "color"
         },
         "primary": {
-          "$value": "#C239B3"
+          "$value": "#C239B3",
+          "$type": "color"
         },
         "tint10": {
-          "$value": "#C94CBC"
+          "$value": "#C94CBC",
+          "$type": "color"
         },
         "tint20": {
-          "$value": "#D161C4"
+          "$value": "#D161C4",
+          "$type": "color"
         },
         "tint30": {
-          "$value": "#DA7ED0"
+          "$value": "#DA7ED0",
+          "$type": "color"
         },
         "tint40": {
-          "$value": "#EDBBE7"
+          "$value": "#EDBBE7",
+          "$type": "color"
         },
         "tint50": {
-          "$value": "#F5DAF2"
+          "$value": "#F5DAF2",
+          "$type": "color"
         },
         "tint60": {
-          "$value": "#FDF5FC"
+          "$value": "#FDF5FC",
+          "$type": "color"
         }
       },
       "pink": {
         "$description": "Fluent pink",
         "shade50": {
-          "$value": "#24091B"
+          "$value": "#24091B",
+          "$type": "color"
         },
         "shade40": {
-          "$value": "#441232"
+          "$value": "#441232",
+          "$type": "color"
         },
         "shade30": {
-          "$value": "#80215D"
+          "$value": "#80215D",
+          "$type": "color"
         },
         "shade20": {
-          "$value": "#AD2D7E"
+          "$value": "#AD2D7E",
+          "$type": "color"
         },
         "shade10": {
-          "$value": "#CD3595"
+          "$value": "#CD3595",
+          "$type": "color"
         },
         "primary": {
-          "$value": "#E43BA6"
+          "$value": "#E43BA6",
+          "$type": "color"
         },
         "tint10": {
-          "$value": "#E750B0"
+          "$value": "#E750B0",
+          "$type": "color"
         },
         "tint20": {
-          "$value": "#EA66BA"
+          "$value": "#EA66BA",
+          "$type": "color"
         },
         "tint30": {
-          "$value": "#EF85C8"
+          "$value": "#EF85C8",
+          "$type": "color"
         },
         "tint40": {
-          "$value": "#F7C0E3"
+          "$value": "#F7C0E3",
+          "$type": "color"
         },
         "tint50": {
-          "$value": "#FBDDF0"
+          "$value": "#FBDDF0",
+          "$type": "color"
         },
         "tint60": {
-          "$value": "#FEF6FB"
+          "$value": "#FEF6FB",
+          "$type": "color"
         }
       },
       "magenta": {
         "$description": "Fluent magenta",
         "shade50": {
-          "$value": "#1F0013"
+          "$value": "#1F0013",
+          "$type": "color"
         },
         "shade40": {
-          "$value": "#390024"
+          "$value": "#390024",
+          "$type": "color"
         },
         "shade30": {
-          "$value": "#6B0043"
+          "$value": "#6B0043",
+          "$type": "color"
         },
         "shade20": {
-          "$value": "#91005A"
+          "$value": "#91005A",
+          "$type": "color"
         },
         "shade10": {
-          "$value": "#AC006B"
+          "$value": "#AC006B",
+          "$type": "color"
         },
         "primary": {
-          "$value": "#BF0077"
+          "$value": "#BF0077",
+          "$type": "color"
         },
         "tint10": {
-          "$value": "#C71885"
+          "$value": "#C71885",
+          "$type": "color"
         },
         "tint20": {
-          "$value": "#CE3293"
+          "$value": "#CE3293",
+          "$type": "color"
         },
         "tint30": {
-          "$value": "#D957A8"
+          "$value": "#D957A8",
+          "$type": "color"
         },
         "tint40": {
-          "$value": "#ECA5D1"
+          "$value": "#ECA5D1",
+          "$type": "color"
         },
         "tint50": {
-          "$value": "#F5CEE6"
+          "$value": "#F5CEE6",
+          "$type": "color"
         },
         "tint60": {
-          "$value": "#FCF2F9"
+          "$value": "#FCF2F9",
+          "$type": "color"
         }
       },
       "brandWeb": {
         "10": {
-          "$value": "#061724"
+          "$value": "#061724",
+          "$type": "color"
         },
         "20": {
-          "$value": "#082338"
+          "$value": "#082338",
+          "$type": "color"
         },
         "30": {
-          "$value": "#0A2E4A"
+          "$value": "#0A2E4A",
+          "$type": "color"
         },
         "40": {
-          "$value": "#0C3B5E"
+          "$value": "#0C3B5E",
+          "$type": "color"
         },
         "50": {
-          "$value": "#0E4775"
+          "$value": "#0E4775",
+          "$type": "color"
         },
         "60": {
-          "$value": "#0F548C"
+          "$value": "#0F548C",
+          "$type": "color"
         },
         "70": {
-          "$value": "#115EA3"
+          "$value": "#115EA3",
+          "$type": "color"
         },
         "80": {
-          "$value": "#0F6CBD"
+          "$value": "#0F6CBD",
+          "$type": "color"
         },
         "90": {
-          "$value": "#2886DE"
+          "$value": "#2886DE",
+          "$type": "color"
         },
         "100": {
-          "$value": "#479EF5"
+          "$value": "#479EF5",
+          "$type": "color"
         },
         "110": {
-          "$value": "#62ABF5"
+          "$value": "#62ABF5",
+          "$type": "color"
         },
         "120": {
-          "$value": "#77B7F7"
+          "$value": "#77B7F7",
+          "$type": "color"
         },
         "130": {
-          "$value": "#96C6FA"
+          "$value": "#96C6FA",
+          "$type": "color"
         },
         "140": {
-          "$value": "#B4D6FA"
+          "$value": "#B4D6FA",
+          "$type": "color"
         },
         "150": {
-          "$value": "#CFE4FA"
+          "$value": "#CFE4FA",
+          "$type": "color"
         },
         "160": {
-          "$value": "#EBF3FC"
+          "$value": "#EBF3FC",
+          "$type": "color"
         },
         "$description": "Fluent brand ramp (default Microsoft blue)"
       }

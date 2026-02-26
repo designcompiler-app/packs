@@ -17,64 +17,84 @@
   "data": {
     "base": {
       "1": {
-        "$value": "8px"
+        "$value": "8px",
+        "$type": "dimension"
       },
       "2": {
-        "$value": "16px"
+        "$value": "16px",
+        "$type": "dimension"
       },
       "3": {
-        "$value": "24px"
+        "$value": "24px",
+        "$type": "dimension"
       },
       "4": {
-        "$value": "32px"
+        "$value": "32px",
+        "$type": "dimension"
       },
       "5": {
-        "$value": "40px"
+        "$value": "40px",
+        "$type": "dimension"
       },
       "6": {
-        "$value": "48px"
+        "$value": "48px",
+        "$type": "dimension"
       },
       "7": {
-        "$value": "56px"
+        "$value": "56px",
+        "$type": "dimension"
       },
       "8": {
-        "$value": "64px"
+        "$value": "64px",
+        "$type": "dimension"
       },
       "9": {
-        "$value": "72px"
+        "$value": "72px",
+        "$type": "dimension"
       },
       "10": {
-        "$value": "80px"
+        "$value": "80px",
+        "$type": "dimension"
       },
       "11": {
-        "$value": "88px"
+        "$value": "88px",
+        "$type": "dimension"
       },
       "12": {
-        "$value": "96px"
+        "$value": "96px",
+        "$type": "dimension"
       },
       "13": {
-        "$value": "104px"
+        "$value": "104px",
+        "$type": "dimension"
       },
       "14": {
-        "$value": "112px"
+        "$value": "112px",
+        "$type": "dimension"
       },
       "15": {
-        "$value": "120px"
+        "$value": "120px",
+        "$type": "dimension"
       },
       "16": {
-        "$value": "128px"
+        "$value": "128px",
+        "$type": "dimension"
       },
       "17": {
-        "$value": "136px"
+        "$value": "136px",
+        "$type": "dimension"
       },
       "18": {
-        "$value": "144px"
+        "$value": "144px",
+        "$type": "dimension"
       },
       "19": {
-        "$value": "152px"
+        "$value": "152px",
+        "$type": "dimension"
       },
       "20": {
-        "$value": "160px"
+        "$value": "160px",
+        "$type": "dimension"
       },
       "$type": "dimension",
       "$description": "Base 8-point grid — multiples of 8px from 1x to 20x"
@@ -83,42 +103,52 @@
       "$type": "dimension",
       "$description": "Half-grid steps for fine spacing adjustments",
       "step0_5": {
-        "$value": "4px"
+        "$value": "4px",
+        "$type": "dimension"
       },
       "step1_5": {
-        "$value": "12px"
+        "$value": "12px",
+        "$type": "dimension"
       },
       "step2_5": {
-        "$value": "20px"
+        "$value": "20px",
+        "$type": "dimension"
       }
     },
     "component": {
       "$type": "dimension",
       "$description": "Predefined component spacing presets",
       "compact": {
-        "$value": "4px"
+        "$value": "4px",
+        "$type": "dimension"
       },
       "default": {
-        "$value": "8px"
+        "$value": "8px",
+        "$type": "dimension"
       },
       "comfortable": {
-        "$value": "12px"
+        "$value": "12px",
+        "$type": "dimension"
       },
       "spacious": {
-        "$value": "16px"
+        "$value": "16px",
+        "$type": "dimension"
       }
     },
     "layout": {
       "$type": "dimension",
       "$description": "Layout section spacing for page-level structure",
       "sectionSmall": {
-        "$value": "24px"
+        "$value": "24px",
+        "$type": "dimension"
       },
       "sectionMedium": {
-        "$value": "48px"
+        "$value": "48px",
+        "$type": "dimension"
       },
       "sectionLarge": {
-        "$value": "96px"
+        "$value": "96px",
+        "$type": "dimension"
       }
     }
   }

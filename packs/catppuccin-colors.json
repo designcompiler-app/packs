@@ -29,325 +29,429 @@
       "latte": {
         "$description": "Catppuccin Latte — the lightest flavor, a warm light theme",
         "rosewater": {
-          "$value": "#dc8a78"
+          "$value": "#dc8a78",
+          "$type": "color"
         },
         "flamingo": {
-          "$value": "#dd7878"
+          "$value": "#dd7878",
+          "$type": "color"
         },
         "pink": {
-          "$value": "#ea76cb"
+          "$value": "#ea76cb",
+          "$type": "color"
         },
         "mauve": {
-          "$value": "#8839ef"
+          "$value": "#8839ef",
+          "$type": "color"
         },
         "red": {
-          "$value": "#d20f39"
+          "$value": "#d20f39",
+          "$type": "color"
         },
         "maroon": {
-          "$value": "#e64553"
+          "$value": "#e64553",
+          "$type": "color"
         },
         "peach": {
-          "$value": "#fe640b"
+          "$value": "#fe640b",
+          "$type": "color"
         },
         "yellow": {
-          "$value": "#df8e1d"
+          "$value": "#df8e1d",
+          "$type": "color"
         },
         "green": {
-          "$value": "#40a02b"
+          "$value": "#40a02b",
+          "$type": "color"
         },
         "teal": {
-          "$value": "#179299"
+          "$value": "#179299",
+          "$type": "color"
         },
         "sky": {
-          "$value": "#04a5e5"
+          "$value": "#04a5e5",
+          "$type": "color"
         },
         "sapphire": {
-          "$value": "#209fb5"
+          "$value": "#209fb5",
+          "$type": "color"
         },
         "blue": {
-          "$value": "#1e66f5"
+          "$value": "#1e66f5",
+          "$type": "color"
         },
         "lavender": {
-          "$value": "#7287fd"
+          "$value": "#7287fd",
+          "$type": "color"
         },
         "text": {
-          "$value": "#4c4f69"
+          "$value": "#4c4f69",
+          "$type": "color"
         },
         "subtext1": {
-          "$value": "#5c5f77"
+          "$value": "#5c5f77",
+          "$type": "color"
         },
         "subtext0": {
-          "$value": "#6c6f85"
+          "$value": "#6c6f85",
+          "$type": "color"
         },
         "overlay2": {
-          "$value": "#7c7f93"
+          "$value": "#7c7f93",
+          "$type": "color"
         },
         "overlay1": {
-          "$value": "#8c8fa1"
+          "$value": "#8c8fa1",
+          "$type": "color"
         },
         "overlay0": {
-          "$value": "#9ca0b0"
+          "$value": "#9ca0b0",
+          "$type": "color"
         },
         "surface2": {
-          "$value": "#acb0be"
+          "$value": "#acb0be",
+          "$type": "color"
         },
         "surface1": {
-          "$value": "#bcc0cc"
+          "$value": "#bcc0cc",
+          "$type": "color"
         },
         "surface0": {
-          "$value": "#ccd0da"
+          "$value": "#ccd0da",
+          "$type": "color"
         },
         "base": {
-          "$value": "#eff1f5"
+          "$value": "#eff1f5",
+          "$type": "color"
         },
         "mantle": {
-          "$value": "#e6e9ef"
+          "$value": "#e6e9ef",
+          "$type": "color"
         },
         "crust": {
-          "$value": "#dce0e8"
+          "$value": "#dce0e8",
+          "$type": "color"
         }
       },
       "frappe": {
         "$description": "Catppuccin Frappé — a mid-tone dark flavor",
         "rosewater": {
-          "$value": "#f2d5cf"
+          "$value": "#f2d5cf",
+          "$type": "color"
         },
         "flamingo": {
-          "$value": "#eebebe"
+          "$value": "#eebebe",
+          "$type": "color"
         },
         "pink": {
-          "$value": "#f4b8e4"
+          "$value": "#f4b8e4",
+          "$type": "color"
         },
         "mauve": {
-          "$value": "#ca9ee6"
+          "$value": "#ca9ee6",
+          "$type": "color"
         },
         "red": {
-          "$value": "#e78284"
+          "$value": "#e78284",
+          "$type": "color"
         },
         "maroon": {
-          "$value": "#ea999c"
+          "$value": "#ea999c",
+          "$type": "color"
         },
         "peach": {
-          "$value": "#ef9f76"
+          "$value": "#ef9f76",
+          "$type": "color"
         },
         "yellow": {
-          "$value": "#e5c890"
+          "$value": "#e5c890",
+          "$type": "color"
         },
         "green": {
-          "$value": "#a6d189"
+          "$value": "#a6d189",
+          "$type": "color"
         },
         "teal": {
-          "$value": "#81c8be"
+          "$value": "#81c8be",
+          "$type": "color"
         },
         "sky": {
-          "$value": "#99d1db"
+          "$value": "#99d1db",
+          "$type": "color"
         },
         "sapphire": {
-          "$value": "#85c1dc"
+          "$value": "#85c1dc",
+          "$type": "color"
         },
         "blue": {
-          "$value": "#8caaee"
+          "$value": "#8caaee",
+          "$type": "color"
         },
         "lavender": {
-          "$value": "#babbf1"
+          "$value": "#babbf1",
+          "$type": "color"
         },
         "text": {
-          "$value": "#c6d0f5"
+          "$value": "#c6d0f5",
+          "$type": "color"
         },
         "subtext1": {
-          "$value": "#b5bfe2"
+          "$value": "#b5bfe2",
+          "$type": "color"
         },
         "subtext0": {
-          "$value": "#a5adce"
+          "$value": "#a5adce",
+          "$type": "color"
         },
         "overlay2": {
-          "$value": "#949cbb"
+          "$value": "#949cbb",
+          "$type": "color"
         },
         "overlay1": {
-          "$value": "#838ba7"
+          "$value": "#838ba7",
+          "$type": "color"
         },
         "overlay0": {
-          "$value": "#737994"
+          "$value": "#737994",
+          "$type": "color"
         },
         "surface2": {
-          "$value": "#626880"
+          "$value": "#626880",
+          "$type": "color"
         },
         "surface1": {
-          "$value": "#51576d"
+          "$value": "#51576d",
+          "$type": "color"
         },
         "surface0": {
-          "$value": "#414559"
+          "$value": "#414559",
+          "$type": "color"
         },
         "base": {
-          "$value": "#303446"
+          "$value": "#303446",
+          "$type": "color"
         },
         "mantle": {
-          "$value": "#292c3c"
+          "$value": "#292c3c",
+          "$type": "color"
         },
         "crust": {
-          "$value": "#232634"
+          "$value": "#232634",
+          "$type": "color"
         }
       },
       "macchiato": {
         "$description": "Catppuccin Macchiato — a deeper dark flavor",
         "rosewater": {
-          "$value": "#f4dbd6"
+          "$value": "#f4dbd6",
+          "$type": "color"
         },
         "flamingo": {
-          "$value": "#f0c6c6"
+          "$value": "#f0c6c6",
+          "$type": "color"
         },
         "pink": {
-          "$value": "#f5bde6"
+          "$value": "#f5bde6",
+          "$type": "color"
         },
         "mauve": {
-          "$value": "#c6a0f6"
+          "$value": "#c6a0f6",
+          "$type": "color"
         },
         "red": {
-          "$value": "#ed8796"
+          "$value": "#ed8796",
+          "$type": "color"
         },
         "maroon": {
-          "$value": "#ee99a0"
+          "$value": "#ee99a0",
+          "$type": "color"
         },
         "peach": {
-          "$value": "#f5a97f"
+          "$value": "#f5a97f",
+          "$type": "color"
         },
         "yellow": {
-          "$value": "#eed49f"
+          "$value": "#eed49f",
+          "$type": "color"
         },
         "green": {
-          "$value": "#a6da95"
+          "$value": "#a6da95",
+          "$type": "color"
         },
         "teal": {
-          "$value": "#8bd5ca"
+          "$value": "#8bd5ca",
+          "$type": "color"
         },
         "sky": {
-          "$value": "#91d7e3"
+          "$value": "#91d7e3",
+          "$type": "color"
         },
         "sapphire": {
-          "$value": "#7dc4e4"
+          "$value": "#7dc4e4",
+          "$type": "color"
         },
         "blue": {
-          "$value": "#8aadf4"
+          "$value": "#8aadf4",
+          "$type": "color"
         },
         "lavender": {
-          "$value": "#b7bdf8"
+          "$value": "#b7bdf8",
+          "$type": "color"
         },
         "text": {
-          "$value": "#cad3f5"
+          "$value": "#cad3f5",
+          "$type": "color"
         },
         "subtext1": {
-          "$value": "#b8c0e0"
+          "$value": "#b8c0e0",
+          "$type": "color"
         },
         "subtext0": {
-          "$value": "#a5adcb"
+          "$value": "#a5adcb",
+          "$type": "color"
         },
         "overlay2": {
-          "$value": "#939ab7"
+          "$value": "#939ab7",
+          "$type": "color"
         },
         "overlay1": {
-          "$value": "#8087a2"
+          "$value": "#8087a2",
+          "$type": "color"
         },
         "overlay0": {
-          "$value": "#6e738d"
+          "$value": "#6e738d",
+          "$type": "color"
         },
         "surface2": {
-          "$value": "#5b6078"
+          "$value": "#5b6078",
+          "$type": "color"
         },
         "surface1": {
-          "$value": "#494d64"
+          "$value": "#494d64",
+          "$type": "color"
         },
         "surface0": {
-          "$value": "#363a4f"
+          "$value": "#363a4f",
+          "$type": "color"
         },
         "base": {
-          "$value": "#24273a"
+          "$value": "#24273a",
+          "$type": "color"
         },
         "mantle": {
-          "$value": "#1e2030"
+          "$value": "#1e2030",
+          "$type": "color"
         },
         "crust": {
-          "$value": "#181926"
+          "$value": "#181926",
+          "$type": "color"
         }
       },
       "mocha": {
         "$description": "Catppuccin Mocha — the darkest flavor, rich and warm",
         "rosewater": {
-          "$value": "#f5e0dc"
+          "$value": "#f5e0dc",
+          "$type": "color"
         },
         "flamingo": {
-          "$value": "#f2cdcd"
+          "$value": "#f2cdcd",
+          "$type": "color"
         },
         "pink": {
-          "$value": "#f5c2e7"
+          "$value": "#f5c2e7",
+          "$type": "color"
         },
         "mauve": {
-          "$value": "#cba6f7"
+          "$value": "#cba6f7",
+          "$type": "color"
         },
         "red": {
-          "$value": "#f38ba8"
+          "$value": "#f38ba8",
+          "$type": "color"
         },
         "maroon": {
-          "$value": "#eba0ac"
+          "$value": "#eba0ac",
+          "$type": "color"
         },
         "peach": {
-          "$value": "#fab387"
+          "$value": "#fab387",
+          "$type": "color"
         },
         "yellow": {
-          "$value": "#f9e2af"
+          "$value": "#f9e2af",
+          "$type": "color"
         },
         "green": {
-          "$value": "#a6e3a1"
+          "$value": "#a6e3a1",
+          "$type": "color"
         },
         "teal": {
-          "$value": "#94e2d5"
+          "$value": "#94e2d5",
+          "$type": "color"
         },
         "sky": {
-          "$value": "#89dceb"
+          "$value": "#89dceb",
+          "$type": "color"
         },
         "sapphire": {
-          "$value": "#74c7ec"
+          "$value": "#74c7ec",
+          "$type": "color"
         },
         "blue": {
-          "$value": "#89b4fa"
+          "$value": "#89b4fa",
+          "$type": "color"
         },
         "lavender": {
-          "$value": "#b4befe"
+          "$value": "#b4befe",
+          "$type": "color"
         },
         "text": {
-          "$value": "#cdd6f4"
+          "$value": "#cdd6f4",
+          "$type": "color"
         },
         "subtext1": {
-          "$value": "#bac2de"
+          "$value": "#bac2de",
+          "$type": "color"
         },
         "subtext0": {
-          "$value": "#a6adc8"
+          "$value": "#a6adc8",
+          "$type": "color"
         },
         "overlay2": {
-          "$value": "#9399b2"
+          "$value": "#9399b2",
+          "$type": "color"
         },
         "overlay1": {
-          "$value": "#7f849c"
+          "$value": "#7f849c",
+          "$type": "color"
         },
         "overlay0": {
-          "$value": "#6c7086"
+          "$value": "#6c7086",
+          "$type": "color"
         },
         "surface2": {
-          "$value": "#585b70"
+          "$value": "#585b70",
+          "$type": "color"
         },
         "surface1": {
-          "$value": "#45475a"
+          "$value": "#45475a",
+          "$type": "color"
         },
         "surface0": {
-          "$value": "#313244"
+          "$value": "#313244",
+          "$type": "color"
         },
         "base": {
-          "$value": "#1e1e2e"
+          "$value": "#1e1e2e",
+          "$type": "color"
         },
         "mantle": {
-          "$value": "#181825"
+          "$value": "#181825",
+          "$type": "color"
         },
         "crust": {
-          "$value": "#11111b"
+          "$value": "#11111b",
+          "$type": "color"
         }
       }
     }

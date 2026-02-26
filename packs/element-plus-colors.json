@@ -29,130 +29,167 @@
       "primary": {
         "$description": "Element Plus primary blue scale — base with light and dark variants",
         "base": {
-          "$value": "#409eff"
+          "$value": "#409eff",
+          "$type": "color"
         },
         "light3": {
-          "$value": "#79bbff"
+          "$value": "#79bbff",
+          "$type": "color"
         },
         "light5": {
-          "$value": "#a0cfff"
+          "$value": "#a0cfff",
+          "$type": "color"
         },
         "light7": {
-          "$value": "#c6e2ff"
+          "$value": "#c6e2ff",
+          "$type": "color"
         },
         "light8": {
-          "$value": "#d9ecff"
+          "$value": "#d9ecff",
+          "$type": "color"
         },
         "light9": {
-          "$value": "#ecf5ff"
+          "$value": "#ecf5ff",
+          "$type": "color"
         },
         "dark2": {
-          "$value": "#337ecc"
+          "$value": "#337ecc",
+          "$type": "color"
         }
       },
       "success": {
         "$description": "Element Plus success green scale — base with light and dark variants",
         "base": {
-          "$value": "#67c23a"
+          "$value": "#67c23a",
+          "$type": "color"
         },
         "light3": {
-          "$value": "#95d475"
+          "$value": "#95d475",
+          "$type": "color"
         },
         "light5": {
-          "$value": "#b3e19d"
+          "$value": "#b3e19d",
+          "$type": "color"
         },
         "light7": {
-          "$value": "#d1edc4"
+          "$value": "#d1edc4",
+          "$type": "color"
         },
         "light8": {
-          "$value": "#e1f3d8"
+          "$value": "#e1f3d8",
+          "$type": "color"
         },
         "light9": {
-          "$value": "#f0f9eb"
+          "$value": "#f0f9eb",
+          "$type": "color"
         },
         "dark2": {
-          "$value": "#529b2e"
+          "$value": "#529b2e",
+          "$type": "color"
         }
       },
       "warning": {
         "$description": "Element Plus warning orange scale — base with light and dark variants",
         "base": {
-          "$value": "#e6a23c"
+          "$value": "#e6a23c",
+          "$type": "color"
         },
         "light3": {
-          "$value": "#eebe77"
+          "$value": "#eebe77",
+          "$type": "color"
         },
         "light5": {
-          "$value": "#f3d19e"
+          "$value": "#f3d19e",
+          "$type": "color"
         },
         "light7": {
-          "$value": "#f8e3c5"
+          "$value": "#f8e3c5",
+          "$type": "color"
         },
         "light8": {
-          "$value": "#faecd8"
+          "$value": "#faecd8",
+          "$type": "color"
         },
         "light9": {
-          "$value": "#fdf6ec"
+          "$value": "#fdf6ec",
+          "$type": "color"
         },
         "dark2": {
-          "$value": "#b88230"
+          "$value": "#b88230",
+          "$type": "color"
         }
       },
       "danger": {
         "$description": "Element Plus danger red scale — base with light and dark variants",
         "base": {
-          "$value": "#f56c6c"
+          "$value": "#f56c6c",
+          "$type": "color"
         },
         "light3": {
-          "$value": "#f89898"
+          "$value": "#f89898",
+          "$type": "color"
         },
         "light5": {
-          "$value": "#fab6b6"
+          "$value": "#fab6b6",
+          "$type": "color"
         },
         "light7": {
-          "$value": "#fcd3d3"
+          "$value": "#fcd3d3",
+          "$type": "color"
         },
         "light8": {
-          "$value": "#fde2e2"
+          "$value": "#fde2e2",
+          "$type": "color"
         },
         "light9": {
-          "$value": "#fef0f0"
+          "$value": "#fef0f0",
+          "$type": "color"
         },
         "dark2": {
-          "$value": "#c45656"
+          "$value": "#c45656",
+          "$type": "color"
         }
       },
       "info": {
         "$description": "Element Plus info gray scale — base with light and dark variants",
         "base": {
-          "$value": "#909399"
+          "$value": "#909399",
+          "$type": "color"
         },
         "light3": {
-          "$value": "#b1b3b8"
+          "$value": "#b1b3b8",
+          "$type": "color"
         },
         "light5": {
-          "$value": "#c8c9cc"
+          "$value": "#c8c9cc",
+          "$type": "color"
         },
         "light7": {
-          "$value": "#dedfe0"
+          "$value": "#dedfe0",
+          "$type": "color"
         },
         "light8": {
-          "$value": "#e9e9eb"
+          "$value": "#e9e9eb",
+          "$type": "color"
         },
         "light9": {
-          "$value": "#f4f4f5"
+          "$value": "#f4f4f5",
+          "$type": "color"
         },
         "dark2": {
-          "$value": "#73767a"
+          "$value": "#73767a",
+          "$type": "color"
         }
       },
       "base": {
         "$description": "Element Plus base black and white",
         "white": {
-          "$value": "#ffffff"
+          "$value": "#ffffff",
+          "$type": "color"
         },
         "black": {
-          "$value": "#000000"
+          "$value": "#000000",
+          "$type": "color"
         }
       }
     }

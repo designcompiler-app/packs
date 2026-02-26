@@ -29,43 +29,55 @@
       "ui": {
         "$description": "Monokai UI — background, foreground, and editor chrome colors",
         "background": {
-          "$value": "#272822"
+          "$value": "#272822",
+          "$type": "color"
         },
         "foreground": {
-          "$value": "#f8f8f2"
+          "$value": "#f8f8f2",
+          "$type": "color"
         },
         "comment": {
-          "$value": "#75715e"
+          "$value": "#75715e",
+          "$type": "color"
         },
         "selection": {
-          "$value": "#49483e"
+          "$value": "#49483e",
+          "$type": "color"
         },
         "line": {
-          "$value": "#3e3d32"
+          "$value": "#3e3d32",
+          "$type": "color"
         },
         "gutter": {
-          "$value": "#75715e"
+          "$value": "#75715e",
+          "$type": "color"
         }
       },
       "syntax": {
         "$description": "Monokai Syntax — vivid accent colors for code highlighting",
         "red": {
-          "$value": "#f92672"
+          "$value": "#f92672",
+          "$type": "color"
         },
         "orange": {
-          "$value": "#fd971f"
+          "$value": "#fd971f",
+          "$type": "color"
         },
         "yellow": {
-          "$value": "#e6db74"
+          "$value": "#e6db74",
+          "$type": "color"
         },
         "green": {
-          "$value": "#a6e22e"
+          "$value": "#a6e22e",
+          "$type": "color"
         },
         "blue": {
-          "$value": "#66d9ef"
+          "$value": "#66d9ef",
+          "$type": "color"
         },
         "purple": {
-          "$value": "#ae81ff"
+          "$value": "#ae81ff",
+          "$type": "color"
         }
       }
     }

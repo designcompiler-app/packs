@@ -26,7 +26,8 @@
           "spread": "0px",
           "color": "#00000000"
         },
-        "$description": "Flat — no elevation, inline with surface"
+        "$description": "Flat — no elevation, inline with surface",
+        "$type": "shadow"
       },
       "level1": {
         "$value": {
@@ -36,7 +37,8 @@
           "spread": "0px",
           "color": "#0000000f"
         },
-        "$description": "Raised — cards, tiles"
+        "$description": "Raised — cards, tiles",
+        "$type": "shadow"
       },
       "level2": {
         "$value": {
@@ -46,7 +48,8 @@
           "spread": "0px",
           "color": "#00000014"
         },
-        "$description": "Elevated — navigation bars, app bars"
+        "$description": "Elevated — navigation bars, app bars",
+        "$type": "shadow"
       },
       "level3": {
         "$value": {
@@ -56,7 +59,8 @@
           "spread": "-2px",
           "color": "#0000001a"
         },
-        "$description": "Floating — dropdowns, menus, popovers"
+        "$description": "Floating — dropdowns, menus, popovers",
+        "$type": "shadow"
       },
       "level4": {
         "$value": {
@@ -66,7 +70,8 @@
           "spread": "-4px",
           "color": "#00000020"
         },
-        "$description": "Overlay — modals, dialogs"
+        "$description": "Overlay — modals, dialogs",
+        "$type": "shadow"
       },
       "level5": {
         "$value": {
@@ -76,7 +81,8 @@
           "spread": "-8px",
           "color": "#0000002b"
         },
-        "$description": "Supreme — notifications, toasts, critical alerts"
+        "$description": "Supreme — notifications, toasts, critical alerts",
+        "$type": "shadow"
       }
     },
     "dark": {
@@ -90,7 +96,8 @@
           "spread": "0px",
           "color": "#00000000"
         },
-        "$description": "Flat — no elevation"
+        "$description": "Flat — no elevation",
+        "$type": "shadow"
       },
       "level1": {
         "$value": {
@@ -100,7 +107,8 @@
           "spread": "0px",
           "color": "#00000033"
         },
-        "$description": "Raised — cards, tiles"
+        "$description": "Raised — cards, tiles",
+        "$type": "shadow"
       },
       "level2": {
         "$value": {
@@ -110,7 +118,8 @@
           "spread": "0px",
           "color": "#0000003d"
         },
-        "$description": "Elevated — navigation bars"
+        "$description": "Elevated — navigation bars",
+        "$type": "shadow"
       },
       "level3": {
         "$value": {
@@ -120,7 +129,8 @@
           "spread": "-2px",
           "color": "#00000052"
         },
-        "$description": "Floating — dropdowns, popovers"
+        "$description": "Floating — dropdowns, popovers",
+        "$type": "shadow"
       },
       "level4": {
         "$value": {
@@ -130,7 +140,8 @@
           "spread": "-4px",
           "color": "#00000066"
         },
-        "$description": "Overlay — modals, dialogs"
+        "$description": "Overlay — modals, dialogs",
+        "$type": "shadow"
       },
       "level5": {
         "$value": {
@@ -140,7 +151,8 @@
           "spread": "-8px",
           "color": "#0000007a"
         },
-        "$description": "Supreme — critical overlays"
+        "$description": "Supreme — critical overlays",
+        "$type": "shadow"
       }
     }
   }

@@ -20,84 +20,108 @@
       "$type": "dimension",
       "$description": "Fluid font sizes using clamp() — min 320px, max 1240px viewport",
       "step-2": {
-        "$value": "clamp(0.6944rem, 0.6377rem + 0.2836vw, 0.84rem)"
+        "$value": "clamp(0.6944rem, 0.6377rem + 0.2836vw, 0.84rem)",
+        "$type": "string"
       },
       "step-1": {
-        "$value": "clamp(0.8333rem, 0.7488rem + 0.4227vw, 1.05rem)"
+        "$value": "clamp(0.8333rem, 0.7488rem + 0.4227vw, 1.05rem)",
+        "$type": "string"
       },
       "step0": {
-        "$value": "clamp(1rem, 0.8783rem + 0.6087vw, 1.3125rem)"
+        "$value": "clamp(1rem, 0.8783rem + 0.6087vw, 1.3125rem)",
+        "$type": "string"
       },
       "step1": {
-        "$value": "clamp(1.2rem, 1.0289rem + 0.8556vw, 1.6406rem)"
+        "$value": "clamp(1.2rem, 1.0289rem + 0.8556vw, 1.6406rem)",
+        "$type": "string"
       },
       "step2": {
-        "$value": "clamp(1.44rem, 1.2037rem + 1.1813vw, 2.0508rem)"
+        "$value": "clamp(1.44rem, 1.2037rem + 1.1813vw, 2.0508rem)",
+        "$type": "string"
       },
       "step3": {
-        "$value": "clamp(1.728rem, 1.4063rem + 1.6087vw, 2.5635rem)"
+        "$value": "clamp(1.728rem, 1.4063rem + 1.6087vw, 2.5635rem)",
+        "$type": "string"
       },
       "step4": {
-        "$value": "clamp(2.0736rem, 1.6413rem + 2.1614vw, 3.2043rem)"
+        "$value": "clamp(2.0736rem, 1.6413rem + 2.1614vw, 3.2043rem)",
+        "$type": "string"
       },
       "step5": {
-        "$value": "clamp(2.4883rem, 1.9134rem + 2.8745vw, 4.0054rem)"
+        "$value": "clamp(2.4883rem, 1.9134rem + 2.8745vw, 4.0054rem)",
+        "$type": "string"
       }
     },
     "lineHeight": {
       "$type": "number",
       "$description": "Recommended line heights for each fluid type step",
       "step-2": {
-        "$value": 1.65
+        "$value": 1.65,
+        "$type": "number"
       },
       "step-1": {
-        "$value": 1.6
+        "$value": 1.6,
+        "$type": "number"
       },
       "step0": {
-        "$value": 1.55
+        "$value": 1.55,
+        "$type": "number"
       },
       "step1": {
-        "$value": 1.5
+        "$value": 1.5,
+        "$type": "number"
       },
       "step2": {
-        "$value": 1.4
+        "$value": 1.4,
+        "$type": "number"
       },
       "step3": {
-        "$value": 1.35
+        "$value": 1.35,
+        "$type": "number"
       },
       "step4": {
-        "$value": 1.25
+        "$value": 1.25,
+        "$type": "number"
       },
       "step5": {
-        "$value": 1.2
+        "$value": 1.2,
+        "$type": "number"
       }
     },
     "fontWeight": {
       "$type": "number",
       "$description": "Recommended font weights for each fluid type step",
       "step-2": {
-        "$value": 400
+        "$value": 400,
+        "$type": "fontWeight"
       },
       "step-1": {
-        "$value": 400
+        "$value": 400,
+        "$type": "fontWeight"
       },
       "step0": {
-        "$value": 400
+        "$value": 400,
+        "$type": "fontWeight"
       },
       "step1": {
-        "$value": 400
+        "$value": 400,
+        "$type": "fontWeight"
       },
       "step2": {
-        "$value": 500
+        "$value": 500,
+        "$type": "fontWeight"
       },
       "step3": {
-        "$value": 600
+        "$value": 600,
+        "$type": "fontWeight"
       },
       "step4": {
-        "$value": 700
+        "$value": 700,
+        "$type": "fontWeight"
       },
       "step5": {
-        "$value": 700
+        "$value": 700,
+        "$type": "fontWeight"
       }
     }
   }

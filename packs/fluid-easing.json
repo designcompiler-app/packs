@@ -25,7 +25,8 @@
           1,
           1
         ],
-        "$description": "Constant speed, no easing"
+        "$description": "Constant speed, no easing",
+        "$type": "cubicBezier"
       },
       "ease": {
         "$value": [
@@ -34,7 +35,8 @@
           0.25,
           1
         ],
-        "$description": "CSS default — gentle start and end"
+        "$description": "CSS default — gentle start and end",
+        "$type": "cubicBezier"
       },
       "easeIn": {
         "$value": [
@@ -43,7 +45,8 @@
           1,
           1
         ],
-        "$description": "Slow start, fast end — exits"
+        "$description": "Slow start, fast end — exits",
+        "$type": "cubicBezier"
       },
       "easeOut": {
         "$value": [
@@ -52,7 +55,8 @@
           0.58,
           1
         ],
-        "$description": "Fast start, slow end — entrances"
+        "$description": "Fast start, slow end — entrances",
+        "$type": "cubicBezier"
       },
       "easeInOut": {
         "$value": [
@@ -61,7 +65,8 @@
           0.58,
           1
         ],
-        "$description": "Slow start and end — transitions"
+        "$description": "Slow start and end — transitions",
+        "$type": "cubicBezier"
       }
     },
     "expressive": {
@@ -74,7 +79,8 @@
           0.39,
           0
         ],
-        "$description": "Gentle acceleration"
+        "$description": "Gentle acceleration",
+        "$type": "cubicBezier"
       },
       "softOut": {
         "$value": [
@@ -83,7 +89,8 @@
           0.88,
           1
         ],
-        "$description": "Gentle deceleration"
+        "$description": "Gentle deceleration",
+        "$type": "cubicBezier"
       },
       "softInOut": {
         "$value": [
@@ -92,7 +99,8 @@
           0.63,
           1
         ],
-        "$description": "Soft symmetrical transition"
+        "$description": "Soft symmetrical transition",
+        "$type": "cubicBezier"
       },
       "sharpIn": {
         "$value": [
@@ -101,7 +109,8 @@
           1,
           0.45
         ],
-        "$description": "Snappy acceleration"
+        "$description": "Snappy acceleration",
+        "$type": "cubicBezier"
       },
       "sharpOut": {
         "$value": [
@@ -110,7 +119,8 @@
           0.45,
           1
         ],
-        "$description": "Snappy deceleration"
+        "$description": "Snappy deceleration",
+        "$type": "cubicBezier"
       },
       "sharpInOut": {
         "$value": [
@@ -119,7 +129,8 @@
           0.17,
           1
         ],
-        "$description": "Sharp symmetrical transition"
+        "$description": "Sharp symmetrical transition",
+        "$type": "cubicBezier"
       }
     },
     "spring": {
@@ -132,7 +143,8 @@
           0.64,
           1
         ],
-        "$description": "Subtle overshoot"
+        "$description": "Subtle overshoot",
+        "$type": "cubicBezier"
       },
       "bouncy": {
         "$value": [
@@ -141,7 +153,8 @@
           0.36,
           1
         ],
-        "$description": "Noticeable bounce"
+        "$description": "Noticeable bounce",
+        "$type": "cubicBezier"
       },
       "snappy": {
         "$value": [
@@ -150,7 +163,8 @@
           0.27,
           1.55
         ],
-        "$description": "Quick with anticipation and overshoot"
+        "$description": "Quick with anticipation and overshoot",
+        "$type": "cubicBezier"
       }
     },
     "entrance": {
@@ -163,7 +177,8 @@
           0.2,
           1
         ],
-        "$description": "Elements appearing on screen"
+        "$description": "Elements appearing on screen",
+        "$type": "cubicBezier"
       },
       "exit": {
         "$value": [
@@ -172,7 +187,8 @@
           1,
           1
         ],
-        "$description": "Elements leaving the screen"
+        "$description": "Elements leaving the screen",
+        "$type": "cubicBezier"
       }
     }
   }

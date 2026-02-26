@@ -30,181 +30,221 @@
         "$description": "Primary action and brand color with interactive states",
         "default": {
           "$value": "#60A5FA",
-          "$description": "Resting state"
+          "$description": "Resting state",
+          "$type": "color"
         },
         "hover": {
           "$value": "#93C5FD",
-          "$description": "Mouse hover"
+          "$description": "Mouse hover",
+          "$type": "color"
         },
         "pressed": {
           "$value": "#BFDBFE",
-          "$description": "Active/pressed"
+          "$description": "Active/pressed",
+          "$type": "color"
         },
         "disabled": {
           "$value": "#1E3A5F",
-          "$description": "Unavailable state"
+          "$description": "Unavailable state",
+          "$type": "color"
         },
         "focus": {
           "$value": "#60A5FA",
-          "$description": "Keyboard focus ring"
+          "$description": "Keyboard focus ring",
+          "$type": "color"
         },
         "onPrimary": {
           "$value": "#0F172A",
-          "$description": "Text/icon on primary"
+          "$description": "Text/icon on primary",
+          "$type": "color"
         }
       },
       "secondary": {
         "$description": "Secondary action color with interactive states",
         "default": {
           "$value": "#A78BFA",
-          "$description": "Resting state"
+          "$description": "Resting state",
+          "$type": "color"
         },
         "hover": {
           "$value": "#C4B5FD",
-          "$description": "Mouse hover"
+          "$description": "Mouse hover",
+          "$type": "color"
         },
         "pressed": {
           "$value": "#DDD6FE",
-          "$description": "Active/pressed"
+          "$description": "Active/pressed",
+          "$type": "color"
         },
         "disabled": {
           "$value": "#2E1065",
-          "$description": "Unavailable state"
+          "$description": "Unavailable state",
+          "$type": "color"
         },
         "onSecondary": {
           "$value": "#0F172A",
-          "$description": "Text/icon on secondary"
+          "$description": "Text/icon on secondary",
+          "$type": "color"
         }
       },
       "surface": {
         "$description": "Surface and background hierarchy",
         "background": {
           "$value": "#0F172A",
-          "$description": "Page background"
+          "$description": "Page background",
+          "$type": "color"
         },
         "raised": {
           "$value": "#1E293B",
-          "$description": "Cards, elevated panels"
+          "$description": "Cards, elevated panels",
+          "$type": "color"
         },
         "overlay": {
           "$value": "#1E293B",
-          "$description": "Dropdown, popover fill"
+          "$description": "Dropdown, popover fill",
+          "$type": "color"
         },
         "sunken": {
           "$value": "#020617",
-          "$description": "Recessed areas, inputs"
+          "$description": "Recessed areas, inputs",
+          "$type": "color"
         },
         "disabled": {
           "$value": "#1E293B",
-          "$description": "Disabled element background"
+          "$description": "Disabled element background",
+          "$type": "color"
         }
       },
       "text": {
         "$description": "Text color hierarchy",
         "primary": {
           "$value": "#F1F5F9",
-          "$description": "Headings, body copy"
+          "$description": "Headings, body copy",
+          "$type": "color"
         },
         "secondary": {
           "$value": "#94A3B8",
-          "$description": "Descriptions, labels"
+          "$description": "Descriptions, labels",
+          "$type": "color"
         },
         "tertiary": {
           "$value": "#64748B",
-          "$description": "Placeholders, captions"
+          "$description": "Placeholders, captions",
+          "$type": "color"
         },
         "disabled": {
           "$value": "#475569",
-          "$description": "Unavailable text"
+          "$description": "Unavailable text",
+          "$type": "color"
         },
         "inverse": {
           "$value": "#0F172A",
-          "$description": "Text on light backgrounds"
+          "$description": "Text on light backgrounds",
+          "$type": "color"
         },
         "link": {
           "$value": "#60A5FA",
-          "$description": "Hyperlink text"
+          "$description": "Hyperlink text",
+          "$type": "color"
         },
         "linkHover": {
           "$value": "#93C5FD",
-          "$description": "Hyperlink on hover"
+          "$description": "Hyperlink on hover",
+          "$type": "color"
         }
       },
       "border": {
         "$description": "Border and divider colors",
         "default": {
           "$value": "#334155",
-          "$description": "Default card/input border"
+          "$description": "Default card/input border",
+          "$type": "color"
         },
         "strong": {
           "$value": "#475569",
-          "$description": "Emphasized borders"
+          "$description": "Emphasized borders",
+          "$type": "color"
         },
         "focus": {
           "$value": "#60A5FA",
-          "$description": "Focus ring border"
+          "$description": "Focus ring border",
+          "$type": "color"
         },
         "error": {
           "$value": "#F87171",
-          "$description": "Validation error border"
+          "$description": "Validation error border",
+          "$type": "color"
         },
         "disabled": {
           "$value": "#1E293B",
-          "$description": "Disabled element border"
+          "$description": "Disabled element border",
+          "$type": "color"
         }
       },
       "state": {
         "$description": "Semantic state colors for feedback",
         "success": {
           "$value": "#34D399",
-          "$description": "Success icon/text"
+          "$description": "Success icon/text",
+          "$type": "color"
         },
         "successBg": {
           "$value": "#052E16",
-          "$description": "Success banner fill"
+          "$description": "Success banner fill",
+          "$type": "color"
         },
         "warning": {
           "$value": "#FBBF24",
-          "$description": "Warning icon/text"
+          "$description": "Warning icon/text",
+          "$type": "color"
         },
         "warningBg": {
           "$value": "#451A03",
-          "$description": "Warning banner fill"
+          "$description": "Warning banner fill",
+          "$type": "color"
         },
         "error": {
           "$value": "#F87171",
-          "$description": "Error icon/text"
+          "$description": "Error icon/text",
+          "$type": "color"
         },
         "errorBg": {
           "$value": "#450A0A",
-          "$description": "Error banner fill"
+          "$description": "Error banner fill",
+          "$type": "color"
         },
         "info": {
           "$value": "#60A5FA",
-          "$description": "Info icon/text"
+          "$description": "Info icon/text",
+          "$type": "color"
         },
         "infoBg": {
           "$value": "#172554",
-          "$description": "Info banner fill"
+          "$description": "Info banner fill",
+          "$type": "color"
         }
       },
       "interactive": {
         "$description": "Generic interactive element states",
         "hover": {
           "$value": "#1E293B",
-          "$description": "Row/item hover fill"
+          "$description": "Row/item hover fill",
+          "$type": "color"
         },
         "pressed": {
           "$value": "#334155",
-          "$description": "Row/item active fill"
+          "$description": "Row/item active fill",
+          "$type": "color"
         },
         "selected": {
           "$value": "#172554",
-          "$description": "Selected item fill"
+          "$description": "Selected item fill",
+          "$type": "color"
         },
         "selectedStrong": {
           "$value": "#1E3A5F",
-          "$description": "Strongly selected fill"
+          "$description": "Strongly selected fill",
+          "$type": "color"
         }
       }
     }

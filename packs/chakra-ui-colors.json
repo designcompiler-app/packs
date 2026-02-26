@@ -28,331 +28,431 @@
       "$type": "color",
       "gray": {
         "50": {
-          "$value": "#F7FAFC"
+          "$value": "#F7FAFC",
+          "$type": "color"
         },
         "100": {
-          "$value": "#EDF2F7"
+          "$value": "#EDF2F7",
+          "$type": "color"
         },
         "200": {
-          "$value": "#E2E8F0"
+          "$value": "#E2E8F0",
+          "$type": "color"
         },
         "300": {
-          "$value": "#CBD5E0"
+          "$value": "#CBD5E0",
+          "$type": "color"
         },
         "400": {
-          "$value": "#A0AEC0"
+          "$value": "#A0AEC0",
+          "$type": "color"
         },
         "500": {
-          "$value": "#718096"
+          "$value": "#718096",
+          "$type": "color"
         },
         "600": {
-          "$value": "#4A5568"
+          "$value": "#4A5568",
+          "$type": "color"
         },
         "700": {
-          "$value": "#2D3748"
+          "$value": "#2D3748",
+          "$type": "color"
         },
         "800": {
-          "$value": "#1A202C"
+          "$value": "#1A202C",
+          "$type": "color"
         },
         "900": {
-          "$value": "#171923"
+          "$value": "#171923",
+          "$type": "color"
         },
         "$description": "Neutral gray with cool blue undertone"
       },
       "red": {
         "50": {
-          "$value": "#FFF5F5"
+          "$value": "#FFF5F5",
+          "$type": "color"
         },
         "100": {
-          "$value": "#FED7D7"
+          "$value": "#FED7D7",
+          "$type": "color"
         },
         "200": {
-          "$value": "#FEB2B2"
+          "$value": "#FEB2B2",
+          "$type": "color"
         },
         "300": {
-          "$value": "#FC8181"
+          "$value": "#FC8181",
+          "$type": "color"
         },
         "400": {
-          "$value": "#F56565"
+          "$value": "#F56565",
+          "$type": "color"
         },
         "500": {
-          "$value": "#E53E3E"
+          "$value": "#E53E3E",
+          "$type": "color"
         },
         "600": {
-          "$value": "#C53030"
+          "$value": "#C53030",
+          "$type": "color"
         },
         "700": {
-          "$value": "#9B2C2C"
+          "$value": "#9B2C2C",
+          "$type": "color"
         },
         "800": {
-          "$value": "#822727"
+          "$value": "#822727",
+          "$type": "color"
         },
         "900": {
-          "$value": "#63171B"
+          "$value": "#63171B",
+          "$type": "color"
         },
         "$description": "Chakra red — error and destructive actions"
       },
       "orange": {
         "50": {
-          "$value": "#FFFAF0"
+          "$value": "#FFFAF0",
+          "$type": "color"
         },
         "100": {
-          "$value": "#FEEBC8"
+          "$value": "#FEEBC8",
+          "$type": "color"
         },
         "200": {
-          "$value": "#FBD38D"
+          "$value": "#FBD38D",
+          "$type": "color"
         },
         "300": {
-          "$value": "#F6AD55"
+          "$value": "#F6AD55",
+          "$type": "color"
         },
         "400": {
-          "$value": "#ED8936"
+          "$value": "#ED8936",
+          "$type": "color"
         },
         "500": {
-          "$value": "#DD6B20"
+          "$value": "#DD6B20",
+          "$type": "color"
         },
         "600": {
-          "$value": "#C05621"
+          "$value": "#C05621",
+          "$type": "color"
         },
         "700": {
-          "$value": "#9C4221"
+          "$value": "#9C4221",
+          "$type": "color"
         },
         "800": {
-          "$value": "#7B341E"
+          "$value": "#7B341E",
+          "$type": "color"
         },
         "900": {
-          "$value": "#652B19"
+          "$value": "#652B19",
+          "$type": "color"
         },
         "$description": "Warm orange"
       },
       "yellow": {
         "50": {
-          "$value": "#FFFFF0"
+          "$value": "#FFFFF0",
+          "$type": "color"
         },
         "100": {
-          "$value": "#FEFCBF"
+          "$value": "#FEFCBF",
+          "$type": "color"
         },
         "200": {
-          "$value": "#FAF089"
+          "$value": "#FAF089",
+          "$type": "color"
         },
         "300": {
-          "$value": "#F6E05E"
+          "$value": "#F6E05E",
+          "$type": "color"
         },
         "400": {
-          "$value": "#ECC94B"
+          "$value": "#ECC94B",
+          "$type": "color"
         },
         "500": {
-          "$value": "#D69E2E"
+          "$value": "#D69E2E",
+          "$type": "color"
         },
         "600": {
-          "$value": "#B7791F"
+          "$value": "#B7791F",
+          "$type": "color"
         },
         "700": {
-          "$value": "#975A16"
+          "$value": "#975A16",
+          "$type": "color"
         },
         "800": {
-          "$value": "#744210"
+          "$value": "#744210",
+          "$type": "color"
         },
         "900": {
-          "$value": "#5F370E"
+          "$value": "#5F370E",
+          "$type": "color"
         },
         "$description": "Warm yellow — warning states"
       },
       "green": {
         "50": {
-          "$value": "#F0FFF4"
+          "$value": "#F0FFF4",
+          "$type": "color"
         },
         "100": {
-          "$value": "#C6F6D5"
+          "$value": "#C6F6D5",
+          "$type": "color"
         },
         "200": {
-          "$value": "#9AE6B4"
+          "$value": "#9AE6B4",
+          "$type": "color"
         },
         "300": {
-          "$value": "#68D391"
+          "$value": "#68D391",
+          "$type": "color"
         },
         "400": {
-          "$value": "#48BB78"
+          "$value": "#48BB78",
+          "$type": "color"
         },
         "500": {
-          "$value": "#38A169"
+          "$value": "#38A169",
+          "$type": "color"
         },
         "600": {
-          "$value": "#2F855A"
+          "$value": "#2F855A",
+          "$type": "color"
         },
         "700": {
-          "$value": "#276749"
+          "$value": "#276749",
+          "$type": "color"
         },
         "800": {
-          "$value": "#22543D"
+          "$value": "#22543D",
+          "$type": "color"
         },
         "900": {
-          "$value": "#1C4532"
+          "$value": "#1C4532",
+          "$type": "color"
         },
         "$description": "Chakra green — success states"
       },
       "teal": {
         "50": {
-          "$value": "#E6FFFA"
+          "$value": "#E6FFFA",
+          "$type": "color"
         },
         "100": {
-          "$value": "#B2F5EA"
+          "$value": "#B2F5EA",
+          "$type": "color"
         },
         "200": {
-          "$value": "#81E6D9"
+          "$value": "#81E6D9",
+          "$type": "color"
         },
         "300": {
-          "$value": "#4FD1C5"
+          "$value": "#4FD1C5",
+          "$type": "color"
         },
         "400": {
-          "$value": "#38B2AC"
+          "$value": "#38B2AC",
+          "$type": "color"
         },
         "500": {
-          "$value": "#319795"
+          "$value": "#319795",
+          "$type": "color"
         },
         "600": {
-          "$value": "#2C7A7B"
+          "$value": "#2C7A7B",
+          "$type": "color"
         },
         "700": {
-          "$value": "#285E61"
+          "$value": "#285E61",
+          "$type": "color"
         },
         "800": {
-          "$value": "#234E52"
+          "$value": "#234E52",
+          "$type": "color"
         },
         "900": {
-          "$value": "#1D4044"
+          "$value": "#1D4044",
+          "$type": "color"
         },
         "$description": "Chakra teal — default brand color"
       },
       "blue": {
         "50": {
-          "$value": "#EBF8FF"
+          "$value": "#EBF8FF",
+          "$type": "color"
         },
         "100": {
-          "$value": "#BEE3F8"
+          "$value": "#BEE3F8",
+          "$type": "color"
         },
         "200": {
-          "$value": "#90CDF4"
+          "$value": "#90CDF4",
+          "$type": "color"
         },
         "300": {
-          "$value": "#63B3ED"
+          "$value": "#63B3ED",
+          "$type": "color"
         },
         "400": {
-          "$value": "#4299E1"
+          "$value": "#4299E1",
+          "$type": "color"
         },
         "500": {
-          "$value": "#3182CE"
+          "$value": "#3182CE",
+          "$type": "color"
         },
         "600": {
-          "$value": "#2B6CB0"
+          "$value": "#2B6CB0",
+          "$type": "color"
         },
         "700": {
-          "$value": "#2C5282"
+          "$value": "#2C5282",
+          "$type": "color"
         },
         "800": {
-          "$value": "#2A4365"
+          "$value": "#2A4365",
+          "$type": "color"
         },
         "900": {
-          "$value": "#1A365D"
+          "$value": "#1A365D",
+          "$type": "color"
         },
         "$description": "Chakra blue — links and informational"
       },
       "cyan": {
         "50": {
-          "$value": "#EDFDFD"
+          "$value": "#EDFDFD",
+          "$type": "color"
         },
         "100": {
-          "$value": "#C4F1F9"
+          "$value": "#C4F1F9",
+          "$type": "color"
         },
         "200": {
-          "$value": "#9DECF9"
+          "$value": "#9DECF9",
+          "$type": "color"
         },
         "300": {
-          "$value": "#76E4F7"
+          "$value": "#76E4F7",
+          "$type": "color"
         },
         "400": {
-          "$value": "#0BC5EA"
+          "$value": "#0BC5EA",
+          "$type": "color"
         },
         "500": {
-          "$value": "#00B5D8"
+          "$value": "#00B5D8",
+          "$type": "color"
         },
         "600": {
-          "$value": "#00A3C4"
+          "$value": "#00A3C4",
+          "$type": "color"
         },
         "700": {
-          "$value": "#0987A0"
+          "$value": "#0987A0",
+          "$type": "color"
         },
         "800": {
-          "$value": "#086F83"
+          "$value": "#086F83",
+          "$type": "color"
         },
         "900": {
-          "$value": "#065666"
+          "$value": "#065666",
+          "$type": "color"
         },
         "$description": "Bright cyan"
       },
       "purple": {
         "50": {
-          "$value": "#FAF5FF"
+          "$value": "#FAF5FF",
+          "$type": "color"
         },
         "100": {
-          "$value": "#E9D8FD"
+          "$value": "#E9D8FD",
+          "$type": "color"
         },
         "200": {
-          "$value": "#D6BCFA"
+          "$value": "#D6BCFA",
+          "$type": "color"
         },
         "300": {
-          "$value": "#B794F4"
+          "$value": "#B794F4",
+          "$type": "color"
         },
         "400": {
-          "$value": "#9F7AEA"
+          "$value": "#9F7AEA",
+          "$type": "color"
         },
         "500": {
-          "$value": "#805AD5"
+          "$value": "#805AD5",
+          "$type": "color"
         },
         "600": {
-          "$value": "#6B46C1"
+          "$value": "#6B46C1",
+          "$type": "color"
         },
         "700": {
-          "$value": "#553C9A"
+          "$value": "#553C9A",
+          "$type": "color"
         },
         "800": {
-          "$value": "#44337A"
+          "$value": "#44337A",
+          "$type": "color"
         },
         "900": {
-          "$value": "#322659"
+          "$value": "#322659",
+          "$type": "color"
         },
         "$description": "Rich purple"
       },
       "pink": {
         "50": {
-          "$value": "#FFF5F7"
+          "$value": "#FFF5F7",
+          "$type": "color"
         },
         "100": {
-          "$value": "#FED7E2"
+          "$value": "#FED7E2",
+          "$type": "color"
         },
         "200": {
-          "$value": "#FBB6CE"
+          "$value": "#FBB6CE",
+          "$type": "color"
         },
         "300": {
-          "$value": "#F687B3"
+          "$value": "#F687B3",
+          "$type": "color"
         },
         "400": {
-          "$value": "#ED64A6"
+          "$value": "#ED64A6",
+          "$type": "color"
         },
         "500": {
-          "$value": "#D53F8C"
+          "$value": "#D53F8C",
+          "$type": "color"
         },
         "600": {
-          "$value": "#B83280"
+          "$value": "#B83280",
+          "$type": "color"
         },
         "700": {
-          "$value": "#97266D"
+          "$value": "#97266D",
+          "$type": "color"
         },
         "800": {
-          "$value": "#702459"
+          "$value": "#702459",
+          "$type": "color"
         },
         "900": {
-          "$value": "#521B41"
+          "$value": "#521B41",
+          "$type": "color"
         },
         "$description": "Vibrant pink"
       }

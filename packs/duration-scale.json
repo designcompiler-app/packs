@@ -20,65 +20,81 @@
       "$description": "T-shirt sized duration scale for animation timing",
       "instant": {
         "$value": "50ms",
-        "$description": "Instant feedback — toggles, state changes"
+        "$description": "Instant feedback — toggles, state changes",
+        "$type": "duration"
       },
       "faster": {
         "$value": "100ms",
-        "$description": "Very fast — micro-interactions"
+        "$description": "Very fast — micro-interactions",
+        "$type": "duration"
       },
       "fast": {
         "$value": "150ms",
-        "$description": "Fast — button presses, highlights"
+        "$description": "Fast — button presses, highlights",
+        "$type": "duration"
       },
       "normal": {
         "$value": "200ms",
-        "$description": "Normal — most UI transitions"
+        "$description": "Normal — most UI transitions",
+        "$type": "duration"
       },
       "moderate": {
         "$value": "300ms",
-        "$description": "Moderate — menus, dropdowns"
+        "$description": "Moderate — menus, dropdowns",
+        "$type": "duration"
       },
       "slow": {
         "$value": "400ms",
-        "$description": "Slow — modals, complex reveals"
+        "$description": "Slow — modals, complex reveals",
+        "$type": "duration"
       },
       "slower": {
         "$value": "500ms",
-        "$description": "Slower — page transitions"
+        "$description": "Slower — page transitions",
+        "$type": "duration"
       },
       "deliberate": {
         "$value": "700ms",
-        "$description": "Deliberate — dramatic reveals"
+        "$description": "Deliberate — dramatic reveals",
+        "$type": "duration"
       }
     },
     "context": {
       "$type": "duration",
       "$description": "Contextual duration presets for common UI patterns",
       "tooltip": {
-        "$value": "150ms"
+        "$value": "150ms",
+        "$type": "duration"
       },
       "dropdown": {
-        "$value": "200ms"
+        "$value": "200ms",
+        "$type": "duration"
       },
       "modal": {
-        "$value": "300ms"
+        "$value": "300ms",
+        "$type": "duration"
       },
       "drawer": {
-        "$value": "350ms"
+        "$value": "350ms",
+        "$type": "duration"
       },
       "pageTransition": {
-        "$value": "400ms"
+        "$value": "400ms",
+        "$type": "duration"
       },
       "notification": {
-        "$value": "250ms"
+        "$value": "250ms",
+        "$type": "duration"
       },
       "skeleton": {
         "$value": "1000ms",
-        "$description": "Skeleton loading pulse cycle"
+        "$description": "Skeleton loading pulse cycle",
+        "$type": "duration"
       },
       "spinner": {
         "$value": "600ms",
-        "$description": "Loading spinner rotation cycle"
+        "$description": "Loading spinner rotation cycle",
+        "$type": "duration"
       }
     }
   }

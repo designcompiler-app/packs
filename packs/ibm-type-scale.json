@@ -20,115 +20,148 @@
       "$type": "dimension",
       "$description": "Carbon type scale font sizes",
       "caption": {
-        "$value": "0.75rem"
+        "$value": "0.75rem",
+        "$type": "dimension"
       },
       "bodyCompact01": {
-        "$value": "0.875rem"
+        "$value": "0.875rem",
+        "$type": "dimension"
       },
       "bodyLong01": {
-        "$value": "0.875rem"
+        "$value": "0.875rem",
+        "$type": "dimension"
       },
       "bodyCompact02": {
-        "$value": "1rem"
+        "$value": "1rem",
+        "$type": "dimension"
       },
       "bodyLong02": {
-        "$value": "1rem"
+        "$value": "1rem",
+        "$type": "dimension"
       },
       "heading01": {
-        "$value": "0.875rem"
+        "$value": "0.875rem",
+        "$type": "dimension"
       },
       "heading02": {
-        "$value": "1rem"
+        "$value": "1rem",
+        "$type": "dimension"
       },
       "heading03": {
-        "$value": "1.25rem"
+        "$value": "1.25rem",
+        "$type": "dimension"
       },
       "heading04": {
-        "$value": "1.75rem"
+        "$value": "1.75rem",
+        "$type": "dimension"
       },
       "heading05": {
-        "$value": "2rem"
+        "$value": "2rem",
+        "$type": "dimension"
       },
       "heading06": {
-        "$value": "2.625rem"
+        "$value": "2.625rem",
+        "$type": "dimension"
       },
       "heading07": {
-        "$value": "3.375rem"
+        "$value": "3.375rem",
+        "$type": "dimension"
       }
     },
     "fontWeight": {
       "$type": "number",
       "$description": "Carbon font weight tokens",
       "light": {
-        "$value": 300
+        "$value": 300,
+        "$type": "fontWeight"
       },
       "regular": {
-        "$value": 400
+        "$value": 400,
+        "$type": "fontWeight"
       },
       "semibold": {
-        "$value": 600
+        "$value": 600,
+        "$type": "fontWeight"
       }
     },
     "lineHeight": {
       "$type": "number",
       "$description": "Carbon line height values as unitless ratios",
       "caption": {
-        "$value": 1.34
+        "$value": 1.34,
+        "$type": "number"
       },
       "bodyCompact01": {
-        "$value": 1.29
+        "$value": 1.29,
+        "$type": "number"
       },
       "bodyLong01": {
-        "$value": 1.43
+        "$value": 1.43,
+        "$type": "number"
       },
       "bodyCompact02": {
-        "$value": 1.375
+        "$value": 1.375,
+        "$type": "number"
       },
       "bodyLong02": {
-        "$value": 1.5
+        "$value": 1.5,
+        "$type": "number"
       },
       "heading01": {
-        "$value": 1.29
+        "$value": 1.29,
+        "$type": "number"
       },
       "heading02": {
-        "$value": 1.375
+        "$value": 1.375,
+        "$type": "number"
       },
       "heading03": {
-        "$value": 1.4
+        "$value": 1.4,
+        "$type": "number"
       },
       "heading04": {
-        "$value": 1.29
+        "$value": 1.29,
+        "$type": "number"
       },
       "heading05": {
-        "$value": 1.25
+        "$value": 1.25,
+        "$type": "number"
       }
     },
     "letterSpacing": {
       "$type": "dimension",
       "$description": "Carbon letter spacing values",
       "caption": {
-        "$value": "0.32px"
+        "$value": "0.32px",
+        "$type": "dimension"
       },
       "bodyCompact01": {
-        "$value": "0.16px"
+        "$value": "0.16px",
+        "$type": "dimension"
       },
       "bodyLong01": {
-        "$value": "0.16px"
+        "$value": "0.16px",
+        "$type": "dimension"
       },
       "bodyCompact02": {
-        "$value": "0px"
+        "$value": "0px",
+        "$type": "dimension"
       },
       "bodyLong02": {
-        "$value": "0px"
+        "$value": "0px",
+        "$type": "dimension"
       },
       "heading01": {
-        "$value": "0.16px"
+        "$value": "0.16px",
+        "$type": "dimension"
       },
       "heading02": {
-        "$value": "0px"
+        "$value": "0px",
+        "$type": "dimension"
       },
       "heading03": {
-        "$value": "0px"
+        "$value": "0px",
+        "$type": "dimension"
       }
     }
   }

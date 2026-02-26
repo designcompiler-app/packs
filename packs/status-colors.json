@@ -30,156 +30,192 @@
         "$description": "Success status — confirmations, completions, positive outcomes",
         "default": {
           "$value": "#059669",
-          "$description": "Primary status color"
+          "$description": "Primary status color",
+          "$type": "color"
         },
         "bg": {
           "$value": "#ECFDF5",
-          "$description": "Banner/alert background"
+          "$description": "Banner/alert background",
+          "$type": "color"
         },
         "fg": {
           "$value": "#065F46",
-          "$description": "Text on light background"
+          "$description": "Text on light background",
+          "$type": "color"
         },
         "border": {
           "$value": "#A7F3D0",
-          "$description": "Alert border stroke"
+          "$description": "Alert border stroke",
+          "$type": "color"
         },
         "icon": {
           "$value": "#10B981",
-          "$description": "Status icon fill"
+          "$description": "Status icon fill",
+          "$type": "color"
         },
         "hover": {
           "$value": "#047857",
-          "$description": "Interactive hover state"
+          "$description": "Interactive hover state",
+          "$type": "color"
         },
         "pressed": {
           "$value": "#065F46",
-          "$description": "Interactive pressed state"
+          "$description": "Interactive pressed state",
+          "$type": "color"
         },
         "subtle": {
           "$value": "#D1FAE5",
-          "$description": "Soft badge background"
+          "$description": "Soft badge background",
+          "$type": "color"
         },
         "strong": {
           "$value": "#064E3B",
-          "$description": "High-contrast text/icon"
+          "$description": "High-contrast text/icon",
+          "$type": "color"
         }
       },
       "warning": {
         "$description": "Warning status — cautions, pending actions, attention needed",
         "default": {
           "$value": "#D97706",
-          "$description": "Primary status color"
+          "$description": "Primary status color",
+          "$type": "color"
         },
         "bg": {
           "$value": "#FFFBEB",
-          "$description": "Banner/alert background"
+          "$description": "Banner/alert background",
+          "$type": "color"
         },
         "fg": {
           "$value": "#92400E",
-          "$description": "Text on light background"
+          "$description": "Text on light background",
+          "$type": "color"
         },
         "border": {
           "$value": "#FDE68A",
-          "$description": "Alert border stroke"
+          "$description": "Alert border stroke",
+          "$type": "color"
         },
         "icon": {
           "$value": "#F59E0B",
-          "$description": "Status icon fill"
+          "$description": "Status icon fill",
+          "$type": "color"
         },
         "hover": {
           "$value": "#B45309",
-          "$description": "Interactive hover state"
+          "$description": "Interactive hover state",
+          "$type": "color"
         },
         "pressed": {
           "$value": "#92400E",
-          "$description": "Interactive pressed state"
+          "$description": "Interactive pressed state",
+          "$type": "color"
         },
         "subtle": {
           "$value": "#FEF3C7",
-          "$description": "Soft badge background"
+          "$description": "Soft badge background",
+          "$type": "color"
         },
         "strong": {
           "$value": "#78350F",
-          "$description": "High-contrast text/icon"
+          "$description": "High-contrast text/icon",
+          "$type": "color"
         }
       },
       "error": {
         "$description": "Error status — failures, destructive actions, validation errors",
         "default": {
           "$value": "#DC2626",
-          "$description": "Primary status color"
+          "$description": "Primary status color",
+          "$type": "color"
         },
         "bg": {
           "$value": "#FEF2F2",
-          "$description": "Banner/alert background"
+          "$description": "Banner/alert background",
+          "$type": "color"
         },
         "fg": {
           "$value": "#991B1B",
-          "$description": "Text on light background"
+          "$description": "Text on light background",
+          "$type": "color"
         },
         "border": {
           "$value": "#FECACA",
-          "$description": "Alert border stroke"
+          "$description": "Alert border stroke",
+          "$type": "color"
         },
         "icon": {
           "$value": "#EF4444",
-          "$description": "Status icon fill"
+          "$description": "Status icon fill",
+          "$type": "color"
         },
         "hover": {
           "$value": "#B91C1C",
-          "$description": "Interactive hover state"
+          "$description": "Interactive hover state",
+          "$type": "color"
         },
         "pressed": {
           "$value": "#991B1B",
-          "$description": "Interactive pressed state"
+          "$description": "Interactive pressed state",
+          "$type": "color"
         },
         "subtle": {
           "$value": "#FEE2E2",
-          "$description": "Soft badge background"
+          "$description": "Soft badge background",
+          "$type": "color"
         },
         "strong": {
           "$value": "#7F1D1D",
-          "$description": "High-contrast text/icon"
+          "$description": "High-contrast text/icon",
+          "$type": "color"
         }
       },
       "info": {
         "$description": "Info status — informational messages, help, and guidance",
         "default": {
           "$value": "#2563EB",
-          "$description": "Primary status color"
+          "$description": "Primary status color",
+          "$type": "color"
         },
         "bg": {
           "$value": "#EFF6FF",
-          "$description": "Banner/alert background"
+          "$description": "Banner/alert background",
+          "$type": "color"
         },
         "fg": {
           "$value": "#1E40AF",
-          "$description": "Text on light background"
+          "$description": "Text on light background",
+          "$type": "color"
         },
         "border": {
           "$value": "#BFDBFE",
-          "$description": "Alert border stroke"
+          "$description": "Alert border stroke",
+          "$type": "color"
         },
         "icon": {
           "$value": "#3B82F6",
-          "$description": "Status icon fill"
+          "$description": "Status icon fill",
+          "$type": "color"
         },
         "hover": {
           "$value": "#1D4ED8",
-          "$description": "Interactive hover state"
+          "$description": "Interactive hover state",
+          "$type": "color"
         },
         "pressed": {
           "$value": "#1E40AF",
-          "$description": "Interactive pressed state"
+          "$description": "Interactive pressed state",
+          "$type": "color"
         },
         "subtle": {
           "$value": "#DBEAFE",
-          "$description": "Soft badge background"
+          "$description": "Soft badge background",
+          "$type": "color"
         },
         "strong": {
           "$value": "#1E3A8A",
-          "$description": "High-contrast text/icon"
+          "$description": "High-contrast text/icon",
+          "$type": "color"
         }
       }
     }

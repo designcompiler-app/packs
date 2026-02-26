@@ -29,70 +29,90 @@
       "background": {
         "$description": "Geist gray background scale from lightest to darkest",
         "geist-100": {
-          "$value": "#f2f2f2"
+          "$value": "#f2f2f2",
+          "$type": "color"
         },
         "geist-200": {
-          "$value": "#ebebeb"
+          "$value": "#ebebeb",
+          "$type": "color"
         },
         "geist-300": {
-          "$value": "#e6e6e6"
+          "$value": "#e6e6e6",
+          "$type": "color"
         },
         "geist-400": {
-          "$value": "#dcdcdc"
+          "$value": "#dcdcdc",
+          "$type": "color"
         },
         "geist-500": {
-          "$value": "#c9c9c9"
+          "$value": "#c9c9c9",
+          "$type": "color"
         },
         "geist-600": {
-          "$value": "#a8a8a8"
+          "$value": "#a8a8a8",
+          "$type": "color"
         },
         "geist-700": {
-          "$value": "#8f8f8f"
+          "$value": "#8f8f8f",
+          "$type": "color"
         },
         "geist-800": {
-          "$value": "#7d7d7d"
+          "$value": "#7d7d7d",
+          "$type": "color"
         },
         "geist-900": {
-          "$value": "#666666"
+          "$value": "#666666",
+          "$type": "color"
         }
       },
       "accent": {
         "$description": "Geist accent hue primaries",
         "blue": {
-          "$value": "#0072f5"
+          "$value": "#0072f5",
+          "$type": "color"
         },
         "cyan": {
-          "$value": "#45dec5"
+          "$value": "#45dec5",
+          "$type": "color"
         },
         "green": {
-          "$value": "#45a557"
+          "$value": "#45a557",
+          "$type": "color"
         },
         "orange": {
-          "$value": "#ffb224"
+          "$value": "#ffb224",
+          "$type": "color"
         },
         "red": {
-          "$value": "#e5484d"
+          "$value": "#e5484d",
+          "$type": "color"
         },
         "purple": {
-          "$value": "#8e4ec6"
+          "$value": "#8e4ec6",
+          "$type": "color"
         },
         "pink": {
-          "$value": "#ea3e83"
+          "$value": "#ea3e83",
+          "$type": "color"
         },
         "yellow": {
-          "$value": "#f5b047"
+          "$value": "#f5b047",
+          "$type": "color"
         }
       },
       "semantic": {
         "$description": "Geist semantic status colors",
         "success": {
-          "$value": "#45a557"
+          "$value": "#45a557",
+          "$type": "color"
         },
         "error": {
-          "$value": "#e5484d"
+          "$value": "#e5484d",
+          "$type": "color"
         },
         "warning": {
-          "$value": "#ffb224"
+          "$value": "#ffb224",
+          "$type": "color"
         }
       }
     }

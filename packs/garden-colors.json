@@ -28,190 +28,246 @@
       "$type": "color",
       "grey": {
         "100": {
-          "$value": "#f8f9f9"
+          "$value": "#f8f9f9",
+          "$type": "color"
         },
         "200": {
-          "$value": "#e8eaec"
+          "$value": "#e8eaec",
+          "$type": "color"
         },
         "300": {
-          "$value": "#d8dcde"
+          "$value": "#d8dcde",
+          "$type": "color"
         },
         "400": {
-          "$value": "#b0b8be"
+          "$value": "#b0b8be",
+          "$type": "color"
         },
         "500": {
-          "$value": "#919ca5"
+          "$value": "#919ca5",
+          "$type": "color"
         },
         "600": {
-          "$value": "#848f99"
+          "$value": "#848f99",
+          "$type": "color"
         },
         "700": {
-          "$value": "#5c6970"
+          "$value": "#5c6970",
+          "$type": "color"
         },
         "800": {
-          "$value": "#39434b"
+          "$value": "#39434b",
+          "$type": "color"
         },
         "$description": "Garden grey (neutral) — interface structure and chrome"
       },
       "blue": {
         "100": {
-          "$value": "#edf7ff"
+          "$value": "#edf7ff",
+          "$type": "color"
         },
         "200": {
-          "$value": "#ddecf8"
+          "$value": "#ddecf8",
+          "$type": "color"
         },
         "300": {
-          "$value": "#cce0f1"
+          "$value": "#cce0f1",
+          "$type": "color"
         },
         "400": {
-          "$value": "#93bcdc"
+          "$value": "#93bcdc",
+          "$type": "color"
         },
         "500": {
-          "$value": "#66a0cd"
+          "$value": "#66a0cd",
+          "$type": "color"
         },
         "600": {
-          "$value": "#2694d6"
+          "$value": "#2694d6",
+          "$type": "color"
         },
         "700": {
-          "$value": "#1f73b7"
+          "$value": "#1f73b7",
+          "$type": "color"
         },
         "800": {
-          "$value": "#13456d"
+          "$value": "#13456d",
+          "$type": "color"
         },
         "$description": "Garden blue (primary) — actions and interactive elements"
       },
       "red": {
         "100": {
-          "$value": "#fff2f3"
+          "$value": "#fff2f3",
+          "$type": "color"
         },
         "200": {
-          "$value": "#fee3e5"
+          "$value": "#fee3e5",
+          "$type": "color"
         },
         "300": {
-          "$value": "#f5d5d8"
+          "$value": "#f5d5d8",
+          "$type": "color"
         },
         "400": {
-          "$value": "#f2a1a8"
+          "$value": "#f2a1a8",
+          "$type": "color"
         },
         "500": {
-          "$value": "#ea7881"
+          "$value": "#ea7881",
+          "$type": "color"
         },
         "600": {
-          "$value": "#eb5c69"
+          "$value": "#eb5c69",
+          "$type": "color"
         },
         "700": {
-          "$value": "#cd3642"
+          "$value": "#cd3642",
+          "$type": "color"
         },
         "800": {
-          "$value": "#7e1d25"
+          "$value": "#7e1d25",
+          "$type": "color"
         },
         "$description": "Garden red (danger) — errors and destructive actions"
       },
       "yellow": {
         "100": {
-          "$value": "#fff3e4"
+          "$value": "#fff3e4",
+          "$type": "color"
         },
         "200": {
-          "$value": "#ffe6cb"
+          "$value": "#ffe6cb",
+          "$type": "color"
         },
         "300": {
-          "$value": "#fed6a9"
+          "$value": "#fed6a9",
+          "$type": "color"
         },
         "400": {
-          "$value": "#fca347"
+          "$value": "#fca347",
+          "$type": "color"
         },
         "500": {
-          "$value": "#e38215"
+          "$value": "#e38215",
+          "$type": "color"
         },
         "600": {
-          "$value": "#d67305"
+          "$value": "#d67305",
+          "$type": "color"
         },
         "700": {
-          "$value": "#ac5918"
+          "$value": "#ac5918",
+          "$type": "color"
         },
         "800": {
-          "$value": "#673515"
+          "$value": "#673515",
+          "$type": "color"
         },
         "$description": "Garden yellow (warning) — alerts and caution states"
       },
       "green": {
         "100": {
-          "$value": "#eef8f4"
+          "$value": "#eef8f4",
+          "$type": "color"
         },
         "200": {
-          "$value": "#daeee6"
+          "$value": "#daeee6",
+          "$type": "color"
         },
         "300": {
-          "$value": "#cae3d9"
+          "$value": "#cae3d9",
+          "$type": "color"
         },
         "400": {
-          "$value": "#94c1b0"
+          "$value": "#94c1b0",
+          "$type": "color"
         },
         "500": {
-          "$value": "#4eab89"
+          "$value": "#4eab89",
+          "$type": "color"
         },
         "600": {
-          "$value": "#26a178"
+          "$value": "#26a178",
+          "$type": "color"
         },
         "700": {
-          "$value": "#037f52"
+          "$value": "#037f52",
+          "$type": "color"
         },
         "800": {
-          "$value": "#104b35"
+          "$value": "#104b35",
+          "$type": "color"
         },
         "$description": "Garden green (success) — confirmations and positive states"
       },
       "kale": {
         "100": {
-          "$value": "#ecf9f9"
+          "$value": "#ecf9f9",
+          "$type": "color"
         },
         "200": {
-          "$value": "#daeded"
+          "$value": "#daeded",
+          "$type": "color"
         },
         "300": {
-          "$value": "#cbe2e1"
+          "$value": "#cbe2e1",
+          "$type": "color"
         },
         "400": {
-          "$value": "#97bfbf"
+          "$value": "#97bfbf",
+          "$type": "color"
         },
         "500": {
-          "$value": "#6ba4a5"
+          "$value": "#6ba4a5",
+          "$type": "color"
         },
         "600": {
-          "$value": "#4a9999"
+          "$value": "#4a9999",
+          "$type": "color"
         },
         "700": {
-          "$value": "#40787a"
+          "$value": "#40787a",
+          "$type": "color"
         },
         "800": {
-          "$value": "#16494f"
+          "$value": "#16494f",
+          "$type": "color"
         },
         "$description": "Garden kale (chrome) — navigation and sidebar surfaces"
       },
       "royal": {
         "100": {
-          "$value": "#f4f5fc"
+          "$value": "#f4f5fc",
+          "$type": "color"
         },
         "200": {
-          "$value": "#e7e9f8"
+          "$value": "#e7e9f8",
+          "$type": "color"
         },
         "300": {
-          "$value": "#d8dcf4"
+          "$value": "#d8dcf4",
+          "$type": "color"
         },
         "400": {
-          "$value": "#acb4e7"
+          "$value": "#acb4e7",
+          "$type": "color"
         },
         "500": {
-          "$value": "#8a96dd"
+          "$value": "#8a96dd",
+          "$type": "color"
         },
         "600": {
-          "$value": "#7a88d9"
+          "$value": "#7a88d9",
+          "$type": "color"
         },
         "700": {
-          "$value": "#4c67d3"
+          "$value": "#4c67d3",
+          "$type": "color"
         },
         "800": {
-          "$value": "#1833ab"
+          "$value": "#1833ab",
+          "$type": "color"
         },
         "$description": "Garden royal — secondary accent and data visualization"
       }

@@ -27,508 +27,664 @@
       "$type": "color",
       "tomato": {
         "1": {
-          "$value": "#fffcfc"
+          "$value": "#fffcfc",
+          "$type": "color"
         },
         "2": {
-          "$value": "#fff8f7"
+          "$value": "#fff8f7",
+          "$type": "color"
         },
         "3": {
-          "$value": "#feebe7"
+          "$value": "#feebe7",
+          "$type": "color"
         },
         "4": {
-          "$value": "#ffdcd3"
+          "$value": "#ffdcd3",
+          "$type": "color"
         },
         "5": {
-          "$value": "#ffcdc2"
+          "$value": "#ffcdc2",
+          "$type": "color"
         },
         "6": {
-          "$value": "#fdbdaf"
+          "$value": "#fdbdaf",
+          "$type": "color"
         },
         "7": {
-          "$value": "#f5a898"
+          "$value": "#f5a898",
+          "$type": "color"
         },
         "8": {
-          "$value": "#ec8e7b"
+          "$value": "#ec8e7b",
+          "$type": "color"
         },
         "9": {
-          "$value": "#e54d2e"
+          "$value": "#e54d2e",
+          "$type": "color"
         },
         "10": {
-          "$value": "#dd4425"
+          "$value": "#dd4425",
+          "$type": "color"
         },
         "11": {
-          "$value": "#d13415"
+          "$value": "#d13415",
+          "$type": "color"
         },
         "12": {
-          "$value": "#5c271f"
+          "$value": "#5c271f",
+          "$type": "color"
         },
         "$description": "Warm red for errors and destructive actions"
       },
       "red": {
         "1": {
-          "$value": "#fffcfc"
+          "$value": "#fffcfc",
+          "$type": "color"
         },
         "2": {
-          "$value": "#fff7f7"
+          "$value": "#fff7f7",
+          "$type": "color"
         },
         "3": {
-          "$value": "#feebec"
+          "$value": "#feebec",
+          "$type": "color"
         },
         "4": {
-          "$value": "#ffdbdc"
+          "$value": "#ffdbdc",
+          "$type": "color"
         },
         "5": {
-          "$value": "#ffcdce"
+          "$value": "#ffcdce",
+          "$type": "color"
         },
         "6": {
-          "$value": "#fdbdbe"
+          "$value": "#fdbdbe",
+          "$type": "color"
         },
         "7": {
-          "$value": "#f4a9aa"
+          "$value": "#f4a9aa",
+          "$type": "color"
         },
         "8": {
-          "$value": "#eb8e90"
+          "$value": "#eb8e90",
+          "$type": "color"
         },
         "9": {
-          "$value": "#e5484d"
+          "$value": "#e5484d",
+          "$type": "color"
         },
         "10": {
-          "$value": "#dc3e42"
+          "$value": "#dc3e42",
+          "$type": "color"
         },
         "11": {
-          "$value": "#ce2c31"
+          "$value": "#ce2c31",
+          "$type": "color"
         },
         "12": {
-          "$value": "#641723"
+          "$value": "#641723",
+          "$type": "color"
         },
         "$description": "Bright red for alerts and badges"
       },
       "crimson": {
         "1": {
-          "$value": "#fffcfd"
+          "$value": "#fffcfd",
+          "$type": "color"
         },
         "2": {
-          "$value": "#fef7f9"
+          "$value": "#fef7f9",
+          "$type": "color"
         },
         "3": {
-          "$value": "#ffe9f0"
+          "$value": "#ffe9f0",
+          "$type": "color"
         },
         "4": {
-          "$value": "#fedce7"
+          "$value": "#fedce7",
+          "$type": "color"
         },
         "5": {
-          "$value": "#facedd"
+          "$value": "#facedd",
+          "$type": "color"
         },
         "6": {
-          "$value": "#f3bed1"
+          "$value": "#f3bed1",
+          "$type": "color"
         },
         "7": {
-          "$value": "#eaacc3"
+          "$value": "#eaacc3",
+          "$type": "color"
         },
         "8": {
-          "$value": "#e093b2"
+          "$value": "#e093b2",
+          "$type": "color"
         },
         "9": {
-          "$value": "#e93d82"
+          "$value": "#e93d82",
+          "$type": "color"
         },
         "10": {
-          "$value": "#df3478"
+          "$value": "#df3478",
+          "$type": "color"
         },
         "11": {
-          "$value": "#cb1d63"
+          "$value": "#cb1d63",
+          "$type": "color"
         },
         "12": {
-          "$value": "#621639"
+          "$value": "#621639",
+          "$type": "color"
         },
         "$description": "Deep crimson for bold accents"
       },
       "pink": {
         "1": {
-          "$value": "#fffcfe"
+          "$value": "#fffcfe",
+          "$type": "color"
         },
         "2": {
-          "$value": "#fef7fb"
+          "$value": "#fef7fb",
+          "$type": "color"
         },
         "3": {
-          "$value": "#fee9f5"
+          "$value": "#fee9f5",
+          "$type": "color"
         },
         "4": {
-          "$value": "#fbdcef"
+          "$value": "#fbdcef",
+          "$type": "color"
         },
         "5": {
-          "$value": "#f6cee7"
+          "$value": "#f6cee7",
+          "$type": "color"
         },
         "6": {
-          "$value": "#efbfdd"
+          "$value": "#efbfdd",
+          "$type": "color"
         },
         "7": {
-          "$value": "#e7acd0"
+          "$value": "#e7acd0",
+          "$type": "color"
         },
         "8": {
-          "$value": "#dd93c2"
+          "$value": "#dd93c2",
+          "$type": "color"
         },
         "9": {
-          "$value": "#d6409f"
+          "$value": "#d6409f",
+          "$type": "color"
         },
         "10": {
-          "$value": "#cf3897"
+          "$value": "#cf3897",
+          "$type": "color"
         },
         "11": {
-          "$value": "#c2298a"
+          "$value": "#c2298a",
+          "$type": "color"
         },
         "12": {
-          "$value": "#651249"
+          "$value": "#651249",
+          "$type": "color"
         },
         "$description": "Playful pink"
       },
       "plum": {
         "1": {
-          "$value": "#fefcff"
+          "$value": "#fefcff",
+          "$type": "color"
         },
         "2": {
-          "$value": "#fdf7fd"
+          "$value": "#fdf7fd",
+          "$type": "color"
         },
         "3": {
-          "$value": "#fbebfb"
+          "$value": "#fbebfb",
+          "$type": "color"
         },
         "4": {
-          "$value": "#f7def8"
+          "$value": "#f7def8",
+          "$type": "color"
         },
         "5": {
-          "$value": "#f2d1f3"
+          "$value": "#f2d1f3",
+          "$type": "color"
         },
         "6": {
-          "$value": "#e9c2ec"
+          "$value": "#e9c2ec",
+          "$type": "color"
         },
         "7": {
-          "$value": "#deade3"
+          "$value": "#deade3",
+          "$type": "color"
         },
         "8": {
-          "$value": "#cf91d8"
+          "$value": "#cf91d8",
+          "$type": "color"
         },
         "9": {
-          "$value": "#ab4aba"
+          "$value": "#ab4aba",
+          "$type": "color"
         },
         "10": {
-          "$value": "#a144af"
+          "$value": "#a144af",
+          "$type": "color"
         },
         "11": {
-          "$value": "#953ea3"
+          "$value": "#953ea3",
+          "$type": "color"
         },
         "12": {
-          "$value": "#53195d"
+          "$value": "#53195d",
+          "$type": "color"
         },
         "$description": "Rich plum purple"
       },
       "purple": {
         "1": {
-          "$value": "#fefcfe"
+          "$value": "#fefcfe",
+          "$type": "color"
         },
         "2": {
-          "$value": "#fbf7fe"
+          "$value": "#fbf7fe",
+          "$type": "color"
         },
         "3": {
-          "$value": "#f7edfe"
+          "$value": "#f7edfe",
+          "$type": "color"
         },
         "4": {
-          "$value": "#f2e2fc"
+          "$value": "#f2e2fc",
+          "$type": "color"
         },
         "5": {
-          "$value": "#ead5f9"
+          "$value": "#ead5f9",
+          "$type": "color"
         },
         "6": {
-          "$value": "#e0c4f4"
+          "$value": "#e0c4f4",
+          "$type": "color"
         },
         "7": {
-          "$value": "#d1afec"
+          "$value": "#d1afec",
+          "$type": "color"
         },
         "8": {
-          "$value": "#be93e4"
+          "$value": "#be93e4",
+          "$type": "color"
         },
         "9": {
-          "$value": "#8e4ec6"
+          "$value": "#8e4ec6",
+          "$type": "color"
         },
         "10": {
-          "$value": "#8347b9"
+          "$value": "#8347b9",
+          "$type": "color"
         },
         "11": {
-          "$value": "#8145b5"
+          "$value": "#8145b5",
+          "$type": "color"
         },
         "12": {
-          "$value": "#402060"
+          "$value": "#402060",
+          "$type": "color"
         },
         "$description": "Classic purple"
       },
       "violet": {
         "1": {
-          "$value": "#fdfcfe"
+          "$value": "#fdfcfe",
+          "$type": "color"
         },
         "2": {
-          "$value": "#faf8ff"
+          "$value": "#faf8ff",
+          "$type": "color"
         },
         "3": {
-          "$value": "#f4f0fe"
+          "$value": "#f4f0fe",
+          "$type": "color"
         },
         "4": {
-          "$value": "#ebe4ff"
+          "$value": "#ebe4ff",
+          "$type": "color"
         },
         "5": {
-          "$value": "#e1d9ff"
+          "$value": "#e1d9ff",
+          "$type": "color"
         },
         "6": {
-          "$value": "#d4cafe"
+          "$value": "#d4cafe",
+          "$type": "color"
         },
         "7": {
-          "$value": "#c2b5f5"
+          "$value": "#c2b5f5",
+          "$type": "color"
         },
         "8": {
-          "$value": "#aa99ec"
+          "$value": "#aa99ec",
+          "$type": "color"
         },
         "9": {
-          "$value": "#6e56cf"
+          "$value": "#6e56cf",
+          "$type": "color"
         },
         "10": {
-          "$value": "#654dc4"
+          "$value": "#654dc4",
+          "$type": "color"
         },
         "11": {
-          "$value": "#6550b9"
+          "$value": "#6550b9",
+          "$type": "color"
         },
         "12": {
-          "$value": "#2f265f"
+          "$value": "#2f265f",
+          "$type": "color"
         },
         "$description": "Soft violet"
       },
       "indigo": {
         "1": {
-          "$value": "#fdfdfe"
+          "$value": "#fdfdfe",
+          "$type": "color"
         },
         "2": {
-          "$value": "#f7f9ff"
+          "$value": "#f7f9ff",
+          "$type": "color"
         },
         "3": {
-          "$value": "#edf2fe"
+          "$value": "#edf2fe",
+          "$type": "color"
         },
         "4": {
-          "$value": "#e1e9ff"
+          "$value": "#e1e9ff",
+          "$type": "color"
         },
         "5": {
-          "$value": "#d2deff"
+          "$value": "#d2deff",
+          "$type": "color"
         },
         "6": {
-          "$value": "#c1d0ff"
+          "$value": "#c1d0ff",
+          "$type": "color"
         },
         "7": {
-          "$value": "#abbdf9"
+          "$value": "#abbdf9",
+          "$type": "color"
         },
         "8": {
-          "$value": "#8da4ef"
+          "$value": "#8da4ef",
+          "$type": "color"
         },
         "9": {
-          "$value": "#3e63dd"
+          "$value": "#3e63dd",
+          "$type": "color"
         },
         "10": {
-          "$value": "#3358d4"
+          "$value": "#3358d4",
+          "$type": "color"
         },
         "11": {
-          "$value": "#3a5bc7"
+          "$value": "#3a5bc7",
+          "$type": "color"
         },
         "12": {
-          "$value": "#1f2d5c"
+          "$value": "#1f2d5c",
+          "$type": "color"
         },
         "$description": "Deep indigo blue"
       },
       "blue": {
         "1": {
-          "$value": "#fbfdff"
+          "$value": "#fbfdff",
+          "$type": "color"
         },
         "2": {
-          "$value": "#f4faff"
+          "$value": "#f4faff",
+          "$type": "color"
         },
         "3": {
-          "$value": "#e6f4fe"
+          "$value": "#e6f4fe",
+          "$type": "color"
         },
         "4": {
-          "$value": "#d5efff"
+          "$value": "#d5efff",
+          "$type": "color"
         },
         "5": {
-          "$value": "#c2e5ff"
+          "$value": "#c2e5ff",
+          "$type": "color"
         },
         "6": {
-          "$value": "#acd8fc"
+          "$value": "#acd8fc",
+          "$type": "color"
         },
         "7": {
-          "$value": "#8ec8f6"
+          "$value": "#8ec8f6",
+          "$type": "color"
         },
         "8": {
-          "$value": "#5eb1ef"
+          "$value": "#5eb1ef",
+          "$type": "color"
         },
         "9": {
-          "$value": "#0090ff"
+          "$value": "#0090ff",
+          "$type": "color"
         },
         "10": {
-          "$value": "#0588f0"
+          "$value": "#0588f0",
+          "$type": "color"
         },
         "11": {
-          "$value": "#0d74ce"
+          "$value": "#0d74ce",
+          "$type": "color"
         },
         "12": {
-          "$value": "#113264"
+          "$value": "#113264",
+          "$type": "color"
         },
         "$description": "Primary blue for interactive elements"
       },
       "cyan": {
         "1": {
-          "$value": "#fafdfe"
+          "$value": "#fafdfe",
+          "$type": "color"
         },
         "2": {
-          "$value": "#f2fafb"
+          "$value": "#f2fafb",
+          "$type": "color"
         },
         "3": {
-          "$value": "#def8f8"
+          "$value": "#def8f8",
+          "$type": "color"
         },
         "4": {
-          "$value": "#caf3f2"
+          "$value": "#caf3f2",
+          "$type": "color"
         },
         "5": {
-          "$value": "#b5eceb"
+          "$value": "#b5eceb",
+          "$type": "color"
         },
         "6": {
-          "$value": "#9de2e1"
+          "$value": "#9de2e1",
+          "$type": "color"
         },
         "7": {
-          "$value": "#84d6d4"
+          "$value": "#84d6d4",
+          "$type": "color"
         },
         "8": {
-          "$value": "#53c7c3"
+          "$value": "#53c7c3",
+          "$type": "color"
         },
         "9": {
-          "$value": "#00a2c7"
+          "$value": "#00a2c7",
+          "$type": "color"
         },
         "10": {
-          "$value": "#0797b9"
+          "$value": "#0797b9",
+          "$type": "color"
         },
         "11": {
-          "$value": "#107d95"
+          "$value": "#107d95",
+          "$type": "color"
         },
         "12": {
-          "$value": "#0d3c48"
+          "$value": "#0d3c48",
+          "$type": "color"
         },
         "$description": "Vibrant cyan"
       },
       "teal": {
         "1": {
-          "$value": "#fafefd"
+          "$value": "#fafefd",
+          "$type": "color"
         },
         "2": {
-          "$value": "#f3fbf9"
+          "$value": "#f3fbf9",
+          "$type": "color"
         },
         "3": {
-          "$value": "#e0f8f3"
+          "$value": "#e0f8f3",
+          "$type": "color"
         },
         "4": {
-          "$value": "#ccf3ea"
+          "$value": "#ccf3ea",
+          "$type": "color"
         },
         "5": {
-          "$value": "#b8eae0"
+          "$value": "#b8eae0",
+          "$type": "color"
         },
         "6": {
-          "$value": "#a1ded2"
+          "$value": "#a1ded2",
+          "$type": "color"
         },
         "7": {
-          "$value": "#83cdc1"
+          "$value": "#83cdc1",
+          "$type": "color"
         },
         "8": {
-          "$value": "#53b9ab"
+          "$value": "#53b9ab",
+          "$type": "color"
         },
         "9": {
-          "$value": "#12a594"
+          "$value": "#12a594",
+          "$type": "color"
         },
         "10": {
-          "$value": "#0d9b8a"
+          "$value": "#0d9b8a",
+          "$type": "color"
         },
         "11": {
-          "$value": "#008573"
+          "$value": "#008573",
+          "$type": "color"
         },
         "12": {
-          "$value": "#0d3d38"
+          "$value": "#0d3d38",
+          "$type": "color"
         },
         "$description": "Balanced teal"
       },
       "green": {
         "1": {
-          "$value": "#fbfefc"
+          "$value": "#fbfefc",
+          "$type": "color"
         },
         "2": {
-          "$value": "#f4fbf6"
+          "$value": "#f4fbf6",
+          "$type": "color"
         },
         "3": {
-          "$value": "#e6f6eb"
+          "$value": "#e6f6eb",
+          "$type": "color"
         },
         "4": {
-          "$value": "#d6f1df"
+          "$value": "#d6f1df",
+          "$type": "color"
         },
         "5": {
-          "$value": "#c4e8d1"
+          "$value": "#c4e8d1",
+          "$type": "color"
         },
         "6": {
-          "$value": "#adddc0"
+          "$value": "#adddc0",
+          "$type": "color"
         },
         "7": {
-          "$value": "#8eceaa"
+          "$value": "#8eceaa",
+          "$type": "color"
         },
         "8": {
-          "$value": "#5bb98b"
+          "$value": "#5bb98b",
+          "$type": "color"
         },
         "9": {
-          "$value": "#30a46c"
+          "$value": "#30a46c",
+          "$type": "color"
         },
         "10": {
-          "$value": "#2b9a66"
+          "$value": "#2b9a66",
+          "$type": "color"
         },
         "11": {
-          "$value": "#218358"
+          "$value": "#218358",
+          "$type": "color"
         },
         "12": {
-          "$value": "#193b2d"
+          "$value": "#193b2d",
+          "$type": "color"
         },
         "$description": "Natural green for success states"
       },
       "grass": {
         "1": {
-          "$value": "#fbfefb"
+          "$value": "#fbfefb",
+          "$type": "color"
         },
         "2": {
-          "$value": "#f5fbf5"
+          "$value": "#f5fbf5",
+          "$type": "color"
         },
         "3": {
-          "$value": "#e9f6e9"
+          "$value": "#e9f6e9",
+          "$type": "color"
         },
         "4": {
-          "$value": "#daf1db"
+          "$value": "#daf1db",
+          "$type": "color"
         },
         "5": {
-          "$value": "#c9e8ca"
+          "$value": "#c9e8ca",
+          "$type": "color"
         },
         "6": {
-          "$value": "#b2ddb5"
+          "$value": "#b2ddb5",
+          "$type": "color"
         },
         "7": {
-          "$value": "#94ce9a"
+          "$value": "#94ce9a",
+          "$type": "color"
         },
         "8": {
-          "$value": "#65ba74"
+          "$value": "#65ba74",
+          "$type": "color"
         },
         "9": {
-          "$value": "#46a758"
+          "$value": "#46a758",
+          "$type": "color"
         },
         "10": {
-          "$value": "#3e9b4f"
+          "$value": "#3e9b4f",
+          "$type": "color"
         },
         "11": {
-          "$value": "#2a7e3b"
+          "$value": "#2a7e3b",
+          "$type": "color"
         },
         "12": {
-          "$value": "#203c25"
+          "$value": "#203c25",
+          "$type": "color"
         },
         "$description": "Bright grass green"
       }

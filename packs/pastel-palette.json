@@ -29,73 +29,94 @@
       "primary": {
         "$description": "Core pastel tones for primary UI surfaces and elements",
         "rose": {
-          "$value": "#ffc2d1"
+          "$value": "#ffc2d1",
+          "$type": "color"
         },
         "peach": {
-          "$value": "#ffcdb2"
+          "$value": "#ffcdb2",
+          "$type": "color"
         },
         "cream": {
-          "$value": "#ffe5b4"
+          "$value": "#ffe5b4",
+          "$type": "color"
         },
         "mint": {
-          "$value": "#b5ead7"
+          "$value": "#b5ead7",
+          "$type": "color"
         },
         "sky": {
-          "$value": "#bde0fe"
+          "$value": "#bde0fe",
+          "$type": "color"
         },
         "lavender": {
-          "$value": "#c7ceea"
+          "$value": "#c7ceea",
+          "$type": "color"
         },
         "lilac": {
-          "$value": "#e2c2ff"
+          "$value": "#e2c2ff",
+          "$type": "color"
         },
         "powder": {
-          "$value": "#cddafd"
+          "$value": "#cddafd",
+          "$type": "color"
         }
       },
       "accent": {
         "$description": "Secondary pastel tones for accents, tags, and highlights",
         "coral": {
-          "$value": "#ffb5a7"
+          "$value": "#ffb5a7",
+          "$type": "color"
         },
         "honeydew": {
-          "$value": "#c1f0c1"
+          "$value": "#c1f0c1",
+          "$type": "color"
         },
         "periwinkle": {
-          "$value": "#a2b9ee"
+          "$value": "#a2b9ee",
+          "$type": "color"
         },
         "mauve": {
-          "$value": "#dba8c4"
+          "$value": "#dba8c4",
+          "$type": "color"
         },
         "sage": {
-          "$value": "#c2d4ab"
+          "$value": "#c2d4ab",
+          "$type": "color"
         },
         "apricot": {
-          "$value": "#ffd7b5"
+          "$value": "#ffd7b5",
+          "$type": "color"
         },
         "thistle": {
-          "$value": "#d8bfd8"
+          "$value": "#d8bfd8",
+          "$type": "color"
         },
         "ice": {
-          "$value": "#d6f0ff"
+          "$value": "#d6f0ff",
+          "$type": "color"
         }
       },
       "neutral": {
         "$description": "Soft neutral tones for backgrounds and subtle separators",
         "snowWhite": {
-          "$value": "#fafafa"
+          "$value": "#fafafa",
+          "$type": "color"
         },
         "cloud": {
-          "$value": "#f0f0f0"
+          "$value": "#f0f0f0",
+          "$type": "color"
         },
         "mist": {
-          "$value": "#e8e8e8"
+          "$value": "#e8e8e8",
+          "$type": "color"
         },
         "silver": {
-          "$value": "#d4d4d4"
+          "$value": "#d4d4d4",
+          "$type": "color"
         },
         "pearl": {
-          "$value": "#f5f0eb"
+          "$value": "#f5f0eb",
+          "$type": "color"
         }
       }
     }

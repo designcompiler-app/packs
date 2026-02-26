@@ -29,55 +29,71 @@
       "base": {
         "$description": "Solarized Base — 8 monotone values forming backgrounds, content, and emphasis for both light and dark modes",
         "base03": {
-          "$value": "#002b36"
+          "$value": "#002b36",
+          "$type": "color"
         },
         "base02": {
-          "$value": "#073642"
+          "$value": "#073642",
+          "$type": "color"
         },
         "base01": {
-          "$value": "#586e75"
+          "$value": "#586e75",
+          "$type": "color"
         },
         "base00": {
-          "$value": "#657b83"
+          "$value": "#657b83",
+          "$type": "color"
         },
         "base0": {
-          "$value": "#839496"
+          "$value": "#839496",
+          "$type": "color"
         },
         "base1": {
-          "$value": "#93a1a1"
+          "$value": "#93a1a1",
+          "$type": "color"
         },
         "base2": {
-          "$value": "#eee8d5"
+          "$value": "#eee8d5",
+          "$type": "color"
         },
         "base3": {
-          "$value": "#fdf6e3"
+          "$value": "#fdf6e3",
+          "$type": "color"
         }
       },
       "accent": {
         "$description": "Solarized Accent — 8 colors shared between light and dark modes for syntax and UI highlights",
         "yellow": {
-          "$value": "#b58900"
+          "$value": "#b58900",
+          "$type": "color"
         },
         "orange": {
-          "$value": "#cb4b16"
+          "$value": "#cb4b16",
+          "$type": "color"
         },
         "red": {
-          "$value": "#dc322f"
+          "$value": "#dc322f",
+          "$type": "color"
         },
         "magenta": {
-          "$value": "#d33682"
+          "$value": "#d33682",
+          "$type": "color"
         },
         "violet": {
-          "$value": "#6c71c4"
+          "$value": "#6c71c4",
+          "$type": "color"
         },
         "blue": {
-          "$value": "#268bd2"
+          "$value": "#268bd2",
+          "$type": "color"
         },
         "cyan": {
-          "$value": "#2aa198"
+          "$value": "#2aa198",
+          "$type": "color"
         },
         "green": {
-          "$value": "#859900"
+          "$value": "#859900",
+          "$type": "color"
         }
       }
     }

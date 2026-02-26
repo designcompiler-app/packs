@@ -29,73 +29,93 @@
       "clay": {
         "$description": "Warm reddish-brown tones inspired by natural clay and terracotta",
         "terracotta": {
-          "$value": "#c2704f"
+          "$value": "#c2704f",
+          "$type": "color"
         },
         "sienna": {
-          "$value": "#a0522d"
+          "$value": "#a0522d",
+          "$type": "color"
         },
         "adobe": {
-          "$value": "#bd6b3e"
+          "$value": "#bd6b3e",
+          "$type": "color"
         },
         "rust": {
-          "$value": "#b7410e"
+          "$value": "#b7410e",
+          "$type": "color"
         },
         "brick": {
-          "$value": "#cb4154"
+          "$value": "#cb4154",
+          "$type": "color"
         }
       },
       "soil": {
         "$description": "Deep brown tones drawn from rich earth and dark wood",
         "coffee": {
-          "$value": "#6f4e37"
+          "$value": "#6f4e37",
+          "$type": "color"
         },
         "walnut": {
-          "$value": "#5b3a29"
+          "$value": "#5b3a29",
+          "$type": "color"
         },
         "umber": {
-          "$value": "#635147"
+          "$value": "#635147",
+          "$type": "color"
         },
         "peat": {
-          "$value": "#766856"
+          "$value": "#766856",
+          "$type": "color"
         },
         "loam": {
-          "$value": "#8b7355"
+          "$value": "#8b7355",
+          "$type": "color"
         }
       },
       "stone": {
         "$description": "Neutral mineral tones from natural stone and rock formations",
         "sandstone": {
-          "$value": "#d2b48c"
+          "$value": "#d2b48c",
+          "$type": "color"
         },
         "limestone": {
-          "$value": "#dcd0c0"
+          "$value": "#dcd0c0",
+          "$type": "color"
         },
         "slate": {
-          "$value": "#708090"
+          "$value": "#708090",
+          "$type": "color"
         },
         "granite": {
-          "$value": "#808080"
+          "$value": "#808080",
+          "$type": "color"
         },
         "chalk": {
-          "$value": "#f5f5dc"
+          "$value": "#f5f5dc",
+          "$type": "color"
         }
       },
       "foliage": {
         "$description": "Muted green tones inspired by natural plant life and vegetation",
         "sage": {
-          "$value": "#b2ac88"
+          "$value": "#b2ac88",
+          "$type": "color"
         },
         "olive": {
-          "$value": "#808000"
+          "$value": "#808000",
+          "$type": "color"
         },
         "moss": {
-          "$value": "#8a9a5b"
+          "$value": "#8a9a5b",
+          "$type": "color"
         },
         "fern": {
-          "$value": "#4f7942"
+          "$value": "#4f7942",
+          "$type": "color"
         },
         "hunter": {
-          "$value": "#355e3b"
+          "$value": "#355e3b",
+          "$type": "color"
         }
       }
     }

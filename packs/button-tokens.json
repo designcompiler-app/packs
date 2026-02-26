@@ -132,91 +132,110 @@
         "$description": "Primary button — main call-to-action",
         "bg": {
           "$value": "#2563EB",
-          "$description": "Fill color"
+          "$description": "Fill color",
+          "$type": "color"
         },
         "fg": {
           "$value": "#FFFFFF",
-          "$description": "Label text color"
+          "$description": "Label text color",
+          "$type": "color"
         },
         "hover": {
           "$value": "#1D4ED8",
-          "$description": "Fill on hover"
+          "$description": "Fill on hover",
+          "$type": "color"
         },
         "disabled": {
           "$value": "#93C5FD",
-          "$description": "Fill when disabled"
+          "$description": "Fill when disabled",
+          "$type": "color"
         }
       },
       "secondary": {
         "$description": "Secondary button — less prominent actions",
         "bg": {
           "$value": "#F3F4F6",
-          "$description": "Fill color"
+          "$description": "Fill color",
+          "$type": "color"
         },
         "fg": {
           "$value": "#111827",
-          "$description": "Label text color"
+          "$description": "Label text color",
+          "$type": "color"
         },
         "hover": {
           "$value": "#E5E7EB",
-          "$description": "Fill on hover"
+          "$description": "Fill on hover",
+          "$type": "color"
         },
         "disabled": {
           "$value": "#F9FAFB",
-          "$description": "Fill when disabled"
+          "$description": "Fill when disabled",
+          "$type": "color"
         }
       },
       "outline": {
         "$description": "Outline button — bordered, transparent background",
         "bg": {
           "$value": "#FFFFFF00",
-          "$description": "Transparent fill"
+          "$description": "Transparent fill",
+          "$type": "color"
         },
         "fg": {
           "$value": "#374151",
-          "$description": "Label text color"
+          "$description": "Label text color",
+          "$type": "color"
         },
         "border": {
           "$value": "#D1D5DB",
-          "$description": "Border stroke color"
+          "$description": "Border stroke color",
+          "$type": "color"
         },
         "hover": {
           "$value": "#F9FAFB",
-          "$description": "Fill on hover"
+          "$description": "Fill on hover",
+          "$type": "color"
         }
       },
       "ghost": {
         "$description": "Ghost button — no background, minimal style",
         "bg": {
           "$value": "#FFFFFF00",
-          "$description": "Transparent fill"
+          "$description": "Transparent fill",
+          "$type": "color"
         },
         "fg": {
           "$value": "#374151",
-          "$description": "Label text color"
+          "$description": "Label text color",
+          "$type": "color"
         },
         "hover": {
           "$value": "#F3F4F6",
-          "$description": "Fill on hover"
+          "$description": "Fill on hover",
+          "$type": "color"
         }
       },
       "destructive": {
         "$description": "Destructive button — delete, remove, danger actions",
         "bg": {
           "$value": "#DC2626",
-          "$description": "Danger fill color"
+          "$description": "Danger fill color",
+          "$type": "color"
         },
         "fg": {
           "$value": "#FFFFFF",
-          "$description": "Label text color"
+          "$description": "Label text color",
+          "$type": "color"
         },
         "hover": {
           "$value": "#B91C1C",
-          "$description": "Fill on hover"
+          "$description": "Fill on hover",
+          "$type": "color"
         },
         "disabled": {
           "$value": "#FCA5A5",
-          "$description": "Fill when disabled"
+          "$description": "Fill when disabled",
+          "$type": "color"
         }
       }
     }
