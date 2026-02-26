@@ -1,0 +1,166 @@
+name: Validate DTCG Packs
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Validate catalog.json
+        run: |
+          node -e "
+            const fs = require('fs');
+            const catalog = JSON.parse(fs.readFileSync('catalog.json', 'utf8'));
+
+            // Check required top-level fields
+            if (!catalog.version) throw new Error('catalog.version is required');
+            if (!catalog.generated) throw new Error('catalog.generated is required');
+            if (!Array.isArray(catalog.packs)) throw new Error('catalog.packs must be an array');
+
+            console.log('✅ catalog.json structure is valid');
+            console.log('   Version:', catalog.version);
+            console.log('   Generated:', catalog.generated);
+            console.log('   Packs:', catalog.packs.length);
+
+            // Check each catalog entry has required fields
+            const requiredFields = ['id', 'name', 'description', 'source', 'version', 'license', 'categories'];
+            for (const pack of catalog.packs) {
+              for (const field of requiredFields) {
+                if (!pack[field]) throw new Error('Pack ' + pack.id + ' missing required field: ' + field);
+              }
+              if (typeof pack.tokenCount !== 'number') {
+                throw new Error('Pack ' + pack.id + ' missing tokenCount');
+              }
+              if (typeof pack.sizeBytes !== 'number') {
+                throw new Error('Pack ' + pack.id + ' missing sizeBytes');
+              }
+            }
+            console.log('✅ All catalog entries have required metadata');
+          "
+
+      - name: Validate pack files
+        run: |
+          node -e "
+            const fs = require('fs');
+            const path = require('path');
+            const catalog = JSON.parse(fs.readFileSync('catalog.json', 'utf8'));
+            const catalogIds = new Set(catalog.packs.map(p => p.id));
+
+            // Get all pack files
+            const packFiles = fs.readdirSync('packs').filter(f => f.endsWith('.json'));
+            console.log('Found', packFiles.length, 'pack files');
+
+            let errors = 0;
+            const packIds = new Set();
+
+            for (const file of packFiles) {
+              const filePath = path.join('packs', file);
+              const expectedId = file.replace('.json', '');
+
+              try {
+                const pack = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+
+                // Check structure
+                if (!pack.meta) throw new Error('Missing meta object');
+                if (!pack.data) throw new Error('Missing data object');
+
+                // Check meta fields
+                const requiredMeta = ['id', 'name', 'description', 'source', 'version', 'license', 'categories'];
+                for (const field of requiredMeta) {
+                  if (!pack.meta[field]) throw new Error('Missing meta.' + field);
+                }
+
+                // Check id matches filename
+                if (pack.meta.id !== expectedId) {
+                  throw new Error('meta.id (' + pack.meta.id + ') does not match filename (' + expectedId + ')');
+                }
+
+                // Check for duplicate IDs
+                if (packIds.has(pack.meta.id)) {
+                  throw new Error('Duplicate pack id: ' + pack.meta.id);
+                }
+                packIds.add(pack.meta.id);
+
+                // Validate DTCG tokens (at least some should have \$type and \$value)
+                let tokenCount = 0;
+                function walkTokens(obj) {
+                  for (const [key, val] of Object.entries(obj)) {
+                    if (key === '__proto__' || key === 'constructor' || key === 'prototype') {
+                      throw new Error('Dangerous key detected: ' + key);
+                    }
+                    if (val && typeof val === 'object' && '\$value' in val) {
+                      tokenCount++;
+                    } else if (val && typeof val === 'object') {
+                      walkTokens(val);
+                    }
+                  }
+                }
+                walkTokens(pack.data);
+
+                if (tokenCount === 0) {
+                  throw new Error('No DTCG tokens found (no \$value keys in data)');
+                }
+
+                console.log('  ✅', file, '—', tokenCount, 'tokens');
+              } catch (err) {
+                console.error('  ❌', file, '—', err.message);
+                errors++;
+              }
+            }
+
+            // Check catalog <-> pack file consistency
+            for (const id of catalogIds) {
+              if (!packIds.has(id)) {
+                console.error('  ❌ Catalog references pack', id, 'but packs/' + id + '.json not found');
+                errors++;
+              }
+            }
+            for (const id of packIds) {
+              if (!catalogIds.has(id)) {
+                console.error('  ❌ Pack file', id, 'exists but not in catalog.json');
+                errors++;
+              }
+            }
+
+            if (errors > 0) {
+              console.error('\\n❌', errors, 'validation error(s) found');
+              process.exit(1);
+            }
+            console.log('\\n✅ All', packFiles.length, 'packs validated successfully');
+          "
+
+      - name: Check for prototype pollution keys
+        run: |
+          node -e "
+            const fs = require('fs');
+            const path = require('path');
+            const dangerous = ['__proto__', 'constructor', 'prototype'];
+
+            function checkFile(filePath) {
+              const content = fs.readFileSync(filePath, 'utf8');
+              for (const key of dangerous) {
+                const pattern = new RegExp('\"' + key + '\"\\\\s*:', 'g');
+                if (pattern.test(content)) {
+                  throw new Error(filePath + ' contains dangerous key: ' + key);
+                }
+              }
+            }
+
+            checkFile('catalog.json');
+            const packFiles = fs.readdirSync('packs').filter(f => f.endsWith('.json'));
+            for (const file of packFiles) {
+              checkFile(path.join('packs', file));
+            }
+            console.log('✅ No prototype pollution keys found');
+          "

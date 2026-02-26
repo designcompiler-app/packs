@@ -1,0 +1,1557 @@
+{
+  "version": "1.0",
+  "generated": "2026-02-26T13:44:26.457Z",
+  "packs": [
+    {
+      "id": "accessible-palette",
+      "name": "Accessible Palette",
+      "description": "Colors with 4.5:1 contrast against their designated background (white or black), meeting WCAG AA standards. Neutral colors meet 4.5:1 against both.",
+      "source": "StyleFuse",
+      "version": "1.0",
+      "license": "MIT",
+      "tokenCount": 19,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#0046a6",
+        "#007a41",
+        "#6bb3ff",
+        "#66d97e",
+        "#b31d28",
+        "#c4a0ff",
+        "#767676",
+        "#ff80b5"
+      ],
+      "file": "packs/accessible-palette.json",
+      "sizeBytes": 1473
+    },
+    {
+      "id": "ant-design-colors",
+      "name": "Ant Design Colors",
+      "description": "Complete color palette from Ant Design v6 — 12 color families with 10 algorithmically generated shades each. Palette identical to v5; v6 enables CSS variables by default. The most popular enterprise UI system for React.",
+      "source": "Ant Design",
+      "version": "6.0",
+      "license": "MIT",
+      "tokenCount": 120,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#1677ff",
+        "#52c41a",
+        "#faad14",
+        "#f5222d",
+        "#722ed1",
+        "#eb2f96",
+        "#13c2c2",
+        "#fa541c"
+      ],
+      "file": "packs/ant-design-colors.json",
+      "sizeBytes": 4233
+    },
+    {
+      "id": "apple-hig-colors",
+      "name": "Apple HIG Colors",
+      "description": "iOS and macOS system colors from Apple Human Interface Guidelines — 12 vibrant system colors and 6 gray levels, each with light and dark variants. sRGB baseline values; iOS 26 Liquid Glass adjustments are dynamic and not yet published. 36 tokens total.",
+      "source": "Apple HIG",
+      "version": "2025",
+      "license": "Reference",
+      "tokenCount": 36,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#007AFF",
+        "#FF3B30",
+        "#34C759",
+        "#FF9500",
+        "#AF52DE",
+        "#5856D6",
+        "#FF2D55",
+        "#FFCC00"
+      ],
+      "file": "packs/apple-hig-colors.json",
+      "sizeBytes": 2087
+    },
+    {
+      "id": "arco-design-colors",
+      "name": "Arco Design Colors",
+      "description": "ByteDance Arco Design functional color palette — 5 color families (blue, green, orange, red, gray) each with a 10-step gradient scale from lightest to darkest, generated via the @arco-design/color algorithm.",
+      "source": "Arco Design",
+      "version": "2.0",
+      "license": "MIT",
+      "tokenCount": 50,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#165dff",
+        "#00b42a",
+        "#ff7d00",
+        "#f53f3f",
+        "#f7f8fa",
+        "#4e5969",
+        "#0e42d2",
+        "#86909c"
+      ],
+      "file": "packs/arco-design-colors.json",
+      "sizeBytes": 2296
+    },
+    {
+      "id": "atlassian-colors",
+      "name": "Atlassian Design Colors",
+      "description": "Atlassian Design System color palette — 9 hue families (red, orange, yellow, green, teal, blue, purple, magenta, lime) with 12 steps each, plus a 12-step neutral scale. 120 tokens from @atlaskit/tokens v6.",
+      "source": "Atlassian",
+      "version": "6.1",
+      "license": "Apache-2.0",
+      "tokenCount": 120,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#357DE8",
+        "#F15B50",
+        "#2ABB7F",
+        "#CF9F02",
+        "#AF59E1",
+        "#DA62AC",
+        "#2898BD",
+        "#82B536"
+      ],
+      "file": "packs/atlassian-colors.json",
+      "sizeBytes": 4381
+    },
+    {
+      "id": "base-web-colors",
+      "name": "Base Web Colors",
+      "description": "Uber Base Web primitive color tokens — primary blue, negative red, warning gold, and positive green scales (50-700), plus black/white and rating star colors. The foundation palette for Base Web React components.",
+      "source": "Base Web",
+      "version": "14.0",
+      "license": "MIT",
+      "tokenCount": 37,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#276ef1",
+        "#de1135",
+        "#ffc043",
+        "#06c167",
+        "#000000",
+        "#eff4fe",
+        "#fff0ee",
+        "#eaf6ed"
+      ],
+      "file": "packs/base-web-colors.json",
+      "sizeBytes": 2146
+    },
+    {
+      "id": "bootstrap-colors",
+      "name": "Bootstrap 5 Colors",
+      "description": "Bootstrap 5.3 color system — theme colors (primary through dark), 9-step gray scale, and 10 extended color families with tint/shade variants. The most widely used CSS framework palette.",
+      "source": "Bootstrap",
+      "version": "5.3",
+      "license": "MIT",
+      "tokenCount": 107,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#0d6efd",
+        "#6610f2",
+        "#6f42c1",
+        "#d63384",
+        "#dc3545",
+        "#fd7e14",
+        "#ffc107",
+        "#198754"
+      ],
+      "file": "packs/bootstrap-colors.json",
+      "sizeBytes": 4118
+    },
+    {
+      "id": "button-tokens",
+      "name": "Button Tokens",
+      "description": "Complete button component tokens — 3 sizes (sm, md, lg) with padding, radius, and font size for each. Includes primary, secondary, outline, ghost, and destructive color variants with hover and disabled states.",
+      "source": "Design Compiler",
+      "version": "1.0",
+      "license": "CC0",
+      "tokenCount": 37,
+      "categories": [
+        "color",
+        "dimension"
+      ],
+      "preview": [
+        "#2563EB",
+        "#1D4ED8",
+        "#6B7280",
+        "#DC2626",
+        "#FFFFFF",
+        "#F3F4F6",
+        "#E5E7EB",
+        "#111827"
+      ],
+      "file": "packs/button-tokens.json",
+      "sizeBytes": 3982
+    },
+    {
+      "id": "carbon-colors",
+      "name": "IBM Carbon Colors",
+      "description": "Complete color palette from IBM Carbon Design System v11 — 12 color families with 10 grades each (10–100). Enterprise-grade design tokens for data-rich interfaces.",
+      "source": "IBM Carbon",
+      "version": "11.0",
+      "license": "Apache-2.0",
+      "tokenCount": 122,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#0f62fe",
+        "#da1e28",
+        "#198038",
+        "#8a3ffc",
+        "#1192e8",
+        "#ee5396",
+        "#b28600",
+        "#009d9a"
+      ],
+      "file": "packs/carbon-colors.json",
+      "sizeBytes": 4473
+    },
+    {
+      "id": "card-tokens",
+      "name": "Card Tokens",
+      "description": "Card component tokens — 3 elevation levels (flat, raised, floating) with padding, radius, shadow, and surface colors. Includes header, body, and footer spacing for consistent card layouts.",
+      "source": "Design Compiler",
+      "version": "1.0",
+      "license": "CC0",
+      "tokenCount": 24,
+      "categories": [
+        "color",
+        "dimension",
+        "shadow"
+      ],
+      "preview": [
+        "#FFFFFF",
+        "#F9FAFB",
+        "#111827",
+        "#6B7280",
+        "#E5E7EB",
+        "#3B82F6",
+        "#F3F4F6",
+        "#D1D5DB"
+      ],
+      "file": "packs/card-tokens.json",
+      "sizeBytes": 2914
+    },
+    {
+      "id": "catppuccin-colors",
+      "name": "Catppuccin Colors",
+      "description": "Catppuccin — a community-driven pastel theme with 4 flavors (Latte, Frappé, Macchiato, Mocha). 26 named colors per flavor spanning accents, text layers, surfaces, and backgrounds. 104 tokens total.",
+      "source": "Catppuccin",
+      "version": "1.0",
+      "license": "MIT",
+      "tokenCount": 104,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#1e1e2e",
+        "#cba6f7",
+        "#f38ba8",
+        "#a6e3a1",
+        "#89b4fa",
+        "#fab387",
+        "#f9e2af",
+        "#f5c2e7"
+      ],
+      "file": "packs/catppuccin-colors.json",
+      "sizeBytes": 4072
+    },
+    {
+      "id": "chakra-ui-colors",
+      "name": "Chakra UI Colors",
+      "description": "Complete color palette from Chakra UI v2 — 10 color families with 10 shades each (50–900). A balanced, accessible palette for modern React applications.",
+      "source": "Chakra UI",
+      "version": "2.3",
+      "license": "MIT",
+      "tokenCount": 100,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#E53E3E",
+        "#DD6B20",
+        "#D69E2E",
+        "#38A169",
+        "#319795",
+        "#3182CE",
+        "#805AD5",
+        "#D53F8C"
+      ],
+      "file": "packs/chakra-ui-colors.json",
+      "sizeBytes": 3791
+    },
+    {
+      "id": "chakra-v3-colors",
+      "name": "Chakra UI v3 Colors",
+      "description": "Chakra UI v3 color palette — 10 color families with 11 shades each (50–950). Restructured palette with deeper darks and new 950 shade. 110 tokens.",
+      "source": "Chakra UI",
+      "version": "3.0",
+      "license": "MIT",
+      "tokenCount": 110,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#ef4444",
+        "#f97316",
+        "#eab308",
+        "#22c55e",
+        "#14b8a6",
+        "#3b82f6",
+        "#a855f7",
+        "#ec4899"
+      ],
+      "file": "packs/chakra-v3-colors.json",
+      "sizeBytes": 4061
+    },
+    {
+      "id": "cool-palette",
+      "name": "Cool Palette",
+      "description": "Cool ocean and winter-inspired colors with icy blues, deep navy, and frosted tones",
+      "source": "StyleFuse",
+      "version": "1.0",
+      "license": "MIT",
+      "tokenCount": 20,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#93e9be",
+        "#7fffd4",
+        "#006994",
+        "#e8f4f8",
+        "#457b9d",
+        "#1d3557",
+        "#0f52ba",
+        "#4cc9f0"
+      ],
+      "file": "packs/cool-palette.json",
+      "sizeBytes": 1465
+    },
+    {
+      "id": "daisyui-themes",
+      "name": "DaisyUI Themes",
+      "description": "Semantic color tokens from 5 popular DaisyUI v5 themes (light, dark, cupcake, nord, dracula). Ready-to-use themed palettes built on Tailwind CSS with primary, secondary, accent, neutral, base, and state colors.",
+      "source": "DaisyUI",
+      "version": "5.0",
+      "license": "MIT",
+      "tokenCount": 100,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#422ad5",
+        "#f43098",
+        "#00d3bb",
+        "#605dff",
+        "#ff79c6",
+        "#5e81ac",
+        "#44ebd3",
+        "#00d390"
+      ],
+      "file": "packs/daisyui-themes.json",
+      "sizeBytes": 4376
+    },
+    {
+      "id": "dark-semantics",
+      "name": "Dark Mode Semantics",
+      "description": "Complete semantic color system for dark themes — matching roles to Light Mode Semantics with dark-optimized values. Hover, pressed, disabled, and focus variants included.",
+      "source": "Design Compiler",
+      "version": "1.0",
+      "license": "CC0",
+      "tokenCount": 40,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#60A5FA",
+        "#A78BFA",
+        "#34D399",
+        "#F87171",
+        "#0F172A",
+        "#F1F5F9",
+        "#1E293B",
+        "#334155"
+      ],
+      "file": "packs/dark-semantics.json",
+      "sizeBytes": 3730
+    },
+    {
+      "id": "dracula-colors",
+      "name": "Dracula Colors",
+      "description": "Dracula — a popular dark color scheme with vibrant accent colors. Includes background, foreground, and 8 syntax/UI accent colors designed for comfortable, high-contrast readability.",
+      "source": "Dracula",
+      "version": "1.0",
+      "license": "MIT",
+      "tokenCount": 12,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#282a36",
+        "#f8f8f2",
+        "#6272a4",
+        "#8be9fd",
+        "#50fa7b",
+        "#ffb86c",
+        "#ff79c6",
+        "#bd93f9"
+      ],
+      "file": "packs/dracula-colors.json",
+      "sizeBytes": 1127
+    },
+    {
+      "id": "duration-scale",
+      "name": "Duration Scale",
+      "description": "T-shirt sized duration tokens — from instant (50ms) to deliberate (1000ms). Includes contextual presets for tooltips, modals, drawers, page transitions, and loading states.",
+      "source": "Design Compiler",
+      "version": "1.0",
+      "license": "CC0",
+      "tokenCount": 16,
+      "categories": [
+        "motion"
+      ],
+      "preview": [],
+      "file": "packs/duration-scale.json",
+      "sizeBytes": 1631
+    },
+    {
+      "id": "earth-palette",
+      "name": "Earth Palette",
+      "description": "Warm, organic earth tones drawn from clay, soil, stone, and foliage",
+      "source": "StyleFuse",
+      "version": "1.0",
+      "license": "MIT",
+      "tokenCount": 20,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#c2704f",
+        "#a0522d",
+        "#6f4e37",
+        "#d2b48c",
+        "#708090",
+        "#b2ac88",
+        "#808000",
+        "#4f7942"
+      ],
+      "file": "packs/earth-palette.json",
+      "sizeBytes": 1422
+    },
+    {
+      "id": "element-plus-colors",
+      "name": "Element Plus Colors",
+      "description": "Element Plus default color system — 5 semantic color families (primary, success, warning, danger, info) each with light-3 through light-9 and dark-2 variants. The standard palette for Vue 3 enterprise applications.",
+      "source": "Element Plus",
+      "version": "2.9",
+      "license": "MIT",
+      "tokenCount": 37,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#409eff",
+        "#67c23a",
+        "#e6a23c",
+        "#f56c6c",
+        "#909399",
+        "#337ecc",
+        "#529b2e",
+        "#b88230"
+      ],
+      "file": "packs/element-plus-colors.json",
+      "sizeBytes": 2279
+    },
+    {
+      "id": "elevation-system",
+      "name": "Elevation System",
+      "description": "Generic 6-level elevation system with light and dark mode shadows. From flat surfaces (level 0) to floating dialogs (level 5). Consistent depth hierarchy for any UI.",
+      "source": "Design Compiler",
+      "version": "1.0",
+      "license": "CC0",
+      "tokenCount": 12,
+      "categories": [
+        "shadow"
+      ],
+      "preview": [],
+      "file": "packs/elevation-system.json",
+      "sizeBytes": 2511
+    },
+    {
+      "id": "evergreen-colors",
+      "name": "Evergreen Colors",
+      "description": "Segment Evergreen UI color system — 8 color families (blue, red, green, orange, yellow, teal, purple, neutral) with graduated scales from lightest to darkest. Designed for intentional, accessible, high-dynamic-range interfaces.",
+      "source": "Evergreen",
+      "version": "7.0",
+      "license": "MIT",
+      "tokenCount": 50,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#3366FF",
+        "#D14343",
+        "#52BD95",
+        "#FFB020",
+        "#6E62B6",
+        "#0F5156",
+        "#101840",
+        "#F9FAFC"
+      ],
+      "file": "packs/evergreen-colors.json",
+      "sizeBytes": 2608
+    },
+    {
+      "id": "fluent-colors",
+      "name": "Microsoft Fluent UI Colors",
+      "description": "Microsoft Fluent UI 2 shared color palette — 18 color families (cranberry, red, orange, peach, marigold, yellow, green, teal, cyan, blue, royalBlue, cornflower, navy, lavender, purple, berry, pink, magenta) with 12 stops each, plus 16-step Brand Web ramp. 232 tokens from @fluentui/tokens.",
+      "source": "Microsoft Fluent UI",
+      "version": "2.0",
+      "license": "MIT",
+      "tokenCount": 232,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#0078D4",
+        "#C50F1F",
+        "#107C10",
+        "#EAA300",
+        "#5C2E91",
+        "#E3008C",
+        "#0099BC",
+        "#4F6BED"
+      ],
+      "file": "packs/fluent-colors.json",
+      "sizeBytes": 8614
+    },
+    {
+      "id": "fluid-easing",
+      "name": "Fluid Easing Curves",
+      "description": "Comprehensive easing curve collection — standard timing functions plus specialized curves for bounce, elastic, and spring-like motion. 16 production-ready cubic-bezier curves.",
+      "source": "Design Compiler",
+      "version": "1.0",
+      "license": "CC0",
+      "tokenCount": 16,
+      "categories": [
+        "motion"
+      ],
+      "preview": [],
+      "file": "packs/fluid-easing.json",
+      "sizeBytes": 2147
+    },
+    {
+      "id": "fluid-type-scale",
+      "name": "Fluid Type Scale",
+      "description": "Responsive typography scale using CSS clamp() values. 8 steps from step-2 to step5, scaling fluidly between 320px and 1240px viewports. Includes matching line heights and font weights.",
+      "source": "Utopia",
+      "version": "1.0",
+      "license": "MIT",
+      "tokenCount": 24,
+      "categories": [
+        "typography",
+        "dimension"
+      ],
+      "preview": [],
+      "file": "packs/fluid-type-scale.json",
+      "sizeBytes": 1718
+    },
+    {
+      "id": "garden-colors",
+      "name": "Zendesk Garden Colors",
+      "description": "Zendesk Garden color palette — 7 hue families (grey, blue, red, yellow, green, kale, royal) each with 8 shades (100-800). Designed with consistent contrast ratios: 600 meets 3:1, 700 meets 4.5:1, 800 meets 7:1 against white.",
+      "source": "Zendesk Garden",
+      "version": "9.0",
+      "license": "Apache-2.0",
+      "tokenCount": 56,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#1f73b7",
+        "#cd3642",
+        "#d67305",
+        "#037f52",
+        "#40787a",
+        "#4c67d3",
+        "#5c6970",
+        "#e8eaec"
+      ],
+      "file": "packs/garden-colors.json",
+      "sizeBytes": 2763
+    },
+    {
+      "id": "geist-colors",
+      "name": "Geist Colors",
+      "description": "Vercel Geist Design System colors — a 9-step gray background scale, 8 accent hues (blue, cyan, green, orange, red, purple, pink, yellow), and 3 semantic colors for success, error, and warning states.",
+      "source": "Vercel Geist",
+      "version": "1.0",
+      "license": "MIT",
+      "tokenCount": 20,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#171717",
+        "#666666",
+        "#0072f5",
+        "#45dec5",
+        "#45a557",
+        "#ffb224",
+        "#e5484d",
+        "#8e4ec6"
+      ],
+      "file": "packs/geist-colors.json",
+      "sizeBytes": 1429
+    },
+    {
+      "id": "grid-8pt",
+      "name": "8-Point Grid Spacing",
+      "description": "Spacing system based on the 8-point grid. Includes 20 base grid steps (8px-160px), half-grid fine adjustments, component spacing presets, and layout section spacing.",
+      "source": "8pt Grid",
+      "version": "1.0",
+      "license": "MIT",
+      "tokenCount": 30,
+      "categories": [
+        "dimension"
+      ],
+      "preview": [],
+      "file": "packs/grid-8pt.json",
+      "sizeBytes": 1591
+    },
+    {
+      "id": "gruvbox-colors",
+      "name": "Gruvbox Colors",
+      "description": "Gruvbox — a retro groove color scheme with warm, desaturated tones. Includes dark and light background scales, foreground values, 7 standard accents, 7 bright accents, and a neutral gray. 31 tokens total.",
+      "source": "Gruvbox",
+      "version": "1.0",
+      "license": "MIT",
+      "tokenCount": 31,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#282828",
+        "#fbf1c7",
+        "#cc241d",
+        "#98971a",
+        "#d79921",
+        "#458588",
+        "#b16286",
+        "#d65d0e"
+      ],
+      "file": "packs/gruvbox-colors.json",
+      "sizeBytes": 1981
+    },
+    {
+      "id": "ibm-type-scale",
+      "name": "IBM Carbon Type Scale",
+      "description": "Typography tokens from IBM Carbon Design System v11. Includes productive type set with font sizes, weights, line heights, and letter spacing for caption through heading-07.",
+      "source": "IBM Carbon",
+      "version": "11.0",
+      "license": "Apache-2.0",
+      "tokenCount": 33,
+      "categories": [
+        "typography",
+        "dimension"
+      ],
+      "preview": [],
+      "file": "packs/ibm-type-scale.json",
+      "sizeBytes": 1860
+    },
+    {
+      "id": "input-tokens",
+      "name": "Input Tokens",
+      "description": "Form input tokens — 3 sizes (sm, md, lg) with state coverage: default, hover, focus, error, and disabled. Includes dimensions and colors for text inputs, selects, and textareas.",
+      "source": "Design Compiler",
+      "version": "1.0",
+      "license": "CC0",
+      "tokenCount": 28,
+      "categories": [
+        "color",
+        "dimension"
+      ],
+      "preview": [
+        "#FFFFFF",
+        "#111827",
+        "#6B7280",
+        "#2563EB",
+        "#DC2626",
+        "#E5E7EB",
+        "#F3F4F6",
+        "#D1D5DB"
+      ],
+      "file": "packs/input-tokens.json",
+      "sizeBytes": 3182
+    },
+    {
+      "id": "ios-elevation",
+      "name": "iOS Elevation",
+      "description": "Shadow tokens inspired by Apple HIG elevation — navigation bars, cards, sheets, modals, and alerts. Tuned for the subtle, diffused shadow style used across iOS and macOS.",
+      "source": "Design Compiler",
+      "version": "1.0",
+      "license": "CC0",
+      "tokenCount": 8,
+      "categories": [
+        "shadow"
+      ],
+      "preview": [],
+      "file": "packs/ios-elevation.json",
+      "sizeBytes": 1737
+    },
+    {
+      "id": "light-semantics",
+      "name": "Light Mode Semantics",
+      "description": "Complete semantic color system for light themes — primary, secondary, surface, and state roles with hover, pressed, disabled, and focus variants. Primary and state colors target WCAG AA contrast.",
+      "source": "Design Compiler",
+      "version": "1.0",
+      "license": "CC0",
+      "tokenCount": 40,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#2563EB",
+        "#7C3AED",
+        "#059669",
+        "#DC2626",
+        "#FFFFFF",
+        "#0F172A",
+        "#F1F5F9",
+        "#E2E8F0"
+      ],
+      "file": "packs/light-semantics.json",
+      "sizeBytes": 3756
+    },
+    {
+      "id": "lightning-colors",
+      "name": "Salesforce Lightning Colors",
+      "description": "Salesforce Lightning Design System (SLDS) color palette — 12 hue families (blue, cloud blue, green, teal, hot orange, orange, yellow, pink, red, purple, violet, indigo) with 12-step scales, plus a 14-step neutral. 158 tokens. Primitive values identical in SLDS 2.",
+      "source": "Salesforce SLDS",
+      "version": "2.25",
+      "license": "MIT",
+      "tokenCount": 158,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#0176d3",
+        "#1b96ff",
+        "#ea001e",
+        "#2e844a",
+        "#9050e9",
+        "#e3066a",
+        "#a86403",
+        "#0b827c"
+      ],
+      "file": "packs/lightning-colors.json",
+      "sizeBytes": 5437
+    },
+    {
+      "id": "mantine-colors",
+      "name": "Mantine Colors",
+      "description": "Complete color palette from Mantine v7 — 14 color families with 10 shades each (0–9). A vibrant, accessible palette built on Open Color foundations for React applications.",
+      "source": "Mantine",
+      "version": "7.0",
+      "license": "MIT",
+      "tokenCount": 140,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#fa5252",
+        "#e64980",
+        "#be4bdb",
+        "#7950f2",
+        "#4c6ef5",
+        "#228be6",
+        "#15aabf",
+        "#12b886"
+      ],
+      "file": "packs/mantine-colors.json",
+      "sizeBytes": 4907
+    },
+    {
+      "id": "marketing-starter",
+      "name": "Marketing Starter Kit",
+      "description": "Bold token set for marketing sites and landing pages — vibrant brand colors, dramatic type scale, generous spacing, and eye-catching shadows. Makes every landing page pop.",
+      "source": "Design Compiler",
+      "version": "1.0",
+      "license": "CC0",
+      "tokenCount": 64,
+      "categories": [
+        "color",
+        "dimension",
+        "typography",
+        "shadow"
+      ],
+      "preview": [
+        "#7C3AED",
+        "#EC4899",
+        "#F97316",
+        "#14B8A6",
+        "#0F172A",
+        "#F8FAFC",
+        "#FDE68A",
+        "#818CF8"
+      ],
+      "file": "packs/marketing-starter.json",
+      "sizeBytes": 5230
+    },
+    {
+      "id": "material-colors",
+      "name": "Material Design 3 Colors",
+      "description": "Semantic color tokens from Google Material Design 3 (Material You). Includes baseline light and dark theme palettes with primary, secondary, tertiary, error, and surface roles.",
+      "source": "Material Design",
+      "version": "3.0",
+      "license": "Apache-2.0",
+      "tokenCount": 64,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#6750A4",
+        "#625B71",
+        "#7D5260",
+        "#B3261E",
+        "#FEF7FF",
+        "#1C1B1F"
+      ],
+      "file": "packs/material-colors.json",
+      "sizeBytes": 4797
+    },
+    {
+      "id": "material-motion",
+      "name": "Material Motion",
+      "description": "Material Design 3 motion tokens — standard and emphasized easing curves plus duration tokens for short, medium, long, and extra-long transitions. Based on the M3 motion spec.",
+      "source": "Material Design",
+      "version": "3.0",
+      "license": "Apache-2.0",
+      "tokenCount": 16,
+      "categories": [
+        "motion"
+      ],
+      "preview": [],
+      "file": "packs/material-motion.json",
+      "sizeBytes": 2020
+    },
+    {
+      "id": "material-type-scale",
+      "name": "Material Design 3 Type Scale",
+      "description": "Complete Material Design 3 type system with display, headline, title, body, and label roles at large, medium, and small sizes. Includes font size, weight, line height, and letter spacing for each.",
+      "source": "Material Design",
+      "version": "3.0",
+      "license": "Apache-2.0",
+      "tokenCount": 60,
+      "categories": [
+        "typography",
+        "dimension"
+      ],
+      "preview": [],
+      "file": "packs/material-type-scale.json",
+      "sizeBytes": 4107
+    },
+    {
+      "id": "mobile-app-starter",
+      "name": "Mobile App Starter Kit",
+      "description": "Compact token set for mobile app design — touch-friendly spacing, platform-appropriate radii, compact type scale, and elevation hierarchy. Optimized for iOS and Android.",
+      "source": "Design Compiler",
+      "version": "1.0",
+      "license": "CC0",
+      "tokenCount": 70,
+      "categories": [
+        "color",
+        "dimension",
+        "typography",
+        "shadow"
+      ],
+      "preview": [
+        "#0EA5E9",
+        "#6366F1",
+        "#22C55E",
+        "#EF4444",
+        "#F8FAFC",
+        "#020617",
+        "#F59E0B",
+        "#64748B"
+      ],
+      "file": "packs/mobile-app-starter.json",
+      "sizeBytes": 5511
+    },
+    {
+      "id": "modular-scales",
+      "name": "Typographic Modular Scales",
+      "description": "Three classic modular type scales: minor third (1.2), major third (1.25), and perfect fourth (1.333). Each provides 10 steps from -2 to 7 with a 1rem base.",
+      "source": "Modular Scale",
+      "version": "1.0",
+      "license": "MIT",
+      "tokenCount": 30,
+      "categories": [
+        "typography",
+        "dimension"
+      ],
+      "preview": [],
+      "file": "packs/modular-scales.json",
+      "sizeBytes": 1693
+    },
+    {
+      "id": "monochrome-palette",
+      "name": "Monochrome Palette",
+      "description": "Refined grayscale and monochrome tokens for minimalist interfaces, plus tinted neutral variations",
+      "source": "StyleFuse",
+      "version": "1.0",
+      "license": "MIT",
+      "tokenCount": 32,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#ffffff",
+        "#9e9e9e",
+        "#212121",
+        "#000000",
+        "#f5f5f4",
+        "#78716c",
+        "#f3f4f6",
+        "#6b7280"
+      ],
+      "file": "packs/monochrome-palette.json",
+      "sizeBytes": 1759
+    },
+    {
+      "id": "monokai-colors",
+      "name": "Monokai Colors",
+      "description": "Monokai — the classic dark color scheme by Wimer Hazenberg. Features vibrant syntax accent colors against a warm, dark olive-tinted background. Includes 6 syntax colors and editor UI values.",
+      "source": "Monokai",
+      "version": "1.0",
+      "license": "MIT",
+      "tokenCount": 12,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#272822",
+        "#f8f8f2",
+        "#f92672",
+        "#fd971f",
+        "#e6db74",
+        "#a6e22e",
+        "#66d9ef",
+        "#ae81ff"
+      ],
+      "file": "packs/monokai-colors.json",
+      "sizeBytes": 1092
+    },
+    {
+      "id": "neon-palette",
+      "name": "Neon Palette",
+      "description": "High-energy neon and electric colors for bold UIs, gaming, and creative projects",
+      "source": "StyleFuse",
+      "version": "1.0",
+      "license": "MIT",
+      "tokenCount": 22,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#ff007f",
+        "#39ff14",
+        "#0000ff",
+        "#bf00ff",
+        "#00ffff",
+        "#ff69b4",
+        "#66ff66",
+        "#660099"
+      ],
+      "file": "packs/neon-palette.json",
+      "sizeBytes": 1487
+    },
+    {
+      "id": "neutral-surfaces",
+      "name": "Neutral Surfaces",
+      "description": "10-level surface hierarchy for light and dark modes — from background to highest elevation. Includes on-surface text colors for each level. Pairs with any brand palette.",
+      "source": "Design Compiler",
+      "version": "1.0",
+      "license": "CC0",
+      "tokenCount": 30,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#FFFFFF",
+        "#F8FAFC",
+        "#F1F5F9",
+        "#E2E8F0",
+        "#0F172A",
+        "#1E293B",
+        "#334155",
+        "#475569"
+      ],
+      "file": "packs/neutral-surfaces.json",
+      "sizeBytes": 2602
+    },
+    {
+      "id": "nord-colors",
+      "name": "Nord Colors",
+      "description": "The Nord color palette — 16 carefully chosen arctic colors across 4 palettes: Polar Night (dark backgrounds), Snow Storm (light text/surfaces), Frost (primary accents), and Aurora (status/accent colors).",
+      "source": "Nord",
+      "version": "0.2.0",
+      "license": "MIT",
+      "tokenCount": 16,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#2e3440",
+        "#88c0d0",
+        "#81a1c1",
+        "#5e81ac",
+        "#bf616a",
+        "#a3be8c",
+        "#ebcb8b",
+        "#b48ead"
+      ],
+      "file": "packs/nord-colors.json",
+      "sizeBytes": 1394
+    },
+    {
+      "id": "one-dark-colors",
+      "name": "One Dark Colors",
+      "description": "Atom One Dark — the iconic dark theme from the Atom editor. Includes background, foreground, 6 syntax accent colors, and editor UI colors for gutter, selection, cursor, and guides.",
+      "source": "One Dark",
+      "version": "1.0",
+      "license": "MIT",
+      "tokenCount": 13,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#282c34",
+        "#abb2bf",
+        "#e06c75",
+        "#98c379",
+        "#e5c07b",
+        "#61afef",
+        "#c678dd",
+        "#56b6c2"
+      ],
+      "file": "packs/one-dark-colors.json",
+      "sizeBytes": 1166
+    },
+    {
+      "id": "opacity-scale",
+      "name": "Opacity Scale",
+      "description": "Semantic opacity tokens — 10-step numeric scale plus presets for disabled states, hover overlays, scrims, watermarks, and loading states. Consistent transparency system.",
+      "source": "Design Compiler",
+      "version": "1.0",
+      "license": "CC0",
+      "tokenCount": 18,
+      "categories": [
+        "dimension"
+      ],
+      "preview": [],
+      "file": "packs/opacity-scale.json",
+      "sizeBytes": 1368
+    },
+    {
+      "id": "open-props-colors",
+      "name": "Open Props Colors",
+      "description": "System-agnostic color palette from Open Props. 17 color families with 13 shades each (0–12), designed for universal use across any design system.",
+      "source": "Open Props",
+      "version": "1.7",
+      "license": "MIT",
+      "tokenCount": 221,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#e63946",
+        "#f4a261",
+        "#e9c46a",
+        "#2a9d8f",
+        "#457b9d",
+        "#6c63ff",
+        "#e07be0"
+      ],
+      "file": "packs/open-props-colors.json",
+      "sizeBytes": 6807
+    },
+    {
+      "id": "pastel-palette",
+      "name": "Pastel Palette",
+      "description": "Soft, muted pastels ideal for gentle UIs, cards, tags, and backgrounds",
+      "source": "StyleFuse",
+      "version": "1.0",
+      "license": "MIT",
+      "tokenCount": 21,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#ffc2d1",
+        "#ffcdb2",
+        "#b5ead7",
+        "#bde0fe",
+        "#c7ceea",
+        "#ffb5a7",
+        "#c1f0c1",
+        "#d8bfd8"
+      ],
+      "file": "packs/pastel-palette.json",
+      "sizeBytes": 1360
+    },
+    {
+      "id": "polaris-colors",
+      "name": "Shopify Polaris Colors",
+      "description": "Shopify Polaris color palette — 13 scales (gray, rose, red, orange, yellow, lime, green, cyan, teal, azure, blue, purple, magenta) with 16 steps each. 208 tokens from @shopify/polaris-tokens v9.4.",
+      "source": "Shopify Polaris",
+      "version": "9.4",
+      "license": "MIT",
+      "tokenCount": 208,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#0071E9",
+        "#E22C38",
+        "#0D9C6A",
+        "#FFB800",
+        "#9474FF",
+        "#E156E1",
+        "#0094D5",
+        "#B28400"
+      ],
+      "file": "packs/polaris-colors.json",
+      "sizeBytes": 6533
+    },
+    {
+      "id": "primer-colors",
+      "name": "GitHub Primer Colors",
+      "description": "Base color scales from GitHub Primer design system — 8 chromatic families with 10 shades (0–9) plus a 14-step neutral ramp. Built on Style Dictionary, one of the closest to DTCG-native.",
+      "source": "GitHub Primer",
+      "version": "11.5",
+      "license": "MIT",
+      "tokenCount": 94,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#218bff",
+        "#2da44e",
+        "#bf8700",
+        "#cf222e",
+        "#8250df",
+        "#bf3989",
+        "#e16f24",
+        "#ec6547"
+      ],
+      "file": "packs/primer-colors.json",
+      "sizeBytes": 3465
+    },
+    {
+      "id": "radix-colors",
+      "name": "Radix UI Colors",
+      "description": "Accessible 12-step color scales from Radix UI. Each step has a specific use case — from subtle backgrounds (1–2) through component backgrounds (3–5), borders (6–8), solid colors (9–10), to text (11–12).",
+      "source": "Radix UI",
+      "version": "3.0",
+      "license": "MIT",
+      "tokenCount": 156,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#e54d2e",
+        "#e5484d",
+        "#ab4aba",
+        "#3e63dd",
+        "#12a594",
+        "#46a758",
+        "#f76b15"
+      ],
+      "file": "packs/radix-colors.json",
+      "sizeBytes": 5196
+    },
+    {
+      "id": "responsive-breakpoints",
+      "name": "Responsive Breakpoints",
+      "description": "Standard responsive breakpoints — mobile-first min-widths (xs through 2xl), desktop-first max-widths, and container query widths. Foundation for adaptive layouts.",
+      "source": "Design Compiler",
+      "version": "1.0",
+      "license": "CC0",
+      "tokenCount": 16,
+      "categories": [
+        "dimension"
+      ],
+      "preview": [],
+      "file": "packs/responsive-breakpoints.json",
+      "sizeBytes": 1500
+    },
+    {
+      "id": "rose-pine-colors",
+      "name": "Rosé Pine Colors",
+      "description": "Rosé Pine — an all-natural pine, faux fur, and a bit of soho vibes. 3 variants: Main (darkest), Moon (mid-dark), and Dawn (light). Each variant includes base surfaces, muted/subtle text, foreground, 6 accent colors, and highlight layers.",
+      "source": "Rosé Pine",
+      "version": "1.0",
+      "license": "MIT",
+      "tokenCount": 39,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#191724",
+        "#232136",
+        "#faf4ed",
+        "#eb6f92",
+        "#f6c177",
+        "#ebbcba",
+        "#31748f",
+        "#c4a7e7"
+      ],
+      "file": "packs/rose-pine-colors.json",
+      "sizeBytes": 2052
+    },
+    {
+      "id": "rounded-system",
+      "name": "Rounded System",
+      "description": "Comprehensive border radius scale — 10-step base scale from sharp (0) to full pill (9999px) plus semantic presets for buttons, cards, inputs, badges, avatars, and modals.",
+      "source": "Design Compiler",
+      "version": "1.0",
+      "license": "CC0",
+      "tokenCount": 19,
+      "categories": [
+        "dimension"
+      ],
+      "preview": [],
+      "file": "packs/rounded-system.json",
+      "sizeBytes": 1910
+    },
+    {
+      "id": "saas-starter",
+      "name": "SaaS Starter Kit",
+      "description": "Complete token foundation for SaaS dashboards — brand colors, neutral scale, semantic states, type scale, spacing, shadows, and border radii. Bootstrap a full design system in one click.",
+      "source": "Design Compiler",
+      "version": "1.0",
+      "license": "CC0",
+      "tokenCount": 78,
+      "categories": [
+        "color",
+        "dimension",
+        "typography",
+        "shadow"
+      ],
+      "preview": [
+        "#3B82F6",
+        "#8B5CF6",
+        "#10B981",
+        "#EF4444",
+        "#F59E0B",
+        "#6B7280",
+        "#111827",
+        "#F9FAFB"
+      ],
+      "file": "packs/saas-starter.json",
+      "sizeBytes": 5970
+    },
+    {
+      "id": "semi-design-colors",
+      "name": "Semi Design Colors",
+      "description": "ByteDance Semi Design color palette — 10 hue families (blue, cyan, green, yellow, orange, red, pink, purple, violet, grey) each with a 10-step scale from lightest (0) to darkest (9), totaling 100 color tokens.",
+      "source": "Semi Design",
+      "version": "2.0",
+      "license": "MIT",
+      "tokenCount": 100,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#0064fa",
+        "#05a4b6",
+        "#3bb346",
+        "#fac800",
+        "#fc8800",
+        "#f93920",
+        "#e91e63",
+        "#6a3ac7"
+      ],
+      "file": "packs/semi-design-colors.json",
+      "sizeBytes": 3845
+    },
+    {
+      "id": "shadcn-colors",
+      "name": "Shadcn/ui Colors",
+      "description": "Default shadcn/ui v4 theme tokens (zinc base) — semantic color pairs for backgrounds, cards, popovers, primary, secondary, muted, accent, destructive, borders, charts, and sidebar. Light and dark modes. 62 tokens.",
+      "source": "shadcn/ui",
+      "version": "4.0",
+      "license": "MIT",
+      "tokenCount": 62,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#18181b",
+        "#09090b",
+        "#f4f4f5",
+        "#71717b",
+        "#e7000b",
+        "#e4e4e7",
+        "#fafafa",
+        "#27272a"
+      ],
+      "file": "packs/shadcn-colors.json",
+      "sizeBytes": 3004
+    },
+    {
+      "id": "soft-ui-shadows",
+      "name": "Soft UI Shadows",
+      "description": "Neumorphism-inspired shadow system — convex (raised), concave (pressed), and flat states with paired light/dark shadows. Perfect for soft, tactile UI designs.",
+      "source": "Design Compiler",
+      "version": "1.0",
+      "license": "CC0",
+      "tokenCount": 10,
+      "categories": [
+        "shadow"
+      ],
+      "preview": [],
+      "file": "packs/soft-ui-shadows.json",
+      "sizeBytes": 2303
+    },
+    {
+      "id": "solarized-colors",
+      "name": "Solarized Colors",
+      "description": "Solarized — a precision-engineered 16-color palette by Ethan Schoonover. 8 monotone base colors (supporting both light and dark modes) plus 8 accent colors with balanced contrast and CIELAB lightness relationships.",
+      "source": "Solarized",
+      "version": "1.0",
+      "license": "MIT",
+      "tokenCount": 16,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#002b36",
+        "#fdf6e3",
+        "#268bd2",
+        "#2aa198",
+        "#859900",
+        "#b58900",
+        "#dc322f",
+        "#d33682"
+      ],
+      "file": "packs/solarized-colors.json",
+      "sizeBytes": 1369
+    },
+    {
+      "id": "spectrum-colors",
+      "name": "Adobe Spectrum Colors",
+      "description": "Adobe Spectrum 2 color palette — 15 scales (gray, blue, red, orange, yellow, green, cyan, seafoam, indigo, purple, fuchsia, magenta, pink, chartreuse, celery) for light theme. 237 tokens from @adobe/spectrum-tokens.",
+      "source": "Adobe Spectrum",
+      "version": "2.0",
+      "license": "Apache-2.0",
+      "tokenCount": 237,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#3b63fb",
+        "#d73220",
+        "#fc7d00",
+        "#12b867",
+        "#1286cd",
+        "#a65ce7",
+        "#f02d6e",
+        "#b6db00"
+      ],
+      "file": "packs/spectrum-colors.json",
+      "sizeBytes": 7899
+    },
+    {
+      "id": "starter-palette",
+      "name": "Starter Palette",
+      "description": "A production-ready starter palette for new projects — semantic theme colors, 10-step neutral scale, and state colors. WCAG AA compliant. Fork-friendly CC0 license.",
+      "source": "Design Compiler",
+      "version": "1.0",
+      "license": "CC0",
+      "tokenCount": 38,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#2563eb",
+        "#7c3aed",
+        "#059669",
+        "#dc2626",
+        "#d97706",
+        "#64748b",
+        "#0f172a",
+        "#f8fafc"
+      ],
+      "file": "packs/starter-palette.json",
+      "sizeBytes": 2075
+    },
+    {
+      "id": "status-colors",
+      "name": "Status Colors System",
+      "description": "Comprehensive status color system — success, warning, error, and info with 9 role-based variants each: base, background, foreground, border, icon, hover, pressed, subtle, and strong.",
+      "source": "Design Compiler",
+      "version": "1.0",
+      "license": "CC0",
+      "tokenCount": 36,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#059669",
+        "#D97706",
+        "#DC2626",
+        "#2563EB",
+        "#ECFDF5",
+        "#FFFBEB",
+        "#FEF2F2",
+        "#EFF6FF"
+      ],
+      "file": "packs/status-colors.json",
+      "sizeBytes": 3420
+    },
+    {
+      "id": "tailwind-colors",
+      "name": "Tailwind CSS Colors",
+      "description": "Complete Tailwind CSS v4.2 color palette — 26 color families with 11 shades each (50–950). Includes 4 new tinted neutrals (mauve, olive, mist, taupe) added in v4.2. The industry-standard utility color system.",
+      "source": "Tailwind CSS",
+      "version": "4.2",
+      "license": "MIT",
+      "tokenCount": 286,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#ef4444",
+        "#f97316",
+        "#eab308",
+        "#22c55e",
+        "#06b6d4",
+        "#3b82f6",
+        "#8b5cf6",
+        "#ec4899"
+      ],
+      "file": "packs/tailwind-colors.json",
+      "sizeBytes": 9508
+    },
+    {
+      "id": "tailwind-core",
+      "name": "Tailwind CSS Core",
+      "description": "Spacing scale, font sizes, font weights, border radii, and shadows from Tailwind CSS v4. Pairs with the Tailwind Colors pack.",
+      "source": "Tailwind CSS",
+      "version": "4.2",
+      "license": "MIT",
+      "tokenCount": 84,
+      "categories": [
+        "dimension",
+        "typography",
+        "shadow"
+      ],
+      "preview": [],
+      "file": "packs/tailwind-core.json",
+      "sizeBytes": 3588
+    },
+    {
+      "id": "tokyo-night-colors",
+      "name": "Tokyo Night Colors",
+      "description": "Tokyo Night — a dark theme inspired by Tokyo city lights at night. Includes night and storm variant backgrounds, foreground layers, and 8 vibrant syntax accent colors.",
+      "source": "Tokyo Night",
+      "version": "1.0",
+      "license": "MIT",
+      "tokenCount": 16,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#1a1b26",
+        "#7aa2f7",
+        "#7dcfff",
+        "#bb9af7",
+        "#ff9e64",
+        "#f7768e",
+        "#9ece6a",
+        "#e0af68"
+      ],
+      "file": "packs/tokyo-night-colors.json",
+      "sizeBytes": 1283
+    },
+    {
+      "id": "vuetify-colors",
+      "name": "Vuetify Material Design Colors",
+      "description": "Material Design color palette from Vuetify 3 — 16 color families (red through deep orange) with base values and full lighten/darken variant scales for key families. The standard palette for Vue Material Design applications.",
+      "source": "Vuetify",
+      "version": "3.7",
+      "license": "MIT",
+      "tokenCount": 70,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#f44336",
+        "#e91e63",
+        "#9c27b0",
+        "#3f51b5",
+        "#2196f3",
+        "#4caf50",
+        "#ff9800",
+        "#ff5722"
+      ],
+      "file": "packs/vuetify-colors.json",
+      "sizeBytes": 3838
+    },
+    {
+      "id": "warm-palette",
+      "name": "Warm Palette",
+      "description": "Warm sunset and autumn-inspired colors with amber, burnt orange, and rose gold tones",
+      "source": "StyleFuse",
+      "version": "1.0",
+      "license": "MIT",
+      "tokenCount": 20,
+      "categories": [
+        "color"
+      ],
+      "preview": [
+        "#ffecd2",
+        "#fcb69f",
+        "#ff9a9e",
+        "#c0392b",
+        "#f39c12",
+        "#b76e79",
+        "#daa520",
+        "#420d09"
+      ],
+      "file": "packs/warm-palette.json",
+      "sizeBytes": 1478
+    },
+    {
+      "id": "z-index-system",
+      "name": "Z-Index System",
+      "description": "Named z-index layers for consistent stacking — base, dropdown, sticky, overlay, modal, popover, toast, and tooltip. Prevents z-index conflicts with clear semantic layers.",
+      "source": "Design Compiler",
+      "version": "1.0",
+      "license": "CC0",
+      "tokenCount": 10,
+      "categories": [
+        "dimension"
+      ],
+      "preview": [],
+      "file": "packs/z-index-system.json",
+      "sizeBytes": 1268
+    }
+  ]
+}
