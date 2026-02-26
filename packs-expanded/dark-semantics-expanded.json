@@ -2,7 +2,7 @@
   "meta": {
     "id": "dark-semantics-expanded",
     "name": "Dark Mode Semantics (Expanded)",
-    "description": "Complete semantic color system for dark themes — matching roles to Light Mode Semantics with dark-optimized values. Hover, pressed, disabled, and focus variants included. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Dark Mode Semantics, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Design Compiler",
     "version": "1.0",
     "license": "CC0",

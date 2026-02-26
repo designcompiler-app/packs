@@ -2,7 +2,7 @@
   "meta": {
     "id": "fluent-colors-expanded",
     "name": "Microsoft Fluent UI Colors (Expanded)",
-    "description": "Microsoft Fluent UI 2 shared color palette — 18 color families (cranberry, red, orange, peach, marigold, yellow, green, teal, cyan, blue, royalBlue, cornflower, navy, lavender, purple, berry, pink, magenta) with 12 stops each, plus 16-step Brand Web ramp. 232 tokens from @fluentui/tokens. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Microsoft Fluent UI Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Microsoft Fluent UI. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Microsoft Fluent UI",
     "version": "2.0",
     "license": "MIT",

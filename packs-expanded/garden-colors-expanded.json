@@ -2,7 +2,7 @@
   "meta": {
     "id": "garden-colors-expanded",
     "name": "Zendesk Garden Colors (Expanded)",
-    "description": "Zendesk Garden color palette — 7 hue families (grey, blue, red, yellow, green, kale, royal) each with 8 shades (100-800). Designed with consistent contrast ratios: 600 meets 3:1, 700 meets 4.5:1, 800 meets 7:1 against white. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Zendesk Garden Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Zendesk Garden. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Zendesk Garden",
     "version": "9.0",
     "license": "Apache-2.0",

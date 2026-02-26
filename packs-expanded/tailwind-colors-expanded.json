@@ -2,7 +2,7 @@
   "meta": {
     "id": "tailwind-colors-expanded",
     "name": "Tailwind CSS Colors (Expanded)",
-    "description": "Complete Tailwind CSS v4.2 color palette — 26 color families with 11 shades each (50–950). Includes 4 new tinted neutrals (mauve, olive, mist, taupe) added in v4.2. The industry-standard utility color system. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Tailwind CSS Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Tailwind CSS. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Tailwind CSS",
     "version": "4.2",
     "license": "MIT",

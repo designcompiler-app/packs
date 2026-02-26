@@ -2,7 +2,7 @@
   "meta": {
     "id": "atlassian-colors-expanded",
     "name": "Atlassian Design Colors (Expanded)",
-    "description": "Atlassian Design System color palette — 9 hue families (red, orange, yellow, green, teal, blue, purple, magenta, lime) with 12 steps each, plus a 12-step neutral scale. 120 tokens from @atlaskit/tokens v6. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Atlassian Design Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Atlassian. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Atlassian",
     "version": "6.1",
     "license": "Apache-2.0",

@@ -2,7 +2,7 @@
   "meta": {
     "id": "chakra-ui-colors-expanded",
     "name": "Chakra UI Colors (Expanded)",
-    "description": "Complete color palette from Chakra UI v2 — 10 color families with 10 shades each (50–900). A balanced, accessible palette for modern React applications. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Chakra UI Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Chakra UI. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Chakra UI",
     "version": "2.3",
     "license": "MIT",

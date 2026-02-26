@@ -2,7 +2,7 @@
   "meta": {
     "id": "modular-scales-expanded",
     "name": "Typographic Modular Scales (Expanded)",
-    "description": "Three classic modular type scales: minor third (1.2), major third (1.25), and perfect fourth (1.333). Each provides 10 steps from -2 to 7 with a 1rem base. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Typographic Modular Scales, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Modular Scale. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Modular Scale",
     "version": "1.0",
     "license": "MIT",

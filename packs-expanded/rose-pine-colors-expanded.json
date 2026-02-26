@@ -2,7 +2,7 @@
   "meta": {
     "id": "rose-pine-colors-expanded",
     "name": "Rosé Pine Colors (Expanded)",
-    "description": "Rosé Pine — an all-natural pine, faux fur, and a bit of soho vibes. 3 variants: Main (darkest), Moon (mid-dark), and Dawn (light). Each variant includes base surfaces, muted/subtle text, foreground, 6 accent colors, and highlight layers. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Rosé Pine Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Rosé Pine. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Rosé Pine",
     "version": "1.0",
     "license": "MIT",

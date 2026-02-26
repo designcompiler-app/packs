@@ -2,7 +2,7 @@
   "meta": {
     "id": "rounded-system-expanded",
     "name": "Rounded System (Expanded)",
-    "description": "Comprehensive border radius scale — 10-step base scale from sharp (0) to full pill (9999px) plus semantic presets for buttons, cards, inputs, badges, avatars, and modals. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Rounded System, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Design Compiler",
     "version": "1.0",
     "license": "CC0",

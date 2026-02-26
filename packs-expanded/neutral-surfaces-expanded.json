@@ -2,7 +2,7 @@
   "meta": {
     "id": "neutral-surfaces-expanded",
     "name": "Neutral Surfaces (Expanded)",
-    "description": "10-level surface hierarchy for light and dark modes — from background to highest elevation. Includes on-surface text colors for each level. Pairs with any brand palette. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Neutral Surfaces, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Design Compiler",
     "version": "1.0",
     "license": "CC0",

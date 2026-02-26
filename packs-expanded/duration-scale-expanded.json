@@ -2,7 +2,7 @@
   "meta": {
     "id": "duration-scale-expanded",
     "name": "Duration Scale (Expanded)",
-    "description": "T-shirt sized duration tokens — from instant (50ms) to deliberate (1000ms). Includes contextual presets for tooltips, modals, drawers, page transitions, and loading states. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Duration Scale, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Design Compiler",
     "version": "1.0",
     "license": "CC0",

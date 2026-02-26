@@ -2,7 +2,7 @@
   "meta": {
     "id": "evergreen-colors-expanded",
     "name": "Evergreen Colors (Expanded)",
-    "description": "Segment Evergreen UI color system — 8 color families (blue, red, green, orange, yellow, teal, purple, neutral) with graduated scales from lightest to darkest. Designed for intentional, accessible, high-dynamic-range interfaces. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Evergreen Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Evergreen. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Evergreen",
     "version": "7.0",
     "license": "MIT",

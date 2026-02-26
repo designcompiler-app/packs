@@ -2,7 +2,7 @@
   "meta": {
     "id": "dracula-colors-expanded",
     "name": "Dracula Colors (Expanded)",
-    "description": "Dracula — a popular dark color scheme with vibrant accent colors. Includes background, foreground, and 8 syntax/UI accent colors designed for comfortable, high-contrast readability. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Dracula Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Dracula. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Dracula",
     "version": "1.0",
     "license": "MIT",

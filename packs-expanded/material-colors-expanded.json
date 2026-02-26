@@ -2,7 +2,7 @@
   "meta": {
     "id": "material-colors-expanded",
     "name": "Material Design 3 Colors (Expanded)",
-    "description": "Semantic color tokens from Google Material Design 3 (Material You). Includes baseline light and dark theme palettes with primary, secondary, tertiary, error, and surface roles. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Material Design 3 Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Material Design. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Material Design",
     "version": "3.0",
     "license": "Apache-2.0",

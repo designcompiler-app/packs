@@ -2,7 +2,7 @@
   "meta": {
     "id": "fluid-type-scale-expanded",
     "name": "Fluid Type Scale (Expanded)",
-    "description": "Responsive typography scale using CSS clamp() values. 8 steps from step-2 to step5, scaling fluidly between 320px and 1240px viewports. Includes matching line heights and font weights. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Fluid Type Scale, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Utopia. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Utopia",
     "version": "1.0",
     "license": "MIT",

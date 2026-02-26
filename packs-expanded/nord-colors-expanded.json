@@ -2,7 +2,7 @@
   "meta": {
     "id": "nord-colors-expanded",
     "name": "Nord Colors (Expanded)",
-    "description": "The Nord color palette — 16 carefully chosen arctic colors across 4 palettes: Polar Night (dark backgrounds), Snow Storm (light text/surfaces), Frost (primary accents), and Aurora (status/accent colors). — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Nord Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Nord. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Nord",
     "version": "0.2.0",
     "license": "MIT",

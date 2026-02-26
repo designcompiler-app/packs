@@ -2,7 +2,7 @@
   "meta": {
     "id": "solarized-colors-expanded",
     "name": "Solarized Colors (Expanded)",
-    "description": "Solarized — a precision-engineered 16-color palette by Ethan Schoonover. 8 monotone base colors (supporting both light and dark modes) plus 8 accent colors with balanced contrast and CIELAB lightness relationships. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Solarized Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Solarized. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Solarized",
     "version": "1.0",
     "license": "MIT",

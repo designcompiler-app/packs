@@ -6,7 +6,7 @@
     {
       "id": "accessible-palette-expanded",
       "name": "Accessible Palette (Expanded)",
-      "description": "Colors with 4.5:1 contrast against their designated background (white or black), meeting WCAG AA standards. Neutral colors meet 4.5:1 against both. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Accessible Palette, extended to full W3C DTCG compliance across all 16 token types. Not an official release from StyleFuse. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "StyleFuse",
       "version": "1.0",
       "license": "MIT",
@@ -37,7 +37,7 @@
     {
       "id": "ant-design-colors-expanded",
       "name": "Ant Design Colors (Expanded)",
-      "description": "Complete color palette from Ant Design v6 — 12 color families with 10 algorithmically generated shades each. Palette identical to v5; v6 enables CSS variables by default. The most popular enterprise UI system for React. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Ant Design Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Ant Design. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Ant Design",
       "version": "6.0",
       "license": "MIT",
@@ -68,7 +68,7 @@
     {
       "id": "apple-hig-colors-expanded",
       "name": "Apple HIG Colors (Expanded)",
-      "description": "iOS and macOS system colors from Apple Human Interface Guidelines — 12 vibrant system colors and 6 gray levels, each with light and dark variants. sRGB baseline values; iOS 26 Liquid Glass adjustments are dynamic and not yet published. 36 tokens total. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Apple HIG Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Apple HIG. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Apple HIG",
       "version": "2025",
       "license": "Reference",
@@ -99,7 +99,7 @@
     {
       "id": "arco-design-colors-expanded",
       "name": "Arco Design Colors (Expanded)",
-      "description": "ByteDance Arco Design functional color palette — 5 color families (blue, green, orange, red, gray) each with a 10-step gradient scale from lightest to darkest, generated via the @arco-design/color algorithm. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Arco Design Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Arco Design. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Arco Design",
       "version": "2.0",
       "license": "MIT",
@@ -130,7 +130,7 @@
     {
       "id": "atlassian-colors-expanded",
       "name": "Atlassian Design Colors (Expanded)",
-      "description": "Atlassian Design System color palette — 9 hue families (red, orange, yellow, green, teal, blue, purple, magenta, lime) with 12 steps each, plus a 12-step neutral scale. 120 tokens from @atlaskit/tokens v6. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Atlassian Design Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Atlassian. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Atlassian",
       "version": "6.1",
       "license": "Apache-2.0",
@@ -161,7 +161,7 @@
     {
       "id": "base-web-colors-expanded",
       "name": "Base Web Colors (Expanded)",
-      "description": "Uber Base Web primitive color tokens — primary blue, negative red, warning gold, and positive green scales (50-700), plus black/white and rating star colors. The foundation palette for Base Web React components. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Base Web Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Base Web. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Base Web",
       "version": "14.0",
       "license": "MIT",
@@ -192,7 +192,7 @@
     {
       "id": "bootstrap-colors-expanded",
       "name": "Bootstrap 5 Colors (Expanded)",
-      "description": "Bootstrap 5.3 color system — theme colors (primary through dark), 9-step gray scale, and 10 extended color families with tint/shade variants. The most widely used CSS framework palette. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Bootstrap 5 Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Bootstrap. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Bootstrap",
       "version": "5.3",
       "license": "MIT",
@@ -223,7 +223,7 @@
     {
       "id": "button-tokens-expanded",
       "name": "Button Tokens (Expanded)",
-      "description": "Complete button component tokens — 3 sizes (sm, md, lg) with padding, radius, and font size for each. Includes primary, secondary, outline, ghost, and destructive color variants with hover and disabled states. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Button Tokens, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Design Compiler",
       "version": "1.0",
       "license": "CC0",
@@ -255,7 +255,7 @@
     {
       "id": "carbon-colors-expanded",
       "name": "IBM Carbon Colors (Expanded)",
-      "description": "Complete color palette from IBM Carbon Design System v11 — 12 color families with 10 grades each (10–100). Enterprise-grade design tokens for data-rich interfaces. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of IBM Carbon Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from IBM Carbon. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "IBM Carbon",
       "version": "11.0",
       "license": "Apache-2.0",
@@ -286,7 +286,7 @@
     {
       "id": "card-tokens-expanded",
       "name": "Card Tokens (Expanded)",
-      "description": "Card component tokens — 3 elevation levels (flat, raised, floating) with padding, radius, shadow, and surface colors. Includes header, body, and footer spacing for consistent card layouts. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Card Tokens, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Design Compiler",
       "version": "1.0",
       "license": "CC0",
@@ -319,7 +319,7 @@
     {
       "id": "catppuccin-colors-expanded",
       "name": "Catppuccin Colors (Expanded)",
-      "description": "Catppuccin — a community-driven pastel theme with 4 flavors (Latte, Frappé, Macchiato, Mocha). 26 named colors per flavor spanning accents, text layers, surfaces, and backgrounds. 104 tokens total. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Catppuccin Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Catppuccin. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Catppuccin",
       "version": "1.0",
       "license": "MIT",
@@ -350,7 +350,7 @@
     {
       "id": "chakra-ui-colors-expanded",
       "name": "Chakra UI Colors (Expanded)",
-      "description": "Complete color palette from Chakra UI v2 — 10 color families with 10 shades each (50–900). A balanced, accessible palette for modern React applications. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Chakra UI Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Chakra UI. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Chakra UI",
       "version": "2.3",
       "license": "MIT",
@@ -381,7 +381,7 @@
     {
       "id": "chakra-v3-colors-expanded",
       "name": "Chakra UI v3 Colors (Expanded)",
-      "description": "Chakra UI v3 color palette — 10 color families with 11 shades each (50–950). Restructured palette with deeper darks and new 950 shade. 110 tokens. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Chakra UI v3 Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Chakra UI. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Chakra UI",
       "version": "3.0",
       "license": "MIT",
@@ -412,7 +412,7 @@
     {
       "id": "cool-palette-expanded",
       "name": "Cool Palette (Expanded)",
-      "description": "Cool ocean and winter-inspired colors with icy blues, deep navy, and frosted tones — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Cool Palette, extended to full W3C DTCG compliance across all 16 token types. Not an official release from StyleFuse. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "StyleFuse",
       "version": "1.0",
       "license": "MIT",
@@ -443,7 +443,7 @@
     {
       "id": "daisyui-themes-expanded",
       "name": "DaisyUI Themes (Expanded)",
-      "description": "Semantic color tokens from 5 popular DaisyUI v5 themes (light, dark, cupcake, nord, dracula). Ready-to-use themed palettes built on Tailwind CSS with primary, secondary, accent, neutral, base, and state colors. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of DaisyUI Themes, extended to full W3C DTCG compliance across all 16 token types. Not an official release from DaisyUI. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "DaisyUI",
       "version": "5.0",
       "license": "MIT",
@@ -474,7 +474,7 @@
     {
       "id": "dark-semantics-expanded",
       "name": "Dark Mode Semantics (Expanded)",
-      "description": "Complete semantic color system for dark themes — matching roles to Light Mode Semantics with dark-optimized values. Hover, pressed, disabled, and focus variants included. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Dark Mode Semantics, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Design Compiler",
       "version": "1.0",
       "license": "CC0",
@@ -505,7 +505,7 @@
     {
       "id": "dracula-colors-expanded",
       "name": "Dracula Colors (Expanded)",
-      "description": "Dracula — a popular dark color scheme with vibrant accent colors. Includes background, foreground, and 8 syntax/UI accent colors designed for comfortable, high-contrast readability. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Dracula Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Dracula. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Dracula",
       "version": "1.0",
       "license": "MIT",
@@ -536,7 +536,7 @@
     {
       "id": "duration-scale-expanded",
       "name": "Duration Scale (Expanded)",
-      "description": "T-shirt sized duration tokens — from instant (50ms) to deliberate (1000ms). Includes contextual presets for tooltips, modals, drawers, page transitions, and loading states. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Duration Scale, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Design Compiler",
       "version": "1.0",
       "license": "CC0",
@@ -557,7 +557,7 @@
     {
       "id": "earth-palette-expanded",
       "name": "Earth Palette (Expanded)",
-      "description": "Warm, organic earth tones drawn from clay, soil, stone, and foliage — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Earth Palette, extended to full W3C DTCG compliance across all 16 token types. Not an official release from StyleFuse. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "StyleFuse",
       "version": "1.0",
       "license": "MIT",
@@ -588,7 +588,7 @@
     {
       "id": "element-plus-colors-expanded",
       "name": "Element Plus Colors (Expanded)",
-      "description": "Element Plus default color system — 5 semantic color families (primary, success, warning, danger, info) each with light-3 through light-9 and dark-2 variants. The standard palette for Vue 3 enterprise applications. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Element Plus Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Element Plus. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Element Plus",
       "version": "2.9",
       "license": "MIT",
@@ -619,7 +619,7 @@
     {
       "id": "elevation-system-expanded",
       "name": "Elevation System (Expanded)",
-      "description": "Generic 6-level elevation system with light and dark mode shadows. From flat surfaces (level 0) to floating dialogs (level 5). Consistent depth hierarchy for any UI. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Elevation System, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Design Compiler",
       "version": "1.0",
       "license": "CC0",
@@ -641,7 +641,7 @@
     {
       "id": "evergreen-colors-expanded",
       "name": "Evergreen Colors (Expanded)",
-      "description": "Segment Evergreen UI color system — 8 color families (blue, red, green, orange, yellow, teal, purple, neutral) with graduated scales from lightest to darkest. Designed for intentional, accessible, high-dynamic-range interfaces. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Evergreen Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Evergreen. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Evergreen",
       "version": "7.0",
       "license": "MIT",
@@ -672,7 +672,7 @@
     {
       "id": "fluent-colors-expanded",
       "name": "Microsoft Fluent UI Colors (Expanded)",
-      "description": "Microsoft Fluent UI 2 shared color palette — 18 color families (cranberry, red, orange, peach, marigold, yellow, green, teal, cyan, blue, royalBlue, cornflower, navy, lavender, purple, berry, pink, magenta) with 12 stops each, plus 16-step Brand Web ramp. 232 tokens from @fluentui/tokens. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Microsoft Fluent UI Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Microsoft Fluent UI. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Microsoft Fluent UI",
       "version": "2.0",
       "license": "MIT",
@@ -703,7 +703,7 @@
     {
       "id": "fluid-easing-expanded",
       "name": "Fluid Easing Curves (Expanded)",
-      "description": "Comprehensive easing curve collection — standard timing functions plus specialized curves for bounce, elastic, and spring-like motion. 16 production-ready cubic-bezier curves. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Fluid Easing Curves, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Design Compiler",
       "version": "1.0",
       "license": "CC0",
@@ -724,7 +724,7 @@
     {
       "id": "fluid-type-scale-expanded",
       "name": "Fluid Type Scale (Expanded)",
-      "description": "Responsive typography scale using CSS clamp() values. 8 steps from step-2 to step5, scaling fluidly between 320px and 1240px viewports. Includes matching line heights and font weights. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Fluid Type Scale, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Utopia. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Utopia",
       "version": "1.0",
       "license": "MIT",
@@ -746,7 +746,7 @@
     {
       "id": "garden-colors-expanded",
       "name": "Zendesk Garden Colors (Expanded)",
-      "description": "Zendesk Garden color palette — 7 hue families (grey, blue, red, yellow, green, kale, royal) each with 8 shades (100-800). Designed with consistent contrast ratios: 600 meets 3:1, 700 meets 4.5:1, 800 meets 7:1 against white. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Zendesk Garden Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Zendesk Garden. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Zendesk Garden",
       "version": "9.0",
       "license": "Apache-2.0",
@@ -777,7 +777,7 @@
     {
       "id": "geist-colors-expanded",
       "name": "Geist Colors (Expanded)",
-      "description": "Vercel Geist Design System colors — a 9-step gray background scale, 8 accent hues (blue, cyan, green, orange, red, purple, pink, yellow), and 3 semantic colors for success, error, and warning states. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Geist Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Vercel Geist. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Vercel Geist",
       "version": "1.0",
       "license": "MIT",
@@ -808,7 +808,7 @@
     {
       "id": "grid-8pt-expanded",
       "name": "8-Point Grid Spacing (Expanded)",
-      "description": "Spacing system based on the 8-point grid. Includes 20 base grid steps (8px-160px), half-grid fine adjustments, component spacing presets, and layout section spacing. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of 8-Point Grid Spacing, extended to full W3C DTCG compliance across all 16 token types. Not an official release from 8pt Grid. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "8pt Grid",
       "version": "1.0",
       "license": "MIT",
@@ -830,7 +830,7 @@
     {
       "id": "gruvbox-colors-expanded",
       "name": "Gruvbox Colors (Expanded)",
-      "description": "Gruvbox — a retro groove color scheme with warm, desaturated tones. Includes dark and light background scales, foreground values, 7 standard accents, 7 bright accents, and a neutral gray. 31 tokens total. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Gruvbox Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Gruvbox. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Gruvbox",
       "version": "1.0",
       "license": "MIT",
@@ -861,7 +861,7 @@
     {
       "id": "ibm-type-scale-expanded",
       "name": "IBM Carbon Type Scale (Expanded)",
-      "description": "Typography tokens from IBM Carbon Design System v11. Includes productive type set with font sizes, weights, line heights, and letter spacing for caption through heading-07. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of IBM Carbon Type Scale, extended to full W3C DTCG compliance across all 16 token types. Not an official release from IBM Carbon. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "IBM Carbon",
       "version": "11.0",
       "license": "Apache-2.0",
@@ -883,7 +883,7 @@
     {
       "id": "input-tokens-expanded",
       "name": "Input Tokens (Expanded)",
-      "description": "Form input tokens — 3 sizes (sm, md, lg) with state coverage: default, hover, focus, error, and disabled. Includes dimensions and colors for text inputs, selects, and textareas. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Input Tokens, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Design Compiler",
       "version": "1.0",
       "license": "CC0",
@@ -915,7 +915,7 @@
     {
       "id": "ios-elevation-expanded",
       "name": "iOS Elevation (Expanded)",
-      "description": "Shadow tokens inspired by Apple HIG elevation — navigation bars, cards, sheets, modals, and alerts. Tuned for the subtle, diffused shadow style used across iOS and macOS. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of iOS Elevation, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Design Compiler",
       "version": "1.0",
       "license": "CC0",
@@ -937,7 +937,7 @@
     {
       "id": "light-semantics-expanded",
       "name": "Light Mode Semantics (Expanded)",
-      "description": "Complete semantic color system for light themes — primary, secondary, surface, and state roles with hover, pressed, disabled, and focus variants. Primary and state colors target WCAG AA contrast. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Light Mode Semantics, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Design Compiler",
       "version": "1.0",
       "license": "CC0",
@@ -968,7 +968,7 @@
     {
       "id": "lightning-colors-expanded",
       "name": "Salesforce Lightning Colors (Expanded)",
-      "description": "Salesforce Lightning Design System (SLDS) color palette — 12 hue families (blue, cloud blue, green, teal, hot orange, orange, yellow, pink, red, purple, violet, indigo) with 12-step scales, plus a 14-step neutral. 158 tokens. Primitive values identical in SLDS 2. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Salesforce Lightning Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Salesforce SLDS. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Salesforce SLDS",
       "version": "2.25",
       "license": "MIT",
@@ -999,7 +999,7 @@
     {
       "id": "mantine-colors-expanded",
       "name": "Mantine Colors (Expanded)",
-      "description": "Complete color palette from Mantine v7 — 14 color families with 10 shades each (0–9). A vibrant, accessible palette built on Open Color foundations for React applications. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Mantine Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Mantine. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Mantine",
       "version": "7.0",
       "license": "MIT",
@@ -1030,7 +1030,7 @@
     {
       "id": "marketing-starter-expanded",
       "name": "Marketing Starter Kit (Expanded)",
-      "description": "Bold token set for marketing sites and landing pages — vibrant brand colors, dramatic type scale, generous spacing, and eye-catching shadows. Makes every landing page pop. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Marketing Starter Kit, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Design Compiler",
       "version": "1.0",
       "license": "CC0",
@@ -1063,7 +1063,7 @@
     {
       "id": "material-colors-expanded",
       "name": "Material Design 3 Colors (Expanded)",
-      "description": "Semantic color tokens from Google Material Design 3 (Material You). Includes baseline light and dark theme palettes with primary, secondary, tertiary, error, and surface roles. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Material Design 3 Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Material Design. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Material Design",
       "version": "3.0",
       "license": "Apache-2.0",
@@ -1092,7 +1092,7 @@
     {
       "id": "material-motion-expanded",
       "name": "Material Motion (Expanded)",
-      "description": "Material Design 3 motion tokens — standard and emphasized easing curves plus duration tokens for short, medium, long, and extra-long transitions. Based on the M3 motion spec. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Material Motion, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Material Design. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Material Design",
       "version": "3.0",
       "license": "Apache-2.0",
@@ -1113,7 +1113,7 @@
     {
       "id": "material-type-scale-expanded",
       "name": "Material Design 3 Type Scale (Expanded)",
-      "description": "Complete Material Design 3 type system with display, headline, title, body, and label roles at large, medium, and small sizes. Includes font size, weight, line height, and letter spacing for each. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Material Design 3 Type Scale, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Material Design. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Material Design",
       "version": "3.0",
       "license": "Apache-2.0",
@@ -1135,7 +1135,7 @@
     {
       "id": "mobile-app-starter-expanded",
       "name": "Mobile App Starter Kit (Expanded)",
-      "description": "Compact token set for mobile app design — touch-friendly spacing, platform-appropriate radii, compact type scale, and elevation hierarchy. Optimized for iOS and Android. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Mobile App Starter Kit, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Design Compiler",
       "version": "1.0",
       "license": "CC0",
@@ -1168,7 +1168,7 @@
     {
       "id": "modular-scales-expanded",
       "name": "Typographic Modular Scales (Expanded)",
-      "description": "Three classic modular type scales: minor third (1.2), major third (1.25), and perfect fourth (1.333). Each provides 10 steps from -2 to 7 with a 1rem base. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Typographic Modular Scales, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Modular Scale. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Modular Scale",
       "version": "1.0",
       "license": "MIT",
@@ -1190,7 +1190,7 @@
     {
       "id": "monochrome-palette-expanded",
       "name": "Monochrome Palette (Expanded)",
-      "description": "Refined grayscale and monochrome tokens for minimalist interfaces, plus tinted neutral variations — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Monochrome Palette, extended to full W3C DTCG compliance across all 16 token types. Not an official release from StyleFuse. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "StyleFuse",
       "version": "1.0",
       "license": "MIT",
@@ -1221,7 +1221,7 @@
     {
       "id": "monokai-colors-expanded",
       "name": "Monokai Colors (Expanded)",
-      "description": "Monokai — the classic dark color scheme by Wimer Hazenberg. Features vibrant syntax accent colors against a warm, dark olive-tinted background. Includes 6 syntax colors and editor UI values. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Monokai Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Monokai. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Monokai",
       "version": "1.0",
       "license": "MIT",
@@ -1252,7 +1252,7 @@
     {
       "id": "neon-palette-expanded",
       "name": "Neon Palette (Expanded)",
-      "description": "High-energy neon and electric colors for bold UIs, gaming, and creative projects — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Neon Palette, extended to full W3C DTCG compliance across all 16 token types. Not an official release from StyleFuse. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "StyleFuse",
       "version": "1.0",
       "license": "MIT",
@@ -1283,7 +1283,7 @@
     {
       "id": "neutral-surfaces-expanded",
       "name": "Neutral Surfaces (Expanded)",
-      "description": "10-level surface hierarchy for light and dark modes — from background to highest elevation. Includes on-surface text colors for each level. Pairs with any brand palette. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Neutral Surfaces, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Design Compiler",
       "version": "1.0",
       "license": "CC0",
@@ -1314,7 +1314,7 @@
     {
       "id": "nord-colors-expanded",
       "name": "Nord Colors (Expanded)",
-      "description": "The Nord color palette — 16 carefully chosen arctic colors across 4 palettes: Polar Night (dark backgrounds), Snow Storm (light text/surfaces), Frost (primary accents), and Aurora (status/accent colors). — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Nord Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Nord. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Nord",
       "version": "0.2.0",
       "license": "MIT",
@@ -1345,7 +1345,7 @@
     {
       "id": "one-dark-colors-expanded",
       "name": "One Dark Colors (Expanded)",
-      "description": "Atom One Dark — the iconic dark theme from the Atom editor. Includes background, foreground, 6 syntax accent colors, and editor UI colors for gutter, selection, cursor, and guides. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of One Dark Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from One Dark. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "One Dark",
       "version": "1.0",
       "license": "MIT",
@@ -1376,7 +1376,7 @@
     {
       "id": "opacity-scale-expanded",
       "name": "Opacity Scale (Expanded)",
-      "description": "Semantic opacity tokens — 10-step numeric scale plus presets for disabled states, hover overlays, scrims, watermarks, and loading states. Consistent transparency system. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Opacity Scale, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Design Compiler",
       "version": "1.0",
       "license": "CC0",
@@ -1398,7 +1398,7 @@
     {
       "id": "open-props-colors-expanded",
       "name": "Open Props Colors (Expanded)",
-      "description": "System-agnostic color palette from Open Props. 17 color families with 13 shades each (0–12), designed for universal use across any design system. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Open Props Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Open Props. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Open Props",
       "version": "1.7",
       "license": "MIT",
@@ -1428,7 +1428,7 @@
     {
       "id": "pastel-palette-expanded",
       "name": "Pastel Palette (Expanded)",
-      "description": "Soft, muted pastels ideal for gentle UIs, cards, tags, and backgrounds — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Pastel Palette, extended to full W3C DTCG compliance across all 16 token types. Not an official release from StyleFuse. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "StyleFuse",
       "version": "1.0",
       "license": "MIT",
@@ -1459,7 +1459,7 @@
     {
       "id": "polaris-colors-expanded",
       "name": "Shopify Polaris Colors (Expanded)",
-      "description": "Shopify Polaris color palette — 13 scales (gray, rose, red, orange, yellow, lime, green, cyan, teal, azure, blue, purple, magenta) with 16 steps each. 208 tokens from @shopify/polaris-tokens v9.4. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Shopify Polaris Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Shopify Polaris. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Shopify Polaris",
       "version": "9.4",
       "license": "MIT",
@@ -1490,7 +1490,7 @@
     {
       "id": "primer-colors-expanded",
       "name": "GitHub Primer Colors (Expanded)",
-      "description": "Base color scales from GitHub Primer design system — 8 chromatic families with 10 shades (0–9) plus a 14-step neutral ramp. Built on Style Dictionary, one of the closest to DTCG-native. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of GitHub Primer Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from GitHub Primer. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "GitHub Primer",
       "version": "11.5",
       "license": "MIT",
@@ -1521,7 +1521,7 @@
     {
       "id": "radix-colors-expanded",
       "name": "Radix UI Colors (Expanded)",
-      "description": "Accessible 12-step color scales from Radix UI. Each step has a specific use case — from subtle backgrounds (1–2) through component backgrounds (3–5), borders (6–8), solid colors (9–10), to text (11–12). — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Radix UI Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Radix UI. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Radix UI",
       "version": "3.0",
       "license": "MIT",
@@ -1551,7 +1551,7 @@
     {
       "id": "responsive-breakpoints-expanded",
       "name": "Responsive Breakpoints (Expanded)",
-      "description": "Standard responsive breakpoints — mobile-first min-widths (xs through 2xl), desktop-first max-widths, and container query widths. Foundation for adaptive layouts. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Responsive Breakpoints, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Design Compiler",
       "version": "1.0",
       "license": "CC0",
@@ -1573,7 +1573,7 @@
     {
       "id": "rose-pine-colors-expanded",
       "name": "Rosé Pine Colors (Expanded)",
-      "description": "Rosé Pine — an all-natural pine, faux fur, and a bit of soho vibes. 3 variants: Main (darkest), Moon (mid-dark), and Dawn (light). Each variant includes base surfaces, muted/subtle text, foreground, 6 accent colors, and highlight layers. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Rosé Pine Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Rosé Pine. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Rosé Pine",
       "version": "1.0",
       "license": "MIT",
@@ -1604,7 +1604,7 @@
     {
       "id": "rounded-system-expanded",
       "name": "Rounded System (Expanded)",
-      "description": "Comprehensive border radius scale — 10-step base scale from sharp (0) to full pill (9999px) plus semantic presets for buttons, cards, inputs, badges, avatars, and modals. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Rounded System, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Design Compiler",
       "version": "1.0",
       "license": "CC0",
@@ -1626,7 +1626,7 @@
     {
       "id": "saas-starter-expanded",
       "name": "SaaS Starter Kit (Expanded)",
-      "description": "Complete token foundation for SaaS dashboards — brand colors, neutral scale, semantic states, type scale, spacing, shadows, and border radii. Bootstrap a full design system in one click. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of SaaS Starter Kit, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Design Compiler",
       "version": "1.0",
       "license": "CC0",
@@ -1659,7 +1659,7 @@
     {
       "id": "semi-design-colors-expanded",
       "name": "Semi Design Colors (Expanded)",
-      "description": "ByteDance Semi Design color palette — 10 hue families (blue, cyan, green, yellow, orange, red, pink, purple, violet, grey) each with a 10-step scale from lightest (0) to darkest (9), totaling 100 color tokens. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Semi Design Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Semi Design. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Semi Design",
       "version": "2.0",
       "license": "MIT",
@@ -1690,7 +1690,7 @@
     {
       "id": "shadcn-colors-expanded",
       "name": "Shadcn/ui Colors (Expanded)",
-      "description": "Default shadcn/ui v4 theme tokens (zinc base) — semantic color pairs for backgrounds, cards, popovers, primary, secondary, muted, accent, destructive, borders, charts, and sidebar. Light and dark modes. 62 tokens. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Shadcn/ui Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from shadcn/ui. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "shadcn/ui",
       "version": "4.0",
       "license": "MIT",
@@ -1721,7 +1721,7 @@
     {
       "id": "soft-ui-shadows-expanded",
       "name": "Soft UI Shadows (Expanded)",
-      "description": "Neumorphism-inspired shadow system — convex (raised), concave (pressed), and flat states with paired light/dark shadows. Perfect for soft, tactile UI designs. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Soft UI Shadows, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Design Compiler",
       "version": "1.0",
       "license": "CC0",
@@ -1743,7 +1743,7 @@
     {
       "id": "solarized-colors-expanded",
       "name": "Solarized Colors (Expanded)",
-      "description": "Solarized — a precision-engineered 16-color palette by Ethan Schoonover. 8 monotone base colors (supporting both light and dark modes) plus 8 accent colors with balanced contrast and CIELAB lightness relationships. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Solarized Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Solarized. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Solarized",
       "version": "1.0",
       "license": "MIT",
@@ -1774,7 +1774,7 @@
     {
       "id": "spectrum-colors-expanded",
       "name": "Adobe Spectrum Colors (Expanded)",
-      "description": "Adobe Spectrum 2 color palette — 15 scales (gray, blue, red, orange, yellow, green, cyan, seafoam, indigo, purple, fuchsia, magenta, pink, chartreuse, celery) for light theme. 237 tokens from @adobe/spectrum-tokens. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Adobe Spectrum Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Adobe Spectrum. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Adobe Spectrum",
       "version": "2.0",
       "license": "Apache-2.0",
@@ -1805,7 +1805,7 @@
     {
       "id": "starter-palette-expanded",
       "name": "Starter Palette (Expanded)",
-      "description": "A production-ready starter palette for new projects — semantic theme colors, 10-step neutral scale, and state colors. WCAG AA compliant. Fork-friendly CC0 license. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Starter Palette, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Design Compiler",
       "version": "1.0",
       "license": "CC0",
@@ -1836,7 +1836,7 @@
     {
       "id": "status-colors-expanded",
       "name": "Status Colors System (Expanded)",
-      "description": "Comprehensive status color system — success, warning, error, and info with 9 role-based variants each: base, background, foreground, border, icon, hover, pressed, subtle, and strong. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Status Colors System, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Design Compiler",
       "version": "1.0",
       "license": "CC0",
@@ -1867,7 +1867,7 @@
     {
       "id": "tailwind-colors-expanded",
       "name": "Tailwind CSS Colors (Expanded)",
-      "description": "Complete Tailwind CSS v4.2 color palette — 26 color families with 11 shades each (50–950). Includes 4 new tinted neutrals (mauve, olive, mist, taupe) added in v4.2. The industry-standard utility color system. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Tailwind CSS Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Tailwind CSS. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Tailwind CSS",
       "version": "4.2",
       "license": "MIT",
@@ -1898,7 +1898,7 @@
     {
       "id": "tailwind-core-expanded",
       "name": "Tailwind CSS Core (Expanded)",
-      "description": "Spacing scale, font sizes, font weights, border radii, and shadows from Tailwind CSS v4. Pairs with the Tailwind Colors pack. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Tailwind CSS Core, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Tailwind CSS. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Tailwind CSS",
       "version": "4.2",
       "license": "MIT",
@@ -1921,7 +1921,7 @@
     {
       "id": "tokyo-night-colors-expanded",
       "name": "Tokyo Night Colors (Expanded)",
-      "description": "Tokyo Night — a dark theme inspired by Tokyo city lights at night. Includes night and storm variant backgrounds, foreground layers, and 8 vibrant syntax accent colors. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Tokyo Night Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Tokyo Night. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Tokyo Night",
       "version": "1.0",
       "license": "MIT",
@@ -1952,7 +1952,7 @@
     {
       "id": "vuetify-colors-expanded",
       "name": "Vuetify Material Design Colors (Expanded)",
-      "description": "Material Design color palette from Vuetify 3 — 16 color families (red through deep orange) with base values and full lighten/darken variant scales for key families. The standard palette for Vue Material Design applications. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Vuetify Material Design Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Vuetify. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Vuetify",
       "version": "3.7",
       "license": "MIT",
@@ -1983,7 +1983,7 @@
     {
       "id": "warm-palette-expanded",
       "name": "Warm Palette (Expanded)",
-      "description": "Warm sunset and autumn-inspired colors with amber, burnt orange, and rose gold tones — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Warm Palette, extended to full W3C DTCG compliance across all 16 token types. Not an official release from StyleFuse. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "StyleFuse",
       "version": "1.0",
       "license": "MIT",
@@ -2014,7 +2014,7 @@
     {
       "id": "z-index-system-expanded",
       "name": "Z-Index System (Expanded)",
-      "description": "Named z-index layers for consistent stacking — base, dropdown, sticky, overlay, modal, popover, toast, and tooltip. Prevents z-index conflicts with clear semantic layers. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+      "description": "Community adaptation of Z-Index System, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
       "source": "Design Compiler",
       "version": "1.0",
       "license": "CC0",

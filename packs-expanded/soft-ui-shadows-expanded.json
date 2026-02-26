@@ -2,7 +2,7 @@
   "meta": {
     "id": "soft-ui-shadows-expanded",
     "name": "Soft UI Shadows (Expanded)",
-    "description": "Neumorphism-inspired shadow system — convex (raised), concave (pressed), and flat states with paired light/dark shadows. Perfect for soft, tactile UI designs. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Soft UI Shadows, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Design Compiler",
     "version": "1.0",
     "license": "CC0",

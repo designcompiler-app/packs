@@ -2,7 +2,7 @@
   "meta": {
     "id": "fluid-easing-expanded",
     "name": "Fluid Easing Curves (Expanded)",
-    "description": "Comprehensive easing curve collection — standard timing functions plus specialized curves for bounce, elastic, and spring-like motion. 16 production-ready cubic-bezier curves. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Fluid Easing Curves, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Design Compiler",
     "version": "1.0",
     "license": "CC0",

@@ -2,7 +2,7 @@
   "meta": {
     "id": "bootstrap-colors-expanded",
     "name": "Bootstrap 5 Colors (Expanded)",
-    "description": "Bootstrap 5.3 color system — theme colors (primary through dark), 9-step gray scale, and 10 extended color families with tint/shade variants. The most widely used CSS framework palette. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Bootstrap 5 Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Bootstrap. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Bootstrap",
     "version": "5.3",
     "license": "MIT",

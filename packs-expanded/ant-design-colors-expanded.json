@@ -2,7 +2,7 @@
   "meta": {
     "id": "ant-design-colors-expanded",
     "name": "Ant Design Colors (Expanded)",
-    "description": "Complete color palette from Ant Design v6 — 12 color families with 10 algorithmically generated shades each. Palette identical to v5; v6 enables CSS variables by default. The most popular enterprise UI system for React. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Ant Design Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Ant Design. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Ant Design",
     "version": "6.0",
     "license": "MIT",

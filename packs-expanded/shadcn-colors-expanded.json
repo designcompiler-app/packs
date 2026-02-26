@@ -2,7 +2,7 @@
   "meta": {
     "id": "shadcn-colors-expanded",
     "name": "Shadcn/ui Colors (Expanded)",
-    "description": "Default shadcn/ui v4 theme tokens (zinc base) — semantic color pairs for backgrounds, cards, popovers, primary, secondary, muted, accent, destructive, borders, charts, and sidebar. Light and dark modes. 62 tokens. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Shadcn/ui Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from shadcn/ui. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "shadcn/ui",
     "version": "4.0",
     "license": "MIT",

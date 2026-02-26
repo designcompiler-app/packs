@@ -2,7 +2,7 @@
   "meta": {
     "id": "material-type-scale-expanded",
     "name": "Material Design 3 Type Scale (Expanded)",
-    "description": "Complete Material Design 3 type system with display, headline, title, body, and label roles at large, medium, and small sizes. Includes font size, weight, line height, and letter spacing for each. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Material Design 3 Type Scale, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Material Design. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Material Design",
     "version": "3.0",
     "license": "Apache-2.0",

@@ -2,7 +2,7 @@
   "meta": {
     "id": "carbon-colors-expanded",
     "name": "IBM Carbon Colors (Expanded)",
-    "description": "Complete color palette from IBM Carbon Design System v11 — 12 color families with 10 grades each (10–100). Enterprise-grade design tokens for data-rich interfaces. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of IBM Carbon Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from IBM Carbon. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "IBM Carbon",
     "version": "11.0",
     "license": "Apache-2.0",

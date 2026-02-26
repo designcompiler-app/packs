@@ -2,7 +2,7 @@
   "meta": {
     "id": "monokai-colors-expanded",
     "name": "Monokai Colors (Expanded)",
-    "description": "Monokai — the classic dark color scheme by Wimer Hazenberg. Features vibrant syntax accent colors against a warm, dark olive-tinted background. Includes 6 syntax colors and editor UI values. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Monokai Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Monokai. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Monokai",
     "version": "1.0",
     "license": "MIT",

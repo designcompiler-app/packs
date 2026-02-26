@@ -2,7 +2,7 @@
   "meta": {
     "id": "mantine-colors-expanded",
     "name": "Mantine Colors (Expanded)",
-    "description": "Complete color palette from Mantine v7 — 14 color families with 10 shades each (0–9). A vibrant, accessible palette built on Open Color foundations for React applications. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Mantine Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Mantine. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Mantine",
     "version": "7.0",
     "license": "MIT",

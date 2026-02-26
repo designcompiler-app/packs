@@ -2,7 +2,7 @@
   "meta": {
     "id": "tailwind-core-expanded",
     "name": "Tailwind CSS Core (Expanded)",
-    "description": "Spacing scale, font sizes, font weights, border radii, and shadows from Tailwind CSS v4. Pairs with the Tailwind Colors pack. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Tailwind CSS Core, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Tailwind CSS. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Tailwind CSS",
     "version": "4.2",
     "license": "MIT",

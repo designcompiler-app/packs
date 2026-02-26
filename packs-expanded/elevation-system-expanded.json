@@ -2,7 +2,7 @@
   "meta": {
     "id": "elevation-system-expanded",
     "name": "Elevation System (Expanded)",
-    "description": "Generic 6-level elevation system with light and dark mode shadows. From flat surfaces (level 0) to floating dialogs (level 5). Consistent depth hierarchy for any UI. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Elevation System, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Design Compiler",
     "version": "1.0",
     "license": "CC0",

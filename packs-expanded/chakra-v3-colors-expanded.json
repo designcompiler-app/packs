@@ -2,7 +2,7 @@
   "meta": {
     "id": "chakra-v3-colors-expanded",
     "name": "Chakra UI v3 Colors (Expanded)",
-    "description": "Chakra UI v3 color palette — 10 color families with 11 shades each (50–950). Restructured palette with deeper darks and new 950 shade. 110 tokens. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Chakra UI v3 Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Chakra UI. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Chakra UI",
     "version": "3.0",
     "license": "MIT",

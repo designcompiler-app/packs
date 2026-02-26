@@ -2,7 +2,7 @@
   "meta": {
     "id": "card-tokens-expanded",
     "name": "Card Tokens (Expanded)",
-    "description": "Card component tokens — 3 elevation levels (flat, raised, floating) with padding, radius, shadow, and surface colors. Includes header, body, and footer spacing for consistent card layouts. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Card Tokens, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Design Compiler",
     "version": "1.0",
     "license": "CC0",

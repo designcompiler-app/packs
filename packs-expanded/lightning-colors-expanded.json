@@ -2,7 +2,7 @@
   "meta": {
     "id": "lightning-colors-expanded",
     "name": "Salesforce Lightning Colors (Expanded)",
-    "description": "Salesforce Lightning Design System (SLDS) color palette — 12 hue families (blue, cloud blue, green, teal, hot orange, orange, yellow, pink, red, purple, violet, indigo) with 12-step scales, plus a 14-step neutral. 158 tokens. Primitive values identical in SLDS 2. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Salesforce Lightning Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Salesforce SLDS. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Salesforce SLDS",
     "version": "2.25",
     "license": "MIT",

@@ -2,7 +2,7 @@
   "meta": {
     "id": "grid-8pt-expanded",
     "name": "8-Point Grid Spacing (Expanded)",
-    "description": "Spacing system based on the 8-point grid. Includes 20 base grid steps (8px-160px), half-grid fine adjustments, component spacing presets, and layout section spacing. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of 8-Point Grid Spacing, extended to full W3C DTCG compliance across all 16 token types. Not an official release from 8pt Grid. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "8pt Grid",
     "version": "1.0",
     "license": "MIT",

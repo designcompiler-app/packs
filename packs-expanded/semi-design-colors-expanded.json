@@ -2,7 +2,7 @@
   "meta": {
     "id": "semi-design-colors-expanded",
     "name": "Semi Design Colors (Expanded)",
-    "description": "ByteDance Semi Design color palette — 10 hue families (blue, cyan, green, yellow, orange, red, pink, purple, violet, grey) each with a 10-step scale from lightest (0) to darkest (9), totaling 100 color tokens. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Semi Design Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Semi Design. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Semi Design",
     "version": "2.0",
     "license": "MIT",

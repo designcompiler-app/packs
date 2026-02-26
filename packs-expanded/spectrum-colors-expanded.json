@@ -2,7 +2,7 @@
   "meta": {
     "id": "spectrum-colors-expanded",
     "name": "Adobe Spectrum Colors (Expanded)",
-    "description": "Adobe Spectrum 2 color palette — 15 scales (gray, blue, red, orange, yellow, green, cyan, seafoam, indigo, purple, fuchsia, magenta, pink, chartreuse, celery) for light theme. 237 tokens from @adobe/spectrum-tokens. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Adobe Spectrum Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Adobe Spectrum. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Adobe Spectrum",
     "version": "2.0",
     "license": "Apache-2.0",

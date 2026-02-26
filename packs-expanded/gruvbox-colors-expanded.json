@@ -2,7 +2,7 @@
   "meta": {
     "id": "gruvbox-colors-expanded",
     "name": "Gruvbox Colors (Expanded)",
-    "description": "Gruvbox — a retro groove color scheme with warm, desaturated tones. Includes dark and light background scales, foreground values, 7 standard accents, 7 bright accents, and a neutral gray. 31 tokens total. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Gruvbox Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Gruvbox. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Gruvbox",
     "version": "1.0",
     "license": "MIT",

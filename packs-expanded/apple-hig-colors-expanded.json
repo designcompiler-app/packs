@@ -2,7 +2,7 @@
   "meta": {
     "id": "apple-hig-colors-expanded",
     "name": "Apple HIG Colors (Expanded)",
-    "description": "iOS and macOS system colors from Apple Human Interface Guidelines — 12 vibrant system colors and 6 gray levels, each with light and dark variants. sRGB baseline values; iOS 26 Liquid Glass adjustments are dynamic and not yet published. 36 tokens total. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Apple HIG Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Apple HIG. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Apple HIG",
     "version": "2025",
     "license": "Reference",

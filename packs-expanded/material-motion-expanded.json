@@ -2,7 +2,7 @@
   "meta": {
     "id": "material-motion-expanded",
     "name": "Material Motion (Expanded)",
-    "description": "Material Design 3 motion tokens — standard and emphasized easing curves plus duration tokens for short, medium, long, and extra-long transitions. Based on the M3 motion spec. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Material Motion, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Material Design. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Material Design",
     "version": "3.0",
     "license": "Apache-2.0",

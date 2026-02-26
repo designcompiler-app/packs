@@ -2,7 +2,7 @@
   "meta": {
     "id": "one-dark-colors-expanded",
     "name": "One Dark Colors (Expanded)",
-    "description": "Atom One Dark — the iconic dark theme from the Atom editor. Includes background, foreground, 6 syntax accent colors, and editor UI colors for gutter, selection, cursor, and guides. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of One Dark Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from One Dark. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "One Dark",
     "version": "1.0",
     "license": "MIT",

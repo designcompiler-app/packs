@@ -96,6 +96,13 @@ Each expanded pack includes:
 
 ~159 tokens per pack, all 16 DTCG types represented.
 
+### Disclaimer
+
+Expanded packs are **community adaptations, not official releases** from the original design system creators. The original tokens are preserved exactly as published. Additional tokens (typography, spacing, shadows, borders, motion, etc.) have been thoughtfully composed to complement and respect the original design system's foundations, visual language, and design intent — but they are not endorsed by or affiliated with the original creators.
+
+All expanded packs are 100% W3C DTCG compliant across all 16 token types. Where the original system did not publish tokens for a given category, values have been carefully derived to remain faithful to the system's established palette, proportions, and design philosophy.
+
+
 ## Mirrors
 
 This registry is available on multiple platforms:

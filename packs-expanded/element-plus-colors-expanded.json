@@ -2,7 +2,7 @@
   "meta": {
     "id": "element-plus-colors-expanded",
     "name": "Element Plus Colors (Expanded)",
-    "description": "Element Plus default color system — 5 semantic color families (primary, success, warning, danger, info) each with light-3 through light-9 and dark-2 variants. The standard palette for Vue 3 enterprise applications. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Element Plus Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Element Plus. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Element Plus",
     "version": "2.9",
     "license": "MIT",

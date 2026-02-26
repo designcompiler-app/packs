@@ -2,7 +2,7 @@
   "meta": {
     "id": "z-index-system-expanded",
     "name": "Z-Index System (Expanded)",
-    "description": "Named z-index layers for consistent stacking — base, dropdown, sticky, overlay, modal, popover, toast, and tooltip. Prevents z-index conflicts with clear semantic layers. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Z-Index System, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Design Compiler",
     "version": "1.0",
     "license": "CC0",

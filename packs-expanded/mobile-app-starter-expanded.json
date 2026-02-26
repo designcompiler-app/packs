@@ -2,7 +2,7 @@
   "meta": {
     "id": "mobile-app-starter-expanded",
     "name": "Mobile App Starter Kit (Expanded)",
-    "description": "Compact token set for mobile app design — touch-friendly spacing, platform-appropriate radii, compact type scale, and elevation hierarchy. Optimized for iOS and Android. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Mobile App Starter Kit, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Design Compiler",
     "version": "1.0",
     "license": "CC0",

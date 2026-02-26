@@ -2,7 +2,7 @@
   "meta": {
     "id": "ios-elevation-expanded",
     "name": "iOS Elevation (Expanded)",
-    "description": "Shadow tokens inspired by Apple HIG elevation — navigation bars, cards, sheets, modals, and alerts. Tuned for the subtle, diffused shadow style used across iOS and macOS. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of iOS Elevation, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Design Compiler",
     "version": "1.0",
     "license": "CC0",

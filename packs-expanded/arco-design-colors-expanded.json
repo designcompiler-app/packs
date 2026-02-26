@@ -2,7 +2,7 @@
   "meta": {
     "id": "arco-design-colors-expanded",
     "name": "Arco Design Colors (Expanded)",
-    "description": "ByteDance Arco Design functional color palette — 5 color families (blue, green, orange, red, gray) each with a 10-step gradient scale from lightest to darkest, generated via the @arco-design/color algorithm. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Arco Design Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Arco Design. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Arco Design",
     "version": "2.0",
     "license": "MIT",

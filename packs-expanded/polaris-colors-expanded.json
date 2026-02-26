@@ -2,7 +2,7 @@
   "meta": {
     "id": "polaris-colors-expanded",
     "name": "Shopify Polaris Colors (Expanded)",
-    "description": "Shopify Polaris color palette — 13 scales (gray, rose, red, orange, yellow, lime, green, cyan, teal, azure, blue, purple, magenta) with 16 steps each. 208 tokens from @shopify/polaris-tokens v9.4. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Shopify Polaris Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Shopify Polaris. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Shopify Polaris",
     "version": "9.4",
     "license": "MIT",

@@ -2,7 +2,7 @@
   "meta": {
     "id": "daisyui-themes-expanded",
     "name": "DaisyUI Themes (Expanded)",
-    "description": "Semantic color tokens from 5 popular DaisyUI v5 themes (light, dark, cupcake, nord, dracula). Ready-to-use themed palettes built on Tailwind CSS with primary, secondary, accent, neutral, base, and state colors. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of DaisyUI Themes, extended to full W3C DTCG compliance across all 16 token types. Not an official release from DaisyUI. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "DaisyUI",
     "version": "5.0",
     "license": "MIT",

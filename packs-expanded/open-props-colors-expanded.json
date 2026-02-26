@@ -2,7 +2,7 @@
   "meta": {
     "id": "open-props-colors-expanded",
     "name": "Open Props Colors (Expanded)",
-    "description": "System-agnostic color palette from Open Props. 17 color families with 13 shades each (0–12), designed for universal use across any design system. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Open Props Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Open Props. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Open Props",
     "version": "1.7",
     "license": "MIT",

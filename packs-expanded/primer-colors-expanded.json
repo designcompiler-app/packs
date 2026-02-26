@@ -2,7 +2,7 @@
   "meta": {
     "id": "primer-colors-expanded",
     "name": "GitHub Primer Colors (Expanded)",
-    "description": "Base color scales from GitHub Primer design system — 8 chromatic families with 10 shades (0–9) plus a 14-step neutral ramp. Built on Style Dictionary, one of the closest to DTCG-native. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of GitHub Primer Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from GitHub Primer. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "GitHub Primer",
     "version": "11.5",
     "license": "MIT",

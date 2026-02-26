@@ -2,7 +2,7 @@
   "meta": {
     "id": "catppuccin-colors-expanded",
     "name": "Catppuccin Colors (Expanded)",
-    "description": "Catppuccin — a community-driven pastel theme with 4 flavors (Latte, Frappé, Macchiato, Mocha). 26 named colors per flavor spanning accents, text layers, surfaces, and backgrounds. 104 tokens total. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Catppuccin Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Catppuccin. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Catppuccin",
     "version": "1.0",
     "license": "MIT",

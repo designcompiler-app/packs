@@ -2,7 +2,7 @@
   "meta": {
     "id": "vuetify-colors-expanded",
     "name": "Vuetify Material Design Colors (Expanded)",
-    "description": "Material Design color palette from Vuetify 3 — 16 color families (red through deep orange) with base values and full lighten/darken variant scales for key families. The standard palette for Vue Material Design applications. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Vuetify Material Design Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Vuetify. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Vuetify",
     "version": "3.7",
     "license": "MIT",

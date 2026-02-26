@@ -2,7 +2,7 @@
   "meta": {
     "id": "base-web-colors-expanded",
     "name": "Base Web Colors (Expanded)",
-    "description": "Uber Base Web primitive color tokens — primary blue, negative red, warning gold, and positive green scales (50-700), plus black/white and rating star colors. The foundation palette for Base Web React components. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Base Web Colors, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Base Web. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Base Web",
     "version": "14.0",
     "license": "MIT",

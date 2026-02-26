@@ -2,7 +2,7 @@
   "meta": {
     "id": "status-colors-expanded",
     "name": "Status Colors System (Expanded)",
-    "description": "Comprehensive status color system — success, warning, error, and info with 9 role-based variants each: base, background, foreground, border, icon, hover, pressed, subtle, and strong. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Status Colors System, extended to full W3C DTCG compliance across all 16 token types. Not an official release from Design Compiler. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "Design Compiler",
     "version": "1.0",
     "license": "CC0",

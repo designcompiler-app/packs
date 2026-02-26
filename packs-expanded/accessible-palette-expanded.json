@@ -2,7 +2,7 @@
   "meta": {
     "id": "accessible-palette-expanded",
     "name": "Accessible Palette (Expanded)",
-    "description": "Colors with 4.5:1 contrast against their designated background (white or black), meeting WCAG AA standards. Neutral colors meet 4.5:1 against both. — Extended with full DTCG token coverage: typography, spacing, shadows, borders, motion, and more.",
+    "description": "Community adaptation of Accessible Palette, extended to full W3C DTCG compliance across all 16 token types. Not an official release from StyleFuse. Original tokens preserved exactly as published; additional tokens (typography, spacing, shadows, borders, motion, and more) derived to respect the original design system's foundations, visual language, and intent.",
     "source": "StyleFuse",
     "version": "1.0",
     "license": "MIT",
